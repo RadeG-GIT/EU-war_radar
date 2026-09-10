@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T13:22:13.634618+00:00",
+  "generated_at": "2026-09-10T15:52:48.388244+00:00",
   "overall_score": 10,
   "hotspots": [
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 87,
-      "level": "kriticke",
-      "color": "#9C3B37",
+      "score": 72,
+      "level": "zvysene",
+      "color": "#C98A3B",
       "headlines": [
         {
           "title": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
@@ -16,10 +16,6 @@
         {
           "title": "Russia’s new shelling tactics deepen suffering in Ukraine",
           "link": "https://www.aljazeera.com/news/2026/9/10/russias-new-shelling-tactics-deepen-suffering-in-ukraine?traffic_source=rss"
-        },
-        {
-          "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
-          "link": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss"
         }
       ]
     },
@@ -50,10 +46,15 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "headlines": []
+      "headlines": [
+        {
+          "title": "French Football Federation withdraws support for FIFA President Infantino",
+          "link": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -154,10 +155,18 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 13,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
       "headlines": [
+        {
+          "title": "At least 20 killed in school fire in rebel-held DR Congo city",
+          "link": "https://www.aljazeera.com/news/2026/9/10/at-least-20-killed-in-school-fire-in-rebel-held-dr-congo-city?traffic_source=rss"
+        },
+        {
+          "title": "French Football Federation withdraws support for FIFA President Infantino",
+          "link": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
+        },
         {
           "title": "Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?",
           "link": "https://www.aljazeera.com/sports/2026/9/10/is-egypts-hamza-abdelkarim-set-to-be-barcelonas-next-breakout-star?traffic_source=rss"
@@ -231,15 +240,10 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "headlines": [
-        {
-          "title": "Enrique hails Dembele, praises Toure after PSG’s win over Bratislava",
-          "link": "https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -260,10 +264,19 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "headlines": []
+      "headlines": [
+        {
+          "title": "French Football Federation withdraws support for FIFA President Infantino",
+          "link": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
+        },
+        {
+          "title": "Multicultural Malmo: Swedish city loathed by far right braces for election",
+          "link": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss"
+        }
+      ]
     }
   ]
 }
