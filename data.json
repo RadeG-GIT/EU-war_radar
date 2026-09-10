@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-09-09T00:00:00+00:00",
+  "overall_score": 61,
+  "hotspots": [
+    {
+      "id": "ukraine",
+      "name": "Ukrajina",
+      "score": 88,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "headlines": [
+        {"title": "Valka na Ukrajine pokracuje bez prime\u0159i, mirove rozhovory bez pokroku", "link": ""}
+      ]
+    },
+    {
+      "id": "baltics",
+      "name": "Pobalti / Polsko / Rumunsko",
+      "score": 58,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "headlines": [
+        {"title": "Opakovana narusen\u00ed vzdu\u0161n\u00e9ho prostoru a dronov\u00e9 incidenty na v\u00fdchodn\u00edm k\u0159\u00eddle NATO", "link": ""}
+      ]
+    },
+    {
+      "id": "balkans",
+      "name": "Kosovo - Srbsko",
+      "score": 34,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "headlines": [
+        {"title": "KFOR pokra\u010duje v p\u0159ed\u00e1v\u00e1n\u00ed bezpe\u010dnostn\u00ed odpov\u011bdnosti kosovsk\u00e9 policii", "link": ""}
+      ]
+    },
+    {
+      "id": "moldova",
+      "name": "Moldova - Podnestri",
+      "score": 22,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": [
+        {"title": "Napet\u00ed kolem Podn\u011bstr\u00ed p\u0159etrv\u00e1v\u00e1, bez aktu\u00e1ln\u00ed eskalace", "link": ""}
+      ]
+    }
+  ]
+}
