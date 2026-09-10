@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T12:44:31.401962+00:00",
-  "overall_score": 40,
+  "generated_at": "2026-09-10T12:50:48.131755+00:00",
+  "overall_score": 10,
   "hotspots": [
     {
       "id": "ukraine",
@@ -28,14 +28,6 @@
       ]
     },
     {
-      "id": "baltics",
-      "name": "Pobalti / Polsko / Rumunsko",
-      "score": 35,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "headlines": []
-    },
-    {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
       "score": 20,
@@ -47,6 +39,232 @@
       "id": "moldova",
       "name": "Moldova - Podnestri",
       "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "austria",
+      "name": "Rakousko",
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "belgium",
+      "name": "Belgie",
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "bulgaria",
+      "name": "Bulharsko",
+      "score": 5,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "croatia",
+      "name": "Chorvatsko",
+      "score": 5,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "cyprus",
+      "name": "Kypr",
+      "score": 8,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "czechia",
+      "name": "Cesko",
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "denmark",
+      "name": "Dansko",
+      "score": 4,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "estonia",
+      "name": "Estonsko",
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "finland",
+      "name": "Finsko",
+      "score": 10,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "france",
+      "name": "Francie",
+      "score": 5,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "germany",
+      "name": "Nemecko",
+      "score": 5,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "greece",
+      "name": "Recko",
+      "score": 6,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "hungary",
+      "name": "Madarsko",
+      "score": 4,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "ireland",
+      "name": "Irsko",
+      "score": 2,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "italy",
+      "name": "Italie",
+      "score": 7,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": [
+        {
+          "title": "Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86",
+          "link": "https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "id": "latvia",
+      "name": "Lotyssko",
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "lithuania",
+      "name": "Litva",
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "luxembourg",
+      "name": "Lucembursko",
+      "score": 2,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "malta",
+      "name": "Malta",
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "netherlands",
+      "name": "Nizozemsko",
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "poland",
+      "name": "Polsko",
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "portugal",
+      "name": "Portugalsko",
+      "score": 2,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "romania",
+      "name": "Rumunsko",
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "slovakia",
+      "name": "Slovensko",
+      "score": 8,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": [
+        {
+          "title": "Enrique hails Dembele, praises Toure after PSG’s win over Bratislava",
+          "link": "https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "id": "slovenia",
+      "name": "Slovinsko",
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "spain",
+      "name": "Spanelsko",
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
+    },
+    {
+      "id": "sweden",
+      "name": "Svedsko",
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "headlines": []
