@@ -123,10 +123,10 @@ def main():
         "hotspots": results,
     }
 
-    with open("docs/data.json", "w", encoding="utf-8") as f:
+    with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print("Hotovo. docs/data.json aktualizovan.")
+    print("Hotovo.data.json aktualizovan.")
 
 
 if __name__ == "__main__":
