@@ -1,46 +1,55 @@
 {
-  "generated_at": "2026-09-09T00:00:00+00:00",
-  "overall_score": 61,
+  "generated_at": "2026-09-10T12:25:18.177454+00:00",
+  "overall_score": 40,
   "hotspots": [
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 88,
+      "score": 90,
       "level": "kriticke",
       "color": "#9C3B37",
       "headlines": [
-        {"title": "Valka na Ukrajine pokracuje bez prime\u0159i, mirove rozhovory bez pokroku", "link": ""}
+        {
+          "title": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
+          "link": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss"
+        },
+        {
+          "title": "Russia’s new shelling tactics deepen suffering in Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/9/10/russias-new-shelling-tactics-deepen-suffering-in-ukraine?traffic_source=rss"
+        },
+        {
+          "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
+          "link": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss"
+        },
+        {
+          "title": "Europe’s far right: Putin’s best friend?",
+          "link": "https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss"
+        }
       ]
     },
     {
       "id": "baltics",
       "name": "Pobalti / Polsko / Rumunsko",
-      "score": 58,
-      "level": "zvysene",
+      "score": 35,
+      "level": "mirne",
       "color": "#C98A3B",
-      "headlines": [
-        {"title": "Opakovana narusen\u00ed vzdu\u0161n\u00e9ho prostoru a dronov\u00e9 incidenty na v\u00fdchodn\u00edm k\u0159\u00eddle NATO", "link": ""}
-      ]
+      "headlines": []
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 34,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "headlines": [
-        {"title": "KFOR pokra\u010duje v p\u0159ed\u00e1v\u00e1n\u00ed bezpe\u010dnostn\u00ed odpov\u011bdnosti kosovsk\u00e9 policii", "link": ""}
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
     },
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 22,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "headlines": [
-        {"title": "Napet\u00ed kolem Podn\u011bstr\u00ed p\u0159etrv\u00e1v\u00e1, bez aktu\u00e1ln\u00ed eskalace", "link": ""}
-      ]
+      "headlines": []
     }
   ]
 }
