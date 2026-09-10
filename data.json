@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T12:50:48.131755+00:00",
-  "overall_score": 10,
+  "generated_at": "2026-09-10T13:05:04.634435+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "ukraine",
@@ -158,10 +158,14 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
       "headlines": [
+        {
+          "title": "Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?",
+          "link": "https://www.aljazeera.com/sports/2026/9/10/is-egypts-hamza-abdelkarim-set-to-be-barcelonas-next-breakout-star?traffic_source=rss"
+        },
         {
           "title": "Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86",
           "link": "https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss"
