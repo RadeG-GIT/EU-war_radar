@@ -18,6 +18,11 @@ FEEDS = [
     "https://www.nato.int/cps/en/natohq/news.rss",
     "https://apnews.com/hub/world-news.rss",
     "https://understandingwar.org/feed",
+    # dalsi zdroje - lepsi pokryti Ukrajiny a obecneho svetoveho zpravodajstvi
+    "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://www.theguardian.com/world/rss",
+    "https://kyivindependent.com/feed",
+    "https://www.pravda.com.ua/eng/rss/view_news/",
 ]
 
 # --- 2. Sledovane oblasti a jejich klicova slova ---
@@ -70,11 +75,24 @@ HOTSPOTS = {
 }
 
 # klicova slova, ktera zvysuji zavaznost jednotlive zpravy
+# obeti/civilni ztraty maji nejvyssi vahu - to je nejsilnejsi signal eskalace
 SEVERITY_WORDS = {
+    # obeti a mrtvi - nejvyssi priorita
+    "dead": 8, "killed": 10, "death toll": 10, "deaths": 8,
+    "civilian casualties": 14, "civilian deaths": 14, "children killed": 18,
+    "mass grave": 16, "massacre": 16, "bodies": 8, "corpses": 10,
+    "funeral": 5, "mourning": 4,
+    # zraneni
+    "wounded": 6, "injured": 5, "hospitalized": 4,
+    # cile utoku signalizujici zavaznost
+    "residential building": 9, "apartment block": 9, "hospital hit": 11,
+    "school hit": 11, "maternity ward": 12, "shelter hit": 10,
+    # eskalace obecne
     "invasion": 15, "invaze": 15, "mobiliz": 12, "airstrike": 10, "missile": 8,
-    "attack": 6, "utok": 6, "strike": 6, "shoot down": 10, "casualties": 6,
-    "explosion": 6, "troops": 4, "sanction": 2, "ceasefire": -8, "peace talks": -6,
-    "de-escalat": -8,
+    "attack": 6, "utok": 6, "strike": 6, "shoot down": 10,
+    "explosion": 6, "troops": 4, "sanction": 2,
+    # deeskalace
+    "ceasefire": -8, "peace talks": -6, "de-escalat": -8,
 }
 
 
@@ -118,14 +136,14 @@ def score_hotspot(items, config):
     for item in items:
         if any(kw in item["text"] for kw in config["keywords"]):
             matched.append(item)
-            severity = 3
+            severity = 3  # zakladni prirustek za zminku
             for word, weight in SEVERITY_WORDS.items():
                 if word in item["text"]:
                     severity += weight
             score += severity
 
     score = max(0, min(100, score))
-    return score, matched[:5]
+    return score, matched[:5]  # vratime max 5 nejrelevantnejsich zprav
 
 
 def level_for_score(score):
