@@ -5,8 +5,11 @@ Nevyzaduje zadny platny API klic - pouziva verejne RSS kanaly.
 """
 
 import json
+import os
 from datetime import datetime, timezone
 import feedparser
+
+DATA_FILE = "data.json"
 
 # --- 1. Zdroje zprav (verejne RSS kanaly, zadny API klic potreba) ---
 FEEDS = [
@@ -75,6 +78,19 @@ SEVERITY_WORDS = {
 }
 
 
+def load_previous_scores():
+    """Nacte skore z predchoziho behu (pokud existuje), aby slo spocitat trend."""
+    if not os.path.exists(DATA_FILE):
+        return {}
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            old = json.load(f)
+        return {h["id"]: h["score"] for h in old.get("hotspots", [])}
+    except Exception as e:
+        print(f"Nepodarilo se nacist predchozi {DATA_FILE}: {e}")
+        return {}
+
+
 def fetch_headlines():
     """Stahne titulky a shrnuti ze vsech RSS kanalu."""
     items = []
@@ -122,19 +138,35 @@ def level_for_score(score):
     return "nizke", "#4C8C6B"
 
 
+def trend_for(score, prev_score):
+    """Porovna aktualni skore s predchozim behem. Vraci 'up' / 'down' / 'same' / 'novy'."""
+    if prev_score is None:
+        return "novy", None
+    diff = score - prev_score
+    if diff > 0:
+        return "up", diff
+    if diff < 0:
+        return "down", diff
+    return "same", 0
+
+
 def main():
+    prev_scores = load_previous_scores()
     items = fetch_headlines()
     results = []
 
     for hotspot_id, config in HOTSPOTS.items():
         score, matched = score_hotspot(items, config)
         level, color = level_for_score(score)
+        trend, diff = trend_for(score, prev_scores.get(hotspot_id))
         results.append({
             "id": hotspot_id,
             "name": config["name"],
             "score": score,
             "level": level,
             "color": color,
+            "trend": trend,
+            "score_change": diff,
             "headlines": [{"title": m["title"], "link": m["link"]} for m in matched],
         })
 
@@ -146,10 +178,10 @@ def main():
         "hotspots": results,
     }
 
-    with open("data.json", "w", encoding="utf-8") as f:
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print("Hotovo. data.json aktualizovan.")
+    print(f"Hotovo. {DATA_FILE} aktualizovan.")
 
 
 if __name__ == "__main__":
