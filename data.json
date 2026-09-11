@@ -1,21 +1,17 @@
 {
-  "generated_at": "2026-09-10T15:52:48.388244+00:00",
-  "overall_score": 10,
+  "generated_at": "2026-09-11T05:17:14.443419+00:00",
+  "overall_score": 9,
   "hotspots": [
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 72,
+      "score": 63,
       "level": "zvysene",
       "color": "#C98A3B",
       "headlines": [
         {
-          "title": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
-          "link": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss"
-        },
-        {
-          "title": "Russia’s new shelling tactics deepen suffering in Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/9/10/russias-new-shelling-tactics-deepen-suffering-in-ukraine?traffic_source=rss"
+          "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+          "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss"
         }
       ]
     },
@@ -46,15 +42,10 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "headlines": [
-        {
-          "title": "French Football Federation withdraws support for FIFA President Infantino",
-          "link": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -155,21 +146,13 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 19,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
       "headlines": [
         {
-          "title": "At least 20 killed in school fire in rebel-held DR Congo city",
-          "link": "https://www.aljazeera.com/news/2026/9/10/at-least-20-killed-in-school-fire-in-rebel-held-dr-congo-city?traffic_source=rss"
-        },
-        {
-          "title": "French Football Federation withdraws support for FIFA President Infantino",
-          "link": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
-        },
-        {
-          "title": "Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?",
-          "link": "https://www.aljazeera.com/sports/2026/9/10/is-egypts-hamza-abdelkarim-set-to-be-barcelonas-next-breakout-star?traffic_source=rss"
+          "title": "Peru joins US-led ‘Shield of the Americas’ security alliance",
+          "link": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss"
         }
       ]
     },
@@ -256,27 +239,23 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "headlines": []
-    },
-    {
-      "id": "sweden",
-      "name": "Svedsko",
-      "score": 14,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
       "headlines": [
         {
-          "title": "French Football Federation withdraws support for FIFA President Infantino",
-          "link": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
-        },
-        {
-          "title": "Multicultural Malmo: Swedish city loathed by far right braces for election",
-          "link": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss"
+          "title": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
+          "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss"
         }
       ]
+    },
+    {
+      "id": "sweden",
+      "name": "Svedsko",
+      "score": 8,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "headlines": []
     }
   ]
 }
