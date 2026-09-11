@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-11T09:17:27.045512+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-11T12:18:50.997734+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 38,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -12,
+      "score_change": -15,
       "headlines": [
-        {
-          "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates"
-        },
         {
           "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
           "link": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements"
@@ -35,14 +31,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
-          "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss"
-        },
-        {
-          "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-          "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
           "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss"
         },
@@ -51,8 +39,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
+          "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
+          "link": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine"
+        },
+        {
           "title": "Russia accused of ‘rapidly growing’ attacks on civilian infrastructure after five killed in Ukraine – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
+        },
+        {
+          "title": "Russian forces launch airstrike on Sloviansk: man killed, woman seriously injured",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052962/"
         }
       ]
     },
@@ -89,12 +85,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 28,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 25,
+      "headlines": [
+        {
+          "title": "Russia accused of ‘rapidly growing’ attacks on civilian infrastructure after five killed in Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -162,19 +163,24 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Controversial Polish politician boasts of smashing UPA monument with hammer – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052927/"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -209,11 +215,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 18,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -24,
+      "score": 47,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 29,
       "headlines": [
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
@@ -224,12 +230,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
         },
         {
-          "title": "‘It’s a good start’: prominent Israelis welcome UK sanctions on illegal settlements",
-          "link": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank"
+          "title": "Russia accused of ‘rapidly growing’ attacks on civilian infrastructure after five killed in Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
         },
         {
-          "title": "MPs to vote again on assisted dying as bill returns to parliament – UK politics live",
+          "title": "MPs debate assisted dying bill ahead of parliamentary vote – UK politics live",
           "link": "https://www.theguardian.com/politics/live/2026/sep/11/assisted-dying-vote-uk-politics-latest-news-labour-andy-burnham"
+        },
+        {
+          "title": "Controversial Polish politician boasts of smashing UPA monument with hammer – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052927/"
         }
       ]
     },
@@ -286,15 +296,23 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 50,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 78,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 28,
       "headlines": [
+        {
+          "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
+          "link": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine"
+        },
         {
           "title": "Russia accused of ‘rapidly growing’ attacks on civilian infrastructure after five killed in Ukraine – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
+        },
+        {
+          "title": "Controversial Polish politician boasts of smashing UPA monument with hammer – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052927/"
         }
       ]
     },
@@ -344,8 +362,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
