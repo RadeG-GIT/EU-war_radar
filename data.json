@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:19:48.689055+00:00",
+  "generated_at": "2026-09-11T16:15:24.882964+00:00",
   "overall_score": 14,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
@@ -27,6 +27,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
+          "link": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss"
+        },
+        {
           "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
           "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss"
         },
@@ -35,16 +39,12 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
+          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
         },
         {
           "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
           "link": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine"
-        },
-        {
-          "title": "Russian forces burn ambulance in Yasnohirka in Donetsk Oblast, killing medical worker",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052976/"
         }
       ]
     },
@@ -84,11 +84,11 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -16,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
+          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
         }
       ]
@@ -166,17 +166,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Controversial Polish politician boasts of smashing UPA monument with hammer – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052927/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -211,11 +206,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 31,
+      "score": 35,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -16,
+      "trend": "up",
+      "score_change": 4,
       "headlines": [
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
@@ -226,16 +221,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
         },
         {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
+          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
         },
         {
-          "title": "MPs debate assisted dying bill ahead of parliamentary vote – UK politics live",
-          "link": "https://www.theguardian.com/politics/live/2026/sep/11/assisted-dying-vote-uk-politics-latest-news-labour-andy-burnham"
+          "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+          "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
         },
         {
-          "title": "Controversial Polish politician boasts of smashing UPA monument with hammer – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052927/"
+          "title": "MPs reject assisted dying bill after tense debate – UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/11/assisted-dying-vote-uk-politics-latest-news-labour-andy-burnham"
         }
       ]
     },
@@ -292,14 +287,14 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 62,
+      "score": 65,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -16,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
+          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
         },
         {
@@ -307,8 +302,12 @@
           "link": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine"
         },
         {
-          "title": "Controversial Polish politician boasts of smashing UPA monument with hammer – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052927/"
+          "title": "More than 50% of Ukrainian refugees in Poland plan to return to Ukraine – survey",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052999/"
+        },
+        {
+          "title": "\"Political fringe elements wage war on graves\": Ukraine urges Poland to restore damaged UPA monument",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052964/"
         }
       ]
     },
@@ -368,11 +367,11 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – Europe live",
+          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
         }
       ]
