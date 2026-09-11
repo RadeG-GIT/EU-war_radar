@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-11T16:15:24.882964+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-09-11T20:14:09.736793+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 8,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
-          "link": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,8 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
-          "link": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss"
+          "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
+          "link": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss"
         },
         {
           "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
@@ -136,12 +131,17 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Estonian intelligence on Ukraine's strikes on Russian plants 3,000 km away from border: situation has changed",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053007/"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -156,12 +156,21 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 8,
+      "headlines": [
+        {
+          "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+          "link": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss"
+        },
+        {
+          "title": "EU ambassadors fail to extend Russia sanctions due to opposition from Slovakia and France",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053016/"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -169,8 +178,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -209,9 +218,13 @@
       "score": 35,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 4,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
+        {
+          "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+          "link": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss"
+        },
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
@@ -227,10 +240,6 @@
         {
           "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
           "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
-        },
-        {
-          "title": "MPs reject assisted dying bill after tense debate – UK politics live",
-          "link": "https://www.theguardian.com/politics/live/2026/sep/11/assisted-dying-vote-uk-politics-latest-news-labour-andy-burnham"
         }
       ]
     },
@@ -287,11 +296,11 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 65,
+      "score": 62,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
@@ -304,10 +313,6 @@
         {
           "title": "More than 50% of Ukrainian refugees in Poland plan to return to Ukraine – survey",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052999/"
-        },
-        {
-          "title": "\"Political fringe elements wage war on graves\": Ukraine urges Poland to restore damaged UPA monument",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052964/"
         }
       ]
     },
@@ -334,12 +339,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "EU ambassadors fail to extend Russia sanctions due to opposition from Slovakia and France",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053016/"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -354,22 +364,31 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+          "link": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 17,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 28,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 11,
       "headlines": [
+        {
+          "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
+          "link": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu"
+        },
         {
           "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
