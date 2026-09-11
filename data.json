@@ -1,19 +1,35 @@
 {
-  "generated_at": "2026-09-11T07:17:33.899808+00:00",
-  "overall_score": 9,
+  "generated_at": "2026-09-11T07:49:08.365102+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 63,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 100,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 37,
       "headlines": [
         {
           "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
           "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss"
+        },
+        {
+          "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+          "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+          "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+          "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         }
       ]
     },
@@ -180,12 +196,33 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 41,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 37,
+      "headlines": [
+        {
+          "title": "Man jailed after threatening to kill son's teacher in French village",
+          "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+          "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
+        },
+        {
+          "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+          "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
+        },
+        {
+          "title": "Much of Europe already levies a tourist tax – a nice little earner for Italian hotspots",
+          "link": "https://www.theguardian.com/world/2026/sep/10/europe-tourist-tax-italian-hotspots-england"
+        },
+        {
+          "title": "Primark to launch home delivery service despite ‘challenging’ market",
+          "link": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe"
+        }
+      ]
     },
     {
       "id": "latvia",
