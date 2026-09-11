@@ -3,6 +3,11 @@ EU War Radar - denni sber zprav a vypocet skore rizika.
 Spousti se automaticky pres GitHub Actions (viz .github/workflows/update.yml).
 Nevyzaduje zadny platny API klic - pouziva verejne RSS kanaly.
 Ceska republika ma prioritu - vic zdroju, vic klicovych slov, vic zobrazenych zprav.
+
+DULEZITE: zprava se pocita jen tehdy, kdyz obsahuje ZAROVEN nazev zeme/oblasti
+A ZAROVEN nektere z klicovych slov souvisejicich s valkou/terorismem/nasilim
+(viz THREAT_KEYWORDS). Diky tomu se do vysledku nedostanou nesouvisejici zpravy
+o sportu, kulture, ekonomice apod., ktere jen nahodou zminuji nazev zeme.
 """
 
 import json
@@ -30,7 +35,33 @@ FEEDS = [
     "https://ct24.ceskatelevize.cz/rss/hlavni-zpravy",
 ]
 
-# --- 2. Sledovane oblasti a jejich klicova slova ---
+# --- 2. Klicova slova, ktera musi byt ve zprave PRITOMNA, aby se vubec pocitala. ---
+# Zprava o zemi, ktera neobsahuje nic z tohoto seznamu (napr. sportovni vysledek,
+# ekonomicka zprava, kulturni udalost), se ignoruje - i kdyz zminuje nazev zeme.
+THREAT_KEYWORDS = [
+    # valka / vojenstvi
+    "war", "valka", "invasion", "invaze", "military", "vojensk", "armed forces",
+    "armada", "troops", "vojaci", "nato", "defense", "obrana", "mobilization",
+    "mobilizace", "coup", "puc",
+    # utoky / nasili
+    "attack", "utok", "strike", "airstrike", "missile", "raketa", "bomb",
+    "explosion", "vybuch", "shooting", "strelba", "clash", "strety",
+    "riot", "nepokoje", "uprising", "povstani", "insurgent", "povstalci",
+    "militia", "milice",
+    # terorismus
+    "terroris", "terorism", "extremist", "hostage", "rukojmi",
+    # bezpecnost / spionaz / kyber
+    "security threat", "bezpecnostni hrozba", "sabotage", "sabotaz",
+    "cyberattack", "kyberneticky utok", "espionage", "spionaz",
+    "drone", "dron", "airspace", "vzdusny prostor",
+    # obeti / dopady
+    "casualties", "obeti", "killed", "zabit", "wounded", "zranen", "dead",
+    "death toll",
+    # diplomacie souvisejici s konfliktem
+    "ceasefire", "sanctions", "sankce", "peace talks",
+]
+
+# --- 3. Sledovane oblasti a jejich klicova slova (nazvy zemi/oblasti) ---
 # Ceska republika je uvedena jako prvni - ma prioritu v poradi i v poctu zobrazenych zprav
 HOTSPOTS = {
     "czechia": {
@@ -93,7 +124,7 @@ HOTSPOTS = {
     "sweden": {"name": "Svedsko", "keywords": ["sweden", "svedsko", "stockholm"], "base_score": 8},
 }
 
-# klicova slova, ktera zvysuji zavaznost jednotlive zpravy
+# klicova slova, ktera zvysuji zavaznost jednotlive zpravy (uz relevantni zpravy)
 SEVERITY_WORDS = {
     "dead": 8, "killed": 10, "death toll": 10, "deaths": 8,
     "civilian casualties": 14, "civilian deaths": 14, "children killed": 18,
@@ -141,19 +172,33 @@ def fetch_headlines():
     return items
 
 
+def is_threat_related(text):
+    """Overi, ze zprava vubec souvisi s valkou/terorismem/nasilim."""
+    return any(kw in text for kw in THREAT_KEYWORDS)
+
+
 def score_hotspot(items, config):
-    """Spocita skore rizika 0-100 pro jednu oblast na zaklade najdenych zprav."""
+    """
+    Spocita skore rizika 0-100 pro jednu oblast.
+    Zprava se pocita jen tehdy, kdyz obsahuje ZAROVEN nazev zeme/oblasti
+    A ZAROVEN alespon jedno slovo z THREAT_KEYWORDS (valka/terorismus/nasili).
+    """
     score = config["base_score"]
     matched = []
 
     for item in items:
-        if any(kw in item["text"] for kw in config["keywords"]):
-            matched.append(item)
-            severity = 3
-            for word, weight in SEVERITY_WORDS.items():
-                if word in item["text"]:
-                    severity += weight
-            score += severity
+        has_country = any(kw in item["text"] for kw in config["keywords"])
+        if not has_country:
+            continue
+        if not is_threat_related(item["text"]):
+            continue
+
+        matched.append(item)
+        severity = 3
+        for word, weight in SEVERITY_WORDS.items():
+            if word in item["text"]:
+                severity += weight
+        score += severity
 
     score = max(0, min(100, score))
     limit = config.get("headline_limit", 5)
