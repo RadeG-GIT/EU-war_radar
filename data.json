@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:01:52.515862+00:00",
+  "generated_at": "2026-09-11T06:47:19.565489+00:00",
   "overall_score": 9,
   "hotspots": [
     {
@@ -234,17 +234,13 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
       "headlines": [
         {
           "title": "Hundreds flee as fire destroys migrant shelters in Ceuta",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss"
-        },
-        {
-          "title": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
-          "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss"
         }
       ]
     },
