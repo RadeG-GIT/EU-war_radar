@@ -36,14 +36,21 @@
   .blip-pulse{animation:pulse 2.4s ease-in-out infinite;}
   @keyframes pulse{0%,100%{opacity:0.35;}50%{opacity:0.05;}}
   .blip-label{font-family:var(--mono);font-size:9px;fill:var(--text);}
+  .radar-empty{font-family:var(--mono);font-size:0.72rem;fill:var(--text-dim);}
   .legend{display:flex;flex-wrap:wrap;gap:10px 16px;font-family:var(--mono);font-size:0.68rem;color:var(--text-dim);padding:10px 6px 4px;}
   .legend span{display:inline-flex;align-items:center;gap:5px;}
   .dot{width:7px;height:7px;border-radius:50%;display:inline-block;}
+  .radar-note{font-size:0.68rem;color:var(--text-dim);padding:0 6px 6px;}
   .list{margin-top:18px;display:flex;flex-direction:column;gap:8px;}
   .card{background:var(--panel);border:1px solid var(--panel-border);border-radius:10px;overflow:hidden;}
   .card-head{padding:13px 14px;display:flex;align-items:center;gap:10px;cursor:pointer;}
   .card-name{font-weight:600;font-size:0.92rem;flex:1;}
   .badge{font-family:var(--mono);font-size:0.64rem;padding:3px 8px;border-radius:20px;white-space:nowrap;}
+  .trend{font-size:0.9rem;font-weight:700;width:16px;text-align:center;}
+  .trend.up{color:#C1543F;}
+  .trend.down{color:#4C8C6B;}
+  .trend.same{color:var(--text-dim);}
+  .trend.novy{color:var(--text-dim);}
   .chev{color:var(--text-dim);font-size:0.7rem;transition:transform 0.2s ease;}
   .card.open .chev{transform:rotate(90deg);}
   .card-body{max-height:0;overflow:hidden;transition:max-height 0.25s ease;}
@@ -51,6 +58,7 @@
   .card-body-inner{padding:12px 14px 14px;font-size:0.82rem;line-height:1.5;color:var(--text-dim);}
   .card-body-inner a{color:var(--text-dim);}
   .card-body-inner ul{margin:6px 0 0;padding-left:18px;}
+  .no-news{font-style:italic;}
   footer{margin-top:22px;font-size:0.72rem;line-height:1.5;color:var(--text-dim);}
   footer p{margin:0 0 8px;}
   .error{color:#C1543F;font-family:var(--mono);font-size:0.8rem;}
@@ -95,16 +103,16 @@
       </g>
     </svg>
     <div class="legend">
-      <span><i class="dot" style="background:#4C8C6B"></i>nizke</span>
-      <span><i class="dot" style="background:#C98A3B"></i>zvysene / mirne</span>
+      <span><i class="dot" style="background:#C98A3B"></i>zvysene</span>
       <span><i class="dot" style="background:#9C3B37"></i>kriticke</span>
     </div>
+    <div class="radar-note">Na radaru se zobrazuji jen oblasti se zvysenym nebo kritickym rizikem. Kompletni prehled vsech zemi je v seznamu nize.</div>
   </div>
 
   <div class="list" id="cardList"></div>
 
   <footer>
-    <p><strong>Jak to cist:</strong> vzdalenost od stredu = jak blizko je napeti uzemi EU/NATO, ne zemepisna vzdalenost v km. Velikost a barva bodu = uroven rizika.</p>
+    <p><strong>Jak to cist:</strong> vzdalenost od stredu = jak blizko je napeti uzemi EU/NATO, ne zemepisna vzdalenost v km. Velikost a barva bodu = uroven rizika. Sipka u kazde zeme ukazuje zmenu skore oproti predchozimu sberu dat.</p>
     <p id="footerNote">Data se aktualizuji jednou denne automaticky z verejnych RSS zdroju (Reuters, Al Jazeera, NATO, ISW, AP).</p>
     <p>Skore je jednoduchy automaticky odhad podle klicovych slov ve zpravach, ne odborna vojenska analyza. Slouzi k orientacnimu prehledu, ne k rozhodovani.</p>
   </footer>
@@ -134,6 +142,15 @@ function levelColor(score){
   return "#4C8C6B";
 }
 
+function trendInfo(h){
+  switch (h.trend) {
+    case "up":   return { symbol: "\u25B2", cls: "up",   title: `Riziko stouplo o ${h.score_change} bodu` };
+    case "down": return { symbol: "\u25BC", cls: "down", title: `Riziko kleslo o ${Math.abs(h.score_change)} bodu` };
+    case "same": return { symbol: "\u2014", cls: "same", title: "Beze zmeny oproti predchozimu sberu" };
+    default:     return { symbol: "\u2022", cls: "novy", title: "Prvni zaznamenane skore" };
+  }
+}
+
 async function load() {
   try {
     const res = await fetch("data.json?_=" + Date.now());
@@ -157,9 +174,20 @@ function render(data) {
   const list = document.getElementById("cardList");
   list.innerHTML = "";
 
-  const layoutMap = autoLayout(data.hotspots);
+  // na radar davame jen zvysene (45+) a kriticke oblasti
+  const radarHotspots = data.hotspots.filter(h => h.score >= 45);
+  const layoutMap = autoLayout(radarHotspots);
 
-  data.hotspots.forEach(h => {
+  if (radarHotspots.length === 0) {
+    const txt = document.createElementNS("http://www.w3.org/2000/svg", "text");
+    txt.setAttribute("class", "radar-empty");
+    txt.setAttribute("x", "130");
+    txt.setAttribute("y", "180");
+    txt.textContent = "Zadna oblast momentalne nema zvysene ani kriticke riziko.";
+    blips.appendChild(txt);
+  }
+
+  radarHotspots.forEach(h => {
     const layout = layoutMap[h.id];
     const pos = polar(layout.angle, layout.radius);
     const color = levelColor(h.score);
@@ -173,22 +201,33 @@ function render(data) {
       <text class="blip-label" x="${pos.x + r + 4}" y="${pos.y + 3}">${h.name}</text>
     `;
     blips.appendChild(g);
+  });
+
+  // seznam karet obsahuje VSECHNY zeme/oblasti, bez ohledu na uroven rizika
+  data.hotspots.forEach(h => {
+    const color = levelColor(h.score);
+    const t = trendInfo(h);
 
     const card = document.createElement("div");
     card.className = "card";
     const headlinesHtml = (h.headlines || []).map(hl =>
       hl.link ? `<li><a href="${hl.link}" target="_blank" rel="noopener">${hl.title}</a></li>` : `<li>${hl.title}</li>`
     ).join("");
+    const newsBlock = headlinesHtml
+      ? `<ul>${headlinesHtml}</ul>`
+      : `<p class="no-news">Pri poslednim sberu dat nebyly nalezeny zadne relevantni zpravy k teto oblasti.</p>`;
+
     card.innerHTML = `
       <div class="card-head">
         <span class="badge" style="background:${color}30;color:${color}">${h.level}</span>
+        <span class="trend ${t.cls}" title="${t.title}">${t.symbol}</span>
         <span class="card-name">${h.name}</span>
         <span class="chev">\u25B6</span>
       </div>
       <div class="card-body">
         <div class="card-body-inner">
           Skore rizika: ${h.score}/100
-          ${headlinesHtml ? `<ul>${headlinesHtml}</ul>` : ""}
+          ${newsBlock}
         </div>
       </div>
     `;
