@@ -6,8 +6,10 @@ Ceska republika ma prioritu - vic zdroju, vic klicovych slov, vic zobrazenych zp
 
 DULEZITE: zprava se pocita jen tehdy, kdyz obsahuje ZAROVEN nazev zeme/oblasti
 A ZAROVEN nektere z klicovych slov souvisejicich s valkou/terorismem/nasilim
-(viz THREAT_KEYWORDS). Diky tomu se do vysledku nedostanou nesouvisejici zpravy
-o sportu, kulture, ekonomice apod., ktere jen nahodou zminuji nazev zeme.
+(viz THREAT_KEYWORDS).
+
+Kazde spusteni take uklada zaznam do history.json (datum + skore vsech oblasti),
+aby sel na webu zobrazit graf vyvoje v case.
 """
 
 import json
@@ -16,6 +18,8 @@ from datetime import datetime, timezone
 import feedparser
 
 DATA_FILE = "data.json"
+HISTORY_FILE = "history.json"
+MAX_HISTORY_ENTRIES = 200  # ochrana proti neomezenemu rustu souboru
 
 # --- 1. Zdroje zprav (verejne RSS kanaly, zadny API klic potreba) ---
 FEEDS = [
@@ -28,7 +32,6 @@ FEEDS = [
     "https://www.theguardian.com/world/rss",
     "https://kyivindependent.com/feed",
     "https://www.pravda.com.ua/eng/rss/view_news/",
-    # ceske zdroje - prioritni pokryti CR
     "https://www.irozhlas.cz/rss/irozhlas",
     "https://www.novinky.cz/rss",
     "https://www.seznamzpravy.cz/rss",
@@ -36,33 +39,24 @@ FEEDS = [
 ]
 
 # --- 2. Klicova slova, ktera musi byt ve zprave PRITOMNA, aby se vubec pocitala. ---
-# Zprava o zemi, ktera neobsahuje nic z tohoto seznamu (napr. sportovni vysledek,
-# ekonomicka zprava, kulturni udalost), se ignoruje - i kdyz zminuje nazev zeme.
 THREAT_KEYWORDS = [
-    # valka / vojenstvi
     "war", "valka", "invasion", "invaze", "military", "vojensk", "armed forces",
     "armada", "troops", "vojaci", "nato", "defense", "obrana", "mobilization",
     "mobilizace", "coup", "puc",
-    # utoky / nasili
     "attack", "utok", "strike", "airstrike", "missile", "raketa", "bomb",
     "explosion", "vybuch", "shooting", "strelba", "clash", "strety",
     "riot", "nepokoje", "uprising", "povstani", "insurgent", "povstalci",
     "militia", "milice",
-    # terorismus
     "terroris", "terorism", "extremist", "hostage", "rukojmi",
-    # bezpecnost / spionaz / kyber
     "security threat", "bezpecnostni hrozba", "sabotage", "sabotaz",
     "cyberattack", "kyberneticky utok", "espionage", "spionaz",
     "drone", "dron", "airspace", "vzdusny prostor",
-    # obeti / dopady
     "casualties", "obeti", "killed", "zabit", "wounded", "zranen", "dead",
     "death toll",
-    # diplomacie souvisejici s konfliktem
     "ceasefire", "sanctions", "sankce", "peace talks",
 ]
 
 # --- 3. Sledovane oblasti a jejich klicova slova (nazvy zemi/oblasti) ---
-# Ceska republika je uvedena jako prvni - ma prioritu v poradi i v poctu zobrazenych zprav
 HOTSPOTS = {
     "czechia": {
         "name": "Ceska republika",
@@ -77,8 +71,6 @@ HOTSPOTS = {
         "base_score": 3,
         "headline_limit": 10,
     },
-
-    # --- Aktivni konfliktni a hranicni zony (nejsou clenove EU) ---
     "ukraine": {
         "name": "Ukrajina",
         "keywords": ["ukraine", "ukrajina", "kyiv", "kyjev", "donetsk", "zelensky", "putin"],
@@ -94,8 +86,6 @@ HOTSPOTS = {
         "keywords": ["moldova", "transnistria", "podnestri", "chisinau"],
         "base_score": 15,
     },
-
-    # --- Zbyvajicich 26 clenskych statu EU ---
     "austria": {"name": "Rakousko", "keywords": ["austria", "rakousko", "vienna", "vidnen"], "base_score": 3},
     "belgium": {"name": "Belgie", "keywords": ["belgium", "belgie", "brussels", "brusel"], "base_score": 3},
     "bulgaria": {"name": "Bulharsko", "keywords": ["bulgaria", "bulharsko", "sofia"], "base_score": 5},
@@ -124,7 +114,6 @@ HOTSPOTS = {
     "sweden": {"name": "Svedsko", "keywords": ["sweden", "svedsko", "stockholm"], "base_score": 8},
 }
 
-# klicova slova, ktera zvysuji zavaznost jednotlive zpravy (uz relevantni zpravy)
 SEVERITY_WORDS = {
     "dead": 8, "killed": 10, "death toll": 10, "deaths": 8,
     "civilian casualties": 14, "civilian deaths": 14, "children killed": 18,
@@ -153,6 +142,25 @@ def load_previous_scores():
         return {}
 
 
+def load_history():
+    """Nacte dosavadni historii skore (pokud existuje)."""
+    if not os.path.exists(HISTORY_FILE):
+        return []
+    try:
+        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"Nepodarilo se nacist {HISTORY_FILE}: {e}")
+        return []
+
+
+def save_history(history):
+    """Ulozi historii, orizne na max. povoleny pocet zaznamu."""
+    trimmed = history[-MAX_HISTORY_ENTRIES:]
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(trimmed, f, ensure_ascii=False, indent=2)
+
+
 def fetch_headlines():
     """Stahne titulky a shrnuti ze vsech RSS kanalu."""
     items = []
@@ -173,15 +181,13 @@ def fetch_headlines():
 
 
 def is_threat_related(text):
-    """Overi, ze zprava vubec souvisi s valkou/terorismem/nasilim."""
     return any(kw in text for kw in THREAT_KEYWORDS)
 
 
 def score_hotspot(items, config):
     """
-    Spocita skore rizika 0-100 pro jednu oblast.
     Zprava se pocita jen tehdy, kdyz obsahuje ZAROVEN nazev zeme/oblasti
-    A ZAROVEN alespon jedno slovo z THREAT_KEYWORDS (valka/terorismus/nasili).
+    A ZAROVEN alespon jedno slovo z THREAT_KEYWORDS.
     """
     score = config["base_score"]
     matched = []
@@ -216,7 +222,6 @@ def level_for_score(score):
 
 
 def trend_for(score, prev_score):
-    """Porovna aktualni skore s predchozim behem. Vraci 'up' / 'down' / 'same' / 'novy'."""
     if prev_score is None:
         return "novy", None
     diff = score - prev_score
@@ -248,9 +253,10 @@ def main():
         })
 
     overall = round(sum(r["score"] for r in results) / len(results))
+    generated_at = datetime.now(timezone.utc).isoformat()
 
     output = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": generated_at,
         "overall_score": overall,
         "hotspots": results,
     }
@@ -258,7 +264,16 @@ def main():
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"Hotovo. {DATA_FILE} aktualizovan.")
+    # ulozeni zaznamu do historie pro graf vyvoje
+    history = load_history()
+    history.append({
+        "timestamp": generated_at,
+        "overall_score": overall,
+        "scores": {r["id"]: r["score"] for r in results},
+    })
+    save_history(history)
+
+    print(f"Hotovo. {DATA_FILE} a {HISTORY_FILE} aktualizovany.")
 
 
 if __name__ == "__main__":
