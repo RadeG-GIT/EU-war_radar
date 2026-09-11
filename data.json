@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:31:15.851536+00:00",
+  "generated_at": "2026-09-11T08:34:47.626757+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -199,8 +199,8 @@
       "score": 38,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Man jailed after threatening to kill son's teacher in French village",
@@ -280,8 +280,8 @@
       "score": 50,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 30,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Russia accused of ‘rapidly growing’ attacks on civilian infrastructure after five killed in Ukraine – Europe live",
