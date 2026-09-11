@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:17:14.443419+00:00",
+  "generated_at": "2026-09-11T06:01:52.515862+00:00",
   "overall_score": 9,
   "hotspots": [
     {
@@ -146,15 +146,10 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "headlines": [
-        {
-          "title": "Peru joins US-led ‘Shield of the Americas’ security alliance",
-          "link": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -239,10 +234,14 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
       "headlines": [
+        {
+          "title": "Hundreds flee as fire destroys migrant shelters in Ceuta",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss"
+        },
         {
           "title": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
           "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss"
