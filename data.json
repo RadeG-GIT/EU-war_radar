@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:47:19.565489+00:00",
+  "generated_at": "2026-09-11T06:59:13.960171+00:00",
   "overall_score": 9,
   "hotspots": [
     {
@@ -8,6 +8,8 @@
       "score": 63,
       "level": "zvysene",
       "color": "#C98A3B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
@@ -21,6 +23,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -29,6 +33,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -37,6 +43,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -45,6 +53,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -53,6 +63,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -61,6 +73,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -69,6 +83,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -77,6 +93,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -85,6 +103,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -93,6 +113,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -101,6 +123,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -109,6 +133,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -117,6 +143,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -125,6 +153,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -133,6 +163,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -141,6 +173,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -149,6 +183,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -157,6 +193,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -165,6 +203,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -173,6 +213,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -181,6 +223,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -189,6 +233,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -197,6 +243,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -205,6 +253,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -213,6 +263,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -221,6 +273,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -229,6 +283,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -237,6 +293,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Hundreds flee as fire destroys migrant shelters in Ceuta",
@@ -250,6 +308,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ]
