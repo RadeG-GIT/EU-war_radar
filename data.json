@@ -1,7 +1,50 @@
 {
-  "generated_at": "2026-09-11T08:34:47.626757+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-11T08:58:37.118744+00:00",
+  "overall_score": 14,
   "hotspots": [
+    {
+      "id": "czechia",
+      "name": "Ceska republika",
+      "score": 53,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 50,
+      "headlines": [
+        {
+          "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates"
+        },
+        {
+          "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
+          "link": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements"
+        },
+        {
+          "title": "New battery-powered trains to ‘bring faster journeys to the north’",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/10/new-battery-powered-trains-will-bring-faster-journeys-to-north"
+        },
+        {
+          "title": "Russians deploy over 10,000 kamikaze drones in one day, Ukrainian forces repel 235 attacks on battlefield",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052900/"
+        },
+        {
+          "title": "Ryanair odmítá, že by změna tlaku v letadle částečně vysála cestujícího z okna",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-ryanair-odmita-ze-by-zmena-tlaku-v-letadle-castecne-vysala-cestujiciho-z-okna-40597227"
+        },
+        {
+          "title": "S PPF přivezeme ty nejlepší hvězdy, říká největší pořadatel koncertů",
+          "link": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-s-ppf-privezeme-ty-nejlepsi-hvezdy-rika-nejvetsi-poradatel-koncertu-315060"
+        },
+        {
+          "title": "Gastro novinky: Další podnik Ambiente nebo koktejl za 800 korun",
+          "link": "https://www.seznamzpravy.cz/clanek/magazin-jidlo-gastro-novinky-dalsi-podnik-ambiente-nebo-koktejl-za-800-korun-314891"
+        },
+        {
+          "title": "Lázeňský dům v Luhačovicích nesmí kvůli norovirové epidemii přijímat klienty",
+          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/hygienici-zakazali-lazenskemu-domu-v-luhacovicich-prijimat-klienty-377442"
+        }
+      ]
+    },
     {
       "id": "ukraine",
       "name": "Ukrajina",
@@ -104,16 +147,6 @@
       "headlines": []
     },
     {
-      "id": "czechia",
-      "name": "Cesko",
-      "score": 3,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
-    },
-    {
       "id": "denmark",
       "name": "Dansko",
       "score": 4,
@@ -146,12 +179,17 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Šílený večer. Slavia nezlomila prokletí Ligy mistrů, neumí poslední krok",
+          "link": "https://www.seznamzpravy.cz/clanek/sport-sileny-vecer-slavia-nezlomila-prokleti-ligy-mistru-padla-po-kiksu-315125"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -196,11 +234,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 38,
+      "score": 39,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 1,
       "headlines": [
         {
           "title": "Man jailed after threatening to kill son's teacher in French village",
