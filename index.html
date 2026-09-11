@@ -111,13 +111,17 @@
 </div>
 
 <script>
-// pozice bodu na radaru: uhel (stupne, 0=sever, po smeru hod. rucicek), polomer
-const LAYOUT = {
-  baltics: { angle: 50,  radius: 45 },
-  ukraine: { angle: 75,  radius: 100 },
-  moldova: { angle: 100, radius: 95 },
-  balkans: { angle: 140, radius: 100 },
-};
+// automaticke rozmisteni bodu na radaru podle poctu oblasti a jejich skore
+// (vyssi riziko = blize stredu; body jsou rovnomerne rozlozene po kruhu)
+function autoLayout(hotspots) {
+  const layout = {};
+  hotspots.forEach((h, i) => {
+    const angle = (i * (360 / hotspots.length)) % 360;
+    const radius = 175 - (h.score / 100) * 145; // min ~30, max ~175
+    layout[h.id] = { angle, radius };
+  });
+  return layout;
+}
 
 function polar(angleDeg, radius, cx=200, cy=200){
   const rad = angleDeg * Math.PI / 180;
@@ -153,8 +157,10 @@ function render(data) {
   const list = document.getElementById("cardList");
   list.innerHTML = "";
 
+  const layoutMap = autoLayout(data.hotspots);
+
   data.hotspots.forEach(h => {
-    const layout = LAYOUT[h.id] || { angle: 90, radius: 100 };
+    const layout = layoutMap[h.id];
     const pos = polar(layout.angle, layout.radius);
     const color = levelColor(h.score);
     const r = 6 + (h.score / 100) * 10;
