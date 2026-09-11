@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:49:08.365102+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-11T08:31:15.851536+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "ukraine",
@@ -8,8 +8,8 @@
       "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 37,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
@@ -20,7 +20,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+          "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
           "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -196,11 +196,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 41,
+      "score": 38,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 37,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Man jailed after threatening to kill son's teacher in French village",
@@ -219,8 +219,8 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/europe-tourist-tax-italian-hotspots-england"
         },
         {
-          "title": "Primark to launch home delivery service despite ‘challenging’ market",
-          "link": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe"
+          "title": "‘It’s a good start’: prominent Israelis welcome UK sanctions on illegal settlements",
+          "link": "https://www.theguardian.com/world/2026/sep/09/israelis-welcome-uk-sanctions-on-settlements-palestine-west-bank"
         }
       ]
     },
@@ -277,12 +277,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 50,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 30,
+      "headlines": [
+        {
+          "title": "Russia accused of ‘rapidly growing’ attacks on civilian infrastructure after five killed in Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "portugal",
