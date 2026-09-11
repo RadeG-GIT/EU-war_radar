@@ -20,6 +20,27 @@
   .index-card{background:var(--panel);border:1px solid var(--panel-border);border-radius:10px;padding:16px 18px;display:flex;align-items:center;gap:16px;margin-bottom:18px;}
   .index-number{font-family:var(--mono);font-size:2.4rem;font-weight:600;line-height:1;color:#C98A3B;}
   .index-copy{font-size:0.85rem;line-height:1.4;color:var(--text-dim);}
+
+  /* --- Ceska republika - zvyrazneny panel --- */
+  .czech-panel{
+    background:var(--panel);
+    border:1px solid var(--panel-border);
+    border-left:4px solid #D7141A;
+    border-radius:10px;
+    padding:16px 18px;
+    margin-bottom:18px;
+    display:none;
+  }
+  .czech-head{display:flex;align-items:center;gap:10px;margin-bottom:8px;}
+  .czech-flag{font-size:1.2rem;}
+  .czech-title{font-weight:700;font-size:1rem;flex:1;}
+  .czech-score-row{display:flex;align-items:baseline;gap:10px;margin-bottom:8px;}
+  .czech-score-num{font-family:var(--mono);font-size:2rem;font-weight:600;color:#C98A3B;}
+  .czech-score-label{font-size:0.82rem;color:var(--text-dim);}
+  .czech-headlines{margin:8px 0 0;padding-left:18px;font-size:0.8rem;line-height:1.6;color:var(--text-dim);}
+  .czech-headlines a{color:var(--text-dim);}
+  .czech-nonews{font-size:0.82rem;color:var(--text-dim);font-style:italic;margin-top:6px;}
+
   .radar-panel{background:var(--panel);border:1px solid var(--panel-border);border-radius:10px;padding:12px;margin-bottom:8px;}
   svg{display:block;width:100%;height:auto;}
   .ring{fill:none;stroke:#25313586;stroke-width:1;}
@@ -43,6 +64,7 @@
   .radar-note{font-size:0.68rem;color:var(--text-dim);padding:0 6px 6px;}
   .list{margin-top:18px;display:flex;flex-direction:column;gap:8px;}
   .card{background:var(--panel);border:1px solid var(--panel-border);border-radius:10px;overflow:hidden;}
+  .card.is-czech{border-color:#D7141A;}
   .card-head{padding:13px 14px;display:flex;align-items:center;gap:10px;cursor:pointer;}
   .card-name{font-weight:600;font-size:0.92rem;flex:1;}
   .badge{font-family:var(--mono);font-size:0.64rem;padding:3px 8px;border-radius:20px;white-space:nowrap;}
@@ -76,6 +98,21 @@
     <div class="index-copy" id="indexCopy">Nacitam aktualni data...</div>
   </div>
 
+  <!-- Zvyrazneny panel pro Ceskou republiku - vzdy navrchu, bez ohledu na skore -->
+  <div class="czech-panel" id="czechPanel">
+    <div class="czech-head">
+      <span class="czech-flag">🇨🇿</span>
+      <span class="czech-title">Ceska republika</span>
+      <span class="trend" id="czechTrend"></span>
+      <span class="badge" id="czechBadge"></span>
+    </div>
+    <div class="czech-score-row">
+      <span class="czech-score-num" id="czechScoreNum">--</span>
+      <span class="czech-score-label">skore rizika / 100</span>
+    </div>
+    <div id="czechNewsWrap"></div>
+  </div>
+
   <div class="radar-panel">
     <svg viewBox="0 0 400 360">
       <defs>
@@ -87,164 +124,3 @@
       <g transform="translate(0,-20)">
         <circle class="ring" cx="200" cy="200" r="60"/>
         <circle class="ring" cx="200" cy="200" r="130"/>
-        <circle class="ring" cx="200" cy="200" r="190"/>
-        <line class="crosshair" x1="10" y1="200" x2="390" y2="200"/>
-        <line class="crosshair" x1="200" y1="10" x2="200" y2="390"/>
-        <text class="ring-label" x="204" y="145">uzemi EU / NATO</text>
-        <text class="ring-label" x="204" y="75">bezprostredni sousedstvi</text>
-        <text class="ring-label" x="204" y="15">sirsi okoli</text>
-        <g class="sweep-group">
-          <path class="sweep-wedge" d="M200,200 L200,10 A190,190 0 0,1 274,33 Z"/>
-          <line class="sweep-line" x1="200" y1="200" x2="200" y2="10"/>
-        </g>
-        <g id="blips"></g>
-        <circle class="center-dot" cx="200" cy="200" r="3"/>
-        <text class="center-label" x="206" y="204">EU</text>
-      </g>
-    </svg>
-    <div class="legend">
-      <span><i class="dot" style="background:#C98A3B"></i>zvysene</span>
-      <span><i class="dot" style="background:#9C3B37"></i>kriticke</span>
-    </div>
-    <div class="radar-note">Na radaru se zobrazuji jen oblasti se zvysenym nebo kritickym rizikem. Kompletni prehled vsech zemi je v seznamu nize.</div>
-  </div>
-
-  <div class="list" id="cardList"></div>
-
-  <footer>
-    <p><strong>Jak to cist:</strong> vzdalenost od stredu = jak blizko je napeti uzemi EU/NATO, ne zemepisna vzdalenost v km. Velikost a barva bodu = uroven rizika. Sipka u kazde zeme ukazuje zmenu skore oproti predchozimu sberu dat.</p>
-    <p id="footerNote">Data se aktualizuji jednou denne automaticky z verejnych RSS zdroju (Reuters, Al Jazeera, NATO, ISW, AP).</p>
-    <p>Skore je jednoduchy automaticky odhad podle klicovych slov ve zpravach, ne odborna vojenska analyza. Slouzi k orientacnimu prehledu, ne k rozhodovani.</p>
-  </footer>
-</div>
-
-<script>
-// automaticke rozmisteni bodu na radaru podle poctu oblasti a jejich skore
-// (vyssi riziko = blize stredu; body jsou rovnomerne rozlozene po kruhu)
-function autoLayout(hotspots) {
-  const layout = {};
-  hotspots.forEach((h, i) => {
-    const angle = (i * (360 / hotspots.length)) % 360;
-    const radius = 175 - (h.score / 100) * 145; // min ~30, max ~175
-    layout[h.id] = { angle, radius };
-  });
-  return layout;
-}
-
-function polar(angleDeg, radius, cx=200, cy=200){
-  const rad = angleDeg * Math.PI / 180;
-  return { x: cx + radius * Math.sin(rad), y: cy - radius * Math.cos(rad) };
-}
-
-function levelColor(score){
-  if (score >= 75) return "#9C3B37";
-  if (score >= 25) return "#C98A3B";
-  return "#4C8C6B";
-}
-
-function trendInfo(h){
-  switch (h.trend) {
-    case "up":   return { symbol: "\u25B2", cls: "up",   title: `Riziko stouplo o ${h.score_change} bodu` };
-    case "down": return { symbol: "\u25BC", cls: "down", title: `Riziko kleslo o ${Math.abs(h.score_change)} bodu` };
-    case "same": return { symbol: "\u2014", cls: "same", title: "Beze zmeny oproti predchozimu sberu" };
-    default:     return { symbol: "\u2022", cls: "novy", title: "Prvni zaznamenane skore" };
-  }
-}
-
-async function load() {
-  try {
-    const res = await fetch("data.json?_=" + Date.now());
-    const data = await res.json();
-    render(data);
-  } catch (e) {
-    document.getElementById("stamp").innerHTML = '<span class="error">Nepodarilo se nacist data.json - zkontroluj, ze soubor existuje a GitHub Actions bezi.</span>';
-  }
-}
-
-function render(data) {
-  const d = new Date(data.generated_at);
-  document.getElementById("stamp").textContent = "Aktualizovano: " + d.toLocaleString("cs-CZ");
-  document.getElementById("indexNumber").textContent = data.overall_score;
-
-  const overallLabel = data.overall_score >= 75 ? "kriticke" : data.overall_score >= 45 ? "zvysene" : data.overall_score >= 25 ? "mirne" : "nizke";
-  document.getElementById("indexCopy").innerHTML = `Souhrnne riziko pro EU: <b>${overallLabel}</b>. Hodnota se pocita automaticky z aktualniho zpravodajstvi u jednotlivych oblasti.`;
-
-  const blips = document.getElementById("blips");
-  blips.innerHTML = "";
-  const list = document.getElementById("cardList");
-  list.innerHTML = "";
-
-  // na radar davame jen zvysene (45+) a kriticke oblasti
-  const radarHotspots = data.hotspots.filter(h => h.score >= 45);
-  const layoutMap = autoLayout(radarHotspots);
-
-  if (radarHotspots.length === 0) {
-    const txt = document.createElementNS("http://www.w3.org/2000/svg", "text");
-    txt.setAttribute("class", "radar-empty");
-    txt.setAttribute("x", "130");
-    txt.setAttribute("y", "180");
-    txt.textContent = "Zadna oblast momentalne nema zvysene ani kriticke riziko.";
-    blips.appendChild(txt);
-  }
-
-  radarHotspots.forEach(h => {
-    const layout = layoutMap[h.id];
-    const pos = polar(layout.angle, layout.radius);
-    const color = levelColor(h.score);
-    const r = 6 + (h.score / 100) * 10;
-
-    const g = document.createElementNS("http://www.w3.org/2000/svg", "g");
-    g.setAttribute("class", "blip");
-    g.innerHTML = `
-      ${h.score >= 75 ? `<circle class="blip-pulse" cx="${pos.x}" cy="${pos.y}" r="${r+7}" fill="${color}" opacity="0.25"/>` : ""}
-      <circle cx="${pos.x}" cy="${pos.y}" r="${r}" fill="${color}"/>
-      <text class="blip-label" x="${pos.x + r + 4}" y="${pos.y + 3}">${h.name}</text>
-    `;
-    blips.appendChild(g);
-  });
-
-  // seznam karet obsahuje VSECHNY zeme/oblasti, bez ohledu na uroven rizika
-  data.hotspots.forEach(h => {
-    const color = levelColor(h.score);
-    const t = trendInfo(h);
-
-    const card = document.createElement("div");
-    card.className = "card";
-    const headlinesHtml = (h.headlines || []).map(hl =>
-      hl.link ? `<li><a href="${hl.link}" target="_blank" rel="noopener">${hl.title}</a></li>` : `<li>${hl.title}</li>`
-    ).join("");
-    const newsBlock = headlinesHtml
-      ? `<ul>${headlinesHtml}</ul>`
-      : `<p class="no-news">Pri poslednim sberu dat nebyly nalezeny zadne relevantni zpravy k teto oblasti.</p>`;
-
-    card.innerHTML = `
-      <div class="card-head">
-        <span class="badge" style="background:${color}30;color:${color}">${h.level}</span>
-        <span class="trend ${t.cls}" title="${t.title}">${t.symbol}</span>
-        <span class="card-name">${h.name}</span>
-        <span class="chev">\u25B6</span>
-      </div>
-      <div class="card-body">
-        <div class="card-body-inner">
-          Skore rizika: ${h.score}/100
-          ${newsBlock}
-        </div>
-      </div>
-    `;
-    card.querySelector(".card-head").addEventListener("click", () => {
-      const open = card.classList.contains("open");
-      document.querySelectorAll(".card").forEach(c => { c.classList.remove("open"); c.querySelector(".card-body").style.maxHeight = null; });
-      if (!open) {
-        card.classList.add("open");
-        const body = card.querySelector(".card-body");
-        body.style.maxHeight = body.scrollHeight + "px";
-      }
-    });
-    list.appendChild(card);
-  });
-}
-
-load();
-</script>
-</body>
-</html>
