@@ -1,7 +1,8 @@
 """
 EU War Radar - denni sber zprav a vypocet skore rizika.
-Spousti se automaticky jednou denne pres GitHub Actions (viz .github/workflows/update.yml).
+Spousti se automaticky pres GitHub Actions (viz .github/workflows/update.yml).
 Nevyzaduje zadny platny API klic - pouziva verejne RSS kanaly.
+Ceska republika ma prioritu - vic zdroju, vic klicovych slov, vic zobrazenych zprav.
 """
 
 import json
@@ -18,15 +19,34 @@ FEEDS = [
     "https://www.nato.int/cps/en/natohq/news.rss",
     "https://apnews.com/hub/world-news.rss",
     "https://understandingwar.org/feed",
-    # dalsi zdroje - lepsi pokryti Ukrajiny a obecneho svetoveho zpravodajstvi
     "http://feeds.bbci.co.uk/news/world/rss.xml",
     "https://www.theguardian.com/world/rss",
     "https://kyivindependent.com/feed",
     "https://www.pravda.com.ua/eng/rss/view_news/",
+    # ceske zdroje - prioritni pokryti CR
+    "https://www.irozhlas.cz/rss/irozhlas",
+    "https://www.novinky.cz/rss",
+    "https://www.seznamzpravy.cz/rss",
+    "https://ct24.ceskatelevize.cz/rss/hlavni-zpravy",
 ]
 
 # --- 2. Sledovane oblasti a jejich klicova slova ---
+# Ceska republika je uvedena jako prvni - ma prioritu v poradi i v poctu zobrazenych zprav
 HOTSPOTS = {
+    "czechia": {
+        "name": "Ceska republika",
+        "keywords": [
+            "czech republic", "czechia", "cesko", "ceska republika",
+            "prague", "praha", "armada cr", "acr",
+            "nato cesko", "bezpecnostni informacni sluzba", "bis",
+            "vojenske zpravodajstvi", "kyberneticky utok cesko",
+            "cinska spionaz", "ruska spionaz", "rusko cesko",
+            "drony cesko", "hybridni valka cesko", "dezinformace cesko",
+        ],
+        "base_score": 3,
+        "headline_limit": 10,
+    },
+
     # --- Aktivni konfliktni a hranicni zony (nejsou clenove EU) ---
     "ukraine": {
         "name": "Ukrajina",
@@ -44,13 +64,12 @@ HOTSPOTS = {
         "base_score": 15,
     },
 
-    # --- Vsech 27 clenskych statu EU ---
+    # --- Zbyvajicich 26 clenskych statu EU ---
     "austria": {"name": "Rakousko", "keywords": ["austria", "rakousko", "vienna", "vidnen"], "base_score": 3},
     "belgium": {"name": "Belgie", "keywords": ["belgium", "belgie", "brussels", "brusel"], "base_score": 3},
     "bulgaria": {"name": "Bulharsko", "keywords": ["bulgaria", "bulharsko", "sofia"], "base_score": 5},
     "croatia": {"name": "Chorvatsko", "keywords": ["croatia", "chorvatsko", "zagreb"], "base_score": 5},
     "cyprus": {"name": "Kypr", "keywords": ["cyprus", "kypr", "nicosia"], "base_score": 8},
-    "czechia": {"name": "Cesko", "keywords": ["czech republic", "czechia", "cesko", "prague", "praha"], "base_score": 3},
     "denmark": {"name": "Dansko", "keywords": ["denmark", "dansko", "copenhagen"], "base_score": 4},
     "estonia": {"name": "Estonsko", "keywords": ["estonia", "estonsko", "tallinn", "nato eastern flank"], "base_score": 15},
     "finland": {"name": "Finsko", "keywords": ["finland", "finsko", "helsinki"], "base_score": 10},
@@ -75,23 +94,17 @@ HOTSPOTS = {
 }
 
 # klicova slova, ktera zvysuji zavaznost jednotlive zpravy
-# obeti/civilni ztraty maji nejvyssi vahu - to je nejsilnejsi signal eskalace
 SEVERITY_WORDS = {
-    # obeti a mrtvi - nejvyssi priorita
     "dead": 8, "killed": 10, "death toll": 10, "deaths": 8,
     "civilian casualties": 14, "civilian deaths": 14, "children killed": 18,
     "mass grave": 16, "massacre": 16, "bodies": 8, "corpses": 10,
     "funeral": 5, "mourning": 4,
-    # zraneni
     "wounded": 6, "injured": 5, "hospitalized": 4,
-    # cile utoku signalizujici zavaznost
     "residential building": 9, "apartment block": 9, "hospital hit": 11,
     "school hit": 11, "maternity ward": 12, "shelter hit": 10,
-    # eskalace obecne
     "invasion": 15, "invaze": 15, "mobiliz": 12, "airstrike": 10, "missile": 8,
     "attack": 6, "utok": 6, "strike": 6, "shoot down": 10,
     "explosion": 6, "troops": 4, "sanction": 2,
-    # deeskalace
     "ceasefire": -8, "peace talks": -6, "de-escalat": -8,
 }
 
@@ -136,14 +149,15 @@ def score_hotspot(items, config):
     for item in items:
         if any(kw in item["text"] for kw in config["keywords"]):
             matched.append(item)
-            severity = 3  # zakladni prirustek za zminku
+            severity = 3
             for word, weight in SEVERITY_WORDS.items():
                 if word in item["text"]:
                     severity += weight
             score += severity
 
     score = max(0, min(100, score))
-    return score, matched[:5]  # vratime max 5 nejrelevantnejsich zprav
+    limit = config.get("headline_limit", 5)
+    return score, matched[:limit]
 
 
 def level_for_score(score):
