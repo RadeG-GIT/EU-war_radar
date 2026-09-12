@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:52:38.847955+00:00",
+  "generated_at": "2026-09-12T08:14:06.209250+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -24,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -34,12 +34,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-          "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
+        },
+        {
+          "title": "Russia attacks Ukraine with missiles and drones, strikes reported at 20 locations",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053056/"
         }
       ]
     },
@@ -79,8 +79,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -129,8 +129,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -149,8 +149,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -204,8 +204,8 @@
       "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
@@ -245,8 +245,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Former Russian president threatens to wipe Lithuania \"off the map\" and says NATO will not defend it",
@@ -290,8 +290,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -310,8 +310,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Romania finds wreckage of several drones on land and in Black Sea",
@@ -325,8 +325,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -355,8 +355,8 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
