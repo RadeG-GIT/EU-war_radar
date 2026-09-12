@@ -21,6 +21,13 @@
   .index-number{font-family:var(--mono);font-size:2.4rem;font-weight:600;line-height:1;color:#C98A3B;}
   .index-copy{font-size:0.85rem;line-height:1.4;color:var(--text-dim);}
 
+  /* --- Graf vyvoje --- */
+  .trend-panel{background:var(--panel);border:1px solid var(--panel-border);border-radius:10px;padding:14px 16px;margin-bottom:18px;}
+  .trend-panel-title{font-size:0.82rem;font-weight:600;margin-bottom:8px;color:var(--text);}
+  .chart-svg{width:100%;height:60px;display:block;}
+  .chart-note{font-family:var(--mono);font-size:0.62rem;color:var(--text-dim);margin-top:4px;}
+  .chart-empty{font-size:0.75rem;color:var(--text-dim);font-style:italic;}
+
   /* --- Ceska republika - zvyrazneny panel --- */
   .czech-panel{
     background:var(--panel);
@@ -37,6 +44,7 @@
   .czech-score-row{display:flex;align-items:baseline;gap:10px;margin-bottom:8px;}
   .czech-score-num{font-family:var(--mono);font-size:2rem;font-weight:600;color:#C98A3B;}
   .czech-score-label{font-size:0.82rem;color:var(--text-dim);}
+  .czech-chart-title{font-size:0.78rem;font-weight:600;margin:10px 0 6px;color:var(--text);}
   .czech-headlines{margin:8px 0 0;padding-left:18px;font-size:0.8rem;line-height:1.6;color:var(--text-dim);}
   .czech-headlines a{color:var(--text-dim);}
   .czech-nonews{font-size:0.82rem;color:var(--text-dim);font-style:italic;margin-top:6px;}
@@ -98,6 +106,12 @@
     <div class="index-copy" id="indexCopy">Nacitam aktualni data...</div>
   </div>
 
+  <div class="trend-panel">
+    <div class="trend-panel-title">Vyvoj celkoveho rizika EU</div>
+    <div id="overallChart"></div>
+    <div class="chart-note" id="overallChartNote"></div>
+  </div>
+
   <!-- Zvyrazneny panel pro Ceskou republiku - vzdy navrchu, bez ohledu na skore -->
   <div class="czech-panel" id="czechPanel">
     <div class="czech-head">
@@ -110,6 +124,9 @@
       <span class="czech-score-num" id="czechScoreNum">--</span>
       <span class="czech-score-label">skore rizika / 100</span>
     </div>
+    <div class="czech-chart-title">Vyvoj rizika v case</div>
+    <div id="czechChart"></div>
+    <div class="chart-note" id="czechChartNote"></div>
     <div id="czechNewsWrap"></div>
   </div>
 
@@ -150,13 +167,12 @@
 
   <footer>
     <p><strong>Jak to cist:</strong> vzdalenost od stredu = jak blizko je napeti uzemi EU/NATO, ne zemepisna vzdalenost v km. Velikost a barva bodu = uroven rizika. Sipka u kazde zeme ukazuje zmenu skore oproti predchozimu sberu dat.</p>
-    <p id="footerNote">Data se aktualizuji automaticky z verejnych RSS zdroju (Reuters, Al Jazeera, NATO, ISW, AP, BBC, Guardian, Kyiv Independent, Ukrajinska Pravda). Ceska republika ma navic prioritni pokryti z iROZHLASu, Novinek, Seznam Zprav a CT24.</p>
+    <p id="footerNote">Data se aktualizuji automaticky z verejnych RSS zdroju (Reuters, Al Jazeera, NATO, ISW, AP, BBC, Guardian, Kyiv Independent, Ukrajinska Pravda). Ceska republika ma navic prioritni pokryti z iROZHLASu, Novinek, Seznam Zprav a CT24. Pocitaji se jen zpravy tykajici se valky, terorismu nebo nasili.</p>
     <p>Skore je jednoduchy automaticky odhad podle klicovych slov ve zpravach, ne odborna vojenska analyza. Slouzi k orientacnimu prehledu, ne k rozhodovani.</p>
   </footer>
 </div>
 
 <script>
-// automaticke rozmisteni bodu na radaru podle poctu oblasti a jejich skore
 function autoLayout(hotspots) {
   const layout = {};
   hotspots.forEach((h, i) => {
@@ -193,13 +209,71 @@ function headlinesListHtml(headlines){
   ).join("");
 }
 
+// jednoduchy SVG carovy graf bez externich knihoven
+function buildSparkline(values, color){
+  const w = 520, h = 60;
+  const cleaned = values.filter(v => typeof v === "number");
+  if (cleaned.length < 2) {
+    return '<div class="chart-empty">Zatim neni dostatek dat pro graf (potreba alespon 2 zaznamy z ruznych behu).</div>';
+  }
+  const max = Math.max(100, ...cleaned);
+  const stepX = w / (cleaned.length - 1);
+  const points = cleaned.map((v, i) => {
+    const x = i * stepX;
+    const y = h - (v / max) * h;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(" ");
+  const lastY = h - (cleaned[cleaned.length - 1] / max) * h;
+  return `<svg viewBox="0 0 ${w} ${h}" class="chart-svg" preserveAspectRatio="none">
+    <polyline points="${points}" fill="none" stroke="${color}" stroke-width="2"/>
+    <circle cx="${w}" cy="${lastY.toFixed(1)}" r="3" fill="${color}"/>
+  </svg>`;
+}
+
 async function load() {
   try {
-    const res = await fetch("data.json?_=" + Date.now());
-    const data = await res.json();
-    render(data);
+    const dataRes = await fetch("data.json?_=" + Date.now());
+    const data = await dataRes.json();
+
+    let history = [];
+    try {
+      const histRes = await fetch("history.json?_=" + Date.now());
+      if (histRes.ok) {
+        history = await histRes.json();
+      }
+    } catch (e) {
+      history = [];
+    }
+
+    render(data, history);
   } catch (e) {
     document.getElementById("stamp").innerHTML = '<span class="error">Nepodarilo se nacist data.json - zkontroluj, ze soubor existuje a GitHub Actions bezi.</span>';
+  }
+}
+
+function renderOverallChart(history) {
+  const values = history.map(h => h.overall_score);
+  document.getElementById("overallChart").innerHTML = buildSparkline(values, "#C98A3B");
+  const note = document.getElementById("overallChartNote");
+  if (history.length >= 2) {
+    const first = new Date(history[0].timestamp);
+    const last = new Date(history[history.length - 1].timestamp);
+    note.textContent = `${first.toLocaleDateString("cs-CZ")} - ${last.toLocaleDateString("cs-CZ")} (${history.length} zaznamu)`;
+  } else {
+    note.textContent = "";
+  }
+}
+
+function renderCzechChart(history) {
+  const values = history
+    .map(h => (h.scores && typeof h.scores.czechia === "number") ? h.scores.czechia : null)
+    .filter(v => v !== null);
+  document.getElementById("czechChart").innerHTML = buildSparkline(values, "#D7141A");
+  const note = document.getElementById("czechChartNote");
+  if (values.length >= 2) {
+    note.textContent = `${values.length} zaznamu`;
+  } else {
+    note.textContent = "";
   }
 }
 
@@ -232,7 +306,7 @@ function renderCzechPanel(data) {
     : `<div class="czech-nonews">Pri poslednim sberu dat nebyly nalezeny zadne relevantni zpravy k Ceske republice.</div>`;
 }
 
-function render(data) {
+function render(data, history) {
   const d = new Date(data.generated_at);
   document.getElementById("stamp").textContent = "Aktualizovano: " + d.toLocaleString("cs-CZ");
   document.getElementById("indexNumber").textContent = data.overall_score;
@@ -240,7 +314,9 @@ function render(data) {
   const overallLabel = data.overall_score >= 75 ? "kriticke" : data.overall_score >= 45 ? "zvysene" : data.overall_score >= 25 ? "mirne" : "nizke";
   document.getElementById("indexCopy").innerHTML = `Souhrnne riziko pro EU: <b>${overallLabel}</b>. Hodnota se pocita automaticky z aktualniho zpravodajstvi u jednotlivych oblasti.`;
 
+  renderOverallChart(history);
   renderCzechPanel(data);
+  renderCzechChart(history);
 
   const blips = document.getElementById("blips");
   blips.innerHTML = "";
