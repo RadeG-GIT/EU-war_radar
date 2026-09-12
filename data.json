@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T00:18:54.588860+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-09-12T04:13:38.664421+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 24,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Deadly DRC school fire prompts calls for safety reforms",
@@ -43,12 +43,12 @@
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
         },
         {
-          "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
-          "link": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine"
-        },
-        {
           "title": "Zelenskyy: Ukrainians will not be left without food",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053025/"
+        },
+        {
+          "title": "Russians strike residential area in Kramatorsk: two killed, house hit – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053013/"
         }
       ]
     },
@@ -165,16 +165,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
-          "link": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss"
-        },
         {
           "title": "EU ambassadors fail to extend Russia sanctions due to opposition from Slovakia and France",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053016/"
@@ -184,12 +180,17 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
+          "link": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -305,19 +306,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 62,
-      "level": "zvysene",
+      "score": 32,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -30,
       "headlines": [
         {
           "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
-        },
-        {
-          "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
-          "link": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine"
         },
         {
           "title": "More than 50% of Ukrainian refugees in Poland plan to return to Ukraine – survey",
@@ -373,17 +370,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
-          "link": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
