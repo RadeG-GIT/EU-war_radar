@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-09-11T20:14:09.736793+00:00",
+  "generated_at": "2026-09-12T00:18:54.588860+00:00",
   "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
-      "headlines": []
+      "score": 27,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 24,
+      "headlines": [
+        {
+          "title": "Deadly DRC school fire prompts calls for safety reforms",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss"
+        },
+        {
+          "title": "Military aircraft reportedly blamed for UK air traffic control outage",
+          "link": "https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -21,10 +30,6 @@
       "trend": "same",
       "score_change": 0,
       "headlines": [
-        {
-          "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
-          "link": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss"
-        },
         {
           "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
           "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss"
@@ -40,6 +45,10 @@
         {
           "title": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
           "link": "https://www.theguardian.com/world/2026/sep/11/russia-kyiv-petrol-stations-jet-powered-drones-ukraine"
+        },
+        {
+          "title": "Zelenskyy: Ukrainians will not be left without food",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053025/"
         }
       ]
     },
@@ -134,8 +143,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonian intelligence on Ukraine's strikes on Russian plants 3,000 km away from border: situation has changed",
@@ -159,8 +168,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
@@ -299,8 +308,8 @@
       "score": 62,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
@@ -342,8 +351,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU ambassadors fail to extend Russia sanctions due to opposition from Slovakia and France",
@@ -367,8 +376,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
@@ -382,8 +391,8 @@
       "score": 28,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
