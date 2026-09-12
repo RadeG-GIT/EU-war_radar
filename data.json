@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-12T08:14:06.209250+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-12T12:16:42.019667+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,12 +27,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "BRICS meets in India: What’s on the agenda, why it matters",
-          "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss"
+          "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss"
         },
         {
-          "title": "China’s Xi lands in India for BRICS summit overshadowed by wars",
-          "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss"
+          "title": "BRICS meets in India: What’s on the agenda, why it matters",
+          "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss"
         },
         {
           "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
@@ -38,8 +43,8 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
-          "title": "Russia attacks Ukraine with missiles and drones, strikes reported at 20 locations",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053056/"
+          "title": "Ukraine's General Staff confirms strike on Russia's Tolyatti plant that produces rubber for rocket fuel",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053076/"
         }
       ]
     },
@@ -146,12 +151,17 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
+          "link": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -191,22 +201,31 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – live",
+          "link": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 27,
+      "score": 39,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 12,
       "headlines": [
+        {
+          "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
+          "link": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss"
+        },
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
@@ -222,10 +241,6 @@
         {
           "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
           "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
-        },
-        {
-          "title": "Jemenští hútíové ovládli ostrov v klíčovém průlivu",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/jemensti-hutiove-ovladli-ostrov-v-klicovem-prulivu-377483"
         }
       ]
     },
@@ -307,17 +322,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Romania finds wreckage of several drones on land and in Black Sea",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053034/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovakia",
