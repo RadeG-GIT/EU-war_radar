@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-09-12T04:13:38.664421+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-09-12T07:52:38.847955+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Deadly DRC school fire prompts calls for safety reforms",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss"
-        },
-        {
-          "title": "Military aircraft reportedly blamed for UK air traffic control outage",
-          "link": "https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage"
-        }
-      ]
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -24,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -31,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "BRICS meets in India: What’s on the agenda, why it matters",
+          "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss"
+        },
+        {
+          "title": "China’s Xi lands in India for BRICS summit overshadowed by wars",
+          "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
           "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
-        },
-        {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
-        },
-        {
-          "title": "Zelenskyy: Ukrainians will not be left without food",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053025/"
-        },
-        {
-          "title": "Russians strike residential area in Kramatorsk: two killed, house hit – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053013/"
         }
       ]
     },
@@ -85,17 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -140,17 +126,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Estonian intelligence on Ukraine's strikes on Russian plants 3,000 km away from border: situation has changed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053007/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -165,17 +146,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 10,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
-      "headlines": [
-        {
-          "title": "EU ambassadors fail to extend Russia sanctions due to opposition from Slovakia and France",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053016/"
-        }
-      ]
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "germany",
@@ -183,8 +159,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
@@ -225,16 +201,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 35,
+      "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -8,
       "headlines": [
-        {
-          "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
-          "link": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss"
-        },
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
@@ -244,12 +216,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
         },
         {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
+          "title": "Alleged drone operator charged with murder after mistaken identity shooting in Sydney",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/12/alleged-drone-operator-charged-murder-mistaken-identity-shooting-western-sydney-ntwnfb"
         },
         {
           "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
           "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
+        },
+        {
+          "title": "Jemenští hútíové ovládli ostrov v klíčovém průlivu",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/jemensti-hutiove-ovladli-ostrov-v-klicovem-prulivu-377483"
         }
       ]
     },
@@ -266,12 +242,17 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Former Russian president threatens to wipe Lithuania \"off the map\" and says NATO will not defend it",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053048/"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -306,21 +287,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -30,
-      "headlines": [
-        {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
-        },
-        {
-          "title": "More than 50% of Ukrainian refugees in Poland plan to return to Ukraine – survey",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8052999/"
-        }
-      ]
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -335,27 +307,27 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Romania finds wreckage of several drones on land and in Black Sea",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053034/"
+        }
+      ]
     },
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 10,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "EU ambassadors fail to extend Russia sanctions due to opposition from Slovakia and France",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/11/8053016/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -373,26 +345,22 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 28,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 19,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
           "link": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu"
-        },
-        {
-          "title": "Sweden’s PM channels Trump saying he wants to ‘make Sweden great again’ ahead of election – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/11/russia-strikes-ukraine-europe-nato-poland-latest-news-updates"
         }
       ]
     }
