@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-09-12T16:13:50.542828+00:00",
+  "generated_at": "2026-09-12T20:13:37.662312+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "‘Small price to pay’: The young homeowners welcoming falling house prices even as it hurts them",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia"
+        },
         {
           "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
           "link": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq"
@@ -35,16 +39,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
-          "title": "Ukrainian drone wins: Navy shows first-ever naval drone battle",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053129/"
+          "title": "Warehouses ablaze in Kyiv Oblast following Russian attacks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053149/"
         },
         {
-          "title": "Zelenskyy reports strikes on Russian chemical plants and destruction of Su-33 and 2 Mi-8 helicopters – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053097/"
+          "title": "Ukraine much better prepared for energy attacks than last winter",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053141/"
         },
         {
-          "title": "Ukraine's General Staff confirms strike on Russia's Tolyatti plant that produces rubber for rocket fuel",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053076/"
+          "title": "Ukraine preparing for new round of peace talks in October",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053137/"
         }
       ]
     },
@@ -96,12 +100,17 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
+          "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -156,15 +165,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 14,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -4,
       "headlines": [
         {
-          "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
-          "link": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss"
+          "title": "France explains why it wants EU sanctions on Russian oligarch Usmanov lifted",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053135/"
         }
       ]
     },
@@ -221,16 +230,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 39,
+      "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
-        {
-          "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
-          "link": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss"
-        },
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
@@ -246,6 +251,10 @@
         {
           "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
           "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
+        },
+        {
+          "title": "Jemenští hútíové ovládli ostrov v klíčovém průlivu",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/jemensti-hutiove-ovladli-ostrov-v-klicovem-prulivu-377483"
         }
       ]
     },
@@ -322,15 +331,19 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 18,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Drone crashes near Suceava in Romania",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053128/"
+        },
+        {
+          "title": "Rumunsko našlo trosky deseti dronů",
+          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-rumunsko-naslo-trosky-deseti-dronu-40597414"
         }
       ]
     },
