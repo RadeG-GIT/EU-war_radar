@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:05:30.492752+00:00",
+  "generated_at": "2026-09-12T16:13:50.542828+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -35,16 +35,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
+          "title": "Ukrainian drone wins: Navy shows first-ever naval drone battle",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053129/"
+        },
+        {
           "title": "Zelenskyy reports strikes on Russian chemical plants and destruction of Su-33 and 2 Mi-8 helicopters – video",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053097/"
         },
         {
           "title": "Ukraine's General Staff confirms strike on Russia's Tolyatti plant that produces rubber for rocket fuel",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053076/"
-        },
-        {
-          "title": "Ukraine's drone forces have hit 285 Russian shadow fleet vessels in 10 weeks – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053075/"
         }
       ]
     },
@@ -64,8 +64,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Drone crashes near Suceava in Romania",
@@ -265,8 +265,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -325,8 +325,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Drone crashes near Suceava in Romania",
