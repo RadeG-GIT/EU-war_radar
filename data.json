@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:16:42.019667+00:00",
+  "generated_at": "2026-09-12T16:05:30.492752+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -8,12 +8,12 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Russia strikes cargo vessels, steel plants across Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss"
+          "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
+          "link": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq"
         }
       ]
     },
@@ -27,14 +27,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia strikes cargo vessels, steel plants across Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss"
-        },
-        {
-          "title": "BRICS meets in India: What’s on the agenda, why it matters",
-          "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss"
-        },
-        {
           "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss"
         },
@@ -43,8 +35,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
+          "title": "Zelenskyy reports strikes on Russian chemical plants and destruction of Su-33 and 2 Mi-8 helicopters – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053097/"
+        },
+        {
           "title": "Ukraine's General Staff confirms strike on Russia's Tolyatti plant that produces rubber for rocket fuel",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053076/"
+        },
+        {
+          "title": "Ukraine's drone forces have hit 285 Russian shadow fleet vessels in 10 weeks – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053075/"
         }
       ]
     },
@@ -61,12 +61,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Drone crashes near Suceava in Romania",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053128/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -154,8 +159,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
@@ -204,11 +209,11 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – live",
+          "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – as it happened",
           "link": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates"
         }
       ]
@@ -219,8 +224,8 @@
       "score": 39,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
@@ -257,17 +262,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Former Russian president threatens to wipe Lithuania \"off the map\" and says NATO will not defend it",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053048/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -322,12 +322,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Drone crashes near Suceava in Romania",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053128/"
+        }
+      ]
     },
     {
       "id": "slovakia",
