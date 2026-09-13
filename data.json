@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-09-13T10:36:50.263683+00:00",
+  "generated_at": "2026-09-13T10:39:12.915311+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 15,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
-          "title": "The battle to save the dying heart of rural France: the village bistro",
-          "link": "https://www.theguardian.com/news/ng-interactive/2026/sep/13/france-disappearing-bistros-rural-french-village"
-        },
-        {
-          "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-          "link": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq"
+          "title": "Boj o křeslo předsedy Senátu. Vystrčila by mohl sundat STAN s Kubou",
+          "link": "https://www.novinky.cz/clanek/volby-do-senatu-boj-o-kreslo-predsedy-senatu-vystrcila-by-mohl-sundat-stan-s-kubou-40597300"
         }
       ]
     },
@@ -160,15 +156,19 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "The battle to save the dying heart of rural France: the village bistro",
           "link": "https://www.theguardian.com/news/ng-interactive/2026/sep/13/france-disappearing-bistros-rural-french-village"
+        },
+        {
+          "title": "Ve Francii vykolejil vlak, desítky zraněných. Hlavní verzí je dle AFP cizí zavinění",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/ve-francii-vykolejil-vlak-hlavni-verzi-pri-vysetrovani-je-podle-afp-cizi-zavineni-377510"
         }
       ]
     },
@@ -225,11 +225,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 30,
-      "level": "mirne",
+      "score": 45,
+      "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 15,
       "headlines": [
         {
           "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
@@ -306,15 +306,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 35,
+      "score": 44,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 15,
+      "score_change": 9,
       "headlines": [
         {
           "title": "Russian attack sparks fire at petrol station near Yahodyn border crossing with Poland",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053189/"
+        },
+        {
+          "title": "Hrozí vzdušný útok, varovalo Polsko občany a poslalo do vzduchu stíhačky",
+          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-hrozi-vzdusny-utok-varovalo-polsko-obcany-a-poslalo-do-vzduchu-stihacky-40597430"
         }
       ]
     },
@@ -334,8 +338,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
