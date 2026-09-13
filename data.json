@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-13T10:39:12.915311+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-13T12:17:11.762878+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -9,
-      "headlines": [
-        {
-          "title": "Boj o křeslo předsedy Senátu. Vystrčila by mohl sundat STAN s Kubou",
-          "link": "https://www.novinky.cz/clanek/volby-do-senatu-boj-o-kreslo-predsedy-senatu-vystrcila-by-mohl-sundat-stan-s-kubou-40597300"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -35,16 +30,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
+          "title": "\"Russia is an enemy of the free world\": Polish government comments on attack near border",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053206/"
+        },
+        {
+          "title": "Defence forces strike Russian drone launch site and repeaters in occupied territories – Ukraine's General Staff",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053204/"
+        },
+        {
           "title": "Ukraine's General Staff confirms strikes on two Russian oil refineries",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053195/"
-        },
-        {
-          "title": "Russia attacks Ivano-Frankivsk, mayor predicts more strikes on Ukraine's west",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053192/"
-        },
-        {
-          "title": "Russians attack Ukraine's second-largest pharmaceutical warehouse twice",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053191/"
         }
       ]
     },
@@ -136,12 +131,17 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Estonian foreign minister says Russian attack made it harder for his team to cross Ukrainian-Polish border",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053202/"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -159,8 +159,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "The battle to save the dying heart of rural France: the village bistro",
@@ -175,17 +175,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
-          "link": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -210,22 +205,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – as it happened",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 45,
+      "score": 60,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
@@ -266,12 +256,21 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 27,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "Kvůli dronovým útokům na čas zastavily provoz letiště Litva a Polsko. Vzlétla i stíhačka NATO",
+          "link": "https://www.irozhlas.cz/zpravy-svet/kvuli-dronovym-utokum-na-cas-zastavily-provoz-letiste-litva-a-polsko-vzletla-i_2609131346_med"
+        },
+        {
+          "title": "Litva kvůli dronu přerušila provoz na letišti",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-litva-kvuli-dronu-prerusila-provoz-na-letisti-315255"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -306,8 +305,8 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 44,
-      "level": "mirne",
+      "score": 53,
+      "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
       "score_change": 9,
@@ -315,6 +314,10 @@
         {
           "title": "Russian attack sparks fire at petrol station near Yahodyn border crossing with Poland",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053189/"
+        },
+        {
+          "title": "Kvůli dronovým útokům na čas zastavily provoz letiště Litva a Polsko. Vzlétla i stíhačka NATO",
+          "link": "https://www.irozhlas.cz/zpravy-svet/kvuli-dronovym-utokum-na-cas-zastavily-provoz-letiste-litva-a-polsko-vzletla-i_2609131346_med"
         },
         {
           "title": "Hrozí vzdušný útok, varovalo Polsko občany a poslalo do vzduchu stíhačky",
@@ -375,12 +378,17 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Voting under way in Sweden with far right eyeing first role in government",
+          "link": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government"
+        }
+      ]
     }
   ]
 }
