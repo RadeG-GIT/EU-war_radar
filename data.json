@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T20:13:37.662312+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-13T00:20:10.000201+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘Small price to pay’: The young homeowners welcoming falling house prices even as it hurts them",
@@ -35,6 +35,10 @@
           "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+          "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
@@ -45,10 +49,6 @@
         {
           "title": "Ukraine much better prepared for energy attacks than last winter",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053141/"
-        },
-        {
-          "title": "Ukraine preparing for new round of peace talks in October",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053137/"
         }
       ]
     },
@@ -103,8 +103,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
@@ -168,8 +168,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -4,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "France explains why it wants EU sanctions on Russian oligarch Usmanov lifted",
@@ -230,11 +230,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 16,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -12,
+      "score_change": -11,
       "headlines": [
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
@@ -243,10 +243,6 @@
         {
           "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
           "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
-        },
-        {
-          "title": "Alleged drone operator charged with murder after mistaken identity shooting in Sydney",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/12/alleged-drone-operator-charged-murder-mistaken-identity-shooting-western-sydney-ntwnfb"
         },
         {
           "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
@@ -334,8 +330,8 @@
       "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Drone crashes near Suceava in Romania",
