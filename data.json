@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T00:20:10.000201+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-13T08:14:22.321117+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -12,8 +12,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "‘Small price to pay’: The young homeowners welcoming falling house prices even as it hurts them",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia"
+          "title": "The battle to save the dying heart of rural France: the village bistro",
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/sep/13/france-disappearing-bistros-rural-french-village"
         },
         {
           "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
@@ -31,10 +31,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
           "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
         },
@@ -43,12 +39,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
-          "title": "Warehouses ablaze in Kyiv Oblast following Russian attacks",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053149/"
+          "title": "Ukrainian forces strike oil refinery in Russia's Krasnodar Krai – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053187/"
         },
         {
-          "title": "Ukraine much better prepared for energy attacks than last winter",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053141/"
+          "title": "Russia attacks Ukraine with over 450 drones",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053180/"
+        },
+        {
+          "title": "Drones attack oil refineries in Russia's Tatarstan – photo, videos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053171/"
         }
       ]
     },
@@ -65,17 +65,12 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Drone crashes near Suceava in Romania",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053128/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "austria",
@@ -90,27 +85,27 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Wounded Ukrainian soldier dies in Belgium",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053185/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
-          "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "croatia",
@@ -165,12 +160,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "The battle to save the dying heart of rural France: the village bistro",
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/sep/13/france-disappearing-bistros-rural-french-village"
+        },
         {
           "title": "France explains why it wants EU sanctions on Russian oligarch Usmanov lifted",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053135/"
@@ -230,12 +229,16 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 16,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "score": 33,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 17,
       "headlines": [
+        {
+          "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+          "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
@@ -245,12 +248,12 @@
           "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
         },
         {
-          "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-          "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
+          "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
+          "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
         },
         {
-          "title": "Jemenští hútíové ovládli ostrov v klíčovém průlivu",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/jemensti-hutiove-ovladli-ostrov-v-klicovem-prulivu-377483"
+          "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+          "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
         }
       ]
     },
@@ -327,16 +330,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 21,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Drone crashes near Suceava in Romania",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053128/"
-        },
         {
           "title": "Rumunsko našlo trosky deseti dronů",
           "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-rumunsko-naslo-trosky-deseti-dronu-40597414"
@@ -376,17 +375,12 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 19,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
-          "link": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     }
   ]
 }
