@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T08:14:22.321117+00:00",
+  "generated_at": "2026-09-13T10:36:50.263683+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -39,16 +39,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
-          "title": "Ukrainian forces strike oil refinery in Russia's Krasnodar Krai – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053187/"
+          "title": "Ukraine's General Staff confirms strikes on two Russian oil refineries",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053195/"
         },
         {
-          "title": "Russia attacks Ukraine with over 450 drones",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053180/"
+          "title": "Russia attacks Ivano-Frankivsk, mayor predicts more strikes on Ukraine's west",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053192/"
         },
         {
-          "title": "Drones attack oil refineries in Russia's Tatarstan – photo, videos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053171/"
+          "title": "Russians attack Ukraine's second-largest pharmaceutical warehouse twice",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053191/"
         }
       ]
     },
@@ -68,8 +68,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -88,8 +88,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Wounded Ukrainian soldier dies in Belgium",
@@ -103,8 +103,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -160,19 +160,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 13,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -5,
       "headlines": [
         {
           "title": "The battle to save the dying heart of rural France: the village bistro",
           "link": "https://www.theguardian.com/news/ng-interactive/2026/sep/13/france-disappearing-bistros-rural-french-village"
-        },
-        {
-          "title": "France explains why it wants EU sanctions on Russian oligarch Usmanov lifted",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/12/8053135/"
         }
       ]
     },
@@ -229,11 +225,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 33,
+      "score": 30,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 17,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
@@ -310,12 +306,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 35,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 15,
+      "headlines": [
+        {
+          "title": "Russian attack sparks fire at petrol station near Yahodyn border crossing with Poland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053189/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -330,17 +331,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Rumunsko našlo trosky deseti dronů",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-rumunsko-naslo-trosky-deseti-dronu-40597414"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -378,8 +374,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ]
