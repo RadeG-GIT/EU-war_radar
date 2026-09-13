@@ -1,16 +1,29 @@
 {
-  "generated_at": "2026-09-13T16:14:05.455004+00:00",
+  "generated_at": "2026-09-13T20:13:46.037732+00:00",
   "overall_score": 16,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Českou delegaci na příštím summitu NATO v Tiraně povede Pavel",
+          "link": "https://www.novinky.cz/clanek/domaci-ceskou-delegaci-na-pristim-summitu-nato-v-tirane-povede-pavel-40597488"
+        },
+        {
+          "title": "Na příští summit NATO pojede prezident Pavel. Babiš účast vyloučil",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-na-pristi-summit-nato-pojede-prezident-pavel-babis-ucast-vyloucil-315270"
+        },
+        {
+          "title": "Na příštím summitu NATO povede českou delegaci prezident, řekl Babiš ČT",
+          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/na-pristim-summitu-nato-povede-ceskou-delegaci-prezident-rekl-babis-ct-377545"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,6 +35,14 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
+          "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss"
+        },
+        {
+          "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss"
+        },
+        {
           "title": "World leaders gather in New Delhi for final day of BRICS summit",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss"
         },
@@ -30,28 +51,25 @@
           "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
         },
         {
-          "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-          "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-          "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
-        },
-        {
-          "title": "Russian drone hits Kyiv-Warsaw passenger train near Polish border",
-          "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border"
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 31,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "Kosovo approves new government after months of political deadlock",
+          "link": "https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -79,8 +97,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,8 +172,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ve Francii vykolejil vlak, desítky zraněných. Hlavní verzí je dle AFP cizí zavinění",
@@ -206,11 +224,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 63,
+      "score": 69,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 6,
       "headlines": [
         {
           "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
@@ -247,16 +265,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 18,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
-        {
-          "title": "Kvůli dronovým útokům na čas zastavilo provoz letiště v Litvě. Vzlétla i stíhačka NATO",
-          "link": "https://www.irozhlas.cz/zpravy-svet/kvuli-dronovym-utokum-na-cas-zastavily-provoz-letiste-litva-a-polsko-vzletla-i_2609131346_med"
-        },
         {
           "title": "Litva kvůli dronu přerušila provoz na letišti",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-litva-kvuli-dronu-prerusila-provoz-na-letisti-315255"
@@ -296,27 +310,31 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 95,
+      "score": 96,
       "level": "kriticke",
       "color": "#9C3B37",
       "trend": "up",
-      "score_change": 42,
+      "score_change": 1,
       "headlines": [
         {
           "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
           "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
         },
         {
-          "title": "Russian drone hits Kyiv-Warsaw passenger train near Polish border",
+          "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
           "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border"
+        },
+        {
+          "title": "Polish PM warns of possibility of more serious Russian attacks in Poland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053236/"
+        },
+        {
+          "title": "Warsaw will not block opening of negotiating clusters for Ukraine – Polish foreign minister",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053230/"
         },
         {
           "title": "Polish PM convenes special meeting over Russian strikes near border",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053222/"
-        },
-        {
-          "title": "Boris Johnson and Merz adviser's train stopped near Polish border for evacuation due to drone attack, but all-clear given",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053220/"
         }
       ]
     },
@@ -373,21 +391,12 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 20,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Sweden general election: close race as far right eyes role in government – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
-        },
-        {
-          "title": "Voting under way in Sweden with far right eyeing first role in government",
-          "link": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     }
   ]
 }
