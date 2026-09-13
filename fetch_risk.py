@@ -8,18 +8,22 @@ DULEZITE: zprava se pocita jen tehdy, kdyz obsahuje ZAROVEN nazev zeme/oblasti
 A ZAROVEN nektere z klicovych slov souvisejicich s valkou/terorismem/nasilim
 (viz THREAT_KEYWORDS).
 
+Text se pred porovnavanim normalizuje (mala pismena + odstraneni diakritiky),
+aby fungovalo spravne porovnavani u ceskych zdroju (Cesko/CESKO/Česko -> cesko).
+
 Kazde spusteni take uklada zaznam do history.json (datum + skore vsech oblasti),
 aby sel na webu zobrazit graf vyvoje v case.
 """
 
 import json
 import os
+import unicodedata
 from datetime import datetime, timezone
 import feedparser
 
 DATA_FILE = "data.json"
 HISTORY_FILE = "history.json"
-MAX_HISTORY_ENTRIES = 200  # ochrana proti neomezenemu rustu souboru
+MAX_HISTORY_ENTRIES = 200
 
 # --- 1. Zdroje zprav (verejne RSS kanaly, zadny API klic potreba) ---
 FEEDS = [
@@ -57,16 +61,20 @@ THREAT_KEYWORDS = [
 ]
 
 # --- 3. Sledovane oblasti a jejich klicova slova (nazvy zemi/oblasti) ---
+# POZOR: kazde klicove slovo se hleda jako podretezec - kratke/nejednoznacne
+# zkratky (napr. "acr", "bis") se zamerne NEPOUZIVAJI, protoze se nahodou
+# objevuji uvnitr jinych slov (napr. "acr" v "massacre", "bis" v "cannabis")
+# a zpusobuji falesne prirazeni nesouvisejicich zprav.
 HOTSPOTS = {
     "czechia": {
         "name": "Ceska republika",
         "keywords": [
             "czech republic", "czechia", "cesko", "ceska republika",
-            "prague", "praha", "armada cr", "acr",
-            "nato cesko", "bezpecnostni informacni sluzba", "bis",
-            "vojenske zpravodajstvi", "kyberneticky utok cesko",
-            "cinska spionaz", "ruska spionaz", "rusko cesko",
-            "drony cesko", "hybridni valka cesko", "dezinformace cesko",
+            "prague", "praha", "ceska armada", "armada cr",
+            "ministerstvo obrany cr", "bezpecnostni informacni sluzba",
+            "vojenske zpravodajstvi cr", "cinska spionaz", "ruska spionaz",
+            "rusko cesko", "drony nad ceskem", "hybridni valka",
+            "dezinformacni kampan",
         ],
         "base_score": 3,
         "headline_limit": 10,
@@ -129,8 +137,15 @@ SEVERITY_WORDS = {
 }
 
 
+def normalize_text(text):
+    """Prevede na mala pismena a odstrani diakritiku (Cesko/Česko -> cesko)."""
+    text = text.lower()
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    return text
+
+
 def load_previous_scores():
-    """Nacte skore z predchoziho behu (pokud existuje), aby slo spocitat trend."""
     if not os.path.exists(DATA_FILE):
         return {}
     try:
@@ -143,7 +158,6 @@ def load_previous_scores():
 
 
 def load_history():
-    """Nacte dosavadni historii skore (pokud existuje)."""
     if not os.path.exists(HISTORY_FILE):
         return []
     try:
@@ -155,20 +169,20 @@ def load_history():
 
 
 def save_history(history):
-    """Ulozi historii, orizne na max. povoleny pocet zaznamu."""
     trimmed = history[-MAX_HISTORY_ENTRIES:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(trimmed, f, ensure_ascii=False, indent=2)
 
 
 def fetch_headlines():
-    """Stahne titulky a shrnuti ze vsech RSS kanalu."""
+    """Stahne titulky a shrnuti ze vsech RSS kanalu, text normalizuje (bez diakritiky)."""
     items = []
     for url in FEEDS:
         try:
             parsed = feedparser.parse(url)
             for entry in parsed.entries[:40]:
-                text = (entry.get("title", "") + " " + entry.get("summary", "")).lower()
+                raw_text = entry.get("title", "") + " " + entry.get("summary", "")
+                text = normalize_text(raw_text)
                 items.append({
                     "text": text,
                     "title": entry.get("title", ""),
@@ -264,7 +278,6 @@ def main():
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    # ulozeni zaznamu do historie pro graf vyvoje
     history = load_history()
     history.append({
         "timestamp": generated_at,
