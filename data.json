@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T12:17:11.762878+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-09-13T16:14:05.455004+00:00",
+  "overall_score": 16,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,6 +22,14 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "World leaders gather in New Delhi for final day of BRICS summit",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+          "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
+        },
+        {
           "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
           "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
         },
@@ -30,16 +38,8 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
-          "title": "\"Russia is an enemy of the free world\": Polish government comments on attack near border",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053206/"
-        },
-        {
-          "title": "Defence forces strike Russian drone launch site and repeaters in occupied territories – Ukraine's General Staff",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053204/"
-        },
-        {
-          "title": "Ukraine's General Staff confirms strikes on two Russian oil refineries",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053195/"
+          "title": "Russian drone hits Kyiv-Warsaw passenger train near Polish border",
+          "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border"
         }
       ]
     },
@@ -76,17 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Wounded Ukrainian soldier dies in Belgium",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053185/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -134,8 +129,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonian foreign minister says Russian attack made it harder for his team to cross Ukrainian-Polish border",
@@ -156,16 +151,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "The battle to save the dying heart of rural France: the village bistro",
-          "link": "https://www.theguardian.com/news/ng-interactive/2026/sep/13/france-disappearing-bistros-rural-french-village"
-        },
         {
           "title": "Ve Francii vykolejil vlak, desítky zraněných. Hlavní verzí je dle AFP cizí zavinění",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/ve-francii-vykolejil-vlak-hlavni-verzi-pri-vysetrovani-je-podle-afp-cizi-zavineni-377510"
@@ -178,8 +169,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -208,18 +199,18 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 60,
+      "score": 63,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 15,
+      "score_change": 3,
       "headlines": [
         {
           "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
@@ -259,11 +250,11 @@
       "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Kvůli dronovým útokům na čas zastavily provoz letiště Litva a Polsko. Vzlétla i stíhačka NATO",
+          "title": "Kvůli dronovým útokům na čas zastavilo provoz letiště v Litvě. Vzlétla i stíhačka NATO",
           "link": "https://www.irozhlas.cz/zpravy-svet/kvuli-dronovym-utokum-na-cas-zastavily-provoz-letiste-litva-a-polsko-vzletla-i_2609131346_med"
         },
         {
@@ -305,23 +296,27 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 53,
-      "level": "zvysene",
-      "color": "#C98A3B",
+      "score": 95,
+      "level": "kriticke",
+      "color": "#9C3B37",
       "trend": "up",
-      "score_change": 9,
+      "score_change": 42,
       "headlines": [
         {
-          "title": "Russian attack sparks fire at petrol station near Yahodyn border crossing with Poland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053189/"
+          "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+          "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
         },
         {
-          "title": "Kvůli dronovým útokům na čas zastavily provoz letiště Litva a Polsko. Vzlétla i stíhačka NATO",
-          "link": "https://www.irozhlas.cz/zpravy-svet/kvuli-dronovym-utokum-na-cas-zastavily-provoz-letiste-litva-a-polsko-vzletla-i_2609131346_med"
+          "title": "Russian drone hits Kyiv-Warsaw passenger train near Polish border",
+          "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border"
         },
         {
-          "title": "Hrozí vzdušný útok, varovalo Polsko občany a poslalo do vzduchu stíhačky",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-hrozi-vzdusny-utok-varovalo-polsko-obcany-a-poslalo-do-vzduchu-stihacky-40597430"
+          "title": "Polish PM convenes special meeting over Russian strikes near border",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053222/"
+        },
+        {
+          "title": "Boris Johnson and Merz adviser's train stopped near Polish border for evacuation due to drone attack, but all-clear given",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053220/"
         }
       ]
     },
@@ -378,12 +373,16 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 17,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 9,
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Sweden general election: close race as far right eyes role in government – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates"
+        },
         {
           "title": "Voting under way in Sweden with far right eyeing first role in government",
           "link": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government"
