@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-14T16:14:36.034748+00:00",
-  "overall_score": 16,
+  "generated_at": "2026-09-14T20:14:47.670405+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Dobrodružství s Dürerem. Začíná několikaleté restaurování slavné Růžencové slavnosti",
-          "link": "https://www.novinky.cz/clanek/kultura-dobrodruzstvi-s-durerem-zacina-nekolikalete-restaurovani-slavne-ruzencove-slavnosti-40597475"
-        },
         {
           "title": "Na příštím summitu NATO povede českou delegaci prezident, řekl Babiš ČT",
           "link": "https://ct24.ceskatelevize.cz/clanek/domaci/na-pristim-summitu-nato-povede-ceskou-delegaci-prezident-rekl-babis-ct-377545"
@@ -31,12 +27,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
-          "link": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries?traffic_source=rss"
-        },
-        {
-          "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
-          "link": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss"
+          "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+          "link": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss"
         },
         {
           "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
@@ -49,6 +41,10 @@
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
+        },
+        {
+          "title": "Member of British armed forces killed in Ukraine crash, says MoD",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine"
         }
       ]
     },
@@ -88,11 +84,11 @@
       "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims  – Europe live",
+          "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
         },
         {
@@ -167,8 +163,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU extends sanctions against Putin and Lavrov for only seven days as further consultations needed",
@@ -179,12 +175,16 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 17,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Around 400,000 Ukrainians employed in Germany",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053414/"
+        },
         {
           "title": "Útok na vlak u polských hranic odhalil další ruské úmysly, zní z Varšavy",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-utok-na-vlak-u-polskych-hranic-odhalil-dalsi-ruske-umysly-zni-z-varsavy-315305"
@@ -198,17 +198,12 @@
     {
       "id": "greece",
       "name": "Recko",
-      "score": 17,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "At least one dead, 25 missing after boat carrying migrants sinks off Greece",
-          "link": "https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "hungary",
@@ -233,11 +228,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 30,
-      "level": "mirne",
+      "score": 50,
+      "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -21,
+      "trend": "up",
+      "score_change": 20,
       "headlines": [
         {
           "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
@@ -256,7 +251,7 @@
           "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
         },
         {
-          "title": "Farage hints that Reform’s £72m donations may not be legal under new elections bill - UK politics live",
+          "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
           "link": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates"
         }
       ]
@@ -314,31 +309,27 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 71,
+      "score": 62,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 24,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
           "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims  – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
-        },
-        {
           "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
           "link": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train"
         },
         {
-          "title": "Kremlin on strikes near Ukraine-Poland border: Russia will continue doing this",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053352/"
+          "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
         },
         {
-          "title": "Rusko zaútočilo na vlak u polských hranic. ‚Největší obranou je nepředvídatelnost spojů,‘ říká Dyčka",
-          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-zautocilo-na-vlak-u-polskych-hranic-nejvetsi-obranou-je-nepredvidatelnost_2609141700_raf"
+          "title": "Kremlin on strikes near Ukraine-Poland border: Russia will continue doing this",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053352/"
         }
       ]
     },
@@ -368,8 +359,8 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 1,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU extends sanctions against Putin and Lavrov for only seven days as further consultations needed",
@@ -404,19 +395,15 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "score": 17,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
         {
-          "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims  – Europe live",
+          "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
-        },
-        {
-          "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
-          "link": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train"
         }
       ]
     }
