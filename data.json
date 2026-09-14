@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:13:46.037732+00:00",
+  "generated_at": "2026-09-14T00:20:43.654695+00:00",
   "overall_score": 16,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Českou delegaci na příštím summitu NATO v Tiraně povede Pavel",
@@ -35,41 +35,36 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
-          "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss"
-        },
-        {
-          "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss"
-        },
-        {
-          "title": "World leaders gather in New Delhi for final day of BRICS summit",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
-          "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
+          "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+          "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss"
         },
         {
           "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
           "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+          "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
+        },
+        {
+          "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
+          "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border"
+        },
+        {
+          "title": "Zelenskyy's former spokeswoman says sanctions against her are unlawful",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053234/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 31,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 11,
-      "headlines": [
-        {
-          "title": "Kosovo approves new government after months of political deadlock",
-          "link": "https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -169,12 +164,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss"
+        },
         {
           "title": "Ve Francii vykolejil vlak, desítky zraněných. Hlavní verzí je dle AFP cizí zavinění",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/ve-francii-vykolejil-vlak-hlavni-verzi-pri-vysetrovani-je-podle-afp-cizi-zavineni-377510"
@@ -184,12 +183,21 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
+          "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss"
+        },
+        {
+          "title": "Komunální volby v Dolním Sasku podle propočtu vyhrála Merzova CDU",
+          "link": "https://www.novinky.cz/clanek/zahranicni-komunalni-volby-v-dolnim-sasku-podle-propoctu-vyhrala-merzova-cdu-40597496"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -224,11 +232,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 69,
+      "score": 72,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 3,
       "headlines": [
         {
           "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
@@ -268,8 +276,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Litva kvůli dronu přerušila provoz na letišti",
@@ -310,15 +318,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 96,
+      "score": 80,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 1,
+      "trend": "down",
+      "score_change": -16,
       "headlines": [
         {
-          "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
-          "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss"
+          "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+          "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss"
         },
         {
           "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
@@ -394,8 +402,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ]
