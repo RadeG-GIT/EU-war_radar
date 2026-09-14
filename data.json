@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-14T04:14:58.324268+00:00",
+  "generated_at": "2026-09-14T08:16:35.352928+00:00",
   "overall_score": 16,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Českou delegaci na příštím summitu NATO v Tiraně povede Pavel",
-          "link": "https://www.novinky.cz/clanek/domaci-ceskou-delegaci-na-pristim-summitu-nato-v-tirane-povede-pavel-40597488"
+          "title": "Rusové zničili humanitární sklad české organizace. Škody jdou do milionů",
+          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusove-znicili-humanitarni-sklad-ceske-organizace-skody-jdou-do-milionu-40597506"
         },
         {
           "title": "Na příští summit NATO pojede prezident Pavel. Babiš účast vyloučil",
@@ -39,12 +39,12 @@
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss"
         },
         {
-          "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
-          "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss"
-        },
-        {
           "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
           "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+          "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
@@ -139,17 +139,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Estonian foreign minister says Russian attack made it harder for his team to cross Ukrainian-Polish border",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053202/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -164,16 +159,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
-          "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss"
-        },
         {
           "title": "Ve Francii vykolejil vlak, desítky zraněných. Hlavní verzí je dle AFP cizí zavinění",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/ve-francii-vykolejil-vlak-hlavni-verzi-pri-vysetrovani-je-podle-afp-cizi-zavineni-377510"
@@ -183,19 +174,15 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
-          "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss"
-        },
-        {
-          "title": "Komunální volby v Dolním Sasku podle propočtu vyhrála Merzova CDU",
-          "link": "https://www.novinky.cz/clanek/zahranicni-komunalni-volby-v-dolnim-sasku-podle-propoctu-vyhrala-merzova-cdu-40597496"
+          "title": "Komunální volby v Dolním Sasku vyhrála Merzova CDU, úspěch slaví i AfD",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/komunalni-volby-v-dolnim-sasku-podle-propoctu-vyhrala-merzova-cdu-377547"
         }
       ]
     },
@@ -222,12 +209,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Monday briefing: What do Reform’s record-setting donations mean for the party – and our politics?",
+          "link": "https://www.theguardian.com/world/2026/sep/14/monday-briefing-first-edition-reform-nigel-farage-financial-scandals"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -255,8 +247,8 @@
           "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
         },
         {
-          "title": "Peptide user tore oesophagus after using counterfeit product, Australian regulator warns",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/14/counterfeit-retratrutide-warning-peptide-torn-oesophagus-australia-tga"
+          "title": "Pauline Hanson’s comments about Indigenous Australians condemned as ‘nasty’ and ‘derogatory’",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/14/pauline-hansons-comments-about-indigenous-australians-condemned-as-nasty-and-derogatory"
         }
       ]
     },
@@ -273,17 +265,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Litva kvůli dronu přerušila provoz na letišti",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-litva-kvuli-dronu-prerusila-provoz-na-letisti-315255"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -318,31 +305,31 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 83,
-      "level": "kriticke",
-      "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 3,
+      "score": 71,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
         {
           "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss"
         },
         {
-          "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
-          "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss"
+          "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+          "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
           "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border"
         },
         {
-          "title": "Polish PM warns of possibility of more serious Russian attacks in Poland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053236/"
+          "title": "Monday briefing: What do Reform’s record-setting donations mean for the party – and our politics?",
+          "link": "https://www.theguardian.com/world/2026/sep/14/monday-briefing-first-edition-reform-nigel-farage-financial-scandals"
         },
         {
-          "title": "Warsaw will not block opening of negotiating clusters for Ukraine – Polish foreign minister",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053230/"
+          "title": "Polish PM warns of possibility of more serious Russian attacks in Poland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053236/"
         }
       ]
     },
@@ -399,12 +386,17 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Monday briefing: What do Reform’s record-setting donations mean for the party – and our politics?",
+          "link": "https://www.theguardian.com/world/2026/sep/14/monday-briefing-first-edition-reform-nigel-farage-financial-scandals"
+        }
+      ]
     }
   ]
 }
