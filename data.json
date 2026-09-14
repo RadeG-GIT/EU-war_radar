@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T00:20:43.654695+00:00",
+  "generated_at": "2026-09-14T04:14:58.324268+00:00",
   "overall_score": 16,
   "hotspots": [
     {
@@ -35,6 +35,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss"
+        },
+        {
           "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
           "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss"
         },
@@ -49,10 +53,6 @@
         {
           "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
           "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border"
-        },
-        {
-          "title": "Zelenskyy's former spokeswoman says sanctions against her are unlawful",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053234/"
         }
       ]
     },
@@ -62,8 +62,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -167,8 +167,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
@@ -186,8 +186,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
@@ -235,8 +235,8 @@
       "score": 72,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
@@ -255,8 +255,8 @@
           "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
         },
         {
-          "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-          "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait"
+          "title": "Peptide user tore oesophagus after using counterfeit product, Australian regulator warns",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/14/counterfeit-retratrutide-warning-peptide-torn-oesophagus-australia-tga"
         }
       ]
     },
@@ -318,12 +318,16 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 80,
+      "score": 83,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "down",
-      "score_change": -16,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss"
+        },
         {
           "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
           "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss"
@@ -339,10 +343,6 @@
         {
           "title": "Warsaw will not block opening of negotiating clusters for Ukraine – Polish foreign minister",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053230/"
-        },
-        {
-          "title": "Polish PM convenes special meeting over Russian strikes near border",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053222/"
         }
       ]
     },
