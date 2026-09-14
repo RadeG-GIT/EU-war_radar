@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-09-14T08:16:35.352928+00:00",
-  "overall_score": 16,
+  "generated_at": "2026-09-14T12:19:22.546811+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 18,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
-        {
-          "title": "Rusové zničili humanitární sklad české organizace. Škody jdou do milionů",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusove-znicili-humanitarni-sklad-ceske-organizace-skody-jdou-do-milionu-40597506"
-        },
-        {
-          "title": "Na příští summit NATO pojede prezident Pavel. Babiš účast vyloučil",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-na-pristi-summit-nato-pojede-prezident-pavel-babis-ucast-vyloucil-315270"
-        },
         {
           "title": "Na příštím summitu NATO povede českou delegaci prezident, řekl Babiš ČT",
           "link": "https://ct24.ceskatelevize.cz/clanek/domaci/na-pristim-summitu-nato-povede-ceskou-delegaci-prezident-rekl-babis-ct-377545"
@@ -51,8 +43,8 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
-          "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
-          "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border"
+          "title": "‘We are not scared,’ says top EU diplomat after Russian strike on passenger train",
+          "link": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train"
         }
       ]
     },
@@ -142,8 +134,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -159,12 +151,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 13,
       "headlines": [
+        {
+          "title": "EU ambassadors fail to agree on extending sanctions against Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053318/"
+        },
         {
           "title": "Ve Francii vykolejil vlak, desítky zraněných. Hlavní verzí je dle AFP cizí zavinění",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/ve-francii-vykolejil-vlak-hlavni-verzi-pri-vysetrovani-je-podle-afp-cizi-zavineni-377510"
@@ -174,12 +170,16 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
+        {
+          "title": "Jak Němci přehlédli teroristu. Seriál vypráví o útoku, při němž zemřela Češka",
+          "link": "https://www.seznamzpravy.cz/clanek/kultura-breitscheidplatz-nemecko-serial-315303"
+        },
         {
           "title": "Komunální volby v Dolním Sasku vyhrála Merzova CDU, úspěch slaví i AfD",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/komunalni-volby-v-dolnim-sasku-podle-propoctu-vyhrala-merzova-cdu-377547"
@@ -189,12 +189,17 @@
     {
       "id": "greece",
       "name": "Recko",
-      "score": 6,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "At least one dead, 25 missing after boat carrying migrants sinks off Greece",
+          "link": "https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "hungary",
@@ -209,26 +214,21 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 11,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Monday briefing: What do Reform’s record-setting donations mean for the party – and our politics?",
-          "link": "https://www.theguardian.com/world/2026/sep/14/monday-briefing-first-edition-reform-nigel-farage-financial-scandals"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 72,
+      "score": 51,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -21,
       "headlines": [
         {
           "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
@@ -268,8 +268,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -305,11 +305,11 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 71,
+      "score": 47,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -12,
+      "score_change": -24,
       "headlines": [
         {
           "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
@@ -320,16 +320,8 @@
           "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
-          "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border"
-        },
-        {
-          "title": "Monday briefing: What do Reform’s record-setting donations mean for the party – and our politics?",
-          "link": "https://www.theguardian.com/world/2026/sep/14/monday-briefing-first-edition-reform-nigel-farage-financial-scandals"
-        },
-        {
-          "title": "Polish PM warns of possibility of more serious Russian attacks in Poland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/13/8053236/"
+          "title": "‘We are not scared,’ says top EU diplomat after Russian strike on passenger train",
+          "link": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train"
         }
       ]
     },
@@ -356,12 +348,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 13,
+      "headlines": [
+        {
+          "title": "EU ambassadors fail to agree on extending sanctions against Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053318/"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -386,15 +383,15 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 17,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 9,
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Monday briefing: What do Reform’s record-setting donations mean for the party – and our politics?",
-          "link": "https://www.theguardian.com/world/2026/sep/14/monday-briefing-first-edition-reform-nigel-farage-financial-scandals"
+          "title": "‘We are not scared,’ says top EU diplomat after Russian strike on passenger train",
+          "link": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train"
         }
       ]
     }
