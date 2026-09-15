@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-15T08:16:07.175943+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-09-15T12:18:04.939150+00:00",
+  "overall_score": 19,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Na příštím summitu NATO povede českou delegaci prezident, řekl Babiš ČT",
-          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/na-pristim-summitu-nato-povede-ceskou-delegaci-prezident-rekl-babis-ct-377545"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -35,16 +30,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
-          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
         },
         {
-          "title": "Member of British armed forces killed in Ukraine crash, says MoD",
-          "link": "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine"
+          "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
         },
         {
-          "title": "Scrap windfall tax on oil and gas firms early, North Sea industry urges",
-          "link": "https://www.theguardian.com/business/2026/sep/15/scrap-windfall-tax-oil-gas-firms-north-sea-energy-bills-oeuk"
+          "title": "Russian morning attack on Kyiv hits McDonald's restaurant – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053524/"
         }
       ]
     },
@@ -84,8 +79,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -121,19 +116,31 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 10,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 45,
+      "level": "zvysene",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 35,
       "headlines": [
         {
-          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "title": "Denmark says Russian warship fired flares at military helicopter",
+          "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
         },
         {
-          "title": "Ruská fregata vystřelila na dánský vojenský vrtulník světlice, uvedla Kodaň",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-ruska-fregata-vystrelila-na-dansky-vojensky-vrtulnik-svetlice-uvedla-kodan-315376"
+          "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
+        },
+        {
+          "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
+          "link": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown"
+        },
+        {
+          "title": "Russian ambassador accuses Denmark of provoking Russian frigate that fired at Danish helicopter",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053525/"
         }
       ]
     },
@@ -153,8 +160,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -163,28 +170,19 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 17,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Německo podle Berlína zůstává cílem ruských hybridních útoků",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-nemecko-podle-berlina-zustava-cilem-ruskych-hybridnich-utoku-315372"
-        },
-        {
-          "title": "Komunální volby v Dolním Sasku vyhrála Merzova CDU, úspěch slaví i AfD",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/komunalni-volby-v-dolnim-sasku-podle-propoctu-vyhrala-merzova-cdu-377547"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -212,8 +210,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
@@ -224,15 +222,23 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 30,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -11,
+      "score": 79,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 49,
       "headlines": [
         {
           "title": "What to watch in the US’s Delaware primary elections",
           "link": "https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss"
+        },
+        {
+          "title": "‘More dangerous than drugs’: BJP’s war on beef in India’s West Bengal",
+          "link": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss"
+        },
+        {
+          "title": "Denmark says Russian warship fired flares at military helicopter",
+          "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Superstars and broken records: 2026 Emmy highlights",
@@ -241,29 +247,33 @@
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
-        },
-        {
-          "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
-          "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
-        },
-        {
-          "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
-          "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 21,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 54,
+      "level": "zvysene",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 33,
       "headlines": [
         {
-          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+        },
+        {
+          "title": "Russian ambassador accuses Denmark of provoking Russian frigate that fired at Danish helicopter",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053525/"
+        },
+        {
+          "title": "Ukrainian RAM-2X drone strikes US$100m Russian radar – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053521/"
+        },
+        {
+          "title": "Hunting down Kalibr missile carriers: how Ukraine has lured Russian frigates into a trap and is gradually taking them out",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053517/"
         },
         {
           "title": "Russian frigate fires signal flares at Danish military helicopter",
@@ -274,31 +284,27 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 50,
+      "score": 53,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 19,
+      "score_change": 3,
       "headlines": [
         {
           "title": "Nato jets down drone that entered Lithuanian airspace",
           "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+        },
+        {
+          "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
         },
         {
           "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
           "link": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change"
-        },
-        {
-          "title": "Nato jets shoot down drone violating Lithuania’s airspace",
-          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
-        },
-        {
-          "title": "NATO fighter jets shoot down drone that entered Lithuanian airspace",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053445/"
         }
       ]
     },
@@ -325,33 +331,38 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 39,
-      "level": "mirne",
+      "score": 55,
+      "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -36,
+      "trend": "up",
+      "score_change": 16,
       "headlines": [
         {
-          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+        },
+        {
+          "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
         },
         {
           "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
           "link": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change"
-        },
-        {
-          "title": "Nato jets shoot down drone violating Lithuania’s airspace",
-          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
         }
       ]
     },
@@ -381,8 +392,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -408,14 +419,14 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "up",
+      "score_change": 10,
       "headlines": [
         {
-          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
         }
       ]
