@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:20:35.898381+00:00",
+  "generated_at": "2026-09-15T04:15:34.596694+00:00",
   "overall_score": 15,
   "hotspots": [
     {
@@ -27,12 +27,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
-          "link": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss"
-        },
-        {
-          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+          "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
+          "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
@@ -45,6 +41,10 @@
         {
           "title": "Member of British armed forces killed in Ukraine crash, says MoD",
           "link": "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine"
+        },
+        {
+          "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
+          "link": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train"
         }
       ]
     },
@@ -84,8 +84,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
@@ -149,8 +149,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
@@ -176,15 +176,19 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Around 400,000 Ukrainians employed in Germany",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053414/"
+        },
+        {
+          "title": "Arogantní kočí na Mallorce chrstnul turistce vodu do obličeje. Svědkyně scénu natočila",
+          "link": "https://www.novinky.cz/clanek/koktejl-arogantni-koci-na-mallorce-chrstnul-turistce-vodu-do-obliceje-svedkyne-scenu-natocila-40595627"
         },
         {
           "title": "Komunální volby v Dolním Sasku vyhrála Merzova CDU, úspěch slaví i AfD",
@@ -225,16 +229,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 47,
-      "level": "zvysene",
+      "score": 41,
+      "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -6,
       "headlines": [
-        {
-          "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-          "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
@@ -248,8 +248,12 @@
           "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
         },
         {
-          "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
-          "link": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates"
+          "title": "Brněnští strážníci druhý den pátrají po uprchlé kočkovité šelmě. Nebezpečí útoku je minimální",
+          "link": "https://www.irozhlas.cz/zpravy-domov/brnensti-straznici-druhy-den-patraji-po-uprchle-kockovite-selme-nebezpeci-utoku_2609141912_kch"
+        },
+        {
+          "title": "Zemřel průkopník punku Cheetah Chrome",
+          "link": "https://www.novinky.cz/clanek/kultura-hudba-zemrel-prukopnik-punku-cheetah-chrome-40597709"
         }
       ]
     },
@@ -266,12 +270,21 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 31,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 16,
+      "headlines": [
+        {
+          "title": "Nato jets down drone that entered Lithuanian airspace",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Nato jets shoot down drone violating Lithuania’s airspace",
+          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -306,19 +319,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 77,
+      "score": 75,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "down",
+      "score_change": -2,
       "headlines": [
-        {
-          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
-          "link": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss"
-        },
         {
           "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
           "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Nato jets shoot down drone violating Lithuania’s airspace",
+          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
         },
         {
           "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
@@ -357,19 +370,15 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 19,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "EU extends sanctions against Putin and Lavrov for only seven days as further consultations needed",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053401/"
-        },
-        {
-          "title": "Třetí zápas, třetí výhra. Čeští volejbalisté na šampionátu smetli Slovensko a jsou v osmifinále",
-          "link": "https://www.irozhlas.cz/sport/ostatni-sporty/treti-zapas-treti-vyhra-cesti-volejbaliste-na-sampionatu-smetli-slovensko-a-jsou_2609141740_rej"
         }
       ]
     },
