@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:14:47.670405+00:00",
+  "generated_at": "2026-09-15T00:20:35.898381+00:00",
   "overall_score": 15,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Na příštím summitu NATO povede českou delegaci prezident, řekl Babiš ČT",
@@ -27,7 +27,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
           "link": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss"
         },
         {
@@ -81,19 +81,15 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 21,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
-        },
-        {
-          "title": "Útok na vlak u polských hranic odhalil další ruské úmysly, zní z Varšavy",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-utok-na-vlak-u-polskych-hranic-odhalil-dalsi-ruske-umysly-zni-z-varsavy-315305"
         }
       ]
     },
@@ -150,12 +146,17 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
+          "link": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "france",
@@ -175,19 +176,15 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 20,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Around 400,000 Ukrainians employed in Germany",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053414/"
-        },
-        {
-          "title": "Útok na vlak u polských hranic odhalil další ruské úmysly, zní z Varšavy",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-utok-na-vlak-u-polskych-hranic-odhalil-dalsi-ruske-umysly-zni-z-varsavy-315305"
         },
         {
           "title": "Komunální volby v Dolním Sasku vyhrála Merzova CDU, úspěch slaví i AfD",
@@ -201,8 +198,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -228,11 +225,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 50,
+      "score": 47,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 20,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
@@ -309,12 +306,16 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 62,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -9,
+      "score": 77,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 15,
       "headlines": [
+        {
+          "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
+          "link": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss"
+        },
         {
           "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
           "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
@@ -398,8 +399,8 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
