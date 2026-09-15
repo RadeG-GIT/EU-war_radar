@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T04:15:34.596694+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-09-15T08:16:07.175943+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -31,20 +31,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-          "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
+        },
+        {
+          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
         },
         {
           "title": "Member of British armed forces killed in Ukraine crash, says MoD",
           "link": "https://www.theguardian.com/uk-news/2026/sep/14/uk-armed-forces-member-killed-in-crash-ukraine"
         },
         {
-          "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
-          "link": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train"
+          "title": "Scrap windfall tax on oil and gas firms early, North Sea industry urges",
+          "link": "https://www.theguardian.com/business/2026/sep/15/scrap-windfall-tax-oil-gas-firms-north-sea-energy-bills-oeuk"
         }
       ]
     },
@@ -81,17 +81,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -126,12 +121,21 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+        },
+        {
+          "title": "Ruská fregata vystřelila na dánský vojenský vrtulník světlice, uvedla Kodaň",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-ruska-fregata-vystrelila-na-dansky-vojensky-vrtulnik-svetlice-uvedla-kodan-315376"
+        }
+      ]
     },
     {
       "id": "estonia",
@@ -146,49 +150,35 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
-          "link": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 10,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "EU extends sanctions against Putin and Lavrov for only seven days as further consultations needed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053401/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "Around 400,000 Ukrainians employed in Germany",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053414/"
-        },
-        {
-          "title": "Arogantní kočí na Mallorce chrstnul turistce vodu do obličeje. Svědkyně scénu natočila",
-          "link": "https://www.novinky.cz/clanek/koktejl-arogantni-koci-na-mallorce-chrstnul-turistce-vodu-do-obliceje-svedkyne-scenu-natocila-40595627"
+          "title": "Německo podle Berlína zůstává cílem ruských hybridních útoků",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-nemecko-podle-berlina-zustava-cilem-ruskych-hybridnich-utoku-315372"
         },
         {
           "title": "Komunální volby v Dolním Sasku vyhrála Merzova CDU, úspěch slaví i AfD",
@@ -219,22 +209,35 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
+          "link": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change"
+        }
+      ]
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 41,
+      "score": 30,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -6,
+      "score_change": -11,
       "headlines": [
+        {
+          "title": "What to watch in the US’s Delaware primary elections",
+          "link": "https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss"
+        },
+        {
+          "title": "Superstars and broken records: 2026 Emmy highlights",
+          "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
@@ -246,43 +249,56 @@
         {
           "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
           "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
-        },
-        {
-          "title": "Brněnští strážníci druhý den pátrají po uprchlé kočkovité šelmě. Nebezpečí útoku je minimální",
-          "link": "https://www.irozhlas.cz/zpravy-domov/brnensti-straznici-druhy-den-patraji-po-uprchle-kockovite-selme-nebezpeci-utoku_2609141912_kch"
-        },
-        {
-          "title": "Zemřel průkopník punku Cheetah Chrome",
-          "link": "https://www.novinky.cz/clanek/kultura-hudba-zemrel-prukopnik-punku-cheetah-chrome-40597709"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+        },
+        {
+          "title": "Russian frigate fires signal flares at Danish military helicopter",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053475/"
+        }
+      ]
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 31,
-      "level": "mirne",
+      "score": 50,
+      "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 16,
+      "score_change": 19,
       "headlines": [
         {
           "title": "Nato jets down drone that entered Lithuanian airspace",
           "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+        },
+        {
+          "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
+          "link": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change"
+        },
+        {
           "title": "Nato jets shoot down drone violating Lithuania’s airspace",
           "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
+        },
+        {
+          "title": "NATO fighter jets shoot down drone that entered Lithuanian airspace",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053445/"
         }
       ]
     },
@@ -319,31 +335,23 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 75,
-      "level": "kriticke",
-      "color": "#9C3B37",
+      "score": 39,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "down",
-      "score_change": -2,
+      "score_change": -36,
       "headlines": [
         {
-          "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-          "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss"
+          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+        },
+        {
+          "title": "Tuesday briefing: How to understand Wales, Scotland and Northern Ireland’s joint call for change",
+          "link": "https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change"
         },
         {
           "title": "Nato jets shoot down drone violating Lithuania’s airspace",
           "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
-        },
-        {
-          "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
-          "link": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train"
-        },
-        {
-          "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
-        },
-        {
-          "title": "Kremlin on strikes near Ukraine-Poland border: Russia will continue doing this",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053352/"
         }
       ]
     },
@@ -370,17 +378,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 10,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -9,
-      "headlines": [
-        {
-          "title": "EU extends sanctions against Putin and Lavrov for only seven days as further consultations needed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/14/8053401/"
-        }
-      ]
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -405,15 +408,15 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 17,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"
+          "title": "Denmark summons Russia’s ambassador after warship fires flares at Danish army helicopter – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
         }
       ]
     }
