@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:14:30.128889+00:00",
+  "generated_at": "2026-09-15T20:14:27.993185+00:00",
   "overall_score": 19,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zemědělský stroj vjel u Prahy do protisměru a srazil se s autem a dodávkou, jeden mrtvý",
@@ -31,12 +31,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Will Russia and Ukraine halt attacks on energy infrastructure?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/will-russia-and-ukraine-halt-attacks-on-energy-infrastructure?traffic_source=rss"
+          "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+          "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
         },
         {
-          "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
-          "link": "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure?traffic_source=rss"
+          "title": "Will Russia and Ukraine halt attacks on energy infrastructure?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/will-russia-and-ukraine-halt-attacks-on-energy-infrastructure?traffic_source=rss"
         },
         {
           "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
@@ -55,12 +55,17 @@
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Válka devastuje i kulturu. Rusové v létě zničili deset milionů ukrajinských knih",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-valka-devastuje-i-kulturu-rusove-v-lete-znicili-deset-milionu-ukrajinskych-knih-40597836"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -125,11 +130,11 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 29,
+      "score": 26,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -16,
+      "score_change": -3,
       "headlines": [
         {
           "title": "Russia warns Denmark after near miss in Baltic Sea",
@@ -146,10 +151,6 @@
         {
           "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
           "link": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown"
-        },
-        {
-          "title": "Russian ambassador accuses Denmark of provoking Russian frigate that fired at Danish helicopter",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053525/"
         }
       ]
     },
@@ -169,8 +170,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Finland approves €290 million aid package for Ukraine",
@@ -224,19 +225,23 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 87,
+      "score": 77,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "down",
+      "score_change": -10,
       "headlines": [
+        {
+          "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
+          "link": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss"
+        },
         {
           "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
           "link": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss"
@@ -252,21 +257,17 @@
         {
           "title": "Superstars and broken records: 2026 Emmy highlights",
           "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-          "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 54,
-      "level": "zvysene",
+      "score": 34,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -20,
       "headlines": [
         {
           "title": "Russia warns Denmark after near miss in Baltic Sea",
@@ -277,28 +278,28 @@
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
         },
         {
-          "title": "Russian ambassador accuses Denmark of provoking Russian frigate that fired at Danish helicopter",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053525/"
-        },
-        {
-          "title": "Ukrainian RAM-2X drone strikes US$100m Russian radar – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053521/"
-        },
-        {
-          "title": "Hunting down Kalibr missile carriers: how Ukraine has lured Russian frigates into a trap and is gradually taking them out",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053517/"
+          "title": "NATO calls Russia's firing of signal flares at Danish helicopter \"irresponsible\"",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053588/"
         }
       ]
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 59,
+      "score": 65,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
       "score_change": 6,
       "headlines": [
+        {
+          "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+          "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
+        },
+        {
+          "title": "NATO downs drone over Lithuania, ‘probably’ launched by Russia",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss"
+        },
         {
           "title": "Nato jets down drone that entered Lithuanian airspace",
           "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
@@ -310,14 +311,6 @@
         {
           "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
-        },
-        {
-          "title": "Lithuanian bomb disposal experts neutralise explosive device at drone crash site",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053579/"
-        },
-        {
-          "title": "Von der Leyen on new Russian provocations: These are not isolated incidents",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053575/"
         }
       ]
     },
@@ -359,11 +352,11 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 61,
+      "score": 70,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 9,
       "headlines": [
         {
           "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
@@ -376,6 +369,10 @@
         {
           "title": "Varšavu bychom zlikvidovali do tří dnů, trumfuje Kreml Sikorského",
           "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-varsavu-bychom-zlikvidovali-do-tri-dnu-trumfuje-kreml-sikorskeho-40597896"
+        },
+        {
+          "title": "Polsko podle ministra obrany posiluje zabezpečení přechodů s Ukrajinou",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsko-podle-ministra-obrany-posiluje-zabezpeceni-prechodu-s-ukrajinou-315441"
         }
       ]
     },
@@ -402,12 +399,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "USA přesouvají vojenskou pomoc z východu do jižní Ameriky. Ostrouhá i Slovensko",
+          "link": "https://www.novinky.cz/clanek/zahranicni-amerika-usa-presouvaji-vojenskou-pomoc-z-vychodu-do-jizni-ameriky-ostrouha-i-slovensko-40597908"
+        }
+      ]
     },
     {
       "id": "slovenia",
