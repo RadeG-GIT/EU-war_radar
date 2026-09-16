@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:14:42.612376+00:00",
+  "generated_at": "2026-09-16T20:15:10.621982+00:00",
   "overall_score": 14,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,36 +22,40 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "European Union invites Canada to become first ever ‘associate member’",
-          "link": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member"
+          "title": "Warehouse belonging to Olena Zelenska Foundation in Kyiv destroyed in Russian attack – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053795/"
         },
         {
-          "title": "Burnham says budget will be ‘challenging’ and denies he is just ‘tax and spend socialist’ – UK politics live",
-          "link": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates"
+          "title": "One of Ukraine's key industries almost disappears from GDP",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053789/"
         },
         {
-          "title": "Russian drone strike destroys warehouse storing props from Zelenskyy’s Kvartal 95 production studio – photos",
+          "title": "Ukraine awaits Russian list of sites to be covered by possible energy ceasefire",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053783/"
+        },
+        {
+          "title": "Russian drone strike destroys warehouse that stored props from Zelenskyy’s Kvartal 95 production studio – photos",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053763/"
         },
         {
           "title": "Over 44% of Ukrainian school textbooks destroyed by Russia have been reprinted",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053754/"
-        },
-        {
-          "title": "Zelenskyy says war cannot end in win-win outcome after so many deaths",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053752/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Kosovo’s former president guilty of war crimes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss"
+        },
         {
           "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
@@ -84,8 +88,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -124,8 +128,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,8 +158,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
@@ -166,19 +170,15 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Sweden voted against more power for the far right – but are centrists listening?",
           "link": "https://www.theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd"
-        },
-        {
-          "title": "\"He's a fascist\": Polish foreign minister reacts to far-right politician Braun damaging UPA memorial",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053692/"
         }
       ]
     },
@@ -198,8 +198,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -215,12 +215,16 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 83,
+      "score": 84,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "down",
-      "score_change": -17,
+      "trend": "up",
+      "score_change": 1,
       "headlines": [
+        {
+          "title": "Kosovo’s former president guilty of war crimes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss"
+        },
         {
           "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
           "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss"
@@ -236,10 +240,6 @@
         {
           "title": "Minns says Molly Ticehurst’s murderer deserved longer sentence for ‘vicious’ crime’ – as it happened",
           "link": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb"
-        },
-        {
-          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
         }
       ]
     },
@@ -249,19 +249,24 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Lithuanian president believes Russia deliberately allows drones to enter Baltic states",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053785/"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -286,12 +291,20 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 9,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
+        {
+          "title": "Kosovo’s former president guilty of war crimes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss"
+        },
+        {
+          "title": "Angry Dutch farmers blamed for railway sabotage: What happened?",
+          "link": "https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss"
+        },
         {
           "title": "Suspected sabotage causes major Netherlands rail disruption",
           "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss"
@@ -308,8 +321,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -318,8 +331,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -368,8 +381,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Sweden voted against more power for the far right – but are centrists listening?",
