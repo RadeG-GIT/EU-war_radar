@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-09-16T12:18:43.213975+00:00",
-  "overall_score": 16,
+  "generated_at": "2026-09-16T16:14:42.612376+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Armáda zahájí průzkum kontaminované oblasti na Šumavě. Vyčištění lokality vyjde asi na 190 milionů",
-          "link": "https://www.irozhlas.cz/zpravy-domov/armada-zahaji-pruzkum-kontaminovane-oblasti-na-sumave-vycisteni-lokality-vyjde_2609160941_bva"
-        },
-        {
-          "title": "Čínská špionáž. Chtějí vidět zevnitř, jak náš stát funguje, říká kyberdiplomatka",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-cinska-spionaz-chteji-videt-zevnitr-jak-nas-stat-funguje-rika-kyberdiplomatka-315138"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -31,10 +22,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "At least five killed in Russian drone strike near Ukraine front line",
-          "link": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss"
-        },
-        {
           "title": "European Union invites Canada to become first ever ‘associate member’",
           "link": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member"
         },
@@ -43,34 +30,30 @@
           "link": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates"
         },
         {
-          "title": "Burnham and Trump expected to meet for first time next week as PM steps up presence on world stage",
-          "link": "https://www.theguardian.com/politics/2026/sep/16/andy-burnham-donald-trump-un-general-assembly"
+          "title": "Russian drone strike destroys warehouse storing props from Zelenskyy’s Kvartal 95 production studio – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053763/"
         },
         {
-          "title": "Ukrainian forces strike Russian bomber in Crimea and drone ground control stations in Donetsk Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053690/"
+          "title": "Over 44% of Ukrainian school textbooks destroyed by Russia have been reprinted",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053754/"
+        },
+        {
+          "title": "Zelenskyy says war cannot end in win-win outcome after so many deaths",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053752/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes",
-          "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-convicted-of-war-crimes?traffic_source=rss"
-        },
-        {
-          "title": "Former Kosovo President Hashim Thaci faces verdict for alleged war crimes",
-          "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-faces-verdict-for-alleged-war-crimes?traffic_source=rss"
-        },
-        {
-          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
+          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
         }
       ]
@@ -98,17 +81,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 14,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Students in Gaza ‘devastated’ after plan for them to study in Belgium fails",
-          "link": "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -143,17 +121,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Denmark says Russian warship fired flares at military helicopter",
-          "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "estonia",
@@ -178,12 +151,17 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Battle of Chile director Patricio Guzmán dies aged 85",
+          "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -191,16 +169,16 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
+        {
+          "title": "Sweden voted against more power for the far right – but are centrists listening?",
+          "link": "https://www.theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd"
+        },
         {
           "title": "\"He's a fascist\": Polish foreign minister reacts to far-right politician Braun damaging UPA memorial",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053692/"
-        },
-        {
-          "title": "Proměna středověkých Templářských sklepů. Navrhl ji designér oceněných lahví",
-          "link": "https://www.seznamzpravy.cz/clanek/magazin-architektura-promena-stredovekych-templarskych-sklepu-navrhl-ji-designer-ocenenych-lahvi-315357"
         }
       ]
     },
@@ -217,17 +195,12 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Polish foreign minister insists Warsaw is not behind Hungary's blocking of Ukraine's EU accession",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053673/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ireland",
@@ -242,48 +215,43 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 100,
+      "score": 83,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "down",
+      "score_change": -17,
       "headlines": [
-        {
-          "title": "Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes",
-          "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-convicted-of-war-crimes?traffic_source=rss"
-        },
-        {
-          "title": "Former Kosovo President Hashim Thaci faces verdict for alleged war crimes",
-          "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-faces-verdict-for-alleged-war-crimes?traffic_source=rss"
-        },
         {
           "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
           "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Denmark says Russian warship fired flares at military helicopter",
-          "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Superstars and broken records: 2026 Emmy highlights",
           "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "People protecting nature and land set up self-defence units amid threat of murder",
+          "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
+        },
+        {
+          "title": "Minns says Molly Ticehurst’s murderer deserved longer sentence for ‘vicious’ crime’ – as it happened",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb"
+        },
+        {
+          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 28,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukrainian drones behind killing of Russian general who \"captured\" Kostiantynivka",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053677/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     },
     {
       "id": "lithuania",
@@ -291,8 +259,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -321,15 +289,15 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Suspected sabotage causes major Netherlands rail disruption",
           "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
+          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
         }
       ]
@@ -337,36 +305,22 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 38,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Polish foreign minister insists Warsaw is not behind Hungary's blocking of Ukraine's EU accession",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053673/"
-        },
-        {
-          "title": "Poland scrambles jets and closes airports due to Russian attacks on Ukraine's west",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053652/"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -18,
+      "headlines": []
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Největší protesty v Sýrii od Asadova pádu. V zemi prudce vzrostly ceny paliv a lidé vyšli do ulic",
-          "link": "https://www.irozhlas.cz/zpravy-svet/nejvetsi-ptotesty-v-syrii-od-padu-asada-v-zemi-prudce-vzrostly-ceny-paliv-a-lide_2609161041_ntu"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -411,12 +365,17 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Sweden voted against more power for the far right – but are centrists listening?",
+          "link": "https://www.theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd"
+        }
+      ]
     }
   ]
 }
