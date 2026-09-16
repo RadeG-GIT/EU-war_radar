@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-16T00:18:51.631099+00:00",
-  "overall_score": 18,
+  "generated_at": "2026-09-16T04:14:16.916946+00:00",
+  "overall_score": 16,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Zemědělský stroj vjel u Prahy do protisměru a srazil se s autem a dodávkou, jeden mrtvý",
-          "link": "https://www.novinky.cz/clanek/krimi-zemedelsky-stroj-vjel-u-prahy-do-protismeru-a-srazil-se-s-autem-a-dodavkou-jeden-mrtvy-40597891"
-        },
         {
           "title": "Bývalá Pirátka kandiduje za Piráty. Bývalý komunista za ANO",
           "link": "https://www.seznamzpravy.cz/clanek/volby-do-senatu-byvala-piratka-kandiduje-za-piraty-byvaly-komunista-za-ano-315383"
@@ -31,10 +27,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "NATO jet shoots down suspected Russian drone over Lithuania",
-          "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
-        },
-        {
           "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
           "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss"
         },
@@ -43,12 +35,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
         },
         {
-          "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+          "title": "Russia plotting to kill Ukraine allies in US and Europe, FBI says",
+          "link": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot"
         },
         {
           "title": "Zelenskyy appoints commander of Armed Forces' Communications and Cybersecurity Forces",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053609/"
+        },
+        {
+          "title": "Russian forces attack 7 infrastructure facilities in Kyiv Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053586/"
         }
       ]
     },
@@ -90,12 +86,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "Students in Gaza ‘devastated’ after plan for them to study in Belgium fails",
+          "link": "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -130,23 +131,15 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 23,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -16,
       "headlines": [
         {
           "title": "Denmark says Russian warship fired flares at military helicopter",
           "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
-        },
-        {
-          "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
-          "link": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown"
         }
       ]
     },
@@ -228,15 +221,15 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 71,
+      "score": 70,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -6,
+      "score_change": -1,
       "headlines": [
         {
-          "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
-          "link": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss"
+          "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
+          "link": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss"
         },
         {
           "title": "Denmark says Russian warship fired flares at military helicopter",
@@ -259,16 +252,12 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 31,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 18,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -13,
       "headlines": [
-        {
-          "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
-        },
         {
           "title": "NATO calls Russia's firing of signal flares at Danish helicopter \"irresponsible\"",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053588/"
@@ -278,20 +267,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 65,
+      "score": 46,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -19,
       "headlines": [
-        {
-          "title": "NATO jet shoots down suspected Russian drone over Lithuania",
-          "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
-        },
-        {
-          "title": "NATO downs drone over Lithuania, ‘probably’ launched by Russia",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss"
-        },
         {
           "title": "Nato jets down drone that entered Lithuanian airspace",
           "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
@@ -301,8 +282,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
         },
         {
-          "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+          "title": "Lithuanian bomb disposal experts neutralise explosive device at drone crash site",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053579/"
+        },
+        {
+          "title": "Von der Leyen on new Russian provocations: These are not isolated incidents",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053575/"
+        },
+        {
+          "title": "Lithuanian defence minister says drone shot down overnight appears to have had no explosives",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053562/"
         }
       ]
     },
@@ -329,12 +318,16 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "UK, US, Netherlands warn of Iranian spyware targeting dissidents",
+          "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss"
+        },
         {
           "title": "Suspected sabotage causes major Netherlands rail disruption",
           "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss"
@@ -344,19 +337,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 70,
+      "score": 57,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -13,
       "headlines": [
         {
           "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
           "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
-        },
-        {
-          "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
         },
         {
           "title": "Varšavu bychom zlikvidovali do tří dnů, trumfuje Kreml Sikorského",
@@ -384,11 +373,11 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Romanian shepards and farmers clash with police",
+          "title": "Romanian farmers clash with police over livestock export ban",
           "link": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss"
         }
       ]
@@ -431,17 +420,12 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 21,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     }
   ]
 }
