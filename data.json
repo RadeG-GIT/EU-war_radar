@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T04:14:16.916946+00:00",
-  "overall_score": 16,
+  "generated_at": "2026-09-16T08:15:29.161137+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,12 +8,12 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Bývalá Pirátka kandiduje za Piráty. Bývalý komunista za ANO",
-          "link": "https://www.seznamzpravy.cz/clanek/volby-do-senatu-byvala-piratka-kandiduje-za-piraty-byvaly-komunista-za-ano-315383"
+          "title": "Armáda zahájí průzkum kontaminované oblasti na Šumavě. Vyčištění lokality vyjde asi na 190 milionů",
+          "link": "https://www.irozhlas.cz/zpravy-domov/armada-zahaji-pruzkum-kontaminovane-oblasti-na-sumave-vycisteni-lokality-vyjde_2609160941_bva"
         }
       ]
     },
@@ -31,35 +31,39 @@
           "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-          "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
-        },
-        {
           "title": "Russia plotting to kill Ukraine allies in US and Europe, FBI says",
           "link": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot"
         },
         {
-          "title": "Zelenskyy appoints commander of Armed Forces' Communications and Cybersecurity Forces",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053609/"
+          "title": "Poland scrambles jets and closes airports due to Russian attacks on Ukraine's west",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053652/"
         },
         {
-          "title": "Russian forces attack 7 infrastructure facilities in Kyiv Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053586/"
+          "title": "Russian forces attack Kyiv-Mykolaiv train: passengers evacuated – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053649/"
+        },
+        {
+          "title": "Russia attacks Ukraine with 80 drones: air defence downs over 60, hits recorded",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053647/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Válka devastuje i kulturu. Rusové v létě zničili deset milionů ukrajinských knih",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-valka-devastuje-i-kulturu-rusove-v-lete-znicili-deset-milionu-ukrajinskych-knih-40597836"
+          "title": "Former Kosovo President Hashim Thaci faces verdict for alleged war crimes",
+          "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-faces-verdict-for-alleged-war-crimes?traffic_source=rss"
+        },
+        {
+          "title": "McLaren to build SUVs geared towards Formula One fans with children",
+          "link": "https://www.theguardian.com/business/2026/sep/16/mclaren-build-suvs-geared-towards-formula-one-fans-with-children"
         }
       ]
     },
@@ -89,8 +93,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Students in Gaza ‘devastated’ after plan for them to study in Belgium fails",
@@ -134,8 +138,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -16,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Denmark says Russian warship fired flares at military helicopter",
@@ -156,17 +160,12 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Finland approves €290 million aid package for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053539/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
@@ -221,12 +220,16 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 70,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -1,
+      "score": 92,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 22,
       "headlines": [
+        {
+          "title": "Former Kosovo President Hashim Thaci faces verdict for alleged war crimes",
+          "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-faces-verdict-for-alleged-war-crimes?traffic_source=rss"
+        },
         {
           "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
           "link": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss"
@@ -240,58 +243,38 @@
           "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-          "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
-        },
-        {
-          "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
-          "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
+          "title": "People protecting nature and land set up self-defence units amid threat of murder",
+          "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 18,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "score": 28,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 10,
       "headlines": [
         {
-          "title": "NATO calls Russia's firing of signal flares at Danish helicopter \"irresponsible\"",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053588/"
+          "title": "Another Russian general killed in war against Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053630/"
         }
       ]
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 46,
-      "level": "zvysene",
-      "color": "#C98A3B",
+      "score": 18,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -19,
+      "score_change": -28,
       "headlines": [
         {
           "title": "Nato jets down drone that entered Lithuanian airspace",
           "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
-        },
-        {
-          "title": "Lithuanian bomb disposal experts neutralise explosive device at drone crash site",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053579/"
-        },
-        {
-          "title": "Von der Leyen on new Russian provocations: These are not isolated incidents",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053575/"
-        },
-        {
-          "title": "Lithuanian defence minister says drone shot down overnight appears to have had no explosives",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053562/"
         }
       ]
     },
@@ -318,16 +301,12 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "UK, US, Netherlands warn of Iranian spyware targeting dissidents",
-          "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss"
-        },
         {
           "title": "Suspected sabotage causes major Netherlands rail disruption",
           "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss"
@@ -337,23 +316,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 57,
-      "level": "zvysene",
+      "score": 35,
+      "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -13,
+      "score_change": -22,
       "headlines": [
         {
-          "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-          "link": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas"
-        },
-        {
-          "title": "Varšavu bychom zlikvidovali do tří dnů, trumfuje Kreml Sikorského",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-varsavu-bychom-zlikvidovali-do-tri-dnu-trumfuje-kreml-sikorskeho-40597896"
-        },
-        {
-          "title": "Polsko podle ministra obrany posiluje zabezpečení přechodů s Ukrajinou",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsko-podle-ministra-obrany-posiluje-zabezpeceni-prechodu-s-ukrajinou-315441"
+          "title": "Poland scrambles jets and closes airports due to Russian attacks on Ukraine's west",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053652/"
         }
       ]
     },
@@ -370,32 +341,22 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 23,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Romanian farmers clash with police over livestock export ban",
-          "link": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -8,
+      "headlines": []
     },
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "USA přesouvají vojenskou pomoc z východu do jižní Ameriky. Ostrouhá i Slovensko",
-          "link": "https://www.novinky.cz/clanek/zahranicni-amerika-usa-presouvaji-vojenskou-pomoc-z-vychodu-do-jizni-ameriky-ostrouha-i-slovensko-40597908"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -423,8 +384,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ]
