@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T20:14:27.993185+00:00",
-  "overall_score": 19,
+  "generated_at": "2026-09-16T00:18:51.631099+00:00",
+  "overall_score": 18,
   "hotspots": [
     {
       "id": "czechia",
@@ -35,10 +35,6 @@
           "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
         },
         {
-          "title": "Will Russia and Ukraine halt attacks on energy infrastructure?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/will-russia-and-ukraine-halt-attacks-on-energy-infrastructure?traffic_source=rss"
-        },
-        {
           "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
           "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss"
         },
@@ -49,6 +45,10 @@
         {
           "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
+        },
+        {
+          "title": "Zelenskyy appoints commander of Armed Forces' Communications and Cybersecurity Forces",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/15/8053609/"
         }
       ]
     },
@@ -58,8 +58,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Válka devastuje i kulturu. Rusové v létě zničili deset milionů ukrajinských knih",
@@ -130,16 +130,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
       "headlines": [
-        {
-          "title": "Russia warns Denmark after near miss in Baltic Sea",
-          "link": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss"
-        },
         {
           "title": "Denmark says Russian warship fired flares at military helicopter",
           "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
@@ -232,47 +228,43 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 77,
-      "level": "kriticke",
-      "color": "#9C3B37",
+      "score": 71,
+      "level": "zvysene",
+      "color": "#C98A3B",
       "trend": "down",
-      "score_change": -10,
+      "score_change": -6,
       "headlines": [
         {
           "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
           "link": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss"
         },
         {
-          "title": "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
-          "link": "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss"
-        },
-        {
           "title": "Denmark says Russian warship fired flares at military helicopter",
           "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Canada is a 'safe harbour' for global finance, Carney says",
-          "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Superstars and broken records: 2026 Emmy highlights",
           "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+          "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
+        },
+        {
+          "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
+          "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 34,
+      "score": 31,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -20,
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Russia warns Denmark after near miss in Baltic Sea",
-          "link": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea?traffic_source=rss"
-        },
         {
           "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates"
@@ -289,8 +281,8 @@
       "score": 65,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "NATO jet shoots down suspected Russian drone over Lithuania",
@@ -355,8 +347,8 @@
       "score": 70,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
@@ -389,12 +381,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 8,
+      "headlines": [
+        {
+          "title": "Romanian shepards and farmers clash with police",
+          "link": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -402,8 +399,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "USA přesouvají vojenskou pomoc z východu do jižní Ameriky. Ostrouhá i Slovensko",
