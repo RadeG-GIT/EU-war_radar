@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T16:15:33.917543+00:00",
-  "overall_score": 16,
+  "generated_at": "2026-09-17T20:14:52.994420+00:00",
+  "overall_score": 18,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,36 +22,40 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "At least 19 injured in Russian attacks across Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine?traffic_source=rss"
+          "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
+          "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss"
         },
         {
-          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – Europe live",
+          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         },
         {
-          "title": "Ukrainian drones hit over three thousand Russian unmanned ground vehicles over the year",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053950/"
+          "title": "Poland scrambles aircraft for second time in a day due to Russian attacks on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053974/"
         },
         {
-          "title": "Zelenskyy: Ukrainian interceptor has downed jet-powered Shahed, production will scale up",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053940/"
+          "title": "Russian attack on Kyiv Oblast injured a child",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053973/"
         },
         {
-          "title": "Polish PM Tusk to visit Ukraine on Friday: to meet Slovak PM and discuss sanctions against Russia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053939/"
+          "title": "Polish PM believes Russia is preparing hybrid attacks against countries supporting Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053964/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
+        {
+          "title": "Serbia opens factory to assemble Israeli-made drones",
+          "link": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss"
+        },
         {
           "title": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
           "link": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss"
@@ -151,22 +155,22 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 18,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 8,
       "headlines": [
         {
-          "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-          "link": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss"
+          "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
+          "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss"
         },
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
           "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
         },
         {
-          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – Europe live",
+          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         }
       ]
@@ -174,19 +178,15 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 17,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – Europe live",
+          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
-        },
-        {
-          "title": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
-          "link": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs"
         }
       ]
     },
@@ -230,6 +230,14 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "UN fact-finding mission says US committed possible war crimes in Iran",
+          "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss"
+        },
+        {
+          "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+          "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "People protecting nature and land set up self-defence units amid threat of murder",
           "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
         },
@@ -240,14 +248,6 @@
         {
           "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
           "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack"
-        },
-        {
-          "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people?",
-          "link": "https://www.theguardian.com/world/2026/sep/17/thursday-briefing-yemens-war-continues-to-threaten-oil-supplies-but-what-about-its-people"
-        },
-        {
-          "title": "More Republicans are turning on Iran war as midterms come into view",
-          "link": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections"
         }
       ]
     },
@@ -304,27 +304,31 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 56,
-      "level": "zvysene",
-      "color": "#C98A3B",
+      "score": 100,
+      "level": "kriticke",
+      "color": "#9C3B37",
       "trend": "up",
-      "score_change": 21,
+      "score_change": 44,
       "headlines": [
         {
-          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – Europe live",
+          "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
+          "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss"
+        },
+        {
+          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         },
         {
-          "title": "Polish airports suspend operations for second day running amid Russian drone attacks on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053931/"
+          "title": "Trump announces \"major progress\" on establishing US military base in Poland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053979/"
         },
         {
-          "title": "Poland scrambles jets amid Russian drone attack on Ukraine, explosions heard near border",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053886/"
+          "title": "Poland scrambles aircraft for second time in a day due to Russian attacks on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053974/"
         },
         {
-          "title": "Polsko opevňuje hranice. Vojáci už se dali do práce",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-polsko-opevnuje-hranice-vojaci-uz-se-dali-do-prace-40598185"
+          "title": "Polish PM believes Russia is preparing hybrid attacks against countries supporting Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053964/"
         }
       ]
     },
@@ -354,24 +358,19 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "slovenia",
       "name": "Slovinsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "‘The drought has left its mark’: Slovenia’s potato lovers lament low yields",
-          "link": "https://www.aljazeera.com/news/2026/9/17/the-drought-has-left-its-mark-slovenias-potato-lovers-lament-low-yields?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "spain",
