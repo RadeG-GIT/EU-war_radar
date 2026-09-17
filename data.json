@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T12:18:28.384291+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-09-17T16:15:33.917543+00:00",
+  "overall_score": 16,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -26,32 +26,37 @@
           "link": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine?traffic_source=rss"
         },
         {
-          "title": "Swedish PM Kristersson resigns after election defeat – Europe live",
+          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         },
         {
-          "title": "Ukraine sees energy and Black Sea ceasefire as possible key outcome of Zelenskyy-Trump meeting in New York",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053896/"
+          "title": "Ukrainian drones hit over three thousand Russian unmanned ground vehicles over the year",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053950/"
         },
         {
-          "title": "Russia reacts to approval of Graham bill: \"It will complicate peace settlement\"",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053887/"
+          "title": "Zelenskyy: Ukrainian interceptor has downed jet-powered Shahed, production will scale up",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053940/"
         },
         {
-          "title": "Poland scrambles jets amid Russian drone attack on Ukraine, explosions heard near border",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053886/"
+          "title": "Polish PM Tusk to visit Ukraine on Friday: to meet Slovak PM and discuss sanctions against Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053939/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
+          "link": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -146,11 +151,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 12,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 4,
+      "score_change": 6,
       "headlines": [
         {
           "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
@@ -161,7 +166,7 @@
           "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
         },
         {
-          "title": "Swedish PM Kristersson resigns after election defeat – Europe live",
+          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         }
       ]
@@ -169,14 +174,14 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Swedish PM Kristersson resigns after election defeat – Europe live",
+          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         },
         {
@@ -229,6 +234,10 @@
           "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
         },
         {
+          "title": "Trump administration denies entry visas to Palestinian officials ahead of UN general assembly",
+          "link": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un"
+        },
+        {
           "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
           "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack"
         },
@@ -239,10 +248,6 @@
         {
           "title": "More Republicans are turning on Iran war as midterms come into view",
           "link": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections"
-        },
-        {
-          "title": "Imran Khan’s sons accuse Pakistani army chief of vendetta against imprisoned father",
-          "link": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir"
         }
       ]
     },
@@ -299,15 +304,27 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 35,
-      "level": "mirne",
+      "score": 56,
+      "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 15,
+      "score_change": 21,
       "headlines": [
+        {
+          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
+        },
+        {
+          "title": "Polish airports suspend operations for second day running amid Russian drone attacks on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053931/"
+        },
         {
           "title": "Poland scrambles jets amid Russian drone attack on Ukraine, explosions heard near border",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053886/"
+        },
+        {
+          "title": "Polsko opevňuje hranice. Vojáci už se dali do práce",
+          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-polsko-opevnuje-hranice-vojaci-uz-se-dali-do-prace-40598185"
         }
       ]
     },
@@ -334,17 +351,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Slovensko navzdory vládní SNS vyšle vojáky do Polska a Rumunska",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensko-navzdory-vladni-sns-vysle-vojaky-do-polska-a-rumunska-40598187"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -352,12 +364,12 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Slovenia's defence minister and foreign minister arrive in Kyiv",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053854/"
+          "title": "‘The drought has left its mark’: Slovenia’s potato lovers lament low yields",
+          "link": "https://www.aljazeera.com/news/2026/9/17/the-drought-has-left-its-mark-slovenias-potato-lovers-lament-low-yields?traffic_source=rss"
         }
       ]
     },
@@ -367,8 +379,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "One dead after torrential rain and flash floods hit Barcelona region",
