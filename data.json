@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-17T04:15:16.055306+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-17T08:16:24.498312+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Českobudějovické letiště se proměnilo v mezinárodní základnu. Cvičení se zúčastnilo na 700 vojáků",
+          "link": "https://www.irozhlas.cz/zpravy-domov/ceskobudejovicke-letiste-se-promenilo-v-mezinarodni-zakladnu-cviceni-se_2609170947_brz"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -26,20 +31,20 @@
           "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss"
         },
         {
-          "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
-          "link": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss"
+          "title": "Russia attacks water supply facilities in Kyiv: disruptions reported",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053845/"
         },
         {
-          "title": "Warehouse belonging to Olena Zelenska Foundation in Kyiv destroyed in Russian attack – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053795/"
+          "title": "Russia damages railway station in Berestyn: trains delayed by up to six hours – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053840/"
         },
         {
-          "title": "One of Ukraine's key industries almost disappears from GDP",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053789/"
+          "title": "Zelenskyy: Graham bill and other sanctions will help force Russia to make peace",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053837/"
         },
         {
-          "title": "Ukraine awaits Russian list of sites to be covered by possible energy ceasefire",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053783/"
+          "title": "Zelenskyy's Office explains how US Graham bill could affect Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053834/"
         }
       ]
     },
@@ -49,8 +54,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -161,12 +166,17 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Německo řeší, jak před AfD skrýt válečné plány. Bojí se úniku do Ruska",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-nemecko-resi-jak-pred-afd-skryt-valecne-plany-boji-se-uniku-do-ruska-315396"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -201,11 +211,11 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 69,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -9,
+      "score": 100,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 31,
       "headlines": [
         {
           "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
@@ -216,16 +226,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
         },
         {
+          "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people?",
+          "link": "https://www.theguardian.com/world/2026/sep/17/thursday-briefing-yemens-war-continues-to-threaten-oil-supplies-but-what-about-its-people"
+        },
+        {
           "title": "More Republicans are turning on Iran war as midterms come into view",
           "link": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections"
         },
         {
           "title": "Imran Khan’s sons accuse Pakistani army chief of vendetta against imprisoned father",
           "link": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir"
-        },
-        {
-          "title": "Nato leader warns of ‘most dangerous and complex security environment in a generation’",
-          "link": "https://www.theguardian.com/world/2026/sep/16/nato-leader-warns-of-most-dangerous-and-complex-security-environment-in-a-generation"
         }
       ]
     },
@@ -242,17 +252,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Lithuanian president believes Russia deliberately allows drones to enter Baltic states",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053785/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -280,8 +285,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -350,8 +355,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ]
