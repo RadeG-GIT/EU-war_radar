@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T00:18:39.308066+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-09-17T04:15:16.055306+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,6 +22,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Congress passes sweeping US sanctions bill targeting Russia",
+          "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss"
+        },
+        {
           "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
           "link": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss"
         },
@@ -36,31 +40,18 @@
         {
           "title": "Ukraine awaits Russian list of sites to be covered by possible energy ceasefire",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053783/"
-        },
-        {
-          "title": "Russian drone strike destroys warehouse that stored props from Zelenskyy’s Kvartal 95 production studio – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/16/8053763/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Kosovo’s former president guilty of war crimes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss"
-        },
-        {
-          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -170,17 +161,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Sweden voted against more power for the far right – but are centrists listening?",
-          "link": "https://www.theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -215,16 +201,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 78,
-      "level": "kriticke",
-      "color": "#9C3B37",
+      "score": 69,
+      "level": "zvysene",
+      "color": "#C98A3B",
       "trend": "down",
-      "score_change": -6,
+      "score_change": -9,
       "headlines": [
-        {
-          "title": "Kosovo’s former president guilty of war crimes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss"
-        },
         {
           "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
           "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss"
@@ -234,12 +216,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
         },
         {
-          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
-        },
-        {
           "title": "More Republicans are turning on Iran war as midterms come into view",
           "link": "https://www.theguardian.com/us-news/2026/sep/16/republicans-iran-war-midterm-elections"
+        },
+        {
+          "title": "Imran Khan’s sons accuse Pakistani army chief of vendetta against imprisoned father",
+          "link": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir"
+        },
+        {
+          "title": "Nato leader warns of ‘most dangerous and complex security environment in a generation’",
+          "link": "https://www.theguardian.com/world/2026/sep/16/nato-leader-warns-of-most-dangerous-and-complex-security-environment-in-a-generation"
         }
       ]
     },
@@ -291,21 +277,12 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 9,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -6,
-      "headlines": [
-        {
-          "title": "Kosovo’s former president guilty of war crimes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss"
-        },
-        {
-          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "poland",
@@ -370,17 +347,12 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Sweden voted against more power for the far right – but are centrists listening?",
-          "link": "https://www.theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ]
 }
