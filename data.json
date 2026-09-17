@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-17T08:16:24.498312+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-09-17T12:18:28.384291+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Českobudějovické letiště se proměnilo v mezinárodní základnu. Cvičení se zúčastnilo na 700 vojáků",
-          "link": "https://www.irozhlas.cz/zpravy-domov/ceskobudejovicke-letiste-se-promenilo-v-mezinarodni-zakladnu-cviceni-se_2609170947_brz"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Congress passes sweeping US sanctions bill targeting Russia",
-          "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss"
+          "title": "At least 19 injured in Russian attacks across Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine?traffic_source=rss"
         },
         {
-          "title": "Russia attacks water supply facilities in Kyiv: disruptions reported",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053845/"
+          "title": "Swedish PM Kristersson resigns after election defeat – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         },
         {
-          "title": "Russia damages railway station in Berestyn: trains delayed by up to six hours – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053840/"
+          "title": "Ukraine sees energy and Black Sea ceasefire as possible key outcome of Zelenskyy-Trump meeting in New York",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053896/"
         },
         {
-          "title": "Zelenskyy: Graham bill and other sanctions will help force Russia to make peace",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053837/"
+          "title": "Russia reacts to approval of Graham bill: \"It will complicate peace settlement\"",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053887/"
         },
         {
-          "title": "Zelenskyy's Office explains how US Graham bill could affect Russia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053834/"
+          "title": "Poland scrambles jets amid Russian drone attack on Ukraine, explosions heard near border",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053886/"
         }
       ]
     },
@@ -151,30 +146,42 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 4,
       "headlines": [
+        {
+          "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
+          "link": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss"
+        },
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
           "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
+        },
+        {
+          "title": "Swedish PM Kristersson resigns after election defeat – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "Německo řeší, jak před AfD skrýt válečné plány. Bojí se úniku do Ruska",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-nemecko-resi-jak-pred-afd-skryt-valecne-plany-boji-se-uniku-do-ruska-315396"
+          "title": "Swedish PM Kristersson resigns after election defeat – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
+        },
+        {
+          "title": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
+          "link": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs"
         }
       ]
     },
@@ -214,16 +221,16 @@
       "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 31,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
-        {
-          "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-          "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "People protecting nature and land set up self-defence units amid threat of murder",
           "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
+        },
+        {
+          "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+          "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack"
         },
         {
           "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people?",
@@ -255,8 +262,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -292,12 +299,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 35,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 15,
+      "headlines": [
+        {
+          "title": "Poland scrambles jets amid Russian drone attack on Ukraine, explosions heard near border",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053886/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -322,32 +334,47 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Slovensko navzdory vládní SNS vyšle vojáky do Polska a Rumunska",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensko-navzdory-vladni-sns-vysle-vojaky-do-polska-a-rumunska-40598187"
+        }
+      ]
     },
     {
       "id": "slovenia",
       "name": "Slovinsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Slovenia's defence minister and foreign minister arrive in Kyiv",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053854/"
+        }
+      ]
     },
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "One dead after torrential rain and flash floods hit Barcelona region",
+          "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "sweden",
