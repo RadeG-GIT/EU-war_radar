@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-09-17T20:14:52.994420+00:00",
+  "generated_at": "2026-09-18T00:19:24.293050+00:00",
   "overall_score": 18,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 18,
+      "headlines": [
+        {
+          "title": "Česko čelí ze strany Ruska hybridní válce, řekl premiér Babiš",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-cesko-celi-ze-strany-ruska-hybridni-valce-rekl-premier-babis-315631"
+        },
+        {
+          "title": "Tusk varuje před hybridními útoky Ruska, Babiš mluví o hybridní válce",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/tusk-rusko-podle-tajnych-sluzeb-chysta-hybridni-utoky-drony-a-raketami-na-spojence-ukrajiny-377730"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -46,19 +55,15 @@
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Serbia opens factory to assemble Israeli-made drones",
           "link": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss"
-        },
-        {
-          "title": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
-          "link": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss"
         }
       ]
     },
@@ -155,16 +160,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 8,
+      "score": 17,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
-        {
-          "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
-          "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss"
-        },
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
           "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
@@ -181,8 +182,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
@@ -230,8 +231,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "UN fact-finding mission says US committed possible war crimes in Iran",
-          "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss"
+          "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+          "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss"
         },
         {
           "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
@@ -307,8 +308,8 @@
       "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 44,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
@@ -368,8 +369,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
