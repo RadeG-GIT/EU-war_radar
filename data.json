@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-09-18T00:19:24.293050+00:00",
+  "generated_at": "2026-09-18T04:14:05.479709+00:00",
   "overall_score": 18,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 21,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 18,
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Babiš vyzval ke společné protiraketové obraně. Obdobný program ale v Evropě už běží",
+          "link": "https://www.novinky.cz/clanek/domaci-babis-vyzval-ke-spolecne-protiraketove-obrane-obdobny-program-ale-v-evrope-uz-bezi-40598282"
+        },
         {
           "title": "Česko čelí ze strany Ruska hybridní válce, řekl premiér Babiš",
           "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-cesko-celi-ze-strany-ruska-hybridni-valce-rekl-premier-babis-315631"
@@ -31,8 +35,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
-          "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss"
+          "title": "Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip",
+          "link": "https://www.theguardian.com/world/2026/sep/18/russia-parliament-election-duma-putin"
         },
         {
           "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
@@ -55,17 +59,12 @@
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Serbia opens factory to assemble Israeli-made drones",
-          "link": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -160,11 +159,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
@@ -173,6 +172,10 @@
         {
           "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
+        },
+        {
+          "title": "Babiš vyzval ke společné protiraketové obraně. Obdobný program ale v Evropě už běží",
+          "link": "https://www.novinky.cz/clanek/domaci-babis-vyzval-ke-spolecne-protiraketove-obrane-obdobny-program-ale-v-evrope-uz-bezi-40598282"
         }
       ]
     },
@@ -231,6 +234,14 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
+          "link": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss"
+        },
+        {
+          "title": "UN findings show US strikes on Minab could be war crimes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss"
+        },
+        {
           "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
           "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss"
         },
@@ -241,14 +252,6 @@
         {
           "title": "People protecting nature and land set up self-defence units amid threat of murder",
           "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
-        },
-        {
-          "title": "Trump administration denies entry visas to Palestinian officials ahead of UN general assembly",
-          "link": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un"
-        },
-        {
-          "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-          "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack"
         }
       ]
     },
@@ -305,16 +308,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 100,
+      "score": 85,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
-        {
-          "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
-          "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss"
-        },
         {
           "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
@@ -330,6 +329,10 @@
         {
           "title": "Polish PM believes Russia is preparing hybrid attacks against countries supporting Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053964/"
+        },
+        {
+          "title": "Polish airports suspend operations for second day running amid Russian drone attacks on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053931/"
         }
       ]
     },
