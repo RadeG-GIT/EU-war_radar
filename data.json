@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T16:13:18.814320+00:00",
-  "overall_score": 17,
+  "generated_at": "2026-09-18T20:13:23.060331+00:00",
+  "overall_score": 16,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Trumpův muž si nebere servítky: Od Česka očekáváme splnění cílů",
@@ -39,24 +39,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+          "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss"
+        },
+        {
+          "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+          "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss"
+        },
+        {
           "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
           "link": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss"
         },
         {
-          "title": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
-          "link": "https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss"
+          "title": "Czech Gripen jets flew to Poland amid Russian drone attack on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054144/"
         },
         {
-          "title": "Denmark to fast-track Ukraine aid package after Russian attack on helicopter – Reuters",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054125/"
-        },
-        {
-          "title": "EU says it cannot buy Patriot missiles for Ukraine until Kyiv submits signed contracts",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054091/"
-        },
-        {
-          "title": "Ukraine's 3rd Army Corps says it has crippled Russia's elite Rubicon drone unit",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054081/"
+          "title": "Russians attack Kyiv with ballistic missiles",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054140/"
         }
       ]
     },
@@ -80,8 +80,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Drone debris found near Moldovan capital",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054066/"
+          "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+          "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss"
         }
       ]
     },
@@ -138,16 +138,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 19,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
-          "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss"
-        },
         {
           "title": "Denmark to fast-track Ukraine aid package after Russian attack on helicopter – Reuters",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054125/"
@@ -161,17 +157,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 38,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 23,
-      "headlines": [
-        {
-          "title": "Russian weekly losses top 10,000 troops killed and wounded for third week running – Estonian intelligence chief",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054087/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -23,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -189,8 +180,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -2,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
@@ -212,8 +203,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
@@ -244,31 +235,22 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 7,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -5,
-      "headlines": [
-        {
-          "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – UK politics live",
-          "link": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 82,
-      "level": "kriticke",
-      "color": "#9C3B37",
+      "score": 65,
+      "level": "zvysene",
+      "color": "#C98A3B",
       "trend": "down",
-      "score_change": -18,
+      "score_change": -17,
       "headlines": [
-        {
-          "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-          "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "People protecting nature and land set up self-defence units amid threat of murder",
           "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
@@ -284,6 +266,10 @@
         {
           "title": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
           "link": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un"
+        },
+        {
+          "title": "Imran Khan’s sons accuse Pakistani army chief of vendetta against imprisoned father",
+          "link": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir"
         }
       ]
     },
@@ -293,8 +279,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Yemen’s anti-Houthi forces launch inquest into sudden military collapse",
@@ -308,8 +294,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -17,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -338,8 +324,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
@@ -350,15 +336,23 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
+      "score": 44,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 18,
       "headlines": [
+        {
+          "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+          "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss"
+        },
         {
           "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
           "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms"
+        },
+        {
+          "title": "Czech Gripen jets flew to Poland amid Russian drone attack on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054144/"
         },
         {
           "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
@@ -369,17 +363,12 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
-          "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -397,8 +386,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -414,19 +403,15 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 12,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
           "link": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss"
-        },
-        {
-          "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
-          "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss"
         },
         {
           "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
@@ -448,8 +433,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
