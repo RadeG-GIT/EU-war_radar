@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T04:14:05.479709+00:00",
-  "overall_score": 18,
+  "generated_at": "2026-09-18T08:14:48.092327+00:00",
+  "overall_score": 17,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,12 +8,12 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Babiš vyzval ke společné protiraketové obraně. Obdobný program ale v Evropě už běží",
-          "link": "https://www.novinky.cz/clanek/domaci-babis-vyzval-ke-spolecne-protiraketove-obrane-obdobny-program-ale-v-evrope-uz-bezi-40598282"
+          "title": "Hangár na letišti Hradčany sloužil jako úkryt pro sovětské stíhačky. Teď je kulturní památkou",
+          "link": "https://www.novinky.cz/clanek/kultura-hangar-na-letisti-hradcany-slouzil-jako-ukryt-pro-sovetske-stihacky-ted-je-kulturni-pamatkou-40597862"
         },
         {
           "title": "Česko čelí ze strany Ruska hybridní válce, řekl premiér Babiš",
@@ -35,6 +35,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Fire engulfs Zaporizhzhia shopping centre after Russian strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss"
+        },
+        {
           "title": "Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip",
           "link": "https://www.theguardian.com/world/2026/sep/18/russia-parliament-election-duma-putin"
         },
@@ -43,16 +47,12 @@
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         },
         {
-          "title": "Poland scrambles aircraft for second time in a day due to Russian attacks on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053974/"
+          "title": "NYT: Trump considers \"appeasing\" Russia with business deals before hostilities end",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054016/"
         },
         {
-          "title": "Russian attack on Kyiv Oblast injured a child",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053973/"
-        },
-        {
-          "title": "Polish PM believes Russia is preparing hybrid attacks against countries supporting Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053964/"
+          "title": "Rzeszów and Lublin airports suspend operations for third consecutive day amid Russian attacks on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054012/"
         }
       ]
     },
@@ -62,8 +62,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -159,23 +159,27 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 25,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 5,
       "headlines": [
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
           "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
         },
         {
+          "title": "Labor’s plans for visa overstayer detention centres branded a ‘Donald Trump twist’ on immigration",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/18/labors-plans-for-visa-overstayer-detention-centres-a-donald-trump-twist-on-australian-immigration-ntwnfb"
+        },
+        {
           "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         },
         {
-          "title": "Babiš vyzval ke společné protiraketové obraně. Obdobný program ale v Evropě už běží",
-          "link": "https://www.novinky.cz/clanek/domaci-babis-vyzval-ke-spolecne-protiraketove-obrane-obdobny-program-ale-v-evrope-uz-bezi-40598282"
+          "title": "EU seeks compromise over France's resistance to Russia sanctions extension",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054019/"
         }
       ]
     },
@@ -217,12 +221,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "EU seeks compromise over France's resistance to Russia sanctions extension",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054019/"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -242,28 +251,33 @@
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss"
         },
         {
-          "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
-          "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss"
-        },
-        {
           "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
           "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "People protecting nature and land set up self-defence units amid threat of murder",
           "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
+        },
+        {
+          "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
+          "link": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 36,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 21,
+      "headlines": [
+        {
+          "title": "Rusko soustřeďuje síly u Dopropillje a čeká na mlhu",
+          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-cekaji-na-mlhu-rusko-soustreduje-sily-u-dopropillje-a-chysta-podzimni-ofenzivu-40598316"
+        }
+      ]
     },
     {
       "id": "lithuania",
@@ -308,31 +322,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 85,
-      "level": "kriticke",
-      "color": "#9C3B37",
+      "score": 38,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "down",
-      "score_change": -15,
+      "score_change": -47,
       "headlines": [
         {
           "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         },
         {
-          "title": "Trump announces \"major progress\" on establishing US military base in Poland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053979/"
-        },
-        {
-          "title": "Poland scrambles aircraft for second time in a day due to Russian attacks on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053974/"
-        },
-        {
-          "title": "Polish PM believes Russia is preparing hybrid attacks against countries supporting Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053964/"
-        },
-        {
-          "title": "Polish airports suspend operations for second day running amid Russian drone attacks on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/17/8053931/"
+          "title": "Rzeszów and Lublin airports suspend operations for third consecutive day amid Russian attacks on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054012/"
         }
       ]
     },
@@ -359,12 +361,21 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 14,
+      "headlines": [
+        {
+          "title": "EU seeks compromise over France's resistance to Russia sanctions extension",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054019/"
+        },
+        {
+          "title": "Slovak PM says Slovakia should not go to war \"because of some Article 5\" of NATO",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054000/"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -379,17 +390,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 14,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "One dead after torrential rain and flash floods hit Barcelona region",
-          "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "sweden",
