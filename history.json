@@ -1654,5 +1654,41 @@
       "spain": 14,
       "sweden": 8
     }
+  },
+  {
+    "timestamp": "2026-09-18T16:13:18.814320+00:00",
+    "overall_score": 17,
+    "scores": {
+      "czechia": 27,
+      "ukraine": 100,
+      "balkans": 20,
+      "moldova": 24,
+      "austria": 3,
+      "belgium": 3,
+      "bulgaria": 5,
+      "croatia": 5,
+      "cyprus": 8,
+      "denmark": 19,
+      "estonia": 38,
+      "finland": 10,
+      "france": 14,
+      "germany": 8,
+      "greece": 6,
+      "hungary": 4,
+      "ireland": 7,
+      "italy": 82,
+      "latvia": 18,
+      "lithuania": 15,
+      "luxembourg": 2,
+      "malta": 3,
+      "netherlands": 6,
+      "poland": 26,
+      "portugal": 5,
+      "romania": 15,
+      "slovakia": 5,
+      "slovenia": 3,
+      "spain": 26,
+      "sweden": 11
+    }
   }
 ]
