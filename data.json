@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-09-18T08:14:48.092327+00:00",
-  "overall_score": 17,
+  "generated_at": "2026-09-18T12:17:27.811590+00:00",
+  "overall_score": 16,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
-          "title": "Hangár na letišti Hradčany sloužil jako úkryt pro sovětské stíhačky. Teď je kulturní památkou",
-          "link": "https://www.novinky.cz/clanek/kultura-hangar-na-letisti-hradcany-slouzil-jako-ukryt-pro-sovetske-stihacky-ted-je-kulturni-pamatkou-40597862"
-        },
-        {
-          "title": "Česko čelí ze strany Ruska hybridní válce, řekl premiér Babiš",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-cesko-celi-ze-strany-ruska-hybridni-valce-rekl-premier-babis-315631"
+          "title": "Směřujete mezi nejhorší. Americký vyslanec při NATO vyplísnil Česko na pražském summitu",
+          "link": "https://www.novinky.cz/clanek/domaci-smerujete-mezi-nejhorsi-v-nato-americky-velvyslanec-vyplisnil-cesko-na-prazskem-summitu-40598434"
         },
         {
           "title": "Tusk varuje před hybridními útoky Ruska, Babiš mluví o hybridní válce",
@@ -35,24 +31,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Fire engulfs Zaporizhzhia shopping centre after Russian strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss"
+          "title": "Ukraine fires drone barrage as Russia launches elections",
+          "link": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss"
         },
         {
           "title": "Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip",
           "link": "https://www.theguardian.com/world/2026/sep/18/russia-parliament-election-duma-putin"
         },
         {
-          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
+          "title": "EU fails to agree on extending sanctions against Putin and Lavrov",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054075/"
         },
         {
-          "title": "NYT: Trump considers \"appeasing\" Russia with business deals before hostilities end",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054016/"
+          "title": "Ukrainian forces strike control station for Russian Orion drones in Crimea",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054057/"
         },
         {
-          "title": "Rzeszów and Lublin airports suspend operations for third consecutive day amid Russian attacks on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054012/"
+          "title": "Ukraine notices activation of Belarus repeaters for Russian drones attacking Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054054/"
         }
       ]
     },
@@ -69,12 +65,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Drone debris found near the capital of Moldova",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054066/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -159,23 +160,19 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 25,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 5,
+      "score": 16,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
           "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
         },
         {
-          "title": "Labor’s plans for visa overstayer detention centres branded a ‘Donald Trump twist’ on immigration",
+          "title": "Labor visa overstayer detention centre plan branded a ‘Donald Trump twist’ on immigration",
           "link": "https://www.theguardian.com/australia-news/2026/sep/18/labors-plans-for-visa-overstayer-detention-centres-a-donald-trump-twist-on-australian-immigration-ntwnfb"
-        },
-        {
-          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
         },
         {
           "title": "EU seeks compromise over France's resistance to Russia sanctions extension",
@@ -186,17 +183,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -221,12 +213,16 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 7,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 5,
       "headlines": [
+        {
+          "title": "Burnham hosts Ireland’s taoiseach as he bids for UK exemptions from EU’s ‘Made in Europe’ plan – UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news"
+        },
         {
           "title": "EU seeks compromise over France's resistance to Russia sanctions extension",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054019/"
@@ -243,12 +239,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
-          "link": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss"
-        },
-        {
-          "title": "UN findings show US strikes on Minab could be war crimes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss"
+          "title": "United Nations says US may have committed war crimes in Iran: What it means",
+          "link": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss"
         },
         {
           "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
@@ -261,33 +253,37 @@
         {
           "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
           "link": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi"
+        },
+        {
+          "title": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
+          "link": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 36,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 21,
-      "headlines": [
-        {
-          "title": "Rusko soustřeďuje síly u Dopropillje a čeká na mlhu",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-cekaji-na-mlhu-rusko-soustreduje-sily-u-dopropillje-a-chysta-podzimni-ofenzivu-40598316"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -21,
+      "headlines": []
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 32,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 17,
+      "headlines": [
+        {
+          "title": "Lithuania's foreign minister confirms Polish intel on Russia preparing hybrid attacks against Ukraine's allies",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054030/"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -322,19 +318,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 38,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -47,
+      "score_change": -9,
       "headlines": [
         {
-          "title": "Poland warns Russia planning ‘hybrid strikes’ against countries supporting Ukraine – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates"
-        },
-        {
-          "title": "Rzeszów and Lublin airports suspend operations for third consecutive day amid Russian attacks on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054012/"
+          "title": "Dezinformace se šíří už pár minut po útoku. Polsko hledá rychlejší obranu",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-dezinformace-se-siri-uz-par-minut-po-utoku-polsko-hleda-rychlejsi-obranu-315292"
         }
       ]
     },
@@ -361,19 +353,15 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 19,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 14,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "EU seeks compromise over France's resistance to Russia sanctions extension",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054019/"
-        },
-        {
-          "title": "Slovak PM says Slovakia should not go to war \"because of some Article 5\" of NATO",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054000/"
         }
       ]
     },
@@ -390,12 +378,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
-      "headlines": []
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
+          "link": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon"
+        }
+      ]
     },
     {
       "id": "sweden",
