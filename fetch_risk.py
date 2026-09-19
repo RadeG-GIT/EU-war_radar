@@ -6,22 +6,14 @@ Ceska republika ma prioritu - vic zdroju, vic klicovych slov, vic zobrazenych zp
 
 DULEZITE - presne celoslovni hledani:
 Vsechna klicova slova se hledaji jako CELA SLOVA (regex s hranici \\b), ne jako
-libovolny podretezec. Duvod: podretezcove hledani zpusobovalo falesne shody,
-napr. "rim" uvnitr "crime"/"Crimea", "acr" uvnitr "massacre", "bis" uvnitr
-"cannabis".
+libovolny podretezec.
 
 DULEZITE - konkretni vojenske fraze misto nejednoznacnych slov:
-Bare slova jako "strike"/"strikes" se NEPOUZIVAJI, protoze se objevuji i mimo
-vojensky kontext (napr. "lightning strikes" v predpovedi pocasi, "workers on
-strike" ve zpravach o stavce). Misto toho se pouzivaji konkretni spojeni
-("airstrike", "missile strike", "military strike", "drone strike"), ktera se
-v beznem textu jinak nevyskytuji.
+Bare slova jako "strike"/"strikes" se NEPOUZIVAJI (kolize s pocasim, stavkami).
 
-Text se pred porovnavanim normalizuje (mala pismena + odstraneni diakritiky),
-aby fungovalo spravne porovnavani u ceskych zdroju (Cesko/CESKO/Česko -> cesko).
+Text se pred porovnavanim normalizuje (mala pismena + odstraneni diakritiky).
 
-Kazde spusteni take uklada zaznam do history.json (datum + skore vsech oblasti),
-aby sel na webu zobrazit graf vyvoje v case.
+Kazde spusteni take uklada zaznam do history.json pro graf vyvoje v case.
 """
 
 import json
@@ -49,11 +41,11 @@ FEEDS = [
     "https://www.irozhlas.cz/rss/irozhlas",
     "https://www.novinky.cz/rss",
     "https://www.seznamzpravy.cz/rss",
-    "https://ct24.ceskatelevize.cz/rss/hlavni-zpravy",
+    # opravena adresa - puvodni /rss/hlavni-zpravy jiz neexistuje po redesignu webu
+    "https://ct24.ceskatelevize.cz/rss/tema/vyber-redakce-84313",
 ]
 
 # --- 2. Klicova slova, ktera musi byt ve zprave PRITOMNA (jako CELE SLOVO), ---
-# aby se zprava vubec pocitala.
 THREAT_KEYWORDS = [
     "war", "wars", "valka", "valce", "valky",
     "invasion", "invaze", "invaded", "invading",
@@ -63,8 +55,6 @@ THREAT_KEYWORDS = [
     "mobilization", "mobilisation", "mobilize", "mobilise", "mobilizace",
     "coup", "puc",
     "attack", "attacks", "attacked", "attacking", "utok", "utoky", "utocit",
-    # POZOR: bare "strike"/"strikes"/"struck" zamerne chybi (kolize s pocasim,
-    # stavkami apod.) - pouzivaji se jen konkretni vojenske fraze:
     "airstrike", "airstrikes", "air strike", "air strikes",
     "missile strike", "missile strikes",
     "military strike", "military strikes",
@@ -186,10 +176,7 @@ def normalize_text(text):
 
 
 def word_match(keyword, text):
-    """
-    Overi, ze 'keyword' je v textu pritomny jako CELE SLOVO (nebo cela fraze),
-    ne jako podretezec uvnitr jineho slova.
-    """
+    """Overi, ze 'keyword' je v textu pritomny jako CELE SLOVO."""
     pattern = r"\b" + re.escape(keyword) + r"\b"
     return re.search(pattern, text) is not None
 
@@ -248,10 +235,6 @@ def is_threat_related(text):
 
 
 def score_hotspot(items, config):
-    """
-    Zprava se pocita jen tehdy, kdyz obsahuje ZAROVEN nazev zeme/oblasti
-    (jako cele slovo) A ZAROVEN alespon jedno slovo z THREAT_KEYWORDS.
-    """
     score = config["base_score"]
     matched = []
 
