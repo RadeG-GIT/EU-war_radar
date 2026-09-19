@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-09-19T08:14:35.597358+00:00",
+  "generated_at": "2026-09-19T12:17:02.304190+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Pavel přijal amerického velvyslance při NATO, který kritizoval Česko",
+          "link": "https://www.novinky.cz/clanek/domaci-pavel-prijal-americkeho-velvyslance-pri-nato-ktery-kritizoval-cesko-40598540"
+        },
         {
           "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
           "link": "https://ct24.ceskatelevize.cz/clanek/domaci/policie-kvuli-ruskym-hrozbam-posilila-hlidky-u-nadrazi-uvedl-metnar-377749"
@@ -35,8 +39,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Trump signs sweeping Russia sanctions over Ukraine war",
-          "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss"
+          "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+          "link": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss"
         },
         {
           "title": "Trump signs sweeping Russia sanctions bill",
@@ -49,6 +53,10 @@
         {
           "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
           "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
+        },
+        {
+          "title": "Zelenskyy unveils new interceptor drone for jet-powered Shahed drones – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054224/"
         }
       ]
     },
@@ -58,8 +66,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -128,8 +136,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
@@ -289,12 +297,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -24,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Polsko kvůli ruskému útoku na Ukrajinu vyslalo do vzduchu vojenské letouny",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsko-kvuli-ruskemu-utoku-na-ukrajinu-vyslalo-do-vzduchu-vojenske-letouny-315724"
+        }
+      ]
     },
     {
       "id": "portugal",
