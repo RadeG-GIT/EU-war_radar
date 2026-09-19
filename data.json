@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T06:29:43.915359+00:00",
+  "generated_at": "2026-09-19T06:33:05.450341+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
@@ -137,8 +137,8 @@
       "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Trump says deal with Denmark gives US ‘permanent control’ over Greenland",
@@ -196,17 +196,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
-          "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -373,8 +368,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
