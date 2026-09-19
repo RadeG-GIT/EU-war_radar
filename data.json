@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:13:25.417670+00:00",
+  "generated_at": "2026-09-19T20:13:20.321368+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -43,10 +43,6 @@
           "link": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss"
         },
         {
-          "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
-          "link": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss"
-        },
-        {
           "title": "Trump signs sweeping Russia sanctions bill",
           "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
         },
@@ -55,8 +51,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
-          "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
+          "title": "Mother and her child injured in Russian attack on Kyiv Oblast, educational facility damaged",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054259/"
+        },
+        {
+          "title": "Ukrainian interceptor downs Russian jet-powered drone for second time in one day – Zelenskyy",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054255/"
         }
       ]
     },
@@ -242,17 +242,12 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
-          "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -17,
+      "headlines": []
     },
     {
       "id": "lithuania",
@@ -287,12 +282,21 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 3,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Dutch riot police break up violent far-right protest in The Hague",
+          "link": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss"
+        },
+        {
+          "title": "Dutch riot police break up violent far-right protest in The Hague",
+          "link": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld"
+        }
+      ]
     },
     {
       "id": "poland",
@@ -355,8 +359,8 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
