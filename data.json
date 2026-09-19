@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-09-19T04:13:53.515654+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-09-19T05:41:08.938618+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 30,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
         {
           "title": "Dvě procenta HDP? ‚S tímto rozpočtem nejsme schopni obranu státu pokrýt,‘ říká Heranová",
           "link": "https://www.irozhlas.cz/zpravy-domov/nato-whitaker-obrana-vydaje-cesko-heranova_2609182200_elev"
-        },
-        {
-          "title": "Trumpův muž si nebere servítky: Od Česka očekáváme splnění cílů",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-trumpuv-muz-si-nebere-servitky-od-ceska-ocekavame-splneni-cilu-315687"
         },
         {
           "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
@@ -47,10 +43,6 @@
           "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss"
         },
         {
-          "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
-          "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss"
-        },
-        {
           "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
           "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss"
         },
@@ -59,20 +51,29 @@
           "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
         },
         {
-          "title": "Czech Gripen jets flew to Poland amid Russian drone attack on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054144/"
+          "title": "US approves potential sale of more than US$2 billion in air defence equipment to Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054179/"
+        },
+        {
+          "title": "Trump: Russia has already attacked Ukraine's allies",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054178/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Thaçi dostal 25 let za válečné zločiny",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/tribunal-pro-kosovo-ulozil-exprezidentu-thacimu-25-let-vezeni-za-valecne-zlociny-377671"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -80,8 +81,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -137,12 +138,16 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 16,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 28,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 12,
       "headlines": [
+        {
+          "title": "Trump says deal with Denmark gives US ‘permanent control’ over Greenland",
+          "link": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss"
+        },
         {
           "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
           "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
@@ -150,6 +155,10 @@
         {
           "title": "Denmark to fast-track Ukraine aid package after Russian attack on helicopter – Reuters",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054125/"
+        },
+        {
+          "title": "USA a Dánsko podepíšou dohodu o Grónsku. Zcela řeší naše obavy, řekl Trump",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-a-dansko-podepisou-dohodu-o-gronsku-zcela-resi-nase-obavy-rekl-trump-315720"
         }
       ]
     },
@@ -179,8 +188,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
@@ -236,50 +245,30 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 59,
-      "level": "zvysene",
-      "color": "#C98A3B",
+      "score": 7,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -52,
       "headlines": [
-        {
-          "title": "People protecting nature and land set up self-defence units amid threat of murder",
-          "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime"
-        },
         {
           "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
           "link": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi"
-        },
-        {
-          "title": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
-          "link": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un"
-        },
-        {
-          "title": "Imran Khan’s sons accuse Pakistani army chief of vendetta against imprisoned father",
-          "link": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir"
-        },
-        {
-          "title": "Rusové útočili v Záporoží, Charkovské i Žytomyrské oblasti. Zemřelo několik lidí",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-utocilo-na-zaporozi-i-sumskou-oblast-pri-vybuchu-miny-zemrel-clovek-377735"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 35,
+      "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
           "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
-        },
-        {
-          "title": "Yemen’s anti-Houthi forces launch inquest into sudden military collapse",
-          "link": "https://www.theguardian.com/world/2026/sep/18/yemen-anti-houthi-forces-inquest-military-collapse"
         }
       ]
     },
@@ -326,12 +315,16 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 29,
+      "score": 44,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "up",
+      "score_change": 15,
       "headlines": [
+        {
+          "title": "Trump: Russia has already attacked Ukraine's allies",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054178/"
+        },
         {
           "title": "Czech Gripen jets flew to Poland amid Russian drone attack on Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054144/"
@@ -381,11 +374,11 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 14,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
           "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
