@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-09-18T20:13:23.060331+00:00",
+  "generated_at": "2026-09-19T00:18:54.226163+00:00",
   "overall_score": 16,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 27,
+      "score": 30,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Dvě procenta HDP? ‚S tímto rozpočtem nejsme schopni obranu státu pokrýt,‘ říká Heranová",
+          "link": "https://www.irozhlas.cz/zpravy-domov/nato-whitaker-obrana-vydaje-cesko-heranova_2609182200_elev"
+        },
         {
           "title": "Trumpův muž si nebere servítky: Od Česka očekáváme splnění cílů",
           "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-trumpuv-muz-si-nebere-servitky-od-ceska-ocekavame-splneni-cilu-315687"
@@ -47,16 +51,16 @@
           "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss"
         },
         {
-          "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
-          "link": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss"
+          "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+          "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
+          "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
         },
         {
           "title": "Czech Gripen jets flew to Poland amid Russian drone attack on Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054144/"
-        },
-        {
-          "title": "Russians attack Kyiv with ballistic missiles",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054140/"
         }
       ]
     },
@@ -141,16 +145,16 @@
       "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
+        {
+          "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
+          "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
+        },
         {
           "title": "Denmark to fast-track Ukraine aid package after Russian attack on helicopter – Reuters",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054125/"
-        },
-        {
-          "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
-          "link": "https://www.irozhlas.cz/zpravy-svet/online-polsko-uz-je-take-soucasti-protiraketove-iniciativy-s-ukrajinou-bude_2609181646_dns"
         }
       ]
     },
@@ -160,8 +164,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -23,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -177,11 +181,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 14,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
@@ -190,10 +194,6 @@
         {
           "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
           "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms"
-        },
-        {
-          "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
-          "link": "https://www.irozhlas.cz/zpravy-svet/online-polsko-uz-je-take-soucasti-protiraketove-iniciativy-s-ukrajinou-bude_2609181646_dns"
         }
       ]
     },
@@ -207,8 +207,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
-          "link": "https://www.irozhlas.cz/zpravy-svet/online-polsko-uz-je-take-soucasti-protiraketove-iniciativy-s-ukrajinou-bude_2609181646_dns"
+          "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
+          "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss"
         }
       ]
     },
@@ -238,18 +238,18 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 65,
+      "score": 62,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -17,
+      "score_change": -3,
       "headlines": [
         {
           "title": "People protecting nature and land set up self-defence units amid threat of murder",
@@ -276,12 +276,16 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 18,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 35,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 17,
       "headlines": [
+        {
+          "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
+          "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
+        },
         {
           "title": "Yemen’s anti-Houthi forces launch inquest into sudden military collapse",
           "link": "https://www.theguardian.com/world/2026/sep/18/yemen-anti-houthi-forces-inquest-military-collapse"
@@ -321,26 +325,21 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
-          "link": "https://www.irozhlas.cz/zpravy-svet/online-polsko-uz-je-take-soucasti-protiraketove-iniciativy-s-ukrajinou-bude_2609181646_dns"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 44,
+      "score": 41,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
@@ -353,10 +352,6 @@
         {
           "title": "Czech Gripen jets flew to Poland amid Russian drone attack on Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054144/"
-        },
-        {
-          "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
-          "link": "https://www.irozhlas.cz/zpravy-svet/online-polsko-uz-je-take-soucasti-protiraketove-iniciativy-s-ukrajinou-bude_2609181646_dns"
         }
       ]
     },
@@ -366,8 +361,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -403,16 +398,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 23,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -6,
       "headlines": [
-        {
-          "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
-          "link": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss"
-        },
         {
           "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
           "link": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon"
@@ -420,27 +411,18 @@
         {
           "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
           "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms"
-        },
-        {
-          "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
-          "link": "https://www.irozhlas.cz/zpravy-svet/online-polsko-uz-je-take-soucasti-protiraketove-iniciativy-s-ukrajinou-bude_2609181646_dns"
         }
       ]
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "ONLINE: Polsko už je také součástí protiraketové iniciativy. S Ukrajinou bude partner, uvedl Zelenskyj",
-          "link": "https://www.irozhlas.cz/zpravy-svet/online-polsko-uz-je-take-soucasti-protiraketove-iniciativy-s-ukrajinou-bude_2609181646_dns"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ]
 }
