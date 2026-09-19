@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T00:18:54.226163+00:00",
-  "overall_score": 16,
+  "generated_at": "2026-09-19T04:13:53.515654+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 30,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Dvě procenta HDP? ‚S tímto rozpočtem nejsme schopni obranu státu pokrýt,‘ říká Heranová",
@@ -43,12 +43,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
-          "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss"
+          "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+          "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss"
         },
         {
-          "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-          "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss"
+          "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+          "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss"
         },
         {
           "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
@@ -77,17 +77,12 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-          "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "austria",
@@ -181,7 +176,7 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
@@ -190,10 +185,6 @@
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
           "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
-        },
-        {
-          "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-          "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms"
         }
       ]
     },
@@ -245,7 +236,7 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 62,
+      "score": 59,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "down",
@@ -260,16 +251,16 @@
           "link": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi"
         },
         {
-          "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-          "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms"
-        },
-        {
           "title": "Trump administration again denies entry visas to Palestinian officials ahead of UN general assembly",
           "link": "https://www.theguardian.com/us-news/2026/sep/17/trump-denies-visas-palestine-un"
         },
         {
           "title": "Imran Khan’s sons accuse Pakistani army chief of vendetta against imprisoned father",
           "link": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir"
+        },
+        {
+          "title": "Rusové útočili v Záporoží, Charkovské i Žytomyrské oblasti. Zemřelo několik lidí",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-utocilo-na-zaporozi-i-sumskou-oblast-pri-vybuchu-miny-zemrel-clovek-377735"
         }
       ]
     },
@@ -279,8 +270,8 @@
       "score": 35,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 17,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
@@ -328,27 +319,19 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 41,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -12,
       "headlines": [
-        {
-          "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-          "link": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss"
-        },
-        {
-          "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-          "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms"
-        },
         {
           "title": "Czech Gripen jets flew to Poland amid Russian drone attack on Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054144/"
@@ -398,19 +381,15 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 17,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -6,
+      "score_change": -3,
       "headlines": [
         {
           "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
           "link": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon"
-        },
-        {
-          "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-          "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms"
         }
       ]
     },
@@ -420,8 +399,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ]
