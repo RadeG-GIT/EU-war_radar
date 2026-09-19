@@ -4,9 +4,12 @@ Spousti se automaticky pres GitHub Actions (viz .github/workflows/update.yml).
 Nevyzaduje zadny platny API klic - pouziva verejne RSS kanaly.
 Ceska republika ma prioritu - vic zdroju, vic klicovych slov, vic zobrazenych zprav.
 
-DULEZITE: zprava se pocita jen tehdy, kdyz obsahuje ZAROVEN nazev zeme/oblasti
-A ZAROVEN nektere z klicovych slov souvisejicich s valkou/terorismem/nasilim
-(viz THREAT_KEYWORDS).
+DULEZITE - presne celoslovni hledani:
+Vsechna klicova slova se hledaji jako CELA SLOVA (regex s hranici \\b), ne jako
+libovolny podretezec. Duvod: podretezcove hledani zpusobovalo falesne shody,
+napr. "rim" (Rim bez diakritiky) se objevovalo uvnitr slov "crime", "prime",
+"Crimea"; "acr" uvnitr "massacre"; "bis" uvnitr "cannabis". Diky celoslovnimu
+hledani uz tyto nesouvisejici zpravy nezpusobi falesne prirazeni skore.
 
 Text se pred porovnavanim normalizuje (mala pismena + odstraneni diakritiky),
 aby fungovalo spravne porovnavani u ceskych zdroju (Cesko/CESKO/Česko -> cesko).
@@ -17,6 +20,7 @@ aby sel na webu zobrazit graf vyvoje v case.
 
 import json
 import os
+import re
 import unicodedata
 from datetime import datetime, timezone
 import feedparser
@@ -42,29 +46,42 @@ FEEDS = [
     "https://ct24.ceskatelevize.cz/rss/hlavni-zpravy",
 ]
 
-# --- 2. Klicova slova, ktera musi byt ve zprave PRITOMNA, aby se vubec pocitala. ---
+# --- 2. Klicova slova, ktera musi byt ve zprave PRITOMNA (jako CELE SLOVO), ---
+# aby se zprava vubec pocitala.
 THREAT_KEYWORDS = [
-    "war", "valka", "invasion", "invaze", "military", "vojensk", "armed forces",
-    "armada", "troops", "vojaci", "nato", "defense", "obrana", "mobilization",
-    "mobilizace", "coup", "puc",
-    "attack", "utok", "strike", "airstrike", "missile", "raketa", "bomb",
-    "explosion", "vybuch", "shooting", "strelba", "clash", "strety",
-    "riot", "nepokoje", "uprising", "povstani", "insurgent", "povstalci",
-    "militia", "milice",
-    "terroris", "terorism", "extremist", "hostage", "rukojmi",
-    "security threat", "bezpecnostni hrozba", "sabotage", "sabotaz",
-    "cyberattack", "kyberneticky utok", "espionage", "spionaz",
-    "drone", "dron", "airspace", "vzdusny prostor",
-    "casualties", "obeti", "killed", "zabit", "wounded", "zranen", "dead",
-    "death toll",
+    "war", "wars", "valka", "valce", "valky",
+    "invasion", "invaze", "invaded", "invading",
+    "military", "vojenska", "vojenske", "vojensky", "vojenstvi",
+    "armed forces", "armada", "troops", "vojaci",
+    "nato", "defense", "defence", "obrana",
+    "mobilization", "mobilisation", "mobilize", "mobilise", "mobilizace",
+    "coup", "puc",
+    "attack", "attacks", "attacked", "attacking", "utok", "utoky", "utocit",
+    "strike", "strikes", "struck", "airstrike", "airstrikes",
+    "missile", "missiles", "raketa", "rakety",
+    "bomb", "bombs", "bombing", "bombed",
+    "explosion", "explosions", "vybuch", "vybuchy",
+    "shooting", "shootings", "strelba",
+    "clash", "clashes", "strety",
+    "riot", "riots", "nepokoje",
+    "uprising", "povstani",
+    "insurgent", "insurgents", "povstalci",
+    "militia", "militias", "milice",
+    "terrorism", "terrorist", "terrorists", "terorismus", "terorista", "teroriste",
+    "extremist", "extremists",
+    "hostage", "hostages", "rukojmi",
+    "security threat", "bezpecnostni hrozba",
+    "sabotage", "sabotaz",
+    "cyberattack", "cyberattacks", "kyberneticky utok",
+    "espionage", "spionaz", "spion",
+    "drone", "drones", "dron", "drony",
+    "airspace", "vzdusny prostor",
+    "casualties", "obeti", "killed", "zabit", "zabiti", "zabita",
+    "wounded", "zranen", "zraneni", "dead", "death toll",
     "ceasefire", "sanctions", "sankce", "peace talks",
 ]
 
 # --- 3. Sledovane oblasti a jejich klicova slova (nazvy zemi/oblasti) ---
-# POZOR: kazde klicove slovo se hleda jako podretezec - kratke/nejednoznacne
-# zkratky (napr. "acr", "bis") se zamerne NEPOUZIVAJI, protoze se nahodou
-# objevuji uvnitr jinych slov (napr. "acr" v "massacre", "bis" v "cannabis")
-# a zpusobuji falesne prirazeni nesouvisejicich zprav.
 HOTSPOTS = {
     "czechia": {
         "name": "Ceska republika",
@@ -122,6 +139,7 @@ HOTSPOTS = {
     "sweden": {"name": "Svedsko", "keywords": ["sweden", "svedsko", "stockholm"], "base_score": 8},
 }
 
+# klicova slova, ktera zvysuji zavaznost jednotlive zpravy (uz relevantni zpravy)
 SEVERITY_WORDS = {
     "dead": 8, "killed": 10, "death toll": 10, "deaths": 8,
     "civilian casualties": 14, "civilian deaths": 14, "children killed": 18,
@@ -130,10 +148,15 @@ SEVERITY_WORDS = {
     "wounded": 6, "injured": 5, "hospitalized": 4,
     "residential building": 9, "apartment block": 9, "hospital hit": 11,
     "school hit": 11, "maternity ward": 12, "shelter hit": 10,
-    "invasion": 15, "invaze": 15, "mobiliz": 12, "airstrike": 10, "missile": 8,
-    "attack": 6, "utok": 6, "strike": 6, "shoot down": 10,
-    "explosion": 6, "troops": 4, "sanction": 2,
-    "ceasefire": -8, "peace talks": -6, "de-escalat": -8,
+    "invasion": 15, "invaze": 15,
+    "mobilization": 12, "mobilisation": 12, "mobilize": 12, "mobilise": 12, "mobilizace": 12,
+    "airstrike": 10, "airstrikes": 10, "missile": 8, "missiles": 8,
+    "attack": 6, "attacks": 6, "attacked": 6, "utok": 6,
+    "strike": 6, "strikes": 6, "struck": 6, "shoot down": 10,
+    "explosion": 6, "explosions": 6, "troops": 4,
+    "sanction": 2, "sanctions": 2,
+    "ceasefire": -8, "peace talks": -6,
+    "de-escalation": -8, "de-escalate": -8, "de-escalating": -8,
 }
 
 
@@ -143,6 +166,16 @@ def normalize_text(text):
     text = unicodedata.normalize("NFKD", text)
     text = "".join(c for c in text if not unicodedata.combining(c))
     return text
+
+
+def word_match(keyword, text):
+    """
+    Overi, ze 'keyword' je v textu pritomny jako CELE SLOVO (nebo cela fraze),
+    ne jako podretezec uvnitr jineho slova. Napr. "rim" nenajde shodu uvnitr
+    "crime" nebo "Crimea", "war" nenajde shodu uvnitr "Warsaw".
+    """
+    pattern = r"\b" + re.escape(keyword) + r"\b"
+    return re.search(pattern, text) is not None
 
 
 def load_previous_scores():
@@ -195,19 +228,19 @@ def fetch_headlines():
 
 
 def is_threat_related(text):
-    return any(kw in text for kw in THREAT_KEYWORDS)
+    return any(word_match(kw, text) for kw in THREAT_KEYWORDS)
 
 
 def score_hotspot(items, config):
     """
     Zprava se pocita jen tehdy, kdyz obsahuje ZAROVEN nazev zeme/oblasti
-    A ZAROVEN alespon jedno slovo z THREAT_KEYWORDS.
+    (jako cele slovo) A ZAROVEN alespon jedno slovo z THREAT_KEYWORDS.
     """
     score = config["base_score"]
     matched = []
 
     for item in items:
-        has_country = any(kw in item["text"] for kw in config["keywords"])
+        has_country = any(word_match(kw, item["text"]) for kw in config["keywords"])
         if not has_country:
             continue
         if not is_threat_related(item["text"]):
@@ -216,7 +249,7 @@ def score_hotspot(items, config):
         matched.append(item)
         severity = 3
         for word, weight in SEVERITY_WORDS.items():
-            if word in item["text"]:
+            if word_match(word, item["text"]):
                 severity += weight
         score += severity
 
