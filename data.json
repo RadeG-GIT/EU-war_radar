@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T06:33:05.450341+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-19T08:14:35.597358+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -49,27 +49,18 @@
         {
           "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
           "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
-        },
-        {
-          "title": "Russia attacks Ukraine with Zircon missiles and drones, hits recorded at 15 locations",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054191/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Thaçi dostal 25 let za válečné zločiny",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/tribunal-pro-kosovo-ulozil-exprezidentu-thacimu-25-let-vezeni-za-valecne-zlociny-377671"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -134,23 +125,15 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 16,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
-        {
-          "title": "Trump says deal with Denmark gives US ‘permanent control’ over Greenland",
-          "link": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss"
-        },
         {
           "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
           "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
-        },
-        {
-          "title": "Trump se dohodl s Dánskem na urovnání vztahů kolem Grónska. USA budou ‚kontrolovat své zájmy‘",
-          "link": "https://www.irozhlas.cz/zpravy-svet/trump-se-dohodl-s-danskem-na-urovnani-vztahu-kolem-gronska-usa-budou-kontrolovat_2609182356_kma"
         },
         {
           "title": "USA a Dánsko podepíší dohodu o Grónsku. Zcela řeší naše obavy, řekl Trump",
@@ -199,8 +182,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -306,21 +289,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 44,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Trump: Russia has already attacked Ukraine's allies",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054178/"
-        },
-        {
-          "title": "Czech Gripen jets flew to Poland amid Russian drone attack on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054144/"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -24,
+      "headlines": []
     },
     {
       "id": "portugal",
