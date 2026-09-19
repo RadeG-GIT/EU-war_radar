@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-19T05:41:08.938618+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-09-19T06:29:43.915359+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 15,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -15,
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Dvě procenta HDP? ‚S tímto rozpočtem nejsme schopni obranu státu pokrýt,‘ říká Heranová",
-          "link": "https://www.irozhlas.cz/zpravy-domov/nato-whitaker-obrana-vydaje-cesko-heranova_2609182200_elev"
-        },
         {
           "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
           "link": "https://ct24.ceskatelevize.cz/clanek/domaci/policie-kvuli-ruskym-hrozbam-posilila-hlidky-u-nadrazi-uvedl-metnar-377749"
@@ -43,6 +39,10 @@
           "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss"
         },
         {
+          "title": "Trump signs sweeping Russia sanctions bill",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
           "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss"
         },
@@ -51,12 +51,8 @@
           "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
         },
         {
-          "title": "US approves potential sale of more than US$2 billion in air defence equipment to Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054179/"
-        },
-        {
-          "title": "Trump: Russia has already attacked Ukraine's allies",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054178/"
+          "title": "Russia attacks Ukraine with Zircon missiles and drones, hits recorded at 15 locations",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054191/"
         }
       ]
     },
@@ -66,8 +62,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Thaçi dostal 25 let za válečné zločiny",
@@ -138,11 +134,11 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 28,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 12,
+      "score": 16,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
         {
           "title": "Trump says deal with Denmark gives US ‘permanent control’ over Greenland",
@@ -153,11 +149,11 @@
           "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
         },
         {
-          "title": "Denmark to fast-track Ukraine aid package after Russian attack on helicopter – Reuters",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/18/8054125/"
+          "title": "Trump se dohodl s Dánskem na urovnání vztahů kolem Grónska. USA budou ‚kontrolovat své zájmy‘",
+          "link": "https://www.irozhlas.cz/zpravy-svet/trump-se-dohodl-s-danskem-na-urovnani-vztahu-kolem-gronska-usa-budou-kontrolovat_2609182356_kma"
         },
         {
-          "title": "USA a Dánsko podepíšou dohodu o Grónsku. Zcela řeší naše obavy, řekl Trump",
+          "title": "USA a Dánsko podepíší dohodu o Grónsku. Zcela řeší naše obavy, řekl Trump",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-a-dansko-podepisou-dohodu-o-gronsku-zcela-resi-nase-obavy-rekl-trump-315720"
         }
       ]
@@ -248,8 +244,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -52,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
@@ -263,8 +259,8 @@
       "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
@@ -318,8 +314,8 @@
       "score": 44,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Trump: Russia has already attacked Ukraine's allies",
@@ -374,11 +370,11 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 20,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
           "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
