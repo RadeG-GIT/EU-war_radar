@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:17:02.304190+00:00",
+  "generated_at": "2026-09-19T16:13:25.417670+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,12 +8,12 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Pavel přijal amerického velvyslance při NATO, který kritizoval Česko",
-          "link": "https://www.novinky.cz/clanek/domaci-pavel-prijal-americkeho-velvyslance-pri-nato-ktery-kritizoval-cesko-40598540"
+          "title": "Česko zavádí raketový systém Spyder, bude první v NATO",
+          "link": "https://www.novinky.cz/clanek/domaci-cesko-zavadi-raketovy-system-spyder-bude-prvni-v-nato-40598565"
         },
         {
           "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
@@ -39,6 +39,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+          "link": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss"
+        },
+        {
           "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
           "link": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss"
         },
@@ -53,10 +57,6 @@
         {
           "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
           "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
-        },
-        {
-          "title": "Zelenskyy unveils new interceptor drone for jet-powered Shahed drones – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054224/"
         }
       ]
     },
@@ -140,12 +140,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
-          "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
+          "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "USA a Dánsko podepíší dohodu o Grónsku. Zcela řeší naše obavy, řekl Trump",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-a-dansko-podepisou-dohodu-o-gronsku-zcela-resi-nase-obavy-rekl-trump-315720"
+          "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
+          "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
         }
       ]
     },
@@ -300,8 +300,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Polsko kvůli ruskému útoku na Ukrajinu vyslalo do vzduchu vojenské letouny",
@@ -352,12 +352,16 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 14,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
+          "link": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss"
+        },
         {
           "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
           "link": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon"
