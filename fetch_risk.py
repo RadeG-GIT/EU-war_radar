@@ -7,9 +7,15 @@ Ceska republika ma prioritu - vic zdroju, vic klicovych slov, vic zobrazenych zp
 DULEZITE - presne celoslovni hledani:
 Vsechna klicova slova se hledaji jako CELA SLOVA (regex s hranici \\b), ne jako
 libovolny podretezec. Duvod: podretezcove hledani zpusobovalo falesne shody,
-napr. "rim" (Rim bez diakritiky) se objevovalo uvnitr slov "crime", "prime",
-"Crimea"; "acr" uvnitr "massacre"; "bis" uvnitr "cannabis". Diky celoslovnimu
-hledani uz tyto nesouvisejici zpravy nezpusobi falesne prirazeni skore.
+napr. "rim" uvnitr "crime"/"Crimea", "acr" uvnitr "massacre", "bis" uvnitr
+"cannabis".
+
+DULEZITE - konkretni vojenske fraze misto nejednoznacnych slov:
+Bare slova jako "strike"/"strikes" se NEPOUZIVAJI, protoze se objevuji i mimo
+vojensky kontext (napr. "lightning strikes" v predpovedi pocasi, "workers on
+strike" ve zpravach o stavce). Misto toho se pouzivaji konkretni spojeni
+("airstrike", "missile strike", "military strike", "drone strike"), ktera se
+v beznem textu jinak nevyskytuji.
 
 Text se pred porovnavanim normalizuje (mala pismena + odstraneni diakritiky),
 aby fungovalo spravne porovnavani u ceskych zdroju (Cesko/CESKO/Česko -> cesko).
@@ -57,7 +63,13 @@ THREAT_KEYWORDS = [
     "mobilization", "mobilisation", "mobilize", "mobilise", "mobilizace",
     "coup", "puc",
     "attack", "attacks", "attacked", "attacking", "utok", "utoky", "utocit",
-    "strike", "strikes", "struck", "airstrike", "airstrikes",
+    # POZOR: bare "strike"/"strikes"/"struck" zamerne chybi (kolize s pocasim,
+    # stavkami apod.) - pouzivaji se jen konkretni vojenske fraze:
+    "airstrike", "airstrikes", "air strike", "air strikes",
+    "missile strike", "missile strikes",
+    "military strike", "military strikes",
+    "drone strike", "drone strikes",
+    "rocket strike", "rocket strikes",
     "missile", "missiles", "raketa", "rakety",
     "bomb", "bombs", "bombing", "bombed",
     "explosion", "explosions", "vybuch", "vybuchy",
@@ -150,9 +162,14 @@ SEVERITY_WORDS = {
     "school hit": 11, "maternity ward": 12, "shelter hit": 10,
     "invasion": 15, "invaze": 15,
     "mobilization": 12, "mobilisation": 12, "mobilize": 12, "mobilise": 12, "mobilizace": 12,
-    "airstrike": 10, "airstrikes": 10, "missile": 8, "missiles": 8,
+    "airstrike": 10, "airstrikes": 10, "air strike": 10, "air strikes": 10,
+    "missile strike": 10, "missile strikes": 10,
+    "military strike": 10, "military strikes": 10,
+    "drone strike": 10, "drone strikes": 10,
+    "rocket strike": 10, "rocket strikes": 10,
+    "missile": 8, "missiles": 8,
     "attack": 6, "attacks": 6, "attacked": 6, "utok": 6,
-    "strike": 6, "strikes": 6, "struck": 6, "shoot down": 10,
+    "shoot down": 10,
     "explosion": 6, "explosions": 6, "troops": 4,
     "sanction": 2, "sanctions": 2,
     "ceasefire": -8, "peace talks": -6,
@@ -171,8 +188,7 @@ def normalize_text(text):
 def word_match(keyword, text):
     """
     Overi, ze 'keyword' je v textu pritomny jako CELE SLOVO (nebo cela fraze),
-    ne jako podretezec uvnitr jineho slova. Napr. "rim" nenajde shodu uvnitr
-    "crime" nebo "Crimea", "war" nenajde shodu uvnitr "Warsaw".
+    ne jako podretezec uvnitr jineho slova.
     """
     pattern = r"\b" + re.escape(keyword) + r"\b"
     return re.search(pattern, text) is not None
