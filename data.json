@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T12:16:50.531844+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-20T14:07:46.767920+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -51,12 +51,12 @@
           "link": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
         },
         {
-          "title": "Ukraine's General Staff details strike on Moscow Oil Refinery, reports hits on Buk-M3 and Nebo-U",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054308/"
+          "title": "Air defence active in Kyiv, drone debris fell in one of the districts – mayor",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054311/"
         },
         {
-          "title": "Trains across Ukraine delayed by up to 14 hours due to Russian attacks",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054307/"
+          "title": "Ukraine's General Staff details strike on Moscow Oil Refinery, reports hits on Buk-M3 and Nebo-U",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054308/"
         }
       ]
     },
@@ -171,8 +171,8 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
@@ -260,8 +260,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Luxembourg Airport suspended operations over drone threat",
@@ -297,17 +297,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 31,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Polish defence minister says supporting Ukraine is in Poland's national interest",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054270/"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -335,8 +330,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Slovak PM accuses West of provoking war with Russia",
@@ -383,5 +378,22 @@
       "score_change": 0,
       "headlines": []
     }
-  ]
+  ],
+  "radiation": {
+    "score": 11,
+    "level": "nizke",
+    "color": "#4C8C6B",
+    "trend": "novy",
+    "score_change": null,
+    "headlines": [
+      {
+        "title": "Trains across Ukraine delayed by up to 14 hours due to Russian attacks",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054307/"
+      },
+      {
+        "title": "Maďarská jaderná elektrárna Paks má poruchu, snížila výkon jednoho z reaktorů",
+        "link": "https://www.novinky.cz/clanek/zahranicni-evropa-madarska-jaderna-elektrarna-paks-ma-poruchu-snizila-vykon-jednoho-z-reaktoru-40598597"
+      }
+    ]
+  }
 }
