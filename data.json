@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T04:13:59.615444+00:00",
+  "generated_at": "2026-09-20T08:14:00.087719+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -12,8 +12,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Česko zavádí raketový systém Spyder, bude první v NATO",
-          "link": "https://www.novinky.cz/clanek/domaci-cesko-zavadi-raketovy-system-spyder-bude-prvni-v-nato-40598565"
+          "title": "Babišovo varování před Ruskem je průlom, říká expert. Útoky hrozí i Česku",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-babisovo-varovani-pred-ruskem-je-prulom-rika-expert-utoky-hrozi-i-cesku-315698"
         },
         {
           "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
@@ -39,24 +39,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says",
+          "link": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss"
+        },
+        {
           "title": "Trump signs sweeping Russia sanctions bill",
           "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-          "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss"
+          "title": "Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election",
+          "link": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
         },
         {
-          "title": "Kemi Badenoch accuses Andy Burnham of ‘fiddling while Europe risks burning’",
-          "link": "https://www.theguardian.com/politics/2026/sep/20/kemi-badenoch-accuses-andy-burnham-fiddling-europe-risks-burning"
+          "title": "Russia attacks Ukraine with 138 drones: hits reported at 17 locations",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054277/"
         },
         {
-          "title": "Mother and her child injured in Russian attack on Kyiv Oblast, educational facility damaged",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054259/"
-        },
-        {
-          "title": "Ukrainian interceptor downs Russian jet-powered drone for second time in one day – Zelenskyy",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054255/"
+          "title": "Russia loses 1,560 soldiers over past day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054272/"
         }
       ]
     },
@@ -136,8 +136,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -223,17 +223,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
-          "link": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -278,16 +273,12 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Dutch riot police break up violent far-right protest in The Hague",
-          "link": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss"
-        },
         {
           "title": "Dutch riot police break up violent far-right protest in The Hague",
           "link": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld"
@@ -297,15 +288,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 31,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 8,
       "headlines": [
         {
-          "title": "Polsko kvůli ruskému útoku na Ukrajinu vyslalo do vzduchu vojenské letouny",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsko-kvuli-ruskemu-utoku-na-ukrajinu-vyslalo-do-vzduchu-vojenske-letouny-315724"
+          "title": "Polish defence minister says supporting Ukraine is in Poland's national interest",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054270/"
         }
       ]
     },
@@ -332,15 +323,23 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 10,
       "headlines": [
+        {
+          "title": "Slovak PM accuses West of provoking war with Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054287/"
+        },
         {
           "title": "Fico: Válka mezi Ruskem a Ukrajinou není slovenskou válkou",
           "link": "https://www.novinky.cz/clanek/zahranicni-evropa-robert-fico-valka-mezi-ruskem-a-ukrajinou-neni-slovenskou-valkou-40598578"
+        },
+        {
+          "title": "Někteří západní politici usilují o konflikt mezi NATO a Ruskem, řekl Fico",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-nekteri-zapadni-politici-usiluji-o-konflikt-mezi-nato-a-ruskem-rekl-fico-315747"
         }
       ]
     },
@@ -360,8 +359,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
