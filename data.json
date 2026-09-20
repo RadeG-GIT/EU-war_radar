@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-09-20T16:13:49.860610+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-20T20:12:49.245409+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Je to vážné sdělení, reaguje Pavel na Ficovo zpochybňování závazků v NATO",
           "link": "https://www.novinky.cz/clanek/domaci-je-to-vazne-sdeleni-reaguje-pavel-na-ficovo-zpochybnovani-zavazku-v-nato-40598638"
-        },
-        {
-          "title": "Hybridní válka se stupňuje. Expert popisuje, co může Rusko udělat v Česku",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-babisovo-varovani-pred-ruskem-je-prulom-rika-expert-utoky-hrozi-i-cesku-315698"
         },
         {
           "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
@@ -55,12 +51,12 @@
           "link": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
         },
         {
-          "title": "Russian UAVs cause fire in warehouses and damage businesses in Kyiv Oblast – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054348/"
+          "title": "Russians attack Kyiv again, injuring woman and causing fire in park",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054341/"
         },
         {
-          "title": "Russians attack Kyiv again, injuring a woman",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054341/"
+          "title": "Russia threatens to further intensify attacks on Kyiv following hits in Moscow",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054358/"
         }
       ]
     },
@@ -172,12 +168,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+          "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss"
+        },
         {
           "title": "Battle of Chile director Patricio Guzmán dies aged 85",
           "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
@@ -191,12 +191,17 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 17,
+      "headlines": [
+        {
+          "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
+          "link": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -261,12 +266,16 @@
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Luxembourg deploys airspace monitoring following appearance of drones near airport",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054353/"
+        },
         {
           "title": "Luxembourg Airport suspended operations over drone threat",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054303/"
@@ -286,27 +295,27 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Dutch riot police break up violent far-right protest in The Hague",
-          "link": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 37,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 17,
+      "headlines": [
+        {
+          "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
+          "link": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -331,16 +340,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 15,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -7,
       "headlines": [
-        {
-          "title": "Slovak PM accuses West of provoking war with Russia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054287/"
-        },
         {
           "title": "Je to vážné sdělení, reaguje Pavel na Ficovo zpochybňování závazků v NATO",
           "link": "https://www.novinky.cz/clanek/domaci-je-to-vazne-sdeleni-reaguje-pavel-na-ficovo-zpochybnovani-zavazku-v-nato-40598638"
@@ -384,19 +389,15 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
         "title": "Trains across Ukraine delayed by up to 14 hours due to Russian attacks",
         "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054307/"
-      },
-      {
-        "title": "Maďarská jaderná elektrárna Paks má poruchu, snížila výkon jednoho z reaktorů",
-        "link": "https://www.novinky.cz/clanek/zahranicni-evropa-madarska-jaderna-elektrarna-paks-ma-poruchu-snizila-vykon-jednoho-z-reaktoru-40598597"
       }
     ]
   }
