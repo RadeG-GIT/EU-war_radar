@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-09-20T14:07:46.767920+00:00",
+  "generated_at": "2026-09-20T16:13:49.860610+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Je to vážné sdělení, reaguje Pavel na Ficovo zpochybňování závazků v NATO",
+          "link": "https://www.novinky.cz/clanek/domaci-je-to-vazne-sdeleni-reaguje-pavel-na-ficovo-zpochybnovani-zavazku-v-nato-40598638"
+        },
         {
           "title": "Hybridní válka se stupňuje. Expert popisuje, co může Rusko udělat v Česku",
           "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-babisovo-varovani-pred-ruskem-je-prulom-rika-expert-utoky-hrozi-i-cesku-315698"
@@ -47,16 +51,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
+          "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
           "link": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
         },
         {
-          "title": "Air defence active in Kyiv, drone debris fell in one of the districts – mayor",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054311/"
+          "title": "Russian UAVs cause fire in warehouses and damage businesses in Kyiv Oblast – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054348/"
         },
         {
-          "title": "Ukraine's General Staff details strike on Moscow Oil Refinery, reports hits on Buk-M3 and Nebo-U",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054308/"
+          "title": "Russians attack Kyiv again, injuring a woman",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054341/"
         }
       ]
     },
@@ -300,8 +304,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -338,8 +342,8 @@
           "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054287/"
         },
         {
-          "title": "Někteří západní politici usilují o konflikt mezi NATO a Ruskem, řekl Fico",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-nekteri-zapadni-politici-usiluji-o-konflikt-mezi-nato-a-ruskem-rekl-fico-315747"
+          "title": "Je to vážné sdělení, reaguje Pavel na Ficovo zpochybňování závazků v NATO",
+          "link": "https://www.novinky.cz/clanek/domaci-je-to-vazne-sdeleni-reaguje-pavel-na-ficovo-zpochybnovani-zavazku-v-nato-40598638"
         }
       ]
     },
@@ -383,8 +387,8 @@
     "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "novy",
-    "score_change": null,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Trains across Ukraine delayed by up to 14 hours due to Russian attacks",
