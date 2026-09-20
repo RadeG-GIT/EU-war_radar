@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T00:19:59.776996+00:00",
+  "generated_at": "2026-09-20T04:13:59.615444+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -39,10 +39,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
-          "link": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss"
-        },
-        {
           "title": "Trump signs sweeping Russia sanctions bill",
           "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
         },
@@ -57,6 +53,10 @@
         {
           "title": "Mother and her child injured in Russian attack on Kyiv Oblast, educational facility damaged",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054259/"
+        },
+        {
+          "title": "Ukrainian interceptor downs Russian jet-powered drone for second time in one day – Zelenskyy",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054255/"
         }
       ]
     },
@@ -133,19 +133,15 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 10,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
           "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
-          "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
         }
       ]
     },
@@ -339,8 +335,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Fico: Válka mezi Ruskem a Ukrajinou není slovenskou válkou",
@@ -361,16 +357,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 17,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
-          "link": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss"
-        },
         {
           "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
           "link": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon"
