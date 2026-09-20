@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:13:20.321368+00:00",
+  "generated_at": "2026-09-20T00:19:59.776996+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -51,12 +51,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Mother and her child injured in Russian attack on Kyiv Oblast, educational facility damaged",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054259/"
+          "title": "Kemi Badenoch accuses Andy Burnham of ‘fiddling while Europe risks burning’",
+          "link": "https://www.theguardian.com/politics/2026/sep/20/kemi-badenoch-accuses-andy-burnham-fiddling-europe-risks-burning"
         },
         {
-          "title": "Ukrainian interceptor downs Russian jet-powered drone for second time in one day – Zelenskyy",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054255/"
+          "title": "Mother and her child injured in Russian attack on Kyiv Oblast, educational facility damaged",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/19/8054259/"
         }
       ]
     },
@@ -245,8 +245,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -17,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -285,8 +285,8 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Dutch riot police break up violent far-right protest in The Hague",
@@ -336,12 +336,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Fico: Válka mezi Ruskem a Ukrajinou není slovenskou válkou",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-robert-fico-valka-mezi-ruskem-a-ukrajinou-neni-slovenskou-valkou-40598578"
+        }
+      ]
     },
     {
       "id": "slovenia",
