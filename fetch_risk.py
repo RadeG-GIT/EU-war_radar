@@ -4,16 +4,15 @@ Spousti se automaticky pres GitHub Actions (viz .github/workflows/update.yml).
 Nevyzaduje zadny platny API klic - pouziva verejne RSS kanaly.
 Ceska republika ma prioritu - vic zdroju, vic klicovych slov, vic zobrazenych zprav.
 
-DULEZITE - presne celoslovni hledani:
-Vsechna klicova slova se hledaji jako CELA SLOVA (regex s hranici \\b), ne jako
-libovolny podretezec.
+Krome vojenskeho/teroristickeho rizika po zemich se pocita i SAMOSTATNE
+radiacni skore pro celou Evropu (jaderne incidenty, uniky radiace, IAEA
+inspekce, Zaporozska elektrarna, Cernobyl apod.) - viz RADIATION_KEYWORDS.
 
-DULEZITE - konkretni vojenske fraze misto nejednoznacnych slov:
-Bare slova jako "strike"/"strikes" se NEPOUZIVAJI (kolize s pocasim, stavkami).
+DULEZITE - presne celoslovni hledani (regex s hranici \\b), text se
+normalizuje (mala pismena + odstraneni diakritiky) pred porovnavanim.
 
-Text se pred porovnavanim normalizuje (mala pismena + odstraneni diakritiky).
-
-Kazde spusteni take uklada zaznam do history.json pro graf vyvoje v case.
+Kazde spusteni uklada zaznam do history.json (celkove skore, radiacni skore,
+skore vsech oblasti) pro grafy vyvoje v case.
 """
 
 import json
@@ -41,11 +40,10 @@ FEEDS = [
     "https://www.irozhlas.cz/rss/irozhlas",
     "https://www.novinky.cz/rss",
     "https://www.seznamzpravy.cz/rss",
-    # opravena adresa - puvodni /rss/hlavni-zpravy jiz neexistuje po redesignu webu
     "https://ct24.ceskatelevize.cz/rss/tema/vyber-redakce-84313",
 ]
 
-# --- 2. Klicova slova, ktera musi byt ve zprave PRITOMNA (jako CELE SLOVO), ---
+# --- 2. Klicova slova pro vojensky/teroristicky radar (cele slovo) ---
 THREAT_KEYWORDS = [
     "war", "wars", "valka", "valce", "valky",
     "invasion", "invaze", "invaded", "invading",
@@ -141,7 +139,7 @@ HOTSPOTS = {
     "sweden": {"name": "Svedsko", "keywords": ["sweden", "svedsko", "stockholm"], "base_score": 8},
 }
 
-# klicova slova, ktera zvysuji zavaznost jednotlive zpravy (uz relevantni zpravy)
+# klicova slova, ktera zvysuji zavaznost vojenske/teroristicke zpravy
 SEVERITY_WORDS = {
     "dead": 8, "killed": 10, "death toll": 10, "deaths": 8,
     "civilian casualties": 14, "civilian deaths": 14, "children killed": 18,
@@ -166,6 +164,55 @@ SEVERITY_WORDS = {
     "de-escalation": -8, "de-escalate": -8, "de-escalating": -8,
 }
 
+# --- 4. Radiacni/jaderne riziko pro celou Evropu (samostatny modul) ---
+RADIATION_BASE_SCORE = 5
+RADIATION_HEADLINE_LIMIT = 10
+
+RADIATION_KEYWORDS = [
+    "radiation", "radioactive", "radioactivity",
+    "nuclear reactor", "nuclear reactors",
+    "nuclear power plant", "nuclear power plants",
+    "nuclear plant", "nuclear plants",
+    "nuclear accident", "nuclear accidents",
+    "nuclear incident", "nuclear incidents",
+    "meltdown",
+    "radiation leak", "radiation leaks",
+    "radioactive leak", "radioactive leaks",
+    "elevated radiation",
+    "radioactive contamination", "radioactive cloud", "radioactive fallout",
+    "spent fuel", "nuclear waste", "dirty bomb",
+    "iodine tablets",
+    "zaporizhzhia", "chornobyl", "chernobyl",
+    "iaea", "international atomic energy agency",
+    "radiacni", "radioaktivni", "radioaktivita",
+    "jaderna elektrarna", "jaderne elektrarny",
+    "jaderny reaktor", "jaderne reaktory",
+    "jaderna havarie", "jaderny incident",
+    "unik radiace", "zvysena radiace",
+    "radioaktivni kontaminace", "radioaktivni spad",
+    "jaderny odpad", "sujb", "surovy",
+]
+
+RADIATION_SEVERITY_WORDS = {
+    "meltdown": 20,
+    "nuclear accident": 20, "nuclear accidents": 20,
+    "nuclear incident": 15, "nuclear incidents": 15,
+    "radiation leak": 18, "radiation leaks": 18,
+    "radioactive leak": 18, "radioactive leaks": 18,
+    "elevated radiation": 15,
+    "radioactive contamination": 12,
+    "radioactive cloud": 16, "radioactive fallout": 16,
+    "evacuation": 10, "evacuations": 10,
+    "emergency": 6,
+    "shutdown": 6,
+    "cooling system": 10,
+    "dirty bomb": 18,
+    "jaderna havarie": 20, "jaderny incident": 15,
+    "unik radiace": 18, "zvysena radiace": 15,
+    "radioaktivni kontaminace": 12, "radioaktivni spad": 16,
+    "evakuace": 10,
+}
+
 
 def normalize_text(text):
     """Prevede na mala pismena a odstrani diakritiku (Cesko/Česko -> cesko)."""
@@ -182,6 +229,7 @@ def word_match(keyword, text):
 
 
 def load_previous_scores():
+    """Nacte skore hotspotu z predchoziho behu (pro trend sipky)."""
     if not os.path.exists(DATA_FILE):
         return {}
     try:
@@ -191,6 +239,19 @@ def load_previous_scores():
     except Exception as e:
         print(f"Nepodarilo se nacist predchozi {DATA_FILE}: {e}")
         return {}
+
+
+def load_previous_radiation_score():
+    """Nacte radiacni skore z predchoziho behu (pro trend sipku)."""
+    if not os.path.exists(DATA_FILE):
+        return None
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            old = json.load(f)
+        return old.get("radiation", {}).get("score")
+    except Exception as e:
+        print(f"Nepodarilo se nacist predchozi radiacni skore: {e}")
+        return None
 
 
 def load_history():
@@ -235,6 +296,10 @@ def is_threat_related(text):
 
 
 def score_hotspot(items, config):
+    """
+    Zprava se pocita jen tehdy, kdyz obsahuje ZAROVEN nazev zeme/oblasti
+    A ZAROVEN alespon jedno slovo z THREAT_KEYWORDS.
+    """
     score = config["base_score"]
     matched = []
 
@@ -255,6 +320,30 @@ def score_hotspot(items, config):
     score = max(0, min(100, score))
     limit = config.get("headline_limit", 5)
     return score, matched[:limit]
+
+
+def score_radiation(items):
+    """
+    Samostatne radiacni/jaderne skore pro celou Evropu - nezavisi na zadne
+    konkretni zemi, jen na tom, ze zprava obsahuje radiacni/jaderne klicove
+    slovo (napr. unik radiace, jaderna havarie, Zaporozska elektrarna, IAEA).
+    """
+    score = RADIATION_BASE_SCORE
+    matched = []
+
+    for item in items:
+        if not any(word_match(kw, item["text"]) for kw in RADIATION_KEYWORDS):
+            continue
+
+        matched.append(item)
+        severity = 3
+        for word, weight in RADIATION_SEVERITY_WORDS.items():
+            if word_match(word, item["text"]):
+                severity += weight
+        score += severity
+
+    score = max(0, min(100, score))
+    return score, matched[:RADIATION_HEADLINE_LIMIT]
 
 
 def level_for_score(score):
@@ -280,6 +369,7 @@ def trend_for(score, prev_score):
 
 def main():
     prev_scores = load_previous_scores()
+    prev_radiation_score = load_previous_radiation_score()
     items = fetch_headlines()
     results = []
 
@@ -299,12 +389,26 @@ def main():
         })
 
     overall = round(sum(r["score"] for r in results) / len(results))
+
+    radiation_score, radiation_matched = score_radiation(items)
+    radiation_level, radiation_color = level_for_score(radiation_score)
+    radiation_trend, radiation_diff = trend_for(radiation_score, prev_radiation_score)
+    radiation_result = {
+        "score": radiation_score,
+        "level": radiation_level,
+        "color": radiation_color,
+        "trend": radiation_trend,
+        "score_change": radiation_diff,
+        "headlines": [{"title": m["title"], "link": m["link"]} for m in radiation_matched],
+    }
+
     generated_at = datetime.now(timezone.utc).isoformat()
 
     output = {
         "generated_at": generated_at,
         "overall_score": overall,
         "hotspots": results,
+        "radiation": radiation_result,
     }
 
     with open(DATA_FILE, "w", encoding="utf-8") as f:
@@ -314,6 +418,7 @@ def main():
     history.append({
         "timestamp": generated_at,
         "overall_score": overall,
+        "radiation_score": radiation_score,
         "scores": {r["id"]: r["score"] for r in results},
     })
     save_history(history)
