@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:19:39.579754+00:00",
+  "generated_at": "2026-09-21T04:14:20.860624+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -168,15 +168,19 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
           "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss"
+        },
+        {
+          "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+          "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
         },
         {
           "title": "French facilities that could face Russian hybrid attacks identified",
