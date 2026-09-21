@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-21T04:14:20.860624+00:00",
+  "generated_at": "2026-09-21T08:15:45.406133+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 15,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Je to vážné sdělení, reaguje Pavel na Ficovo zpochybňování závazků v NATO",
-          "link": "https://www.novinky.cz/clanek/domaci-je-to-vazne-sdeleni-reaguje-pavel-na-ficovo-zpochybnovani-zavazku-v-nato-40598638"
+          "title": "European intelligence services expect Russian provocations to intensify",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054370/"
         },
         {
           "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
@@ -39,8 +39,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Polls close in Russian wartime election with ruling party set to dominate",
+          "title": "Ruling party dominates early results in Russia’s wartime parliamentary vote",
           "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss"
+        },
+        {
+          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+          "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
@@ -53,10 +57,6 @@
         {
           "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
           "link": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
-        },
-        {
-          "title": "Russians attack Kyiv again, injuring woman and causing fire in park",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054341/"
         }
       ]
     },
@@ -168,11 +168,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 20,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
@@ -181,10 +181,6 @@
         {
           "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
           "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
-        },
-        {
-          "title": "French facilities that could face Russian hybrid attacks identified",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054312/"
         }
       ]
     },
@@ -246,12 +242,17 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "European intelligence services expect Russian provocations to intensify",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054370/"
+        }
+      ]
     },
     {
       "id": "lithuania",
@@ -266,21 +267,12 @@
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 8,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Luxembourg deploys airspace monitoring following appearance of drones near airport",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054353/"
-        },
-        {
-          "title": "Luxembourg Airport suspended operations over drone threat",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054303/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "malta",
@@ -340,17 +332,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Je to vážné sdělení, reaguje Pavel na Ficovo zpochybňování závazků v NATO",
-          "link": "https://www.novinky.cz/clanek/domaci-je-to-vazne-sdeleni-reaguje-pavel-na-ficovo-zpochybnovani-zavazku-v-nato-40598638"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -380,12 +367,17 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "European intelligence services expect Russian provocations to intensify",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054370/"
+        }
+      ]
     }
   ],
   "radiation": {
@@ -396,8 +388,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Trains across Ukraine delayed by up to 14 hours due to Russian attacks",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054307/"
+        "title": "Large fires in Zaporizhzhia: Russians strike shopping centre and high-rise buildings, injuring six – photos, videos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054378/"
       }
     ]
   }
