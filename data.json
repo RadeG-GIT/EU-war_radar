@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-09-21T12:17:07.290594+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-09-21T16:14:44.867173+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Pozůstatky nacistického cvičiště komplikují stavbu D3. Pyrotechnici tam našli už 60 kusů munice",
+          "link": "https://www.irozhlas.cz/zpravy-domov/pozustatky-nacistickeho-cviciste-komplikuji-stavbu-d3-pyrotechnici-tam-nasli-uz_2609211615_dci"
+        },
         {
           "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
           "link": "https://ct24.ceskatelevize.cz/clanek/domaci/policie-kvuli-ruskym-hrozbam-posilila-hlidky-u-nadrazi-uvedl-metnar-377749"
@@ -31,6 +35,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
+          "link": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss"
+        },
+        {
           "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
           "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
         },
@@ -39,16 +47,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Kremlin reacts to Trump signing sanctions law: \"Unlikely to contribute to Ukrainian settlement\"",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054442/"
+          "title": "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament",
+          "link": "https://www.theguardian.com/world/2026/sep/21/putin-consolidates-grip-russia-ukraine-war-veterans-elected-duma"
         },
         {
-          "title": "Ukrainian forces strike costly Russian Kasta radar for second time in a month",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054423/"
-        },
-        {
-          "title": "Ukrainian forces destroy bridges near Polohy used by Russia for offensive towards Orikhiv – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054421/"
+          "title": "Macron reportedly seeks to steer Trump towards \"right decisions on Ukraine\" at New York meeting",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054479/"
         }
       ]
     },
@@ -128,8 +132,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -155,19 +159,19 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 2,
       "headlines": [
         {
           "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
           "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
         },
         {
-          "title": "Francie podmiňuje prodloužení sankcí proti Rusku vyškrtnutím oligarchy Usmanova",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-francie-podminuje-prodlouzeni-sankci-proti-rusku-vyskrtnutim-oligarchy-usmanova-40598064"
+          "title": "EU once again fails to extend sanctions on Putin due to Slovak and French demands",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054467/"
         }
       ]
     },
@@ -177,8 +181,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -17,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -227,8 +231,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -274,12 +278,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -17,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Rusko stupňuje agresivitu. Jsme v éře, jakou jsme nezažili od roku 1945, varuje profesor válečných studií",
+          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-stupnuje-agresivitu-jsme-v-ere-jakou-jsme-nezazili-od-roku-1945-varuje_2609211537_ako"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -304,12 +313,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "EU once again fails to extend sanctions on Putin due to Slovak and French demands",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054467/"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -342,8 +356,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
