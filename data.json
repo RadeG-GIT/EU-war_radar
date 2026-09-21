@@ -1,29 +1,16 @@
 {
-  "generated_at": "2026-09-21T16:14:44.867173+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-21T20:13:32.998724+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Pozůstatky nacistického cvičiště komplikují stavbu D3. Pyrotechnici tam našli už 60 kusů munice",
-          "link": "https://www.irozhlas.cz/zpravy-domov/pozustatky-nacistickeho-cviciste-komplikuji-stavbu-d3-pyrotechnici-tam-nasli-uz_2609211615_dci"
-        },
-        {
-          "title": "Policie kvůli ruským hrozbám posílila hlídky u nádraží, uvedl Metnar",
-          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/policie-kvuli-ruskym-hrozbam-posilila-hlidky-u-nadrazi-uvedl-metnar-377749"
-        },
-        {
-          "title": "Zklamání, říká velvyslanec USA o výdajích Česka na obranu. Babiš je hájí",
-          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/zklamani-rika-velvyslanec-usa-o-vydajich-ceska-na-obranu-babis-je-haji-377747"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -51,8 +38,8 @@
           "link": "https://www.theguardian.com/world/2026/sep/21/putin-consolidates-grip-russia-ukraine-war-veterans-elected-duma"
         },
         {
-          "title": "Macron reportedly seeks to steer Trump towards \"right decisions on Ukraine\" at New York meeting",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054479/"
+          "title": "Man killed in Russian drone strike on residential building in Sloviansk – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054491/"
         }
       ]
     },
@@ -162,8 +149,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 2,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
@@ -278,17 +265,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Rusko stupňuje agresivitu. Jsme v éře, jakou jsme nezažili od roku 1945, varuje profesor válečných studií",
-          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-stupnuje-agresivitu-jsme-v-ere-jakou-jsme-nezazili-od-roku-1945-varuje_2609211537_ako"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -316,8 +298,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU once again fails to extend sanctions on Putin due to Slovak and French demands",
@@ -369,8 +351,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Russian attack destroys part of Zaporizhzhia National University, a cultural heritage site",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054424/"
+        "title": "One killed and several injured in Russian attack on fixed-route minibus in Zaporizhzhia Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054510/"
       }
     ]
   }
