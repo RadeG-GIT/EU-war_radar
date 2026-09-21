@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:12:49.245409+00:00",
+  "generated_at": "2026-09-21T00:19:39.579754+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Je to vážné sdělení, reaguje Pavel na Ficovo zpochybňování závazků v NATO",
@@ -39,6 +39,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Polls close in Russian wartime election with ruling party set to dominate",
+          "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss"
+        },
+        {
           "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
           "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
         },
@@ -53,10 +57,6 @@
         {
           "title": "Russians attack Kyiv again, injuring woman and causing fire in park",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054341/"
-        },
-        {
-          "title": "Russia threatens to further intensify attacks on Kyiv following hits in Moscow",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/20/8054358/"
         }
       ]
     },
@@ -168,19 +168,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 20,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
           "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss"
-        },
-        {
-          "title": "Battle of Chile director Patricio Guzmán dies aged 85",
-          "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
         },
         {
           "title": "French facilities that could face Russian hybrid attacks identified",
@@ -194,8 +190,8 @@
       "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 17,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
@@ -269,8 +265,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Luxembourg deploys airspace monitoring following appearance of drones near airport",
@@ -298,8 +294,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -308,8 +304,8 @@
       "score": 37,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 17,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
@@ -343,8 +339,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Je to vážné sdělení, reaguje Pavel na Ficovo zpochybňování závazků v NATO",
@@ -392,8 +388,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Trains across Ukraine delayed by up to 14 hours due to Russian attacks",
