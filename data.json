@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:14:13.574393+00:00",
+  "generated_at": "2026-09-22T20:13:37.790653+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,12 +8,12 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Rozpočet jako tisícovka: V obraně Česko poprvé splní závazek NATO",
-          "link": "https://www.novinky.cz/clanek/ekonomika-rozpocet-jako-tisicovka-v-obrane-cesko-poprve-splni-zavazek-nato-40598304"
+          "title": "Armáda trénuje na moravských polích jak zastavit drony, do terénu vyrazí i roboti",
+          "link": "https://www.novinky.cz/clanek/domaci-armada-trenuje-na-moravskych-polich-jak-zastavit-drony-do-terenu-vyrazi-i-roboti-40599057"
         }
       ]
     },
@@ -27,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "US to build ‘two very major’ bases in Greenland, Trump says, and calls to ‘stop the killing’ in Ukraine - Europe live",
+          "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+          "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "EU removes two oligarchs from Russia sanctions list as deadline looms",
+          "link": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms"
+        },
+        {
+          "title": "US to build new military bases in Greenland as deal seeks to end tensions between Nato allies - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
         },
         {
-          "title": "Trump reveals message to Putin: Settle the war",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054608/"
+          "title": "Trump and Zelenskyy to discuss possibility of granting Ukraine licences to produce Patriot missiles",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054647/"
         },
         {
-          "title": "Ukrainian forces have destroyed over 350,000 Russian drones since start of year – photo, video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054580/"
-        },
-        {
-          "title": "Former mayor of Russia's Belgorod killed in war against Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054567/"
-        },
-        {
-          "title": ",V Rusku je těžké předvídat mnohé, výsledky nikoli.‘ Volby nepřekvapily, Putin zapojil i válečné veterány",
-          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-volby-vysledky-duma-putin_2609221600_ula"
+          "title": "Zelenskyy hopes Trump will help end Russia’s war before winter",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054646/"
         }
       ]
     },
@@ -121,18 +121,22 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 12,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -1,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Where is the US opening new military bases in Greenland?",
-          "link": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss"
+          "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
+          "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss"
         },
         {
-          "title": "US to build ‘two very major’ bases in Greenland, Trump says, and calls to ‘stop the killing’ in Ukraine - Europe live",
+          "title": "US to build two military bases in Greenland under new deal with Denmark",
+          "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US to build new military bases in Greenland as deal seeks to end tensions between Nato allies - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
         }
       ]
@@ -160,16 +164,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 24,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 16,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
-          "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
-        },
         {
           "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
           "link": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights"
@@ -183,12 +183,17 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "US fighter jet crashes at air base in western Germany",
+          "link": "https://www.theguardian.com/us-news/2026/sep/22/fighter-jet-crashes-germany"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -213,12 +218,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "EU removes two oligarchs from Russia sanctions list as deadline looms",
+          "link": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -233,12 +243,17 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "Latvia to impose national sanctions on Russian oligarchs Usmanov and Fridman after EU compromise",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054636/"
+        }
+      ]
     },
     {
       "id": "lithuania",
@@ -246,8 +261,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
@@ -261,8 +276,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
@@ -326,8 +341,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
