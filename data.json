@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:14:04.495125+00:00",
+  "generated_at": "2026-09-22T08:14:53.375723+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -22,10 +22,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
-          "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss"
-        },
-        {
           "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
           "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
         },
@@ -34,12 +30,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament",
-          "link": "https://www.theguardian.com/world/2026/sep/21/putin-consolidates-grip-russia-ukraine-war-veterans-elected-duma"
+          "title": "Tuesday briefing: Europe thinks Russia is preparing to test Nato’s limits",
+          "link": "https://www.theguardian.com/world/2026/sep/22/tuesday-briefing-europe-thinks-russia-is-preparing-to-test-natos-limits"
         },
         {
-          "title": "Man killed in Russian drone strike on residential building in Sloviansk – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054491/"
+          "title": "Battlefield sees 248 combat clashes over past day – Ukraine's General Staff",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054545/"
+        },
+        {
+          "title": "Russian drone attack on Kyiv's Dniprovskyi district: five injured – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054542/"
         }
       ]
     },
@@ -146,19 +146,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 13,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -5,
       "headlines": [
         {
           "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
           "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
-        },
-        {
-          "title": "EU once again fails to extend sanctions on Putin due to Slovak and French demands",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054467/"
         }
       ]
     },
@@ -225,12 +221,21 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 27,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Lithuania prepares enhanced protection from drones for substation near Russia's Kaliningrad",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054552/"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -295,17 +300,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 10,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "EU once again fails to extend sanctions on Putin due to Slovak and French demands",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054467/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -320,17 +320,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 14,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
-          "link": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -344,16 +339,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "One killed and several injured in Russian attack on fixed-route minibus in Zaporizhzhia Oblast",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/21/8054510/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
