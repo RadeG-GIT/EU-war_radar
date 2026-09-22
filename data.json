@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T08:14:53.375723+00:00",
+  "generated_at": "2026-09-22T12:17:43.949106+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
+          "link": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss"
+        },
+        {
           "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
           "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+          "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
         },
         {
           "title": "Tuesday briefing: Europe thinks Russia is preparing to test Nato’s limits",
           "link": "https://www.theguardian.com/world/2026/sep/22/tuesday-briefing-europe-thinks-russia-is-preparing-to-test-natos-limits"
         },
         {
-          "title": "Battlefield sees 248 combat clashes over past day – Ukraine's General Staff",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054545/"
-        },
-        {
-          "title": "Russian drone attack on Kyiv's Dniprovskyi district: five injured – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054542/"
+          "title": "Ukrainian forces have destroyed over 350,000 Russian drones since start of year – photo, video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054580/"
         }
       ]
     },
@@ -116,12 +116,17 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "estonia",
@@ -149,8 +154,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
@@ -221,15 +226,19 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 27,
+      "score": 36,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 12,
+      "score_change": 9,
       "headlines": [
         {
           "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
         },
         {
           "title": "Lithuania prepares enhanced protection from drones for substation near Russia's Kaliningrad",
@@ -303,8 +312,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -323,8 +332,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -342,8 +351,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
