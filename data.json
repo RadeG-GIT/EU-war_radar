@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-22T12:17:43.949106+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-09-22T16:14:13.574393+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Rozpočet jako tisícovka: V obraně Česko poprvé splní závazek NATO",
+          "link": "https://www.novinky.cz/clanek/ekonomika-rozpocet-jako-tisicovka-v-obrane-cesko-poprve-splni-zavazek-nato-40598304"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
-          "link": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss"
-        },
-        {
-          "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-          "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
+          "title": "US to build ‘two very major’ bases in Greenland, Trump says, and calls to ‘stop the killing’ in Ukraine - Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
         },
         {
-          "title": "Tuesday briefing: Europe thinks Russia is preparing to test Nato’s limits",
-          "link": "https://www.theguardian.com/world/2026/sep/22/tuesday-briefing-europe-thinks-russia-is-preparing-to-test-natos-limits"
+          "title": "Trump reveals message to Putin: Settle the war",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054608/"
         },
         {
           "title": "Ukrainian forces have destroyed over 350,000 Russian drones since start of year – photo, video",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054580/"
+        },
+        {
+          "title": "Former mayor of Russia's Belgorod killed in war against Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054567/"
+        },
+        {
+          "title": ",V Rusku je těžké předvídat mnohé, výsledky nikoli.‘ Volby nepřekvapily, Putin zapojil i válečné veterány",
+          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-volby-vysledky-duma-putin_2609221600_ula"
         }
       ]
     },
@@ -116,14 +121,18 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 13,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -1,
       "headlines": [
         {
-          "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
+          "title": "Where is the US opening new military bases in Greenland?",
+          "link": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss"
+        },
+        {
+          "title": "US to build ‘two very major’ bases in Greenland, Trump says, and calls to ‘stop the killing’ in Ukraine - Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
         }
       ]
@@ -151,15 +160,23 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 16,
       "headlines": [
         {
           "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
           "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
+        },
+        {
+          "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+          "link": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights"
+        },
+        {
+          "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/eu-prodlouzila-protiruske-sankce-vyskrtla-dva-miliardare-377856"
         }
       ]
     },
@@ -226,35 +243,32 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 36,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "score": 24,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
         {
           "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
-        },
-        {
-          "title": "Lithuania prepares enhanced protection from drones for substation near Russia's Kaliningrad",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054552/"
         }
       ]
     },
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/eu-prodlouzila-protiruske-sankce-vyskrtla-dva-miliardare-377856"
+        }
+      ]
     },
     {
       "id": "malta",
@@ -309,12 +323,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/eu-prodlouzila-protiruske-sankce-vyskrtla-dva-miliardare-377856"
+        }
+      ]
     },
     {
       "id": "slovenia",
