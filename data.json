@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:13:32.998724+00:00",
+  "generated_at": "2026-09-22T00:18:56.381355+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,8 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-          "link": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss"
+          "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
+          "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss"
         },
         {
           "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
@@ -268,8 +268,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
