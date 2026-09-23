@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:15:26.375745+00:00",
+  "generated_at": "2026-09-23T20:14:59.306016+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks",
-          "link": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss"
+          "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
+          "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss"
         },
         {
-          "title": "Trump pushes Russia-Ukraine ‘energy truce’: Can it work?",
-          "link": "https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work?traffic_source=rss"
-        },
-        {
-          "title": "UN General Assembly live: Iran ‘victim of terrorism – Pezeshkian to Trump",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss"
+          "title": "Zelenskyy: Putin is making the world ‘more dangerous’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/zelenskyy-putin-is-making-the-world-more?traffic_source=rss"
         },
         {
           "title": "OpenAI gives cyber defence tools to Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-          "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss"
+          "title": "‘My friend’: Anthony Albanese announces $60m more for Ukraine at Zelenskyy meeting",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting"
+        },
+        {
+          "title": "Iran’s president says his country’s people have been ‘victims of terrorism’ by the United States - live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates"
         }
       ]
     },
@@ -79,8 +79,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "The EU’s Canada offer is more mood than reality but it could hint at a future geometry for the bloc",
@@ -146,33 +146,30 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
-    },
-    {
-      "id": "france",
-      "name": "Francie",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
-          "link": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss"
-        },
+          "title": "Ukraine and Finland sign Drone Deal",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054802/"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "Francie",
+      "score": 17,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
+      "headlines": [
         {
-          "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
-          "link": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights"
-        },
-        {
-          "title": "Azerbaijani president pardons Frenchman after EU lifts sanctions against Russian oligarchs",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054720/"
+          "title": "How the ‘poisonous tide’ of disinformation stokes division and sows despair",
+          "link": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair"
         },
         {
           "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
@@ -216,8 +213,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -233,17 +230,12 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 20,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Latvian PM says Latvia was only EU country to oppose lifting of sanctions on Russian oligarchs",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054731/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "lithuania",
@@ -298,15 +290,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
+      "score": 35,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 9,
       "headlines": [
         {
           "title": "Poland accuses Russian military helicopter of violating its airspace",
           "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "How the ‘poisonous tide’ of disinformation stokes division and sows despair",
+          "link": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair"
         },
         {
           "title": "Russian Mi-8 helicopter violates Polish airspace",
@@ -317,12 +313,17 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Portugal vs Wales: UEFA Nations League – teams, start, lineups, Ronaldo",
+          "link": "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -337,16 +338,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Během hybridní války musíme reagovat uvážlivě, řekl Kaliňák. Slovensko je připraveno spojence chránit",
-          "link": "https://www.irozhlas.cz/zpravy-svet/behem-hybridni-valky-musime-reagovat-uvazlive-rekl-kalinak-slovensko-je_2609231343_tez"
-        },
         {
           "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/eu-prodlouzila-protiruske-sankce-vyskrtla-dva-miliardare-377856"
@@ -369,8 +366,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
