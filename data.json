@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T00:18:19.949393+00:00",
+  "generated_at": "2026-09-23T04:14:32.495440+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -27,6 +27,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
+          "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks?traffic_source=rss"
+        },
+        {
           "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
           "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss"
         },
@@ -41,10 +45,6 @@
         {
           "title": "Trump and Zelenskyy to discuss possibility of granting Ukraine licences to produce Patriot missiles",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054647/"
-        },
-        {
-          "title": "Zelenskyy hopes Trump will help end Russia’s war before winter",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054646/"
         }
       ]
     },
@@ -121,19 +121,15 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "US signs ‘tremendous’ security deal with Denmark and Greenland",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss"
-        },
-        {
-          "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
-          "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss"
         },
         {
           "title": "US to build two military bases in Greenland under new deal with Denmark",
