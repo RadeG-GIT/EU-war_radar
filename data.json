@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:17:55.890448+00:00",
+  "generated_at": "2026-09-23T16:15:26.375745+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks",
+          "link": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss"
+        },
+        {
+          "title": "Trump pushes Russia-Ukraine ‘energy truce’: Can it work?",
+          "link": "https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work?traffic_source=rss"
+        },
+        {
+          "title": "UN General Assembly live: Iran ‘victim of terrorism – Pezeshkian to Trump",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss"
+        },
+        {
+          "title": "OpenAI gives cyber defence tools to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
           "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Zelenskyy to speak at UN hours after ‘severe’ Russian strikes on Kyiv - live",
-          "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates"
-        },
-        {
-          "title": "EU removes two oligarchs from Russia sanctions list as deadline looms",
-          "link": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms"
-        },
-        {
-          "title": "The Darnytsia pharmaceutical plant",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054735/"
-        },
-        {
-          "title": "Death toll from Russian attack on Kyiv rises to two, 25 people injured",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054726/"
         }
       ]
     },
@@ -76,12 +76,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "The EU’s Canada offer is more mood than reality but it could hint at a future geometry for the bloc",
+          "link": "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -119,8 +124,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "US to build two military bases in Greenland under new deal with Denmark",
@@ -151,12 +156,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 26,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 5,
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
+          "link": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss"
+        },
         {
           "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
           "link": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights"
@@ -177,8 +186,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -204,17 +213,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 7,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "EU removes two oligarchs from Russia sanctions list as deadline looms",
-          "link": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -222,8 +226,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -232,8 +236,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Latvian PM says Latvia was only EU country to oppose lifting of sanctions on Russian oligarchs",
@@ -294,12 +298,21 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Poland accuses Russian military helicopter of violating its airspace",
+          "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian Mi-8 helicopter violates Polish airspace",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054747/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -353,17 +366,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Police use teargas on protesters as disabled woman, 87, evicted from Madrid home",
-          "link": "https://www.theguardian.com/world/2026/sep/23/madrid-police-teargas-protesters-disabled-woman-evicted"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -380,8 +388,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
