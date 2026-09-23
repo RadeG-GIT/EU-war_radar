@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-23T08:15:39.639532+00:00",
+  "generated_at": "2026-09-23T12:17:55.890448+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Hybridní válka s Ruskem? O tom nám Babiš nic neřekl, tvrdí SPD",
-          "link": "https://www.novinky.cz/clanek/domaci-hybridni-valka-s-ruskem-o-tom-nam-babis-nic-nerekl-tvrdi-spd-40598990"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,15 +22,11 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
-          "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks?traffic_source=rss"
-        },
-        {
           "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
           "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Zelenskyy to present Ukraine’s case to UN general assembly – live",
+          "title": "Zelenskyy to speak at UN hours after ‘severe’ Russian strikes on Kyiv - live",
           "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates"
         },
         {
@@ -43,8 +34,12 @@
           "link": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms"
         },
         {
-          "title": "US to build new military bases in Greenland as deal seeks to end tensions between Nato allies - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
+          "title": "The Darnytsia pharmaceutical plant",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054735/"
+        },
+        {
+          "title": "Death toll from Russian attack on Kyiv rises to two, 25 people injured",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054726/"
         }
       ]
     },
@@ -121,19 +116,15 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 12,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -5,
       "headlines": [
         {
           "title": "US to build two military bases in Greenland under new deal with Denmark",
           "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US to build new military bases in Greenland as deal seeks to end tensions between Nato allies - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
         }
       ]
     },
@@ -160,15 +151,19 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 21,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 5,
       "headlines": [
         {
           "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
           "link": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights"
+        },
+        {
+          "title": "Azerbaijani president pardons Frenchman after EU lifts sanctions against Russian oligarchs",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054720/"
         },
         {
           "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
@@ -179,17 +174,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "US fighter jet crashes at air base in western Germany",
-          "link": "https://www.theguardian.com/us-news/2026/sep/22/fighter-jet-crashes-germany"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -229,27 +219,27 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Húsíové poškodili italskou stíhačku",
-          "link": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-husiove-poskodili-italskou-stihacku-40599080"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "Latvian PM says Latvia was only EU country to oppose lifting of sanctions on Russian oligarchs",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054731/"
+        }
+      ]
     },
     {
       "id": "lithuania",
@@ -337,12 +327,12 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Nad Ficovými příměry s rokem 1938 kroutí historici hlavou",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-nad-ficovymi-paralelami-s-rokem-1938-krouti-historici-hlavou-40598909"
+          "title": "Během hybridní války musíme reagovat uvážlivě, řekl Kaliňák. Slovensko je připraveno spojence chránit",
+          "link": "https://www.irozhlas.cz/zpravy-svet/behem-hybridni-valky-musime-reagovat-uvazlive-rekl-kalinak-slovensko-je_2609231343_tez"
         },
         {
           "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
@@ -363,12 +353,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Police use teargas on protesters as disabled woman, 87, evicted from Madrid home",
+          "link": "https://www.theguardian.com/world/2026/sep/23/madrid-police-teargas-protesters-disabled-woman-evicted"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -382,20 +377,11 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 6,
-    "headlines": [
-      {
-        "title": "Russians attack village in Zaporizhzhia Oblast: man killed, houses damaged",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054664/"
-      },
-      {
-        "title": "Russians attack Amstor shopping centre in Zaporizhzhia for second time in 5 days, injuring two – videos, photo",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054655/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -6,
+    "headlines": []
   }
 }
