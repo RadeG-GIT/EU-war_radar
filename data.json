@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:14:32.495440+00:00",
+  "generated_at": "2026-09-23T08:15:39.639532+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -12,8 +12,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Armáda trénuje na moravských polích jak zastavit drony, do terénu vyrazí i roboti",
-          "link": "https://www.novinky.cz/clanek/domaci-armada-trenuje-na-moravskych-polich-jak-zastavit-drony-do-terenu-vyrazi-i-roboti-40599057"
+          "title": "Hybridní válka s Ruskem? O tom nám Babiš nic neřekl, tvrdí SPD",
+          "link": "https://www.novinky.cz/clanek/domaci-hybridni-valka-s-ruskem-o-tom-nam-babis-nic-nerekl-tvrdi-spd-40598990"
         }
       ]
     },
@@ -35,16 +35,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Zelenskyy to present Ukraine’s case to UN general assembly – live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates"
+        },
+        {
           "title": "EU removes two oligarchs from Russia sanctions list as deadline looms",
           "link": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms"
         },
         {
           "title": "US to build new military bases in Greenland as deal seeks to end tensions between Nato allies - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates"
-        },
-        {
-          "title": "Trump and Zelenskyy to discuss possibility of granting Ukraine licences to produce Patriot missiles",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054647/"
         }
       ]
     },
@@ -121,16 +121,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 15,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
       "headlines": [
-        {
-          "title": "US signs ‘tremendous’ security deal with Denmark and Greenland",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss"
-        },
         {
           "title": "US to build two military bases in Greenland under new deal with Denmark",
           "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
@@ -233,27 +229,27 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Húsíové poškodili italskou stíhačku",
+          "link": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-husiove-poskodili-italskou-stihacku-40599080"
+        }
+      ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 20,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Latvia to impose national sanctions on Russian oligarchs Usmanov and Fridman after EU compromise",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054636/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "lithuania",
@@ -338,12 +334,16 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Nad Ficovými příměry s rokem 1938 kroutí historici hlavou",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-nad-ficovymi-paralelami-s-rokem-1938-krouti-historici-hlavou-40598909"
+        },
         {
           "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/eu-prodlouzila-protiruske-sankce-vyskrtla-dva-miliardare-377856"
@@ -382,11 +382,20 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 6,
+    "headlines": [
+      {
+        "title": "Russians attack village in Zaporizhzhia Oblast: man killed, houses damaged",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054664/"
+      },
+      {
+        "title": "Russians attack Amstor shopping centre in Zaporizhzhia for second time in 5 days, injuring two – videos, photo",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/22/8054655/"
+      }
+    ]
   }
 }
