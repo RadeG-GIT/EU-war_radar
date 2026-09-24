@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-24T04:13:52.173520+00:00",
+  "generated_at": "2026-09-24T08:15:55.981226+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Hybridní válka? Dokud nepřijedou tanky... Expert vysvětluje pojem, před kterým varuje Babiš",
-          "link": "https://www.irozhlas.cz/zpravy-svet/hybridni-valka-dokud-neprijedou-tanky-expert-vysvetluje-pojem-pred-kterym-varuje_2609240600_cen"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
-          "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss"
+          "title": "Man dead and multiple people injured after bus collides with two cars in Victoria",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/24/victoria-bus-crash-yarra-ranges-near-glenburn-ntwnfb"
         },
         {
-          "title": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
-          "link": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit"
+          "title": "Australia news live: Man dead and multiple people injured after bus collides with two cars in Victoria; workers on 13 Bathla sites stood down as funding runs out",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb"
+        },
+        {
+          "title": "Venezuela being ‘reborn’, Rodríguez tells UN – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates"
         },
         {
           "title": "The long-range drone war: Ukraine and Russia scramble for supremacy in the skies",
           "link": "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race"
         },
         {
-          "title": "Venezuela being ‘reborn’, Rodríguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit – live",
-          "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates"
-        },
-        {
-          "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
-          "link": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair"
+          "title": "Large-scale Russian attack cuts power to some consumers in eight oblasts",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054859/"
         }
       ]
     },
@@ -61,12 +56,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Moldovan President Sandu says drone exploded in Moldova during Russian attack on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054858/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -84,8 +84,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -141,49 +141,39 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukraine and Finland sign Drone Deal",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054802/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
-          "link": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair"
-        },
-        {
-          "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/eu-prodlouzila-protiruske-sankce-vyskrtla-dva-miliardare-377856"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
         {
           "title": "Berlin airport briefly suspends operations because of drone spotted nearby",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054828/"
+        },
+        {
+          "title": "Propaganda, ne kultura. Ukrajina vyzývá k zavření Ruských domů",
+          "link": "https://ct24.ceskatelevize.cz/clanek/kultura/propaganda-ne-kultura-ukrajina-vyzyva-k-zavreni-ruskych-domu-377888"
         }
       ]
     },
@@ -250,17 +240,12 @@
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/eu-prodlouzila-protiruske-sankce-vyskrtla-dva-miliardare-377856"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "malta",
@@ -275,29 +260,30 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 3,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 16,
+      "headlines": [
+        {
+          "title": "Australia news live: Man dead and multiple people injured after bus collides with two cars in Victoria; workers on 13 Bathla sites stood down as funding runs out",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb"
+        }
+      ]
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Poland accuses Russian military helicopter of violating its airspace",
           "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
-          "link": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair"
         }
       ]
     },
@@ -314,27 +300,27 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Drone crashes near Ukrainian border in Romania",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054848/"
+        }
+      ]
     },
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/eu-prodlouzila-protiruske-sankce-vyskrtla-dva-miliardare-377856"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
