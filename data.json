@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T08:15:55.981226+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-24T12:17:43.325789+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Man dead and multiple people injured after bus collides with two cars in Victoria",
+          "title": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss"
+        },
+        {
+          "title": "Russian attacks kill eight people across Ukraine as US steps up diplomacy",
+          "link": "https://www.aljazeera.com/news/2026/9/24/russian-attacks-kill-eight-people-across-ukraine-as-us-steps-up-diplomacy?traffic_source=rss"
+        },
+        {
+          "title": "Zelenskyy says Ukraine sent two North Korean POWs to South Korea",
+          "link": "https://www.aljazeera.com/news/2026/9/24/zelenskyy-says-ukraine-sent-two-north-korean-pows-to-south-korea?traffic_source=rss"
+        },
+        {
+          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Woman dead and multiple people injured after bus collides with two cars in Victoria",
           "link": "https://www.theguardian.com/australia-news/2026/sep/24/victoria-bus-crash-yarra-ranges-near-glenburn-ntwnfb"
-        },
-        {
-          "title": "Australia news live: Man dead and multiple people injured after bus collides with two cars in Victoria; workers on 13 Bathla sites stood down as funding runs out",
-          "link": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb"
-        },
-        {
-          "title": "Venezuela being ‘reborn’, Rodríguez tells UN – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates"
-        },
-        {
-          "title": "The long-range drone war: Ukraine and Russia scramble for supremacy in the skies",
-          "link": "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race"
-        },
-        {
-          "title": "Large-scale Russian attack cuts power to some consumers in eight oblasts",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054859/"
         }
       ]
     },
@@ -56,12 +56,16 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 24,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 27,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 9,
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Drone wreckage with camera found in Moldova, likely Russian Gerbera – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054871/"
+        },
         {
           "title": "Moldovan President Sandu says drone exploded in Moldova during Russian attack on Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054858/"
@@ -81,12 +85,21 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 8,
+      "headlines": [
+        {
+          "title": "Belgium and Rwanda are talking again. Is DR Congo any closer to peace?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss"
+        },
+        {
+          "title": "Euronews reveals EU mood after Russian oligarch Usmanov sanctions lifted",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054887/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -121,12 +134,17 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "estonia",
@@ -144,19 +162,28 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
-      "headlines": []
+      "trend": "up",
+      "score_change": 18,
+      "headlines": [
+        {
+          "title": "CIA reportedly warns of Russian plans to attack Spain, France or Italy with sea-launched drones",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054857/"
+        },
+        {
+          "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -164,12 +191,12 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Berlin airport briefly suspends operations because of drone spotted nearby",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054828/"
+          "title": "Nord Stream case: Croatian court approves extradition of Ukrainian Zhuravlov to Germany",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054896/"
         },
         {
           "title": "Propaganda, ne kultura. Ukrajina vyzývá k zavření Ruských domů",
@@ -210,12 +237,21 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 18,
+      "headlines": [
+        {
+          "title": "CIA reportedly warns of Russian plans to attack Spain, France or Italy with sea-launched drones",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054857/"
+        },
+        {
+          "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -243,8 +279,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -260,30 +296,41 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 19,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 16,
-      "headlines": [
-        {
-          "title": "Australia news live: Man dead and multiple people injured after bus collides with two cars in Victoria; workers on 13 Bathla sites stood down as funding runs out",
-          "link": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb"
-        }
-      ]
+      "trend": "down",
+      "score_change": -16,
+      "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "score": 35,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 12,
       "headlines": [
+        {
+          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Poland accuses Russian military helicopter of violating its airspace",
           "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Polsko má v souvislosti s požárem u stanice služby Starlink podezření na sabotáž",
+          "link": "https://www.irozhlas.cz/zpravy-svet/polsko-ma-v-souvislosti-s-pozarem-u-stanice-sluzby-starlink-podezreni-na-sabotaz_2609241047_elev"
+        },
+        {
+          "title": "Polsko mění pravidla obrany nebe. Palba na narušitele může přijít dříve",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-polsko-meni-pravidla-obrany-nebe-palba-na-narusitele-muze-prijit-driv-316092"
+        },
+        {
+          "title": "Polsko má v souvislosti s požárem u stanice služby Starlink podezření na sabotáž",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsko-ma-v-souvislosti-s-pozarem-u-stanice-sluzby-starlink-podezreni-na-sabotaz-316090"
         }
       ]
     },
@@ -303,8 +350,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Drone crashes near Ukrainian border in Romania",
@@ -318,8 +365,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -335,12 +382,25 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 30,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 27,
+      "headlines": [
+        {
+          "title": "CIA reportedly warns of Russian plans to attack Spain, France or Italy with sea-launched drones",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054857/"
+        },
+        {
+          "title": "CIA varovala Španělsko, Francii a Itálii. Hrozí jim ruský dronový útok z lodí",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-cia-varovala-spanelsko-francii-a-italii-hrozi-jim-rusky-dronovy-utok-z-lodi-316100"
+        },
+        {
+          "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -354,11 +414,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Ukrainian artillery troops strike Russian equipment and positions in Huliaipole – video",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054894/"
+      }
+    ]
   }
 }
