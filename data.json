@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:14:59.306016+00:00",
+  "generated_at": "2026-09-24T00:18:58.503532+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -30,15 +30,15 @@
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/zelenskyy-putin-is-making-the-world-more?traffic_source=rss"
         },
         {
-          "title": "OpenAI gives cyber defence tools to Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
+          "link": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit"
         },
         {
           "title": "‘My friend’: Anthony Albanese announces $60m more for Ukraine at Zelenskyy meeting",
           "link": "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting"
         },
         {
-          "title": "Iran’s president says his country’s people have been ‘victims of terrorism’ by the United States - live",
+          "title": "Venezuela being ‘reborn’, Rodríguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit – live",
           "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates"
         }
       ]
@@ -121,17 +121,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "US to build two military bases in Greenland under new deal with Denmark",
-          "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "estonia",
@@ -149,8 +144,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine and Finland sign Drone Deal",
@@ -164,11 +159,11 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "How the ‘poisonous tide’ of disinformation stokes division and sows despair",
+          "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
           "link": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair"
         },
         {
@@ -180,12 +175,17 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Berlin airport briefly suspends operations because of drone spotted nearby",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054828/"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -233,24 +233,19 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -290,40 +285,31 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 35,
+      "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Poland accuses Russian military helicopter of violating its airspace",
           "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "How the ‘poisonous tide’ of disinformation stokes division and sows despair",
+          "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
           "link": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair"
-        },
-        {
-          "title": "Russian Mi-8 helicopter violates Polish airspace",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/23/8054747/"
         }
       ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Portugal vs Wales: UEFA Nations League – teams, start, lineups, Ronaldo",
-          "link": "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -341,8 +327,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU prodloužila protiruské sankce. Vyškrtla dva miliardáře",
