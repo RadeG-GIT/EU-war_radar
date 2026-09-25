@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T16:15:16.164873+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-25T20:12:58.796103+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "US seeking to revive Russia-Ukraine ceasefire talks",
-          "link": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss"
+          "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
+          "link": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss"
+        },
+        {
+          "title": "Russia targeting 'ordinary life' with attacks on data centres, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Priest killed and four injured in knife attack at Polish abbey",
           "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Number injured in Russian attacks on Kyiv rises to 43, with 5 killed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055061/"
+          "title": "Putin claims Russian speakers' rights are violated in Baltic states but says Russia is not preparing for war in Europe",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055099/"
         },
         {
-          "title": "Israeli Foreign Ministry: fourteen-year-old Israeli citizen killed in Russian attack on Kyiv",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055058/"
-        },
-        {
-          "title": "EU countries agree conditions for allocating €6.6bn to Ukraine from Peace Facility",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055041/"
+          "title": "Russian drone strikes school in Kyiv Oblast, causing major fire – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055096/"
         }
       ]
     },
@@ -69,24 +69,19 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 14,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "EU to discuss who will give up their place in queue for Patriot missiles to Ukraine – source",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055025/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -124,8 +119,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,8 +149,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
@@ -177,8 +172,8 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Students strike across Germany in protest against military service",
@@ -248,17 +243,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 33,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Russian state news agency publishes column claiming Russia faces new \"special military operation\" in Lithuania",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055013/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -18,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -293,12 +283,21 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
-      "headlines": []
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
+          "link": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss"
+        },
+        {
+          "title": "Starlink station fire in Poland investigated as sabotage, Russian intelligence link suspected",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055067/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -370,8 +369,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
