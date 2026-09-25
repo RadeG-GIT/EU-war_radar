@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-09-25T04:14:09.808151+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-09-25T08:15:02.063770+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 15,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
-      "headlines": [
-        {
-          "title": "Pavel dostal od vojáků na americké základně tomahawk",
-          "link": "https://www.novinky.cz/clanek/domaci-pavel-dostal-od-vojaku-na-americke-zakladne-tomahawk-40599448"
-        },
-        {
-          "title": "Ruské hybridní útoky budou častější a s většími následky, varují Dánové",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-ruske-hybridni-utoky-budou-castejsi-a-s-vetsimi-nasledky-varuji-danove-40599386"
-        }
-      ]
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -30,6 +21,10 @@
       "trend": "same",
       "score_change": 0,
       "headlines": [
+        {
+          "title": "Multiple regions in Russia come under Ukrainian drone attacks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss"
+        },
         {
           "title": "Priest killed and four injured in knife attack at Polish abbey",
           "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
@@ -43,12 +38,8 @@
           "link": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless"
         },
         {
-          "title": "Russia could attack a Nato country within months, Danish intelligence says",
-          "link": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says"
-        },
-        {
-          "title": "Zelenskyy announces agreement on Patriot interceptor missiles for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054938/"
+          "title": "Russian attacks caused more power cuts in six Ukrainian regions",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8054995/"
         }
       ]
     },
@@ -75,12 +66,17 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
+          "link": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "belgium",
@@ -105,17 +101,12 @@
     {
       "id": "croatia",
       "name": "Chorvatsko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Croatian court approves extradition in Nord Stream bombing case",
-          "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "cyprus",
@@ -165,20 +156,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 22,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -14,
       "headlines": [
-        {
-          "title": "EU imposes sanctions on former head of Russia Today France",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054921/"
-        },
-        {
-          "title": "Francii hrozí dronový útok jako v Lipsku, řekl Macron",
-          "link": "https://www.novinky.cz/clanek/zahranicni-francii-hrozi-dronovy-utok-jako-lipsku-rekl-macron-40599459"
-        },
         {
           "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"
@@ -188,24 +171,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 14,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
-        {
-          "title": "Germany investigates 105-year-old suspected former Nazi prison camp guard",
-          "link": "https://www.theguardian.com/world/2026/sep/24/man-105-investigated-nazi-pow-camp-murders"
-        },
-        {
-          "title": "Nord Stream case: Croatian court approves extradition of Ukrainian Zhuravlov to Germany",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054896/"
-        },
-        {
-          "title": "Francii hrozí dronový útok jako v Lipsku, řekl Macron",
-          "link": "https://www.novinky.cz/clanek/zahranicni-francii-hrozi-dronovy-utok-jako-lipsku-rekl-macron-40599459"
-        },
         {
           "title": "Propaganda, ne kultura. Ukrajina vyzývá k zavření Ruských domů",
           "link": "https://ct24.ceskatelevize.cz/clanek/kultura/propaganda-ne-kultura-ukrajina-vyzyva-k-zavreni-ruskych-domu-377888"
@@ -310,44 +281,27 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 48,
-      "level": "zvysene",
-      "color": "#C98A3B",
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -18,
+      "score_change": -25,
       "headlines": [
         {
           "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
           "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia could attack a Nato country within months, Danish intelligence says",
-          "link": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says"
-        },
-        {
-          "title": "Polish government begins to distribute instructions in case of air attacks",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054948/"
-        },
-        {
-          "title": "Fire breaks out at Starlink station in Poland, Russians suspected",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054905/"
         }
       ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
-          "link": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -410,19 +364,19 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 17,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 6,
     "headlines": [
       {
-        "title": "Ukrainian artillery troops strike Russian equipment and positions in Huliaipole – video",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054894/"
+        "title": "Russian attacks caused more power cuts in six Ukrainian regions",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8054995/"
       },
       {
-        "title": "Po Černobylu se Itálie vzdala jaderné energie. Teď chystá velký návrat",
-        "link": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-po-cernobylu-se-italie-vzdala-jaderne-energie-ted-chysta-velky-navrat-316136"
+        "title": "Russian forces strike Zaporizhzhia in morning attack: 2 injured, hospital and ambulances damaged – photos, video",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8054986/"
       }
     ]
   }
