@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T20:15:01.925292+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-09-25T00:20:30.952186+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Nehodu osobního auta u obce Kytín nepřežil jeden člověk. D4 byla ve směru na Prahu uzavřená",
@@ -72,8 +72,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -92,8 +92,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -109,12 +109,17 @@
     {
       "id": "croatia",
       "name": "Chorvatsko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Croatian court approves extradition in Nord Stream bombing case",
+          "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "cyprus",
@@ -167,8 +172,8 @@
       "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU imposes sanctions on former head of Russia Today France",
@@ -190,8 +195,8 @@
       "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Germany investigates 105-year-old suspected former Nazi prison camp guard",
@@ -247,8 +252,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
@@ -312,8 +317,8 @@
       "score": 66,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 24,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukrainian man kills one, wounds four in Poland abbey knife attack",
@@ -340,12 +345,17 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
+          "link": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -380,12 +390,16 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
+        {
+          "title": "CIA varovala Španělsko, Francii a Itálii. Hrozí jim ruský dronový útok z lodí",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-cia-varovala-spanelsko-francii-a-italii-hrozi-jim-rusky-dronovy-utok-z-lodi-316100"
+        },
         {
           "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"

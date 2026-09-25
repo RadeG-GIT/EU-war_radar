@@ -3193,5 +3193,42 @@
       "spain": 6,
       "sweden": 8
     }
+  },
+  {
+    "timestamp": "2026-09-25T00:20:30.952186+00:00",
+    "overall_score": 15,
+    "radiation_score": 11,
+    "scores": {
+      "czechia": 18,
+      "ukraine": 100,
+      "balkans": 20,
+      "moldova": 15,
+      "austria": 3,
+      "belgium": 3,
+      "bulgaria": 5,
+      "croatia": 8,
+      "cyprus": 8,
+      "denmark": 7,
+      "estonia": 15,
+      "finland": 10,
+      "france": 22,
+      "germany": 29,
+      "greece": 6,
+      "hungary": 4,
+      "ireland": 2,
+      "italy": 7,
+      "latvia": 15,
+      "lithuania": 15,
+      "luxembourg": 2,
+      "malta": 3,
+      "netherlands": 3,
+      "poland": 66,
+      "portugal": 5,
+      "romania": 15,
+      "slovakia": 5,
+      "slovenia": 3,
+      "spain": 15,
+      "sweden": 8
+    }
   }
 ]
