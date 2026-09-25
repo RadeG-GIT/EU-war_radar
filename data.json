@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T12:18:06.283753+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-25T16:15:16.164873+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Multiple regions in Russia come under Ukrainian drone attacks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss"
+          "title": "US seeking to revive Russia-Ukraine ceasefire talks",
+          "link": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss"
         },
         {
           "title": "Priest killed and four injured in knife attack at Polish abbey",
           "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+          "title": "Number injured in Russian attacks on Kyiv rises to 43, with 5 killed",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055061/"
         },
         {
-          "title": "Polanski heckled at Jewish community hustings after saying that Zionism is a form of racism – UK politics live",
-          "link": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates"
+          "title": "Israeli Foreign Ministry: fourteen-year-old Israeli citizen killed in Russian attack on Kyiv",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055058/"
         },
         {
-          "title": "UK companies to use Ukrainian battlefield data to train AI-powered drone swarms",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055029/"
+          "title": "EU countries agree conditions for allocating €6.6bn to Ukraine from Peace Facility",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055041/"
         }
       ]
     },
@@ -66,17 +66,12 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
-          "link": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "belgium",
@@ -84,8 +79,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU to discuss who will give up their place in queue for Patriot missiles to Ukraine – source",
@@ -126,17 +121,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "estonia",
@@ -161,18 +151,18 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 20,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Saudi Arabia allies line up support as Houthi attacks mount",
-          "link": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss"
+          "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+          "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit"
         },
         {
-          "title": "Tour Montparnasse renovation halted amid disagreements between owners",
+          "title": "Tall, dark and hated: plan to renovate ‘Paris’s ugliest building’ put on hold",
           "link": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris"
         },
         {
@@ -184,12 +174,16 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Students strike across Germany in protest against military service",
+          "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Propaganda, ne kultura. Ukrajina vyzývá k zavření Ruských domů",
           "link": "https://ct24.ceskatelevize.cz/clanek/kultura/propaganda-ne-kultura-ukrajina-vyzyva-k-zavreni-ruskych-domu-377888"
@@ -257,8 +251,8 @@
       "score": 33,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Russian state news agency publishes column claiming Russia faces new \"special military operation\" in Lithuania",
@@ -299,21 +293,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Prst na tepu doby i na spoušti. Polsko zjednoduší sestřelování narušitelů vzdušného prostoru",
-          "link": "https://www.novinky.cz/clanek/stalo-se-polsko-zjednodusi-sestrelovani-narusitelu-vzdusneho-prostoru-40599549"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -361,8 +346,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
@@ -382,16 +367,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "down",
-    "score_change": -9,
-    "headlines": [
-      {
-        "title": "Russian attacks caused more power cuts in six Ukrainian regions",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8054995/"
-      }
-    ]
+    "score_change": -3,
+    "headlines": []
   }
 }
