@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T08:15:02.063770+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-25T12:18:06.283753+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -34,12 +34,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
-          "link": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless"
+          "title": "Polanski heckled at Jewish community hustings after saying that Zionism is a form of racism – UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates"
         },
         {
-          "title": "Russian attacks caused more power cuts in six Ukrainian regions",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8054995/"
+          "title": "UK companies to use Ukrainian battlefield data to train AI-powered drone swarms",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055029/"
         }
       ]
     },
@@ -69,8 +69,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
@@ -81,12 +81,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "EU to discuss who will give up their place in queue for Patriot missiles to Ukraine – source",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055025/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -104,8 +109,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -156,12 +161,20 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -14,
+      "trend": "up",
+      "score_change": 12,
       "headlines": [
+        {
+          "title": "Saudi Arabia allies line up support as Houthi attacks mount",
+          "link": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss"
+        },
+        {
+          "title": "Tour Montparnasse renovation halted amid disagreements between owners",
+          "link": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris"
+        },
         {
           "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"
@@ -174,8 +187,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Propaganda, ne kultura. Ukrajina vyzývá k zavření Ruských domů",
@@ -241,12 +254,17 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 33,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 18,
+      "headlines": [
+        {
+          "title": "Russian state news agency publishes column claiming Russia faces new \"special military operation\" in Lithuania",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055013/"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -281,15 +299,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -25,
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
           "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Prst na tepu doby i na spoušti. Polsko zjednoduší sestřelování narušitelů vzdušného prostoru",
+          "link": "https://www.novinky.cz/clanek/stalo-se-polsko-zjednodusi-sestrelovani-narusitelu-vzdusneho-prostoru-40599549"
         }
       ]
     },
@@ -299,8 +321,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -336,16 +358,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 15,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
-        {
-          "title": "CIA varovala Španělsko, Francii a Itálii. Hrozí jim ruský dronový útok z lodí",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-cia-varovala-spanelsko-francii-a-italii-hrozi-jim-rusky-dronovy-utok-z-lodi-316100"
-        },
         {
           "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"
@@ -364,19 +382,15 @@
     }
   ],
   "radiation": {
-    "score": 17,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 6,
+    "trend": "down",
+    "score_change": -9,
     "headlines": [
       {
         "title": "Russian attacks caused more power cuts in six Ukrainian regions",
         "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8054995/"
-      },
-      {
-        "title": "Russian forces strike Zaporizhzhia in morning attack: 2 injured, hospital and ambulances damaged – photos, video",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8054986/"
       }
     ]
   }
