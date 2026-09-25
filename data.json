@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-25T00:20:30.952186+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-09-25T04:14:09.808151+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Nehodu osobního auta u obce Kytín nepřežil jeden člověk. D4 byla ve směru na Prahu uzavřená",
-          "link": "https://www.irozhlas.cz/zpravy-domov/nehodu-osobniho-auta-u-obce-kytin-neprezil-jeden-clovek-d4-je-ve-smeru-na-prahu_2609241746_dci"
-        },
         {
           "title": "Pavel dostal od vojáků na americké základně tomahawk",
           "link": "https://www.novinky.cz/clanek/domaci-pavel-dostal-od-vojaku-na-americke-zakladne-tomahawk-40599448"
@@ -35,10 +31,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukrainian man kills one, wounds four in Poland abbey knife attack",
-          "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss"
-        },
-        {
           "title": "Priest killed and four injured in knife attack at Polish abbey",
           "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
         },
@@ -53,6 +45,10 @@
         {
           "title": "Russia could attack a Nato country within months, Danish intelligence says",
           "link": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says"
+        },
+        {
+          "title": "Zelenskyy announces agreement on Patriot interceptor missiles for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054938/"
         }
       ]
     },
@@ -112,8 +108,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Croatian court approves extradition in Nord Stream bombing case",
@@ -314,23 +310,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 66,
+      "score": 48,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -18,
       "headlines": [
-        {
-          "title": "Ukrainian man kills one, wounds four in Poland abbey knife attack",
-          "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss"
-        },
         {
           "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
           "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Poland accuses Russian military helicopter of violating its airspace",
-          "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russia could attack a Nato country within months, Danish intelligence says",
@@ -339,6 +327,10 @@
         {
           "title": "Polish government begins to distribute instructions in case of air attacks",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054948/"
+        },
+        {
+          "title": "Fire breaks out at Starlink station in Poland, Russians suspected",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/24/8054905/"
         }
       ]
     },
@@ -348,8 +340,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
@@ -393,8 +385,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "CIA varovala Španělsko, Francii a Itálii. Hrozí jim ruský dronový útok z lodí",
