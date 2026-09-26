@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:16:36.118678+00:00",
+  "generated_at": "2026-09-26T16:13:57.211921+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -26,6 +26,10 @@
           "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Ukraine's former defence minister Fedorov unveils new Army of Robots project: what is known",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055159/"
+        },
+        {
           "title": "Zelenskyy: 14 injured and 2 killed in Russian overnight attacks",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055140/"
         },
@@ -36,10 +40,6 @@
         {
           "title": "Ukrainian forces strike Ilsky oil refinery in Russia's Krasnodar Krai",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055136/"
-        },
-        {
-          "title": "Ukraine may move border checkpoints onto neighbouring countries' territory amid Russian attacks",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055130/"
         }
       ]
     },
@@ -146,7 +146,7 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
@@ -155,34 +155,35 @@
         {
           "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
           "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit"
-        },
-        {
-          "title": "Mbappé rozhodl o vítězství Francie, ale zápas nedohrál. ‚Bohužel to nevypadá dobře,‘ řekl Zidane",
-          "link": "https://www.irozhlas.cz/sport/fotbal/fotbal-liga-narodu-reprezentace-uefa-kylian-mbappe_2609260829_ssi"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Thousands of students protest German military conscription",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "greece",
       "name": "Recko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 33,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 17,
+      "score_change": 10,
       "headlines": [
         {
-          "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
+          "title": "British national among six dead in building explosion close to Acropolis in Athens",
           "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
         }
       ]
@@ -190,17 +191,12 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Mbappé rozhodl o vítězství Francie, ale zápas nedohrál. ‚Bohužel to nevypadá dobře,‘ řekl Zidane",
-          "link": "https://www.irozhlas.cz/sport/fotbal/fotbal-liga-narodu-reprezentace-uefa-kylian-mbappe_2609260829_ssi"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ireland",
@@ -218,8 +214,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -275,19 +271,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 32,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Ukraine may move border checkpoints onto neighbouring countries' territory amid Russian attacks",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055130/"
-        },
-        {
-          "title": "ONLINE: Ukrajina a Polsko chystají společné hraniční kontroly. Opatření reaguje na sílící ruské útoky",
-          "link": "https://www.irozhlas.cz/zpravy-svet/online-ukrajina-a-polsko-chystaji-spolecne-hranicni-kontroly-opatreni-reaguje-na_2609260821_ntu"
         }
       ]
     },
@@ -337,37 +329,27 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Mbappé rozhodl o vítězství Francie, ale zápas nedohrál. ‚Bohužel to nevypadá dobře,‘ řekl Zidane",
-          "link": "https://www.irozhlas.cz/sport/fotbal/fotbal-liga-narodu-reprezentace-uefa-kylian-mbappe_2609260829_ssi"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Russian forces hit house in Zaporizhzhia, killing mother and grandmother of three-year-old child – photo",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055124/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
