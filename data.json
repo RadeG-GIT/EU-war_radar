@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T04:13:42.333534+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-09-26T08:14:50.228399+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "PŘEHLEDNĚ: Co je to hybridní válka",
@@ -31,20 +31,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Putin claims Russian speakers' rights are violated in Baltic states but says Russia is not preparing for war in Europe",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055099/"
+          "title": "Ukraine may move border checkpoints onto neighbouring countries' territory amid Russian attacks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055130/"
         },
         {
-          "title": "Russian drone strikes school in Kyiv Oblast, causing major fire – photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055096/"
+          "title": "Person injured in Russia's morning attack on Kyiv, fires in two districts",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055129/"
         },
         {
-          "title": "Russia attacks Ukraine with 162 drones in one day, over 70 of them jet-powered",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055091/"
+          "title": "Warehouse catches fire and two people injured in Russian attacks on Kyiv Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055126/"
         },
         {
-          "title": "Putin claims Ukraine attacked polling stations in Russia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055089/"
+          "title": "Russia attacks Kyiv with drones: four people injured",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055119/"
         }
       ]
     },
@@ -151,15 +151,19 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
           "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit"
+        },
+        {
+          "title": "Mbappé rozhodl o vítězství Francie, ale zápas nedohrál. ‚Bohužel to nevypadá dobře,‘ řekl Zidane",
+          "link": "https://www.irozhlas.cz/sport/fotbal/fotbal-liga-narodu-reprezentace-uefa-kylian-mbappe_2609260829_ssi"
         },
         {
           "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
@@ -170,19 +174,15 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 17,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Students strike across Germany in protest against military service",
           "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Propaganda, ne kultura. Ukrajina vyzývá k zavření Ruských domů",
-          "link": "https://ct24.ceskatelevize.cz/clanek/kultura/propaganda-ne-kultura-ukrajina-vyzyva-k-zavreni-ruskych-domu-377888"
         }
       ]
     },
@@ -199,12 +199,17 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Mbappé rozhodl o vítězství Francie, ale zápas nedohrál. ‚Bohužel to nevypadá dobře,‘ řekl Zidane",
+          "link": "https://www.irozhlas.cz/sport/fotbal/fotbal-liga-narodu-reprezentace-uefa-kylian-mbappe_2609260829_ssi"
+        }
+      ]
     },
     {
       "id": "ireland",
@@ -284,15 +289,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "score": 32,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
         {
-          "title": "Starlink station fire in Poland investigated as sabotage, Russian intelligence link suspected",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055067/"
+          "title": "Ukraine may move border checkpoints onto neighbouring countries' territory amid Russian attacks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055130/"
+        },
+        {
+          "title": "ONLINE: Ukrajina a Polsko chystají společné hraniční kontroly. Opatření reaguje na sílící ruské útoky",
+          "link": "https://www.irozhlas.cz/zpravy-svet/online-ukrajina-a-polsko-chystaji-spolecne-hranicni-kontroly-opatreni-reaguje-na_2609260821_ntu"
         }
       ]
     },
@@ -354,20 +363,30 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Mbappé rozhodl o vítězství Francie, ale zápas nedohrál. ‚Bohužel to nevypadá dobře,‘ řekl Zidane",
+          "link": "https://www.irozhlas.cz/sport/fotbal/fotbal-liga-narodu-reprezentace-uefa-kylian-mbappe_2609260829_ssi"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Russian forces hit house in Zaporizhzhia, killing mother and grandmother of three-year-old child – photo",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055124/"
+      }
+    ]
   }
 }
