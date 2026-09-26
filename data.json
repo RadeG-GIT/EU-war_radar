@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-26T00:18:10.721794+00:00",
+  "generated_at": "2026-09-26T04:13:42.333534+00:00",
   "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "PŘEHLEDNĚ: Co je to hybridní válka",
+          "link": "https://www.novinky.cz/clanek/domaci-prehledne-co-je-to-hybridni-valka-40599038"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -21,10 +26,6 @@
       "trend": "same",
       "score_change": 0,
       "headlines": [
-        {
-          "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-          "link": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss"
-        },
         {
           "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
@@ -40,6 +41,10 @@
         {
           "title": "Russia attacks Ukraine with 162 drones in one day, over 70 of them jet-powered",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055091/"
+        },
+        {
+          "title": "Putin claims Ukraine attacked polling stations in Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055089/"
         }
       ]
     },
@@ -146,19 +151,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 14,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
           "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit"
-        },
-        {
-          "title": "Tall, dark and hated: plan to renovate ‘Paris’s ugliest building’ put on hold",
-          "link": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris"
         },
         {
           "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
@@ -283,16 +284,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-          "link": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss"
-        },
         {
           "title": "Starlink station fire in Poland investigated as sabotage, Russian intelligence link suspected",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/25/8055067/"
