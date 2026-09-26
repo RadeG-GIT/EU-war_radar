@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-26T08:14:50.228399+00:00",
+  "generated_at": "2026-09-26T12:16:36.118678+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "PŘEHLEDNĚ: Co je to hybridní válka",
-          "link": "https://www.novinky.cz/clanek/domaci-prehledne-co-je-to-hybridni-valka-40599038"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -31,20 +26,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Zelenskyy: 14 injured and 2 killed in Russian overnight attacks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055140/"
+        },
+        {
+          "title": "Journalist Mariia Yizhvenko, 29, killed in Russian drone strike on Kyiv business centre",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055139/"
+        },
+        {
+          "title": "Ukrainian forces strike Ilsky oil refinery in Russia's Krasnodar Krai",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055136/"
+        },
+        {
           "title": "Ukraine may move border checkpoints onto neighbouring countries' territory amid Russian attacks",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055130/"
-        },
-        {
-          "title": "Person injured in Russia's morning attack on Kyiv, fires in two districts",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055129/"
-        },
-        {
-          "title": "Warehouse catches fire and two people injured in Russian attacks on Kyiv Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055126/"
-        },
-        {
-          "title": "Russia attacks Kyiv with drones: four people injured",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055119/"
         }
       ]
     },
@@ -151,11 +146,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 14,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
@@ -164,37 +159,33 @@
         {
           "title": "Mbappé rozhodl o vítězství Francie, ale zápas nedohrál. ‚Bohužel to nevypadá dobře,‘ řekl Zidane",
           "link": "https://www.irozhlas.cz/sport/fotbal/fotbal-liga-narodu-reprezentace-uefa-kylian-mbappe_2609260829_ssi"
-        },
-        {
-          "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -9,
-      "headlines": [
-        {
-          "title": "Students strike across Germany in protest against military service",
-          "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
       "name": "Recko",
-      "score": 6,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 17,
+      "headlines": [
+        {
+          "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
+          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "hungary",
@@ -202,8 +193,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Mbappé rozhodl o vítězství Francie, ale zápas nedohrál. ‚Bohužel to nevypadá dobře,‘ řekl Zidane",
@@ -224,17 +215,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -292,8 +278,8 @@
       "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine may move border checkpoints onto neighbouring countries' territory amid Russian attacks",
@@ -348,17 +334,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Kreml podle CIA chystá dronové útoky na Španělsko, Francii či Itálii, píše deník",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-podle-cia-chysta-dronove-utoky-na-spanelsko-francii-ci-italii-pise-denik-377915"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -366,8 +347,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Mbappé rozhodl o vítězství Francie, ale zápas nedohrál. ‚Bohužel to nevypadá dobře,‘ řekl Zidane",
@@ -380,8 +361,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Russian forces hit house in Zaporizhzhia, killing mother and grandmother of three-year-old child – photo",
