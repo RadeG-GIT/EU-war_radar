@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:13:40.081292+00:00",
+  "generated_at": "2026-09-27T08:14:08.351870+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss"
-        },
-        {
           "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Drone strikes or falling debris reported in three Kyiv districts",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055186/"
+          "title": "Russians hit Kyiv this morning, injuring woman and two teenagers",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055219/"
         },
         {
-          "title": "Ukraine intercepts over half of jet-powered Shahed drones, Zelenskyy says",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055189/"
+          "title": "Man killed and vehicle repair shop catches fire in Russian attack on Kyiv",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055213/"
         },
         {
-          "title": "Ukraine's ex-defence minister Fedorov unveils new Army of Robots project",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/26/8055159/"
+          "title": "Russia attacks Ukraine with 170 drones overnight; 147 of them downed",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055211/"
+        },
+        {
+          "title": "Russia loses 1,690 soldiers and over 600 pieces of equipment over past day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055210/"
         }
       ]
     },
@@ -219,17 +219,12 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Lotyšsko čekají za týden volby. O orientaci na EU a NATO je jasno, řeší se migrace i civilní obrana",
-          "link": "https://www.irozhlas.cz/zpravy-svet/lotyssko-cekaji-za-tyden-volby-o-orientaci-na-eu-a-nato-je-jasno-resi-se-migrace_2609261925_mst"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "lithuania",
@@ -343,11 +338,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Russians attack Komyshuvakha and Novotavriiske in Zaporizhzhia Oblast: 3 killed, 4 injured – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055204/"
+      }
+    ]
   }
 }
