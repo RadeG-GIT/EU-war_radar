@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:13:51.307546+00:00",
+  "generated_at": "2026-09-27T20:13:20.233247+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -22,11 +22,11 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
+          "title": "Zelenskyy: Russians damage Saudi Arabian ambassador's residence",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055275/"
         },
         {
-          "title": "Russian drone hits residential building in Kyiv, injuring woman – video",
+          "title": "Russian drone hits apartment building in Kyiv, injuring woman – video",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055256/"
         },
         {
@@ -66,12 +66,17 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "RECENZE: Hvězdná hodina vrahů nabízí krvavé finále konce Protektorátu",
+          "link": "https://www.novinky.cz/clanek/kultura-tv-streaming-recenze-hvezdna-hodina-vrahu-nabizi-krvave-finale-konce-protektoratu-40599748"
+        }
+      ]
     },
     {
       "id": "belgium",
@@ -156,12 +161,17 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "RECENZE: Hvězdná hodina vrahů nabízí krvavé finále konce Protektorátu",
+          "link": "https://www.novinky.cz/clanek/kultura-tv-streaming-recenze-hvezdna-hodina-vrahu-nabizi-krvave-finale-konce-protektoratu-40599748"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -270,15 +280,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 31,
+      "score": 34,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 11,
+      "score_change": 3,
       "headlines": [
         {
           "title": "Poland proposes locating a plant for manufacturing Patriot missiles on its territory",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055251/"
+        },
+        {
+          "title": "Pět tisíc Američanů v Polsku před koncem dekády. Rýsují se detaily nové vojenské základny",
+          "link": "https://www.irozhlas.cz/zpravy-svet/pet-tisic-americanu-v-polsku-pred-koncem-dekady-rysuji-se-detaily-nove-vojenske_2609271810_dci"
         }
       ]
     },
@@ -288,8 +302,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "LIVE: Norway vs Portugal – Nations League",
@@ -357,8 +371,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
