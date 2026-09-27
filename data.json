@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:17:18.226545+00:00",
+  "generated_at": "2026-09-27T16:13:51.307546+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -26,20 +26,20 @@
           "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Drone debris found near Moldovan village",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055237/"
+          "title": "Russian drone hits residential building in Kyiv, injuring woman – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055256/"
         },
         {
-          "title": "Russian attack on Kyiv Oblast kills 1 person and injures 4",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055234/"
+          "title": "Ukraine hits five workshops at a Russian military plant in Rostov Oblast – OSINT",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055261/"
         },
         {
-          "title": "Ukraine's General Staff: Strike drone launch site hit in occupied Donetsk",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055227/"
+          "title": "Russian attack destroys Kärcher warehouse in Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055252/"
         },
         {
-          "title": "Zelenskyy: Russians strike Kyiv data centre twice in morning attack – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055224/"
+          "title": "Poland proposes locating a plant for manufacturing Patriot missiles on its territory",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055251/"
         }
       ]
     },
@@ -169,8 +169,8 @@
       "score": 61,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "British national among six dead in building explosion close to Acropolis in Athens",
@@ -228,8 +228,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Lithuania warns of evacuation challenges in event of Russian attack",
@@ -270,22 +270,32 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 31,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "Poland proposes locating a plant for manufacturing Patriot missiles on its territory",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055251/"
+        }
+      ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "LIVE: Norway vs Portugal – Nations League",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -303,8 +313,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Slovensku by svědčila vojenská neutralita, zopakoval Fico",
@@ -344,16 +354,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Russians attack Komyshuvakha and Novotavriiske in Zaporizhzhia Oblast: 3 killed, 4 injured – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055204/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
