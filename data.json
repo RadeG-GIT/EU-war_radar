@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:20:26.009580+00:00",
+  "generated_at": "2026-09-27T04:13:40.081292+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -159,8 +159,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -169,8 +169,8 @@
       "score": 79,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
