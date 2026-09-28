@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T16:16:40.602417+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-28T20:13:18.719153+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
+          "link": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss"
+        },
+        {
+          "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze?traffic_source=rss"
+        },
+        {
           "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Staff killed and wounded in Russian strike on Kyiv’s science academy",
+          "title": "People escape historic Kyiv building hit by Russian drone",
+          "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
           "link": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
-        },
-        {
-          "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
-          "link": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows"
-        },
-        {
-          "title": "Ukrainian air defence has downed 86 Russian UAVs since morning, but strikes recorded at 26 locations",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055439/"
-        },
-        {
-          "title": "\"She had taste in everything\": assistant to ex-defence council secretary killed in Kyiv strike on Academy of Sciences",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055456/"
         }
       ]
     },
@@ -121,12 +121,17 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 7,
+      "headlines": [
+        {
+          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
+        }
+      ]
     },
     {
       "id": "estonia",
@@ -134,8 +139,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -151,22 +156,26 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 55,
+      "score": 48,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 34,
+      "trend": "down",
+      "score_change": -7,
       "headlines": [
+        {
+          "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
+          "link": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss"
+        },
         {
           "title": "LIVE: Belgium vs France – Nations League",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss"
         },
         {
-          "title": "Child among three killed off French coast in Channel crossing attempt",
-          "link": "https://www.aljazeera.com/news/2026/9/28/child-among-three-killed-off-french-coast-in-channel-crossing-attempt?traffic_source=rss"
+          "title": "Gisèle Pelicot’s daughter launches awareness campaign for potential victims of drugging and sexual assault",
+          "link": "https://www.theguardian.com/world/2026/sep/28/gisele-pelicot-daughter-awareness-campaign-potential-victims-drugging-sexual-assault"
         },
         {
-          "title": "Staff killed and wounded in Russian strike on Kyiv’s science academy",
+          "title": "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
           "link": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
         },
         {
@@ -178,12 +187,16 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 7,
       "headlines": [
+        {
+          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
+        },
         {
           "title": "Zachránil tisíce Židů. Švédský právník se dožil sta let a inspiroval Netflix",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-delam-jen-svou-praci-neznamy-hrdina-ze-svedska-zachranoval-i-ceske-zidy-316116"
@@ -213,19 +226,19 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 8,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 18,
       "headlines": [
         {
-          "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
-          "link": "https://www.aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league?traffic_source=rss"
+          "title": "Absence of violence in Drumcree does not make standoff any less significant",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/28/absence-of-violence-in-drumcree-does-not-make-standoff-any-less-significant"
         },
         {
-          "title": "Israeli football fans chant military slogans after defeat to Ireland",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/israeli-football-fans-chant-military-slogans-after-defeat-to-ireland?traffic_source=rss"
+          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
         }
       ]
     },
@@ -262,12 +275,17 @@
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 2,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 7,
+      "headlines": [
+        {
+          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
+        }
+      ]
     },
     {
       "id": "malta",
@@ -282,22 +300,36 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 3,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 7,
+      "headlines": [
+        {
+          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
+        }
+      ]
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 36,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 16,
+      "headlines": [
+        {
+          "title": "Polish defence minister details Russian strike near border with Poland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055474/"
+        },
+        {
+          "title": "Russian drone strikes near Yahodyn border crossing with Poland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055468/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -347,12 +379,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 13,
+      "headlines": [
+        {
+          "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
+          "link": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -360,8 +397,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zachránil tisíce Židů. Švédský právník se dožil sta let a inspiroval Netflix",
@@ -371,19 +408,15 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
         "title": "Russian strikes on Zaporizhzhia injure 32 people",
         "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055462/"
-      },
-      {
-        "title": "Russians strike Ukrzaliznytsia facility in Zaporizhzhia: 3 seriously injured",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055419/"
       }
     ]
   }
