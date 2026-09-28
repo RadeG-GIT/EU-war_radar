@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T04:15:15.719662+00:00",
+  "generated_at": "2026-09-28T08:17:30.922066+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Zelenskyy: Russians damage Saudi Arabian ambassador's residence",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055275/"
+          "title": "Russian strikes kill eight, injure dozens across Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss"
         },
         {
-          "title": "Russian drone hits apartment building in Kyiv, injuring woman – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055256/"
+          "title": "Russian troops in Kharkiv Oblast used civilians as human shields and forced them through gas pipeline to Russia – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055313/"
         },
         {
-          "title": "Ukraine hits five workshops at a Russian military plant in Rostov Oblast – OSINT",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055261/"
+          "title": "Russian attacks on Kyiv Oblast kill 3 people, including Azerbaijani national, and injure 8",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055314/"
         },
         {
-          "title": "Russian attack destroys Kärcher warehouse in Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055252/"
+          "title": "Kostiantynivka front sees 25 Russian attacks repelled, 229 combat clashes recorded overall – Ukraine's General Staff",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055311/"
         },
         {
-          "title": "Poland proposes locating a plant for manufacturing Patriot missiles on its territory",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055251/"
+          "title": "Ukrainian air defence downs 112 out of 165 Russian drones, some jet-powered: hits recorded at 14 locations",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055308/"
         }
       ]
     },
@@ -179,8 +179,8 @@
       "score": 33,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -28,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "British national among six dead in building explosion close to Acropolis in Athens",
@@ -231,17 +231,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Lithuania warns of evacuation challenges in event of Russian attack",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055233/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -276,21 +271,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 34,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Poland proposes locating a plant for manufacturing Patriot missiles on its territory",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/27/8055251/"
-        },
-        {
-          "title": "Pět tisíc Američanů v Polsku před koncem dekády. Rýsují se detaily nové vojenské základny",
-          "link": "https://www.irozhlas.cz/zpravy-svet/pet-tisic-americanu-v-polsku-pred-koncem-dekady-rysuji-se-detaily-nove-vojenske_2609271810_dci"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -14,
+      "headlines": []
     },
     {
       "id": "portugal",
