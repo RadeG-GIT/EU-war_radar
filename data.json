@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T08:17:30.922066+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-28T12:19:10.065173+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -26,20 +26,20 @@
           "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss"
         },
         {
-          "title": "Russian troops in Kharkiv Oblast used civilians as human shields and forced them through gas pipeline to Russia – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055313/"
+          "title": "Russians attack central Kyiv: Academy of Sciences building hit, fire breaks out, people killed – photos, video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055386/"
         },
         {
-          "title": "Russian attacks on Kyiv Oblast kill 3 people, including Azerbaijani national, and injure 8",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055314/"
+          "title": "Ukraine still holds positions in Russia's Kursk Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055377/"
         },
         {
-          "title": "Kostiantynivka front sees 25 Russian attacks repelled, 229 combat clashes recorded overall – Ukraine's General Staff",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055311/"
+          "title": "US ambassador to NATO believes Ukrainian strikes deep inside Russia are bringing peace talks closer",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055367/"
         },
         {
-          "title": "Ukrainian air defence downs 112 out of 165 Russian drones, some jet-powered: hits recorded at 14 locations",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055308/"
+          "title": "Estonia urges EU to ignore threats and use Russian assets for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055362/"
         }
       ]
     },
@@ -66,27 +66,27 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "RECENZE: Hvězdná hodina vrahů nabízí krvavé finále konce Protektorátu",
-          "link": "https://www.novinky.cz/clanek/kultura-tv-streaming-recenze-hvezdna-hodina-vrahu-nabizi-krvave-finale-konce-protektoratu-40599748"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
+          "link": "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -131,12 +131,17 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Estonia urges EU to ignore threats and use Russian assets for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055362/"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -151,42 +156,41 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 16,
+      "headlines": [
+        {
+          "title": "Child among three killed off French coast in Channel crossing attempt",
+          "link": "https://www.aljazeera.com/news/2026/9/28/child-among-three-killed-off-french-coast-in-channel-crossing-attempt?traffic_source=rss"
+        },
+        {
+          "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
+          "link": "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "RECENZE: Hvězdná hodina vrahů nabízí krvavé finále konce Protektorátu",
-          "link": "https://www.novinky.cz/clanek/kultura-tv-streaming-recenze-hvezdna-hodina-vrahu-nabizi-krvave-finale-konce-protektoratu-40599748"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
       "name": "Recko",
-      "score": 33,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "British national among six dead in building explosion close to Acropolis in Athens",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "score": 6,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -27,
+      "headlines": []
     },
     {
       "id": "hungary",
@@ -201,12 +205,21 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
+          "link": "https://www.aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league?traffic_source=rss"
+        },
+        {
+          "title": "Israeli football fans chant military slogans after defeat to Ireland",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/israeli-football-fans-chant-military-slogans-after-defeat-to-ireland?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -234,8 +247,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -274,8 +287,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -14,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -345,11 +358,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Russian attacks cause power outages in eight Ukrainian regions",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055359/"
+      }
+    ]
   }
 }
