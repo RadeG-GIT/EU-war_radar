@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T12:19:10.065173+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-09-28T16:16:40.602417+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian strikes kill eight, injure dozens across Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss"
+          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russians attack central Kyiv: Academy of Sciences building hit, fire breaks out, people killed – photos, video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055386/"
+          "title": "Staff killed and wounded in Russian strike on Kyiv’s science academy",
+          "link": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
         },
         {
-          "title": "Ukraine still holds positions in Russia's Kursk Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055377/"
+          "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
+          "link": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows"
         },
         {
-          "title": "US ambassador to NATO believes Ukrainian strikes deep inside Russia are bringing peace talks closer",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055367/"
+          "title": "Ukrainian air defence has downed 86 Russian UAVs since morning, but strikes recorded at 26 locations",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055439/"
         },
         {
-          "title": "Estonia urges EU to ignore threats and use Russian assets for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055362/"
+          "title": "\"She had taste in everything\": assistant to ex-defence council secretary killed in Kyiv strike on Academy of Sciences",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055456/"
         }
       ]
     },
@@ -69,8 +69,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -79,12 +79,12 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
-          "link": "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss"
+          "title": "LIVE: Belgium vs France – Nations League",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss"
         }
       ]
     },
@@ -131,17 +131,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Estonia urges EU to ignore threats and use Russian assets for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055362/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -156,31 +151,44 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 21,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 55,
+      "level": "zvysene",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 16,
+      "score_change": 34,
       "headlines": [
+        {
+          "title": "LIVE: Belgium vs France – Nations League",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss"
+        },
         {
           "title": "Child among three killed off French coast in Channel crossing attempt",
           "link": "https://www.aljazeera.com/news/2026/9/28/child-among-three-killed-off-french-coast-in-channel-crossing-attempt?traffic_source=rss"
         },
         {
-          "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
-          "link": "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss"
+          "title": "Staff killed and wounded in Russian strike on Kyiv’s science academy",
+          "link": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
+        },
+        {
+          "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
+          "link": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Zachránil tisíce Židů. Švédský právník se dožil sta let a inspiroval Netflix",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-delam-jen-svou-praci-neznamy-hrdina-ze-svedska-zachranoval-i-ceske-zidy-316116"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -188,8 +196,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -27,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -208,8 +216,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
@@ -349,24 +357,33 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Zachránil tisíce Židů. Švédský právník se dožil sta let a inspiroval Netflix",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-delam-jen-svou-praci-neznamy-hrdina-ze-svedska-zachranoval-i-ceske-zidy-316116"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "up",
     "score_change": 3,
     "headlines": [
       {
-        "title": "Russian attacks cause power outages in eight Ukrainian regions",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055359/"
+        "title": "Russian strikes on Zaporizhzhia injure 32 people",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055462/"
+      },
+      {
+        "title": "Russians strike Ukrzaliznytsia facility in Zaporizhzhia: 3 seriously injured",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055419/"
       }
     ]
   }
