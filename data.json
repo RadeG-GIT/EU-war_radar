@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:20:02.245968+00:00",
+  "generated_at": "2026-09-29T04:14:39.625796+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -22,6 +22,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
+          "link": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss"
+        },
+        {
           "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
         },
@@ -36,10 +40,6 @@
         {
           "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
           "link": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows"
-        },
-        {
-          "title": "Russian attacks on Kyiv have injured 24 people since start of day",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055496/"
         }
       ]
     },
@@ -79,8 +79,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,8 +154,8 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -31,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Gisèle Pelicot’s daughter launches awareness campaign for potential victims of drugging and sexual assault",
@@ -209,16 +209,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 9,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -17,
       "headlines": [
-        {
-          "title": "Absence of violence in Drumcree does not make standoff any less significant",
-          "link": "https://www.theguardian.com/uk-news/2026/sep/28/absence-of-violence-in-drumcree-does-not-make-standoff-any-less-significant"
-        },
         {
           "title": "Five EU countries to modernise several training centres for Ukrainian troops",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
@@ -365,8 +361,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
