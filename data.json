@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T16:16:16.047933+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-09-29T20:15:48.655343+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Babiš hovořil s Pavlem o programu příští Bezpečnostní rady státu",
@@ -31,7 +31,7 @@
           "link": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss"
         },
         {
-          "title": "Estonia says Russia ordered August arson attack on defence company",
+          "title": "Estonia accuses Russia of arson attack on defence firm supplying Ukraine",
           "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss"
         },
         {
@@ -104,8 +104,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukrainian national suspected in Nord Stream sabotage seeks asylum in Croatia",
@@ -136,14 +136,14 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 60,
+      "score": 51,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
-          "title": "Estonia says Russia ordered August arson attack on defence company",
+          "title": "Estonia accuses Russia of arson attack on defence firm supplying Ukraine",
           "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss"
         },
         {
@@ -153,10 +153,6 @@
         {
           "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
           "link": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine"
-        },
-        {
-          "title": "Estonia accuses Russia of arson attack on defence company supplying weapons to Ukrainian army",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055567/"
         },
         {
           "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu",
@@ -177,11 +173,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 28,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "score": 11,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -17,
       "headlines": [
         {
           "title": "French students and police clash as school blockades turn violent",
@@ -190,29 +186,29 @@
         {
           "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
           "link": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france"
-        },
-        {
-          "title": "NASAMS and missiles: Zelenskyy announces new air defence support packages",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055574/"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 25,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "score": 14,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -11,
       "headlines": [
+        {
+          "title": "German chancellor names air defence as Ukraine's biggest weakness: \"We're looking for solutions\"",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055679/"
+        },
+        {
+          "title": "Kazakh president again calls on Putin to freeze war in Ukraine after talks in Germany",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055675/"
+        },
         {
           "title": "Ukrainian national suspected in Nord Stream sabotage seeks asylum in Croatia",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055638/"
-        },
-        {
-          "title": "NASAMS and missiles: Zelenskyy announces new air defence support packages",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055574/"
         }
       ]
     },
@@ -242,8 +238,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ireland undecided on approach for next game against Israel, coach says",
@@ -277,8 +273,8 @@
       "score": 47,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
@@ -326,8 +322,8 @@
       "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Polish PM warns of very difficult months ahead for Poland due to Russia's aggressive stance",
