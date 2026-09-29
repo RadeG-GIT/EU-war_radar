@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T04:14:39.625796+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-29T08:17:14.305182+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -34,12 +34,12 @@
           "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Daytime Russian strike on Kyiv’s science academy kills at least one",
-          "link": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
+          "title": "Russia hits port facilities in overnight strikes on Odesa region of Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
         },
         {
-          "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
-          "link": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows"
+          "title": "‘This is terrorism’: daytime Russian strike hits science academy in Kyiv",
+          "link": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
         }
       ]
     },
@@ -116,17 +116,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 11,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -7,
+      "headlines": []
     },
     {
       "id": "estonia",
@@ -151,40 +146,27 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Gisèle Pelicot’s daughter launches awareness campaign for potential victims of drugging and sexual assault",
           "link": "https://www.theguardian.com/world/2026/sep/28/gisele-pelicot-daughter-awareness-campaign-potential-victims-drugging-sexual-assault"
-        },
-        {
-          "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
-          "link": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 15,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
-        },
-        {
-          "title": "Zachránil tisíce Židů. Švédský právník se dožil sta let a inspiroval Netflix",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-delam-jen-svou-praci-neznamy-hrdina-ze-svedska-zachranoval-i-ceske-zidy-316116"
-        }
-      ]
+      "trend": "down",
+      "score_change": -10,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -209,17 +191,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 9,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -17,
-      "headlines": [
-        {
-          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
-        }
-      ]
+      "score_change": -7,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -244,27 +221,27 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 8,
+      "headlines": [
+        {
+          "title": "Russia hits port facilities in overnight strikes on Odesa region of Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 9,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -7,
+      "headlines": []
     },
     {
       "id": "malta",
@@ -279,36 +256,22 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 10,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Five EU countries to modernise several training centres for Ukrainian troops",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055437/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -7,
+      "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 36,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Polish defence minister details Russian strike near border with Poland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055474/"
-        },
-        {
-          "title": "Russian drone strikes near Yahodyn border crossing with Poland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055468/"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -16,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -368,30 +331,20 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Zachránil tisíce Židů. Švédský právník se dožil sta let a inspiroval Netflix",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-delam-jen-svou-praci-neznamy-hrdina-ze-svedska-zachranoval-i-ceske-zidy-316116"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Russian strikes on Zaporizhzhia injure 32 people",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/28/8055462/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
