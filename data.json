@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T08:17:14.305182+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-09-29T12:18:51.238328+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,10 +22,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-          "link": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss"
-        },
-        {
           "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
         },
@@ -34,12 +30,16 @@
           "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia hits port facilities in overnight strikes on Odesa region of Ukraine – Europe live",
+          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia - Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
         },
         {
           "title": "‘This is terrorism’: daytime Russian strike hits science academy in Kyiv",
           "link": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
+        },
+        {
+          "title": "Minimal training and years waiting for combatant status: the problems faced by foreign volunteers in Ukraine's armed forces",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055577/"
         }
       ]
     },
@@ -119,19 +119,36 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 45,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 30,
+      "headlines": [
+        {
+          "title": "Estonia accuses Russia of arson attack on defence company supplying weapons to Ukrainian army",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055567/"
+        },
+        {
+          "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu, Moskva to popřela",
+          "link": "https://www.irozhlas.cz/zpravy-svet/estonsko-obvinilo-rusko-ze-zharskeho-utoku-na-zbrojni-firmu-moskva-poprela_2609291224_cen"
+        },
+        {
+          "title": "Za žhářským útokem na zbrojní závod v Tallinu stojí Rusové, tvrdí Estonsko",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-za-zharskym-utokem-na-zbrojni-zavod-v-tallinu-stoji-rusove-tvrdi-estonsko-40599916"
+        },
+        {
+          "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-estonsko-obvinilo-rusko-ze-zharskeho-utoku-na-zbrojni-firmu-316377"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -146,27 +163,32 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 14,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 8,
       "headlines": [
         {
-          "title": "Gisèle Pelicot’s daughter launches awareness campaign for potential victims of drugging and sexual assault",
-          "link": "https://www.theguardian.com/world/2026/sep/28/gisele-pelicot-daughter-awareness-campaign-potential-victims-drugging-sexual-assault"
+          "title": "NASAMS and missiles: Zelenskyy announces new air defence support packages",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055574/"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -10,
-      "headlines": []
+      "trend": "up",
+      "score_change": 17,
+      "headlines": [
+        {
+          "title": "NASAMS and missiles: Zelenskyy announces new air defence support packages",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055574/"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -194,8 +216,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -221,14 +243,14 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 32,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 8,
+      "score_change": 9,
       "headlines": [
         {
-          "title": "Russia hits port facilities in overnight strikes on Odesa region of Ukraine – Europe live",
+          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia - Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
         }
       ]
@@ -239,8 +261,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -259,8 +281,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -269,8 +291,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -16,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -296,17 +318,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Slovensku by svědčila vojenská neutralita, zopakoval Fico",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/slovensku-by-svedcila-vojenska-neutralita-zopakoval-fico-378003"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -334,8 +351,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
@@ -343,8 +360,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
