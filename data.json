@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-09-29T12:18:51.238328+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-29T16:16:16.047933+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Babiš hovořil s Pavlem o programu příští Bezpečnostní rady státu",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-babis-hovoril-s-pavlem-o-programu-pristi-bezpecnostni-rady-statu-316411"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-          "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
+          "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
+          "link": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss"
+        },
+        {
+          "title": "Estonia says Russia ordered August arson attack on defence company",
+          "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss"
+        },
+        {
+          "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "People escape historic Kyiv building hit by Russian drone",
           "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia - Europe live",
+          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
-        },
-        {
-          "title": "‘This is terrorism’: daytime Russian strike hits science academy in Kyiv",
-          "link": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine"
-        },
-        {
-          "title": "Minimal training and years waiting for combatant status: the problems faced by foreign volunteers in Ukraine's armed forces",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055577/"
         }
       ]
     },
@@ -96,12 +101,17 @@
     {
       "id": "croatia",
       "name": "Chorvatsko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ukrainian national suspected in Nord Stream sabotage seeks asylum in Croatia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055638/"
+        }
+      ]
     },
     {
       "id": "cyprus",
@@ -126,27 +136,31 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 45,
+      "score": 60,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 30,
+      "score_change": 15,
       "headlines": [
+        {
+          "title": "Estonia says Russia ordered August arson attack on defence company",
+          "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss"
+        },
+        {
+          "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+          "link": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine"
+        },
         {
           "title": "Estonia accuses Russia of arson attack on defence company supplying weapons to Ukrainian army",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055567/"
         },
         {
-          "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu, Moskva to popřela",
-          "link": "https://www.irozhlas.cz/zpravy-svet/estonsko-obvinilo-rusko-ze-zharskeho-utoku-na-zbrojni-firmu-moskva-poprela_2609291224_cen"
-        },
-        {
-          "title": "Za žhářským útokem na zbrojní závod v Tallinu stojí Rusové, tvrdí Estonsko",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-za-zharskym-utokem-na-zbrojni-zavod-v-tallinu-stoji-rusove-tvrdi-estonsko-40599916"
-        },
-        {
           "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-estonsko-obvinilo-rusko-ze-zharskeho-utoku-na-zbrojni-firmu-316377"
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-obvinilo-rusko-ze-zharskeho-utoku-na-zbrojni-firmu-378055"
         }
       ]
     },
@@ -163,12 +177,20 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 22,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 28,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 8,
+      "score_change": 6,
       "headlines": [
+        {
+          "title": "French students and police clash as school blockades turn violent",
+          "link": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent"
+        },
+        {
+          "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
+          "link": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france"
+        },
         {
           "title": "NASAMS and missiles: Zelenskyy announces new air defence support packages",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055574/"
@@ -178,12 +200,16 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 22,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 25,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 17,
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Ukrainian national suspected in Nord Stream sabotage seeks asylum in Croatia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055638/"
+        },
         {
           "title": "NASAMS and missiles: Zelenskyy announces new air defence support packages",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055574/"
@@ -213,12 +239,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ireland undecided on approach for next game against Israel, coach says",
+          "link": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -243,15 +274,19 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 32,
-      "level": "mirne",
+      "score": 47,
+      "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 9,
+      "score_change": 15,
       "headlines": [
         {
-          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia - Europe live",
+          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
+        },
+        {
+          "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+          "link": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine"
         }
       ]
     },
@@ -288,12 +323,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 29,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Polish PM warns of very difficult months ahead for Poland due to Russia's aggressive stance",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055620/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -321,8 +361,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
