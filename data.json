@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:15:48.655343+00:00",
+  "generated_at": "2026-09-30T00:20:59.808328+00:00",
   "overall_score": 14,
   "hotspots": [
     {
@@ -27,16 +27,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
-          "link": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss"
-        },
-        {
-          "title": "Estonia accuses Russia of arson attack on defence firm supplying Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss"
-        },
-        {
           "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+          "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "People escape historic Kyiv building hit by Russian drone",
@@ -45,6 +41,10 @@
         {
           "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
+        },
+        {
+          "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+          "link": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine"
         }
       ]
     },
@@ -136,16 +136,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 51,
-      "level": "zvysene",
+      "score": 42,
+      "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
       "score_change": -9,
       "headlines": [
-        {
-          "title": "Estonia accuses Russia of arson attack on defence firm supplying Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss"
-        },
         {
           "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
@@ -173,14 +169,18 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -17,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "French students and police clash as school blockades turn violent",
+          "title": "French students clash with police as protests over education cuts spread",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss"
+        },
+        {
+          "title": "Hundreds detained as student protests across France turn violent",
           "link": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent"
         },
         {
@@ -195,8 +195,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "German chancellor names air defence as Ukraine's biggest weakness: \"We're looking for solutions\"",
@@ -235,17 +235,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ireland undecided on approach for next game against Israel, coach says",
-          "link": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "italy",
