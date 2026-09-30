@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T16:17:15.398370+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-30T20:15:50.124052+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,10 +22,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
-          "link": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss"
-        },
-        {
           "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
           "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
         },
@@ -34,12 +30,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
+          "title": "Russian attack on Kyiv Oblast injures woman and damages buildings in five districts",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055875/"
         },
         {
-          "title": "NATO responds to Russia's nuclear threats",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055814/"
+          "title": "Air defence downed 254 drones on 30 September, Ukraine's Air Force reports",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055853/"
+        },
+        {
+          "title": "Russian drone crashes into playground in Kyiv without detonating – photos, video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055845/"
         }
       ]
     },
@@ -59,8 +59,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -76,17 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "\"It will be a dark winter for Europe\": Belgium predicts increase in Russian hybrid attacks",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055758/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -134,8 +129,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu",
@@ -149,24 +144,19 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 24,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 19,
-      "headlines": [
-        {
-          "title": "French court jails six men for manslaughter over mass drowning in Channel",
-          "link": "https://www.theguardian.com/world/2026/sep/30/french-court-jails-six-manslaughter-mass-drowning-channel"
-        }
-      ]
+      "trend": "down",
+      "score_change": -19,
+      "headlines": []
     },
     {
       "id": "germany",
@@ -204,8 +194,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -234,8 +224,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -271,16 +261,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 32,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
-        },
         {
           "title": "Noční ruský útok na ukrajinskou energetiku byl největší od zimy, řekl Koreckyj",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-zabilo-dite-v-kyjevske-oblasti-polsko-vyslalo-do-vzduchu-letadla-378089"
@@ -300,16 +286,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 24,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
-        },
         {
           "title": "Noční ruský útok na ukrajinskou energetiku byl největší od zimy, řekl Koreckyj",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-zabilo-dite-v-kyjevske-oblasti-polsko-vyslalo-do-vzduchu-letadla-378089"
@@ -339,17 +321,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -363,11 +340,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Ukrainian forces use single ground robot to evacuate four wounded soldiers in constant danger from drones and mines – video",
+        "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055856/"
+      }
+    ]
   }
 }
