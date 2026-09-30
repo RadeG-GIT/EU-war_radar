@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-09-30T12:22:24.877079+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-30T16:17:15.398370+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukrajina chce Česku předat své zkušenosti s drony. Obrana se do toho nehrne",
-          "link": "https://www.novinky.cz/clanek/domaci-ukrajina-chce-cesku-predat-sve-zkusenosti-s-drony-obrana-se-do-toho-nehrne-40600018"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -39,12 +34,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
+          "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
         },
         {
-          "title": "‘If people are in a bunker, business stops’: Missile alerts cost Ukraine $45m for every hour they halt businesses",
-          "link": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt"
+          "title": "NATO responds to Russia's nuclear threats",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055814/"
         }
       ]
     },
@@ -61,21 +56,12 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Moldova says drone that entered country this morning was jet-powered",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055754/"
-        },
-        {
-          "title": "Moldova reveals new details regarding drone explosion incident",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055736/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "austria",
@@ -93,8 +79,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "\"It will be a dark winter for Europe\": Belgium predicts increase in Russian hybrid attacks",
@@ -145,16 +131,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 18,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
-        {
-          "title": "Lithuania lodges protest with Russia over sabotage in Estonia and attacks on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055750/"
-        },
         {
           "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-obvinilo-rusko-ze-zharskeho-utoku-na-zbrojni-firmu-378055"
@@ -164,22 +146,7 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Ukrajina chce Česku předat své zkušenosti s drony. Obrana se do toho nehrne",
-          "link": "https://www.novinky.cz/clanek/domaci-ukrajina-chce-cesku-predat-sve-zkusenosti-s-drony-obrana-se-do-toho-nehrne-40600018"
-        }
-      ]
-    },
-    {
-      "id": "france",
-      "name": "Francie",
-      "score": 5,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
@@ -187,13 +154,28 @@
       "headlines": []
     },
     {
+      "id": "france",
+      "name": "Francie",
+      "score": 24,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "up",
+      "score_change": 19,
+      "headlines": [
+        {
+          "title": "French court jails six men for manslaughter over mass drowning in Channel",
+          "link": "https://www.theguardian.com/world/2026/sep/30/french-court-jails-six-manslaughter-mass-drowning-channel"
+        }
+      ]
+    },
+    {
       "id": "germany",
       "name": "Nemecko",
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -219,17 +201,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 13,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 11,
-      "headlines": [
-        {
-          "title": "Mediation over Drumcree parade is ‘dead in the water’, say nationalists",
-          "link": "https://www.theguardian.com/uk-news/2026/sep/30/drumcree-parade-mediation-dead-in-the-water-say-nationalists"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -254,17 +231,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Lithuania lodges protest with Russia over sabotage in Estonia and attacks on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055750/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -302,11 +274,11 @@
       "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
+          "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
         },
         {
@@ -331,11 +303,11 @@
       "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
+          "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
         },
         {
@@ -370,11 +342,11 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
+          "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
         }
       ]
