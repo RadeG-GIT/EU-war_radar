@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T00:20:59.808328+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-09-30T04:15:41.676522+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -39,12 +39,12 @@
           "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
+          "title": "Missile alerts cost Ukraine $45m for every hour they halt businesses",
+          "link": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt"
         },
         {
-          "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
-          "link": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine"
+          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
         }
       ]
     },
@@ -136,19 +136,15 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 42,
+      "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -9,
+      "score_change": -15,
       "headlines": [
         {
           "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
-          "link": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine"
         },
         {
           "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu",
@@ -169,12 +165,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 14,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
+        {
+          "title": "Public workers in France strike over pay as student protests turn violent",
+          "link": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss"
+        },
         {
           "title": "French students clash with police as protests over education cuts spread",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss"
@@ -238,8 +238,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -265,19 +265,15 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 47,
-      "level": "zvysene",
+      "score": 32,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
         {
           "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
-        },
-        {
-          "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
-          "link": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine"
         }
       ]
     },
