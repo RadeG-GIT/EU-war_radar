@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T08:16:49.928716+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-09-30T12:22:24.877079+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,12 +8,12 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Drony, kam se podíváš. Cvičení Drone Shield umožňuje armádě testovat nové technologie",
-          "link": "https://www.irozhlas.cz/zpravy-domov/drony-kam-se-podivas-cviceni-drone-shield-umoznuje-armade-testovat-nove_2609300600_tez"
+          "title": "Ukrajina chce Česku předat své zkušenosti s drony. Obrana se do toho nehrne",
+          "link": "https://www.novinky.cz/clanek/domaci-ukrajina-chce-cesku-predat-sve-zkusenosti-s-drony-obrana-se-do-toho-nehrne-40600018"
         }
       ]
     },
@@ -27,19 +27,19 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
+          "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
+          "link": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss"
+        },
+        {
+          "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
           "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "People escape historic Kyiv building hit by Russian drone",
-          "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia targets communications and energy facilities in overnight drone attacks on Ukraine - Europe live",
+          "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
         },
         {
@@ -61,15 +61,19 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 18,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 27,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 9,
       "headlines": [
         {
-          "title": "Drone crashes and explodes in Moldova – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055725/"
+          "title": "Moldova says drone that entered country this morning was jet-powered",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055754/"
+        },
+        {
+          "title": "Moldova reveals new details regarding drone explosion incident",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055736/"
         }
       ]
     },
@@ -86,12 +90,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "\"It will be a dark winter for Europe\": Belgium predicts increase in Russian hybrid attacks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055758/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -109,8 +118,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -143,8 +152,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
+          "title": "Lithuania lodges protest with Russia over sabotage in Estonia and attacks on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055750/"
         },
         {
           "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu",
@@ -155,46 +164,37 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ukrajina chce Česku předat své zkušenosti s drony. Obrana se do toho nehrne",
+          "link": "https://www.novinky.cz/clanek/domaci-ukrajina-chce-cesku-predat-sve-zkusenosti-s-drony-obrana-se-do-toho-nehrne-40600018"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
-      "headlines": [
-        {
-          "title": "Public workers in France strike over pay as student protests turn violent",
-          "link": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "id": "germany",
-      "name": "Nemecko",
-      "score": 11,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "German chancellor names air defence as Ukraine's biggest weakness: We're looking for solutions",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055679/"
-        },
-        {
-          "title": "Kazakh president again calls on Putin to freeze war in Ukraine after talks in Germany",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055675/"
-        }
-      ]
+      "headlines": []
+    },
+    {
+      "id": "germany",
+      "name": "Nemecko",
+      "score": 5,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -219,12 +219,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "Mediation over Drumcree parade is ‘dead in the water’, say nationalists",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/30/drumcree-parade-mediation-dead-in-the-water-say-nationalists"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -249,12 +254,17 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -17,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Lithuania lodges protest with Russia over sabotage in Estonia and attacks on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055750/"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -289,22 +299,18 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 35,
+      "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "Russia targets communications and energy facilities in overnight drone attacks on Ukraine - Europe live",
+          "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
         },
         {
-          "title": "Rusko vylepšuje proudové drony. Hromadná výroba umožňuje masové útoky",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusko-vylepsuje-proudove-drony-hromadna-vyroba-umoznuje-masove-utoky-40593246"
-        },
-        {
-          "title": "Rusko zabilo dítě v Kyjevské oblasti, Polsko vyslalo do vzduchu letadla",
+          "title": "Noční ruský útok na ukrajinskou energetiku byl největší od zimy, řekl Koreckyj",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-zabilo-dite-v-kyjevske-oblasti-polsko-vyslalo-do-vzduchu-letadla-378089"
         }
       ]
@@ -322,15 +328,19 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 24,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 27,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 9,
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Russia targets communications and energy facilities in overnight drone attacks on Ukraine - Europe live",
+          "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
+        },
+        {
+          "title": "Noční ruský útok na ukrajinskou energetiku byl největší od zimy, řekl Koreckyj",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-zabilo-dite-v-kyjevske-oblasti-polsko-vyslalo-do-vzduchu-letadla-378089"
         }
       ]
     },
@@ -357,14 +367,14 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 12,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Russia targets communications and energy facilities in overnight drone attacks on Ukraine - Europe live",
+          "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
           "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
         }
       ]
