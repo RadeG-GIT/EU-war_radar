@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-30T04:15:41.676522+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-09-30T08:16:49.928716+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Babiš hovořil s Pavlem o programu příští Bezpečnostní rady státu",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-babis-hovoril-s-pavlem-o-programu-pristi-bezpecnostni-rady-statu-316411"
+          "title": "Drony, kam se podíváš. Cvičení Drone Shield umožňuje armádě testovat nové technologie",
+          "link": "https://www.irozhlas.cz/zpravy-domov/drony-kam-se-podivas-cviceni-drone-shield-umoznuje-armade-testovat-nove_2609300600_tez"
         }
       ]
     },
@@ -39,12 +39,12 @@
           "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Missile alerts cost Ukraine $45m for every hour they halt businesses",
-          "link": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt"
+          "title": "Russia targets communications and energy facilities in overnight drone attacks on Ukraine - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
         },
         {
-          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
+          "title": "‘If people are in a bunker, business stops’: Missile alerts cost Ukraine $45m for every hour they halt businesses",
+          "link": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt"
         }
       ]
     },
@@ -61,12 +61,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Drone crashes and explodes in Moldova – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055725/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -101,17 +106,12 @@
     {
       "id": "croatia",
       "name": "Chorvatsko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukrainian national suspected in Nord Stream sabotage seeks asylum in Croatia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055638/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "cyprus",
@@ -139,8 +139,8 @@
       "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
@@ -165,50 +165,34 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Public workers in France strike over pay as student protests turn violent",
           "link": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss"
-        },
-        {
-          "title": "French students clash with police as protests over education cuts spread",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss"
-        },
-        {
-          "title": "Hundreds detained as student protests across France turn violent",
-          "link": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent"
-        },
-        {
-          "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
-          "link": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "German chancellor names air defence as Ukraine's biggest weakness: \"We're looking for solutions\"",
+          "title": "German chancellor names air defence as Ukraine's biggest weakness: We're looking for solutions",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055679/"
         },
         {
           "title": "Kazakh president again calls on Putin to freeze war in Ukraine after talks in Germany",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055675/"
-        },
-        {
-          "title": "Ukrainian national suspected in Nord Stream sabotage seeks asylum in Croatia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055638/"
         }
       ]
     },
@@ -265,17 +249,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -15,
-      "headlines": [
-        {
-          "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates"
-        }
-      ]
+      "score_change": -17,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -310,15 +289,23 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 29,
+      "score": 35,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Polish PM warns of very difficult months ahead for Poland due to Russia's aggressive stance",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/29/8055620/"
+          "title": "Russia targets communications and energy facilities in overnight drone attacks on Ukraine - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
+        },
+        {
+          "title": "Rusko vylepšuje proudové drony. Hromadná výroba umožňuje masové útoky",
+          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusko-vylepsuje-proudove-drony-hromadna-vyroba-umoznuje-masove-utoky-40593246"
+        },
+        {
+          "title": "Rusko zabilo dítě v Kyjevské oblasti, Polsko vyslalo do vzduchu letadla",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-zabilo-dite-v-kyjevske-oblasti-polsko-vyslalo-do-vzduchu-letadla-378089"
         }
       ]
     },
@@ -335,12 +322,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Russia targets communications and energy facilities in overnight drone attacks on Ukraine - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -365,12 +357,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Russia targets communications and energy facilities in overnight drone attacks on Ukraine - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "sweden",
