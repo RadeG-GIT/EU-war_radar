@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-01T16:14:47.456294+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-01T20:15:43.272928+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Vacek na mistrovství Evropy startovat nebude. Českého cyklistu nepustí na šampionát zlomenina nosu",
-          "link": "https://www.irozhlas.cz/sport/ostatni-sporty/vacek-na-mistrovstvi-evropy-startovat-nebude-ceskeho-cyklistu-nepusti-na_2610011522_mim"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -31,20 +26,20 @@
           "link": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss"
         },
         {
-          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-          "link": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss"
-        },
-        {
-          "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "French high school protests escalate with violence reported – Europe live",
+          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+        },
+        {
+          "title": "Ukraine persists with Russian oil refinery strikes in defiance of Trump",
+          "link": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings"
+        },
+        {
+          "title": "Putin threatens again to use \"entire arsenal of weapons\" if anyone attacks Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056028/"
         }
       ]
     },
@@ -61,19 +56,15 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 24,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -9,
+      "score_change": -3,
       "headlines": [
         {
           "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056002/"
-        },
-        {
-          "title": "Russian jet-powered drone exploded in Moldova",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055947/"
         }
       ]
     },
@@ -93,8 +84,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "European Commission calls Russia's nuclear threats an intimidation tactic",
@@ -165,14 +156,18 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
         {
-          "title": "French high school protests escalate with violence reported – Europe live",
+          "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
+          "link": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting"
+        },
+        {
+          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
@@ -180,14 +175,14 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "French high school protests escalate with violence reported – Europe live",
+          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
@@ -215,14 +210,14 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 5,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "French high school protests escalate with violence reported – Europe live",
+          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
@@ -230,14 +225,14 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "French high school protests escalate with violence reported – Europe live",
+          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
@@ -298,8 +293,8 @@
       "score": 38,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
@@ -327,8 +322,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
