@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:15:50.124052+00:00",
+  "generated_at": "2026-10-01T00:22:01.498629+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -22,6 +22,14 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russian drone crashes into Kyiv playground without exploding",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss"
+        },
+        {
+          "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
           "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
         },
@@ -32,14 +40,6 @@
         {
           "title": "Russian attack on Kyiv Oblast injures woman and damages buildings in five districts",
           "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055875/"
-        },
-        {
-          "title": "Air defence downed 254 drones on 30 September, Ukraine's Air Force reports",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055853/"
-        },
-        {
-          "title": "Russian drone crashes into playground in Kyiv without detonating – photos, video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055845/"
         }
       ]
     },
@@ -79,8 +79,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,8 +154,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -19,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -264,8 +264,8 @@
       "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Noční ruský útok na ukrajinskou energetiku byl největší od zimy, řekl Koreckyj",
@@ -289,8 +289,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Noční ruský útok na ukrajinskou energetiku byl největší od zimy, řekl Koreckyj",
@@ -324,8 +324,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -343,8 +343,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Ukrainian forces use single ground robot to evacuate four wounded soldiers in constant danger from drones and mines – video",
