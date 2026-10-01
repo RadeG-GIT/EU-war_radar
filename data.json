@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T04:15:51.827398+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-01T08:16:57.236933+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -26,7 +26,7 @@
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss"
         },
         {
-          "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+          "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -38,8 +38,8 @@
           "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Kyiv Independent editor: ‘Our readers want Russia to suffer but we can’t be propagandists’",
-          "link": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists"
+          "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
     },
@@ -56,12 +56,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Drone breaches Moldovan airspace for third time in one day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055879/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -126,15 +131,15 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 18,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Estonsko obvinilo Rusko ze žhářského útoku na zbrojní firmu",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-obvinilo-rusko-ze-zharskeho-utoku-na-zbrojni-firmu-378055"
+          "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
     },
@@ -211,22 +216,32 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+        }
+      ]
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+        }
+      ]
     },
     {
       "id": "luxembourg",
