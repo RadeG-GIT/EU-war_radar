@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-01T12:20:07.350505+00:00",
+  "generated_at": "2026-10-01T16:14:47.456294+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Vacek na mistrovství Evropy startovat nebude. Českého cyklistu nepustí na šampionát zlomenina nosu",
+          "link": "https://www.irozhlas.cz/sport/ostatni-sporty/vacek-na-mistrovstvi-evropy-startovat-nebude-ceskeho-cyklistu-nepusti-na_2610011522_mim"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
+          "title": "Western militaries are undermining Ukraine’s defence, experts say",
+          "link": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss"
+        },
+        {
+          "title": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
+          "link": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss"
         },
         {
           "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
           "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-          "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
+          "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+          "title": "French high school protests escalate with violence reported – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
-        },
-        {
-          "title": "Ukrainian forces strike drone site and Russian arms depot, destroy Rubicon warehouses",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055962/"
         }
       ]
     },
@@ -56,19 +61,19 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 36,
+      "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
+        {
+          "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056002/"
+        },
         {
           "title": "Russian jet-powered drone exploded in Moldova",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055947/"
-        },
-        {
-          "title": ",Pro Rusko může být zdrojem nátlaku u mírových hovorů.‘ Jakou roli má Podněstří ve válce s Ukrajinou?",
-          "link": "https://www.irozhlas.cz/zpravy-svet/moldavsko-podnestri-putin-obcanstvi-ukrajina_2610011200_ula"
         }
       ]
     },
@@ -85,12 +90,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "European Commission calls Russia's nuclear threats an intimidation tactic",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055974/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -138,8 +148,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -158,11 +168,11 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+          "title": "French high school protests escalate with violence reported – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
@@ -173,11 +183,11 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+          "title": "French high school protests escalate with violence reported – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
@@ -208,11 +218,11 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+          "title": "French high school protests escalate with violence reported – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
@@ -223,11 +233,11 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+          "title": "French high school protests escalate with violence reported – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         }
       ]
@@ -238,8 +248,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -248,8 +258,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -285,12 +295,16 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 29,
+      "score": 38,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
+        {
+          "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056002/"
+        },
         {
           "title": "Poland implements new response rules for air defence amid Russian attacks on Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055959/"
@@ -310,12 +324,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056002/"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -362,8 +381,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
