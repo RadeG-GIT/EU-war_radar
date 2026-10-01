@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:16:57.236933+00:00",
+  "generated_at": "2026-10-01T12:20:07.350505+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,10 +22,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian drone crashes into Kyiv playground without exploding",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss"
-        },
-        {
           "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
         },
@@ -38,8 +34,12 @@
           "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
+          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+        },
+        {
+          "title": "Ukrainian forces strike drone site and Russian arms depot, destroy Rubicon warehouses",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055962/"
         }
       ]
     },
@@ -56,15 +56,19 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 18,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 36,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 18,
       "headlines": [
         {
-          "title": "Drone breaches Moldovan airspace for third time in one day",
-          "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055879/"
+          "title": "Russian jet-powered drone exploded in Moldova",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055947/"
+        },
+        {
+          "title": ",Pro Rusko může být zdrojem nátlaku u mírových hovorů.‘ Jakou roli má Podněstří ve válce s Ukrajinou?",
+          "link": "https://www.irozhlas.cz/zpravy-svet/moldavsko-podnestri-putin-obcanstvi-ukrajina_2610011200_ula"
         }
       ]
     },
@@ -131,17 +135,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
-      "headlines": [
-        {
-          "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -156,22 +155,32 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+        }
+      ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -196,52 +205,52 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+        }
+      ]
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+        }
+      ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Russia continues strikes on Ukraine as Zelenskyy visits frontline – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -283,8 +292,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Noční ruský útok na ukrajinskou energetiku byl největší od zimy, řekl Koreckyj",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-zabilo-dite-v-kyjevske-oblasti-polsko-vyslalo-do-vzduchu-letadla-378089"
+          "title": "Poland implements new response rules for air defence amid Russian attacks on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055959/"
         }
       ]
     },
@@ -301,17 +310,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Noční ruský útok na ukrajinskou energetiku byl největší od zimy, řekl Koreckyj",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-zabilo-dite-v-kyjevske-oblasti-polsko-vyslalo-do-vzduchu-letadla-378089"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -355,16 +359,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Ukrainian forces use single ground robot to evacuate four wounded soldiers in constant danger from drones and mines – video",
-        "link": "https://www.pravda.com.ua/eng/news/2026/09/30/8055856/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
