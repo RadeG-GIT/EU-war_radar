@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:15:43.272928+00:00",
+  "generated_at": "2026-10-02T00:20:48.622231+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,8 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Western militaries are undermining Ukraine’s defence, experts say",
-          "link": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss"
+          "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+          "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss"
         },
         {
           "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
@@ -38,8 +38,8 @@
           "link": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings"
         },
         {
-          "title": "Putin threatens again to use \"entire arsenal of weapons\" if anyone attacks Russia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056028/"
+          "title": "Kyiv’s Pivdennyi Bridge hit by Russian drone for third time in one day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056045/"
         }
       ]
     },
@@ -59,8 +59,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
@@ -159,8 +159,8 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
@@ -178,8 +178,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
@@ -213,8 +213,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
@@ -228,8 +228,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
@@ -290,19 +290,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 38,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056002/"
-        },
-        {
-          "title": "Poland implements new response rules for air defence amid Russian attacks on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055959/"
         }
       ]
     },
