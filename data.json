@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:20:48.622231+00:00",
+  "generated_at": "2026-10-02T04:15:22.820933+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -26,20 +26,20 @@
           "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss"
         },
         {
-          "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
+          "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
         },
         {
-          "title": "Ukraine persists with Russian oil refinery strikes in defiance of Trump",
-          "link": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings"
-        },
-        {
           "title": "Kyiv’s Pivdennyi Bridge hit by Russian drone for third time in one day",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056045/"
+        },
+        {
+          "title": "NATO Secretary General: Europe is not at peace today",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056040/"
         }
       ]
     },
@@ -293,8 +293,8 @@
       "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
