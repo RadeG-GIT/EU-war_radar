@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-02T04:15:22.820933+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-02T08:16:18.553823+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Praha 8 opravila kapli na Bohnickém hřbitově. Z černé skládky se znovu stalo důstojné místo",
+          "link": "https://www.novinky.cz/clanek/historie-praha-8-opravila-kapli-na-bohnickem-hrbitove-z-cerne-skladky-se-znovu-stalo-dustojne-misto-40600286"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-          "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss"
-        },
-        {
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+          "title": "400 French schools closed on Friday as protests escalate into ‘urban violence’ – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
         },
         {
-          "title": "Kyiv’s Pivdennyi Bridge hit by Russian drone for third time in one day",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056045/"
+          "title": "Russia plans to cut Ukrainian nuclear power plants off from grid and destroy water supply system – NYT",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056102/"
         },
         {
-          "title": "NATO Secretary General: Europe is not at peace today",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056040/"
+          "title": "One killed and two injured in Russian strike on Kyiv's Darnytskyi district – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056080/"
+        },
+        {
+          "title": "Ukraine's General Staff reports 207 combat clashes on front over past 24 hours",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056078/"
         }
       ]
     },
@@ -56,17 +61,12 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056002/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "austria",
@@ -81,17 +81,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "European Commission calls Russia's nuclear threats an intimidation tactic",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8055974/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -156,36 +151,35 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 2,
       "headlines": [
+        {
+          "title": "400 French schools closed on Friday as protests escalate into ‘urban violence’ – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
+        },
         {
           "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
           "link": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting"
         },
         {
-          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+          "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
+          "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -210,30 +204,30 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 11,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+          "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
+          "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
         }
       ]
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 13,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -1,
       "headlines": [
         {
-          "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+          "title": "400 French schools closed on Friday as protests escalate into ‘urban violence’ – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
         }
       ]
     },
@@ -290,17 +284,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056002/"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -322,8 +311,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine to provide shelters at all border crossing points by the end of 2026",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/01/8056002/"
+          "title": "Suspected drone falls in Romania, causing fire",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056088/"
         }
       ]
     },
@@ -369,11 +358,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Russia plans to cut Ukrainian nuclear power plants off from grid and destroy water supply system – NYT",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056102/"
+      }
+    ]
   }
 }
