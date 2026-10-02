@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T12:18:38.853190+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-02T16:14:47.364096+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "CIA nás velmi silně varovala, je to na úrovni roku 2021, říká Foltýn",
@@ -31,24 +31,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
-          "link": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss"
+          "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+          "link": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss"
         },
         {
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russians attack petrol station in Dnipropetrovsk Oblast twice",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056149/"
+          "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
+          "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
         },
         {
-          "title": "Zelenskyy on Russian strikes on Kyiv: They want Ukrainians to leave the capital",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056142/"
+          "title": "Zelenskyy signs law on Ukraine's participation in European Defence Fund",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056180/"
         },
         {
-          "title": "Ukrainian foreign minister discusses protection of Ukraine against Russian attacks with NATO representative",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056140/"
+          "title": "Zelenskyy expects 400 jet-powered drone interceptors to be produced in October, but their effectiveness varies",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056175/"
         }
       ]
     },
@@ -155,12 +155,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
+        {
+          "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
+          "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
+        },
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
           "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
@@ -170,12 +174,17 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Media reveal information about Russian who may have organised sabotage at Leipzig airport",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056163/"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -215,12 +224,17 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
+          "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -235,17 +249,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Lithuania deploys Ukrainian system to detect drones",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056095/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -280,12 +289,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Polsko posiluje civilní obranu. Lublin zmodernizoval kryt ze studené války",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsko-posiluje-civilni-obranu-lublin-zmodernizoval-kryt-ze-studene-valky-316696"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -303,8 +317,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -349,16 +363,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Russia plans to cut Ukrainian nuclear power plants off from grid and destroy water supply system – NYT",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056102/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
