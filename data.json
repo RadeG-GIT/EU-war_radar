@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-10-02T16:14:47.364096+00:00",
+  "generated_at": "2026-10-02T20:13:23.592115+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 15,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "CIA nás velmi silně varovala, je to na úrovni roku 2021, říká Foltýn",
           "link": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-babis-a-pavel-se-sesli-kvuli-ruske-hrozbe-co-muzou-podniknout-foltyn-odpovida-316646"
-        },
-        {
-          "title": "Praha potřebuje novou moderní nemocnici s kryty, říká nový šéf ÚVN",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-praha-potrebuje-novou-moderni-nemocnici-s-kryty-rika-novy-sef-uvn-316620"
         }
       ]
     },
@@ -43,12 +39,12 @@
           "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
         },
         {
-          "title": "Zelenskyy signs law on Ukraine's participation in European Defence Fund",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056180/"
+          "title": "Man, 66, and girl of 8 injured in Russian attack on Hostomel in Kyiv Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056231/"
         },
         {
-          "title": "Zelenskyy expects 400 jet-powered drone interceptors to be produced in October, but their effectiveness varies",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056175/"
+          "title": "He dreamed of a Kawasaki: boy killed in Russian strike on Kyiv Oblast laid to rest to the roar of bikes",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056218/"
         }
       ]
     },
@@ -145,25 +141,30 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
-    },
-    {
-      "id": "france",
-      "name": "Francie",
-      "score": 17,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 9,
       "headlines": [
         {
-          "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
-          "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
+          "title": "‚Útok na demokracii.‘ Finsko vyšetřuje sérii podezřelých vniknutí do domovů poslanců",
+          "link": "https://www.irozhlas.cz/zpravy-svet/utok-na-demokracii-finsko-vysetruje-serii-podezrelych-vniknuti-do-domovu_2610021830_jor"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "Francie",
+      "score": 11,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -6,
+      "headlines": [
+        {
+          "title": "Riot police clash with students as education protests rage in France",
+          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
@@ -177,8 +178,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Media reveal information about Russian who may have organised sabotage at Leipzig airport",
@@ -224,17 +225,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 13,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
-          "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -249,12 +245,17 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Litva testuje ukrajinskou Nebeskou pevnost. Má pomoci s ochranou před drony",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-litva-testuje-ukrajinskou-nebeskou-pevnost-ma-pomoci-s-ochranou-pred-drony-316705"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -292,8 +293,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Polsko posiluje civilní obranu. Lublin zmodernizoval kryt ze studené války",
@@ -366,8 +367,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
