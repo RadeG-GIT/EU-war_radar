@@ -1,19 +1,23 @@
 {
-  "generated_at": "2026-10-02T08:16:18.553823+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-02T12:18:38.853190+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 9,
       "headlines": [
         {
-          "title": "Praha 8 opravila kapli na Bohnickém hřbitově. Z černé skládky se znovu stalo důstojné místo",
-          "link": "https://www.novinky.cz/clanek/historie-praha-8-opravila-kapli-na-bohnickem-hrbitove-z-cerne-skladky-se-znovu-stalo-dustojne-misto-40600286"
+          "title": "CIA nás velmi silně varovala, je to na úrovni roku 2021, říká Foltýn",
+          "link": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-babis-a-pavel-se-sesli-kvuli-ruske-hrozbe-co-muzou-podniknout-foltyn-odpovida-316646"
+        },
+        {
+          "title": "Praha potřebuje novou moderní nemocnici s kryty, říká nový šéf ÚVN",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-praha-potrebuje-novou-moderni-nemocnici-s-kryty-rika-novy-sef-uvn-316620"
         }
       ]
     },
@@ -27,24 +31,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
+          "link": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss"
+        },
+        {
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "400 French schools closed on Friday as protests escalate into ‘urban violence’ – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
+          "title": "Russians attack petrol station in Dnipropetrovsk Oblast twice",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056149/"
         },
         {
-          "title": "Russia plans to cut Ukrainian nuclear power plants off from grid and destroy water supply system – NYT",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056102/"
+          "title": "Zelenskyy on Russian strikes on Kyiv: They want Ukrainians to leave the capital",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056142/"
         },
         {
-          "title": "One killed and two injured in Russian strike on Kyiv's Darnytskyi district – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056080/"
-        },
-        {
-          "title": "Ukraine's General Staff reports 207 combat clashes on front over past 24 hours",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056078/"
+          "title": "Ukrainian foreign minister discusses protection of Ukraine against Russian attacks with NATO representative",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056140/"
         }
       ]
     },
@@ -64,8 +68,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -84,8 +88,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -151,20 +155,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 19,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 2,
+      "trend": "down",
+      "score_change": -11,
       "headlines": [
-        {
-          "title": "400 French schools closed on Friday as protests escalate into ‘urban violence’ – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
-        },
-        {
-          "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
-          "link": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting"
-        },
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
           "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
@@ -177,8 +173,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -207,8 +203,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
@@ -219,17 +215,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 12,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -1,
-      "headlines": [
-        {
-          "title": "400 French schools closed on Friday as protests escalate into ‘urban violence’ – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
-        }
-      ]
+      "score_change": -8,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -244,12 +235,17 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Lithuania deploys Ukrainian system to detect drones",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056095/"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -287,8 +283,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -304,17 +300,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Suspected drone falls in Romania, causing fire",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056088/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -361,8 +352,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Russia plans to cut Ukrainian nuclear power plants off from grid and destroy water supply system – NYT",
