@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:15:01.775450+00:00",
+  "generated_at": "2026-10-03T14:58:31.565407+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,7 +22,15 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+          "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss"
+        },
+        {
+          "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
+          "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss"
+        },
+        {
+          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -30,16 +38,8 @@
           "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "UK urged to act as Polymarket takes bets on whether HSBC and Lloyds will fail",
-          "link": "https://www.theguardian.com/business/2026/oct/03/uk-polymarket-hsbc-lloyds-failures-banks"
-        },
-        {
-          "title": "Russia attacks Ukraine with 157 drones overnight, hits recorded at 12 locations",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056260/"
-        },
-        {
-          "title": "Battlefield sees 194 combat clashes over past day – Ukraine's General Staff",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056259/"
+          "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
+          "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
         }
       ]
     },
@@ -56,12 +56,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Five drones enter Moldovan airspace, leaving wreckage and damage – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056292/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -86,12 +91,17 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
+          "link": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -146,19 +156,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 22,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -11,
       "headlines": [
         {
           "title": "Riot police clash with students as education protests rage in France",
           "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026",
-          "link": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime"
         },
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
@@ -172,19 +178,24 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "greece",
       "name": "Recko",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
+          "link": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks"
+        }
+      ]
     },
     {
       "id": "hungary",
@@ -234,17 +245,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Litva testuje ukrajinskou Nebeskou pevnost. Má pomoci s ochranou před drony",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-litva-testuje-ukrajinskou-nebeskou-pevnost-ma-pomoci-s-ochranou-pred-drony-316705"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -279,17 +285,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Polsko posiluje civilní obranu. Lublin zmodernizoval kryt ze studené války",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsko-posiluje-civilni-obranu-lublin-zmodernizoval-kryt-ze-studene-valky-316696"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -353,16 +354,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
-    "headlines": [
-      {
-        "title": "Russians strike fire station in Zaporizhzhia Oblast with drone, injuring firefighter",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056249/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
