@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:19:47.317459+00:00",
+  "generated_at": "2026-10-03T04:16:07.131438+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -141,30 +141,29 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 19,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "‚Útok na demokracii.‘ Finsko vyšetřuje sérii podezřelých vniknutí do domovů poslanců",
-          "link": "https://www.irozhlas.cz/zpravy-svet/utok-na-demokracii-finsko-vysetruje-serii-podezrelych-vniknuti-do-domovu_2610021830_jor"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 11,
       "headlines": [
         {
           "title": "Riot police clash with students as education protests rage in France",
           "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026",
+          "link": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime"
         },
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
