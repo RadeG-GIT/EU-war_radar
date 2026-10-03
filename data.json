@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:13:23.592115+00:00",
+  "generated_at": "2026-10-03T00:19:47.317459+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "CIA nás velmi silně varovala, je to na úrovni roku 2021, říká Foltýn",
@@ -27,10 +27,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
-          "link": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss"
-        },
-        {
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
         },
@@ -45,6 +41,10 @@
         {
           "title": "He dreamed of a Kawasaki: boy killed in Russian strike on Kyiv Oblast laid to rest to the roar of bikes",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056218/"
+        },
+        {
+          "title": "Zelenskyy signs law on Ukraine's participation in European Defence Fund",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056180/"
         }
       ]
     },
@@ -144,8 +144,8 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‚Útok na demokracii.‘ Finsko vyšetřuje sérii podezřelých vniknutí do domovů poslanců",
@@ -159,8 +159,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Riot police clash with students as education protests rage in France",
@@ -228,8 +228,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -248,8 +248,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Litva testuje ukrajinskou Nebeskou pevnost. Má pomoci s ochranou před drony",
