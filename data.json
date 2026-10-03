@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-03T04:16:07.131438+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-03T08:15:01.775450+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "CIA nás velmi silně varovala, je to na úrovni roku 2021, říká Foltýn",
-          "link": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-babis-a-pavel-se-sesli-kvuli-ruske-hrozbe-co-muzou-podniknout-foltyn-odpovida-316646"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
           "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
-          "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
+          "title": "UK urged to act as Polymarket takes bets on whether HSBC and Lloyds will fail",
+          "link": "https://www.theguardian.com/business/2026/oct/03/uk-polymarket-hsbc-lloyds-failures-banks"
         },
         {
-          "title": "Man, 66, and girl of 8 injured in Russian attack on Hostomel in Kyiv Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056231/"
+          "title": "Russia attacks Ukraine with 157 drones overnight, hits recorded at 12 locations",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056260/"
         },
         {
-          "title": "He dreamed of a Kawasaki: boy killed in Russian strike on Kyiv Oblast laid to rest to the roar of bikes",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056218/"
-        },
-        {
-          "title": "Zelenskyy signs law on Ukraine's participation in European Defence Fund",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056180/"
+          "title": "Battlefield sees 194 combat clashes over past day – Ukraine's General Staff",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056259/"
         }
       ]
     },
@@ -144,8 +139,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,8 +149,8 @@
       "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Riot police clash with students as education protests rage in France",
@@ -174,17 +169,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Media reveal information about Russian who may have organised sabotage at Leipzig airport",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/02/8056163/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -363,11 +353,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Russians strike fire station in Zaporizhzhia Oblast with drone, injuring firefighter",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056249/"
+      }
+    ]
   }
 }
