@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T14:58:31.565407+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-03T20:04:51.200379+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -26,10 +26,6 @@
           "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss"
         },
         {
-          "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
-          "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss"
-        },
-        {
           "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
         },
@@ -40,6 +36,10 @@
         {
           "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
           "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
+        },
+        {
+          "title": "Ukraine will step up strikes on Russian refineries in response to Moscow's aerial terror, Zelenskyy says",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056324/"
         }
       ]
     },
@@ -56,15 +56,19 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 24,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 35,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 9,
+      "score_change": 11,
       "headlines": [
         {
-          "title": "Five drones enter Moldovan airspace, leaving wreckage and damage – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056292/"
+          "title": "Chișinău summons Russian ambassador over entry of missiles and drones into Moldova",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056322/"
+        },
+        {
+          "title": "Moldova reports sixth unauthorised flight in airspace amid Russian attack on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056313/"
         }
       ]
     },
@@ -94,11 +98,11 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
+          "title": "Greece returns priceless relics – and suggests UK should follow suit with Parthenon marbles",
           "link": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks"
         }
       ]
@@ -156,11 +160,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Riot police clash with students as education protests rage in France",
@@ -169,6 +173,10 @@
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
           "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
+        },
+        {
+          "title": "Rusko se chystá ohrožovat evropské Středomoří. Z lodí maskovaných jako obchodní může vypouštět drony",
+          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-se-chysta-ohrozovat-evropske-stredomori-z-lodi-maskovanych-jako-obchodni_2610032030_med"
         }
       ]
     },
@@ -188,11 +196,11 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
+          "title": "Greece returns priceless relics – and suggests UK should follow suit with Parthenon marbles",
           "link": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks"
         }
       ]
@@ -210,12 +218,20 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 5,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 18,
       "headlines": [
+        {
+          "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+          "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss"
+        },
+        {
+          "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss"
+        },
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
           "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
@@ -225,12 +241,17 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Rusko se chystá ohrožovat evropské Středomoří. Z lodí maskovaných jako obchodní může vypouštět drony",
+          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-se-chysta-ohrozovat-evropske-stredomori-z-lodi-maskovanych-jako-obchodni_2610032030_med"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -248,8 +269,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -288,8 +309,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -315,12 +336,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Slovensko u Dukelského průsmyku odhalilo sochu sovětského maršála Koněva",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensko-u-dukelskeho-prusmyku-odhalilo-sochu-sovetskeho-marsala-koneva-40600685"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -354,11 +380,20 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
-    "headlines": []
+    "trend": "up",
+    "score_change": 6,
+    "headlines": [
+      {
+        "title": "AI firmy mají mít bezpečnost jako jaderné elektrárny, varuje odcházející člen týmu OpenAI",
+        "link": "https://www.novinky.cz/clanek/zahranicni-ai-firmy-maji-mit-bezpecnost-jako-jaderne-elektrarny-varuje-odchazejici-clen-tymu-openai-40600684"
+      },
+      {
+        "title": "Vedení Záporožské jaderné elektrárny tvrdí, že Ukrajinci poškodili napájení",
+        "link": "https://www.seznamzpravy.cz/clanek/zahranicni-vedeni-zaporozske-jaderne-elektrarny-tvrdi-ze-ukrajinci-poskodili-napajeni-316726"
+      }
+    ]
   }
 }
