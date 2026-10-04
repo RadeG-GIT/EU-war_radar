@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T05:47:45.204543+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-04T15:26:59.410530+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
+          "title": "More than 400 schools in France to be closed on Monday as more protests planned",
+          "link": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned"
         },
         {
-          "title": "Russian drones attack Kyiv: debris falls on roof of house in Dniprovskyi district",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056347/"
+          "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates"
         },
         {
-          "title": "Russia loses 1,750 soldiers over past day",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056354/"
+          "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+          "link": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine"
         },
         {
-          "title": "Ukraine will step up strikes on Russian refineries in response to Moscow's aerial terror, Zelenskyy says",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056324/"
+          "title": "Jacob Rees-Mogg accuses Tucker Carlson of ‘verging on defending Hitler’",
+          "link": "https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin"
         }
       ]
     },
@@ -56,21 +56,12 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 35,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Chișinău summons Russian ambassador over entry of missiles and drones into Moldova",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056322/"
-        },
-        {
-          "title": "Moldova reports sixth unauthorised flight in airspace amid Russian attack on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056313/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -20,
+      "headlines": []
     },
     {
       "id": "austria",
@@ -95,17 +86,12 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Greece returns priceless relics – and suggests UK should follow suit with Parthenon marbles",
-          "link": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "croatia",
@@ -150,60 +136,77 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Finland investigates alleged war crime committed in Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056382/"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 14,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 2,
       "headlines": [
         {
-          "title": "Riot police clash with students as education protests rage in France",
-          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
+          "title": "More than 400 schools in France to be closed on Monday as more protests planned",
+          "link": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned"
         },
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
           "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
-        },
-        {
-          "title": "Rusko se chystá ohrožovat evropské Středomoří. Z lodí maskovaných jako obchodní může vypouštět drony",
-          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-se-chysta-ohrozovat-evropske-stredomori-z-lodi-maskovanych-jako-obchodni_2610032030_med"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 68,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 63,
+      "headlines": [
+        {
+          "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates"
+        },
+        {
+          "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+          "link": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine"
+        },
+        {
+          "title": "Zelenskyy announces important agreements with Germany amid chancellor's visit",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056395/"
+        },
+        {
+          "title": "Zelenskyy posts video of strike on Kyiv's Pivnichnyi Bridge",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056383/"
+        },
+        {
+          "title": "Rusko opět zasáhlo most v Kyjevě, město navštívil německý kancléř Merz",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecky-kancler-merz-prijel-do-kyjeva-378220"
+        }
+      ]
     },
     {
       "id": "greece",
       "name": "Recko",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Greece returns priceless relics – and suggests UK should follow suit with Parthenon marbles",
-          "link": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "hungary",
@@ -221,8 +224,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
@@ -233,17 +236,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Rusko se chystá ohrožovat evropské Středomoří. Z lodí maskovaných jako obchodní může vypouštět drony",
-          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-se-chysta-ohrozovat-evropske-stredomori-z-lodi-maskovanych-jako-obchodni_2610032030_med"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -298,17 +296,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Moskva Evropě vzkazuje: neposílejte nic, zničíme to, říká k útokům u polsko-ukrajinských hranic expert",
-          "link": "https://www.irozhlas.cz/zpravy-svet/ukrajina-rusko-utoky-vlak-hranice-polsko_2610040600_ula"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -333,17 +326,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Slovensko u Dukelského průsmyku odhalilo sochu sovětského maršála Koněva",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensko-u-dukelskeho-prusmyku-odhalilo-sochu-sovetskeho-marsala-koneva-40600685"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -377,23 +365,15 @@
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "down",
+    "score_change": -6,
     "headlines": [
       {
-        "title": "Rakovina prsu je civilizační onemocnění. Obezita významně zvyšuje její riziko, upozorňuje onkoložka",
-        "link": "https://www.irozhlas.cz/zivotni-styl/zdravi/rakovina-prsu-je-civilizacni-onemocneni-obezita-vyznamne-zvysuje-jeji-riziko_2610040010_med"
-      },
-      {
-        "title": "AI firmy mají mít bezpečnost jako jaderné elektrárny, varuje odcházející člen týmu OpenAI",
-        "link": "https://www.novinky.cz/clanek/zahranicni-ai-firmy-maji-mit-bezpecnost-jako-jaderne-elektrarny-varuje-odchazejici-clen-tymu-openai-40600684"
-      },
-      {
-        "title": "Vedení Záporožské jaderné elektrárny tvrdí, že Ukrajinci poškodili napájení",
-        "link": "https://www.seznamzpravy.cz/clanek/zahranicni-vedeni-zaporozske-jaderne-elektrarny-tvrdi-ze-ukrajinci-poskodili-napajeni-316726"
+        "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
+        "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss"
       }
     ]
   }
