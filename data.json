@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T03:10:31.623053+00:00",
+  "generated_at": "2026-10-04T05:47:45.204543+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -30,16 +30,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
-          "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine"
+          "title": "Russian drones attack Kyiv: debris falls on roof of house in Dniprovskyi district",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056347/"
+        },
+        {
+          "title": "Russia loses 1,750 soldiers over past day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056354/"
         },
         {
           "title": "Ukraine will step up strikes on Russian refineries in response to Moscow's aerial terror, Zelenskyy says",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056324/"
-        },
-        {
-          "title": "Kyiv authorities retract report of drone debris falling on apartment block",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/03/8056317/"
         }
       ]
     },
@@ -218,20 +218,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 23,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -18,
       "headlines": [
-        {
-          "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-          "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss"
-        },
-        {
-          "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss"
-        },
         {
           "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
           "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
@@ -306,12 +298,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Moskva Evropě vzkazuje: neposílejte nic, zničíme to, říká k útokům u polsko-ukrajinských hranic expert",
+          "link": "https://www.irozhlas.cz/zpravy-svet/ukrajina-rusko-utoky-vlak-hranice-polsko_2610040600_ula"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -383,8 +380,8 @@
     "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Rakovina prsu je civilizační onemocnění. Obezita významně zvyšuje její riziko, upozorňuje onkoložka",
