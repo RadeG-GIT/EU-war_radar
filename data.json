@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-05T08:18:26.805001+00:00",
+  "generated_at": "2026-10-05T12:19:52.076100+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Státní zástupce: Turek byl z větší části viníkem nehody",
+          "link": "https://www.novinky.cz/clanek/domaci-statni-zastupce-turek-byl-z-vetsi-casti-vinikem-nehody-40600818"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -26,20 +31,20 @@
           "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine's Defence Intelligence details features of Russia's updated Geran-4 jet drone",
+          "title": "Ukrainian forces strike Russian drone launch site, control point and drone warehouse – General Staff",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056526/"
+        },
+        {
+          "title": "Russian attack hits checkpoint on Moldova-Ukraine border, injuring border guard – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056514/"
+        },
+        {
+          "title": "Turrets have already downed jet-powered UAVs – Ukraine's Air Force spokesman",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056505/"
+        },
+        {
+          "title": "Ukraine's Defence Intelligence details features of Russia's updated Geran-4 jet drone – photos",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056498/"
-        },
-        {
-          "title": "Battlefield sees 177 combat clashes: most Russian attacks recorded on Pokrovsk and Kostiantynivka fronts",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056489/"
-        },
-        {
-          "title": "Ukraine's air defence downs 172 out of 205 Russian drones, attack is ongoing",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056487/"
-        },
-        {
-          "title": "Russia loses 2,020 soldiers over past day",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056478/"
         }
       ]
     },
@@ -56,12 +61,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Russian attack hits checkpoint on Moldova-Ukraine border, injuring border guard – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056514/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -79,8 +89,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
@@ -134,8 +144,8 @@
       "score": 30,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonia relocates troops closer to Russian border – FT",
@@ -159,8 +169,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -2,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
@@ -175,23 +185,27 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 22,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -36,
+      "score_change": -3,
       "headlines": [
+        {
+          "title": "German intelligence head warns of threat of violent conflict with Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056516/"
+        },
         {
           "title": "German prosecutors investigate possible sanctions violations by tenants of Russian House in Berlin",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056490/"
         },
         {
-          "title": "Germany to fund tens of thousands of interceptor drones for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056450/"
+          "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf zpravodajské služby BND",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-nemecku-hrozi-nasilny-konflikt-s-ruskem-varoval-sef-zpravodajske-sluzby-bnd-316796"
         },
         {
-          "title": "Rusko opět zasáhlo most v Kyjevě, město navštívil německý kancléř Merz",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecky-kancler-merz-prijel-do-kyjeva-378220"
+          "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf rozvědky BND",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecku-hrozi-nasilny-konflikt-s-ruskem-varoval-sef-rozvedky-bnd-378257"
         }
       ]
     },
@@ -228,12 +242,17 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Dva mrtví po útoku dronu na tureckou loď v Černém moři, informují rumunská média",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-dva-mrtvi-po-utoku-dronu-na-tureckou-lod-v-cernem-mori-informuji-rumunska-media-316820"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -288,12 +307,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Zvukový signál a krátká zpráva. Systém varování v nouzi Cell Broadcast začne fungovat od února",
+          "link": "https://www.irozhlas.cz/zpravy-domov/zvukovy-signal-a-kratka-zprava-system-varovani-v-nouzi-cell-broadcast-zacne_2610051132_jgr"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -348,28 +372,33 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Zvukový signál a krátká zpráva. Systém varování v nouzi Cell Broadcast začne fungovat od února",
+          "link": "https://www.irozhlas.cz/zpravy-domov/zvukovy-signal-a-kratka-zprava-system-varovani-v-nouzi-cell-broadcast-zacne_2610051132_jgr"
+        }
+      ]
     }
   ],
   "radiation": {
     "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
-        "title": "Three killed and six injured in Russian attacks on Zaporizhzhia and Dnipropetrovsk oblasts",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056445/"
+        "title": "Ukrainian forces strike Russian drone launch site, control point and drone warehouse – General Staff",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056526/"
       },
       {
-        "title": "Jadernou elektrárnu Dukovany chtějí rozšiřovat firmy z Třebíčska. Stavební práce začnou za tři roky",
-        "link": "https://www.irozhlas.cz/zpravy-domov/jadernou-elektrarnu-dukovany-chteji-rozsirovat-firmy-z-trebicska-stavebni-prace_2610050600_bva"
+        "title": "Spolehlivý zdroj energie, nebo riziko? Vědci varují před závody USA a Ruska o první jaderný reaktor na Měsíci",
+        "link": "https://www.irozhlas.cz/veda-technologie/vesmir/spolehlivy-zdroj-energie-nebo-riziko-vedci-varuji-pred-zavody-usa-a-ruska-o_2610051321_vaa"
       }
     ]
   }
