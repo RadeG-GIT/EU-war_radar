@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T00:22:50.255457+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-05T04:17:12.717951+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,10 +22,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss"
-        },
-        {
           "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
           "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
         },
@@ -40,6 +36,10 @@
         {
           "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates"
+        },
+        {
+          "title": "Jacob Rees-Mogg accuses Tucker Carlson of ‘verging on defending Hitler’",
+          "link": "https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin"
         }
       ]
     },
@@ -146,35 +146,27 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 16,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "More than 400 schools in France to be closed on Monday as more protests planned",
           "link": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned"
-        },
-        {
-          "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
-          "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 61,
+      "score": 58,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss"
-        },
         {
           "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
           "link": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine"
@@ -190,6 +182,10 @@
         {
           "title": "Ukraine and Germany sign series of defence and energy agreements",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056441/"
+        },
+        {
+          "title": "Rusko opět zasáhlo most v Kyjevě, město navštívil německý kancléř Merz",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecky-kancler-merz-prijel-do-kyjeva-378220"
         }
       ]
     },
@@ -216,17 +212,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
-          "link": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "italy",
