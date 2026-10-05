@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T04:17:12.717951+00:00",
+  "generated_at": "2026-10-05T08:18:26.805001+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -26,20 +26,20 @@
           "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
-          "link": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine"
+          "title": "Ukraine's Defence Intelligence details features of Russia's updated Geran-4 jet drone",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056498/"
         },
         {
-          "title": "More than 400 schools in France to be closed on Monday as more protests planned",
-          "link": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned"
+          "title": "Battlefield sees 177 combat clashes: most Russian attacks recorded on Pokrovsk and Kostiantynivka fronts",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056489/"
         },
         {
-          "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates"
+          "title": "Ukraine's air defence downs 172 out of 205 Russian drones, attack is ongoing",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056487/"
         },
         {
-          "title": "Jacob Rees-Mogg accuses Tucker Carlson of ‘verging on defending Hitler’",
-          "link": "https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin"
+          "title": "Russia loses 2,020 soldiers over past day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056478/"
         }
       ]
     },
@@ -76,12 +76,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
+          "link": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -126,12 +131,17 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 30,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 15,
+      "headlines": [
+        {
+          "title": "Estonia relocates troops closer to Russian border – FT",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056495/"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -146,42 +156,38 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 13,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -2,
       "headlines": [
         {
-          "title": "More than 400 schools in France to be closed on Monday as more protests planned",
-          "link": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned"
+          "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
+          "link": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss"
+        },
+        {
+          "title": "France closes up to 500 schools Monday over student protests",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 58,
-      "level": "zvysene",
-      "color": "#C98A3B",
+      "score": 22,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -36,
       "headlines": [
         {
-          "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
-          "link": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine"
-        },
-        {
-          "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates"
+          "title": "German prosecutors investigate possible sanctions violations by tenants of Russian House in Berlin",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056490/"
         },
         {
           "title": "Germany to fund tens of thousands of interceptor drones for Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056450/"
-        },
-        {
-          "title": "Ukraine and Germany sign series of defence and energy agreements",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056441/"
         },
         {
           "title": "Rusko opět zasáhlo most v Kyjevě, město navštívil německý kancléř Merz",
@@ -215,8 +221,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -351,15 +357,19 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 3,
     "headlines": [
       {
         "title": "Three killed and six injured in Russian attacks on Zaporizhzhia and Dnipropetrovsk oblasts",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/04/8056445/"
+      },
+      {
+        "title": "Jadernou elektrárnu Dukovany chtějí rozšiřovat firmy z Třebíčska. Stavební práce začnou za tři roky",
+        "link": "https://www.irozhlas.cz/zpravy-domov/jadernou-elektrarnu-dukovany-chteji-rozsirovat-firmy-z-trebicska-stavebni-prace_2610050600_bva"
       }
     ]
   }
