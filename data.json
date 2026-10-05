@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-05T12:19:52.076100+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-05T16:16:05.000537+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Státní zástupce: Turek byl z větší části viníkem nehody",
-          "link": "https://www.novinky.cz/clanek/domaci-statni-zastupce-turek-byl-z-vetsi-casti-vinikem-nehody-40600818"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+          "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukrainian forces strike Russian drone launch site, control point and drone warehouse – General Staff",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056526/"
+          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
         },
         {
-          "title": "Russian attack hits checkpoint on Moldova-Ukraine border, injuring border guard – photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056514/"
+          "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
+          "link": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same"
         },
         {
-          "title": "Turrets have already downed jet-powered UAVs – Ukraine's Air Force spokesman",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056505/"
+          "title": "Discussion on whether to shoot down Russian drones over Ukraine is ongoing, Polish foreign minister says",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056570/"
         },
         {
-          "title": "Ukraine's Defence Intelligence details features of Russia's updated Geran-4 jet drone – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056498/"
+          "title": "Zelenskyy: Ukrainian pilots will begin training on Rafale jets soon",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056571/"
         }
       ]
     },
@@ -61,15 +56,15 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 24,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Russian attack hits checkpoint on Moldova-Ukraine border, injuring border guard – photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056514/"
+          "title": "Ukraine-Moldova border crossing point reopens after Russian drone incident",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056572/"
         }
       ]
     },
@@ -86,17 +81,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
-          "link": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -141,17 +131,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 30,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Estonia relocates troops closer to Russian border – FT",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056495/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -15,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -166,43 +151,35 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 8,
       "headlines": [
         {
-          "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
-          "link": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss"
+          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
         },
         {
-          "title": "France closes up to 500 schools Monday over student protests",
-          "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss"
+          "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
+          "link": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same"
+        },
+        {
+          "title": "Zelenskyy: Ukrainian pilots will begin training on Rafale jets soon",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056571/"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 19,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -11,
       "headlines": [
-        {
-          "title": "German intelligence head warns of threat of violent conflict with Russia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056516/"
-        },
-        {
-          "title": "German prosecutors investigate possible sanctions violations by tenants of Russian House in Berlin",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056490/"
-        },
-        {
-          "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf zpravodajské služby BND",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-nemecku-hrozi-nasilny-konflikt-s-ruskem-varoval-sef-zpravodajske-sluzby-bnd-316796"
-        },
         {
           "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf rozvědky BND",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecku-hrozi-nasilny-konflikt-s-ruskem-varoval-sef-rozvedky-bnd-378257"
@@ -242,14 +219,18 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 13,
       "headlines": [
         {
-          "title": "Dva mrtví po útoku dronu na tureckou loď v Černém moři, informují rumunská média",
+          "title": "Two killed in incident involving vessel carrying Ukrainian grain near Romania – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056543/"
+        },
+        {
+          "title": "Drony zaútočily na tureckou loď převážející kukuřici, dva lidé zemřeli",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-dva-mrtvi-po-utoku-dronu-na-tureckou-lod-v-cernem-mori-informuji-rumunska-media-316820"
         }
       ]
@@ -307,15 +288,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 33,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 10,
       "headlines": [
         {
-          "title": "Zvukový signál a krátká zpráva. Systém varování v nouzi Cell Broadcast začne fungovat od února",
-          "link": "https://www.irozhlas.cz/zpravy-domov/zvukovy-signal-a-kratka-zprava-system-varovani-v-nouzi-cell-broadcast-zacne_2610051132_jgr"
+          "title": "Discussion on whether to shoot down Russian drones over Ukraine is ongoing, Polish foreign minister says",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056570/"
         }
       ]
     },
@@ -332,12 +313,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 28,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 13,
+      "headlines": [
+        {
+          "title": "Two killed in incident involving vessel carrying Ukrainian grain near Romania – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056543/"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -362,43 +348,43 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
+        },
+        {
+          "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
+          "link": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same"
+        }
+      ]
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Zvukový signál a krátká zpráva. Systém varování v nouzi Cell Broadcast začne fungovat od února",
-          "link": "https://www.irozhlas.cz/zpravy-domov/zvukovy-signal-a-kratka-zprava-system-varovani-v-nouzi-cell-broadcast-zacne_2610051132_jgr"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
         "title": "Ukrainian forces strike Russian drone launch site, control point and drone warehouse – General Staff",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056526/"
-      },
-      {
-        "title": "Spolehlivý zdroj energie, nebo riziko? Vědci varují před závody USA a Ruska o první jaderný reaktor na Měsíci",
-        "link": "https://www.irozhlas.cz/veda-technologie/vesmir/spolehlivy-zdroj-energie-nebo-riziko-vedci-varuji-pred-zavody-usa-a-ruska-o_2610051321_vaa"
       }
     ]
   }
