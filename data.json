@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-06T08:16:01.950343+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-06T12:18:25.597079+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Kauza Markvart: Jak armáda až z médií přišla na to, co už vědět měla",
-          "link": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-kauza-markvart-jak-armada-az-z-medii-prisla-na-to-co-uz-vedet-mela-316785"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,40 +22,36 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Mexican and Colombian cartel mercenaries filmed fighting in Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss"
+          "title": "Ship sinks and crew missing after Black Sea drone attack",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
           "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war"
         },
         {
-          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
+          "title": "Russian losses from Ukraine's drones rose by nearly 40% in early October",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056696/"
         },
         {
-          "title": "Ukraine's General Staff: Russians conducted 23 attacks on Pokrovsk front, 18 on Kostiantynivka front",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056645/"
-        },
-        {
-          "title": "Ukraine's air defence downs 114 out of 137 Russian drones, attack ongoing",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056643/"
+          "title": "Ukraine hits record number of Russian air defence systems in September – Defence Ministry",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056683/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
-          "link": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss"
-        },
         {
           "title": "Protest v Prištině kvůli pravomocím soudu v Haagu přerostl ve střety s policií",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/v-pristine-se-demonstranti-stretli-s-policii-kvuli-zakonu-o-soudu-pro-valecne-zlociny-378277"
@@ -73,8 +64,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -150,37 +141,46 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Putinovy špinavé triky. Agenti pronikají na finské toalety a nesplachují",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-putinovy-spinave-triky-agenti-pronikaji-na-finske-toalety-a-nesplachuji-316874"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 13,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -5,
       "headlines": [
         {
-          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
+          "title": "On the barricades with wheelie bins and shopping trolleys: Paris students rage at politicians and police",
+          "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Germany arrests former intelligence chief over alleged spying",
+          "link": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief"
+        },
         {
           "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf rozvědky BND",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecku-hrozi-nasilny-konflikt-s-ruskem-varoval-sef-rozvedky-bnd-378257"
@@ -223,8 +223,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -270,17 +270,12 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Zelenskyy and Dutch PM discuss strengthening Ukraine's air defence",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056602/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "poland",
@@ -288,8 +283,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -335,17 +330,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 11,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -8,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -359,20 +349,11 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
-    "headlines": [
-      {
-        "title": "Russia strikes bridge in Zaporizhzhia: five injured – photo",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056631/"
-      },
-      {
-        "title": "Russians strike apartment building in Zaporizhzhia: five injured – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056607/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -6,
+    "headlines": []
   }
 }
