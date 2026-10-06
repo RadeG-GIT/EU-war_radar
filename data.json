@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-10-06T16:16:21.251379+00:00",
+  "generated_at": "2026-10-06T20:14:39.992101+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 15,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 12,
-      "headlines": [
-        {
-          "title": "Tureček: Aliance z Mekky plánuje Húsie vojensky zcela zlikvidovat. Nechtějí na ně ale útočit v Jemenu",
-          "link": "https://www.irozhlas.cz/zpravy-svet/turecek-aliance-z-mekky-planuje-husie-vojensky-zcela-zlikvidovat-nechteji-na-ne_2610061517_aru"
-        },
-        {
-          "title": "Česko zdvojnásobilo vývoz zbraní do Ázerbájdžánu",
-          "link": "https://www.novinky.cz/clanek/domaci-cesko-zdvojnasobilo-vyvoz-zbrani-do-azerbajdzanu-40600633"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -30,10 +21,6 @@
       "trend": "same",
       "score_change": 0,
       "headlines": [
-        {
-          "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-          "link": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss"
-        },
         {
           "title": "Ship sinks and crew missing after Black Sea drone attack",
           "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
@@ -49,6 +36,10 @@
         {
           "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
           "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
+        },
+        {
+          "title": "State parliament elects Germany’s first far-right speaker since second world war",
+          "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
         }
       ]
     },
@@ -100,12 +91,16 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 29,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 15,
+      "score_change": 9,
       "headlines": [
+        {
+          "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss"
+        },
         {
           "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
           "link": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss"
@@ -166,23 +161,19 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "France suspends high school as protestors clash with police",
-          "link": "https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss"
-        },
         {
           "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
           "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
@@ -203,8 +194,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
@@ -236,8 +227,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
@@ -321,8 +312,8 @@
       "score": 26,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Poland to allocate US$26bn for funding shelters and uninterrupted power supply",
@@ -390,8 +381,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Polsko rozmístí baterii patriotů poblíž ukrajinských hranic, Švédové u Řešova",
@@ -401,11 +392,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Man killed in strike on warehouse in Zaporizhzhia",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056784/"
+      }
+    ]
   }
 }
