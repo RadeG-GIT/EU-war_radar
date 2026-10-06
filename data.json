@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T00:22:50.178013+00:00",
+  "generated_at": "2026-10-06T04:15:53.017564+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
@@ -14,6 +14,10 @@
         {
           "title": "Jsme na ruském seznamu cílů. Premiér Babiš přípravu na krizi podceňuje, kritizuje senátor Fischer",
           "link": "https://www.irozhlas.cz/zpravy-domov/jsme-na-ruskem-seznamu-cilu-premier-babis-pripravu-na-krizi-podcenuje-kritizuje_2610060010_jor"
+        },
+        {
+          "title": "Kauza Markvart: Jak armáda až z médií přišla na to, co už vědět měla",
+          "link": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-kauza-markvart-jak-armada-az-z-medii-prisla-na-to-co-uz-vedet-mela-316785"
         }
       ]
     },
@@ -27,36 +31,41 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
-          "link": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss"
-        },
-        {
-          "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
-          "link": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss"
-        },
-        {
-          "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-          "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Oil from South Korea being shipped to Russia as Ukraine war grinds on",
+          "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
           "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war"
         },
         {
           "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
+        },
+        {
+          "title": "Russian drone debris falls on cars in Kyiv: fire breaks out",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056605/"
+        },
+        {
+          "title": "Trump yet again blames Ukraine for rising fuel prices",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056603/"
+        },
+        {
+          "title": "Zelenskyy and Dutch PM discuss strengthening Ukraine's air defence",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056602/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+          "link": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -159,8 +168,8 @@
       "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
@@ -178,8 +187,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine's Roboneers and Germany's ARX Robotics agree on strategic partnership – photo",
@@ -235,8 +244,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Drony zaútočily na tureckou loď převážející kukuřici, dva lidé zemřeli",
@@ -290,8 +299,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zelenskyy and Dutch PM discuss strengthening Ukraine's air defence",
@@ -330,8 +339,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -360,8 +369,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
