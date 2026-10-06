@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-06T04:15:53.017564+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-06T08:16:01.950343+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Jsme na ruském seznamu cílů. Premiér Babiš přípravu na krizi podceňuje, kritizuje senátor Fischer",
-          "link": "https://www.irozhlas.cz/zpravy-domov/jsme-na-ruskem-seznamu-cilu-premier-babis-pripravu-na-krizi-podcenuje-kritizuje_2610060010_jor"
-        },
         {
           "title": "Kauza Markvart: Jak armáda až z médií přišla na to, co už vědět měla",
           "link": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-kauza-markvart-jak-armada-az-z-medii-prisla-na-to-co-uz-vedet-mela-316785"
@@ -31,6 +27,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Mexican and Colombian cartel mercenaries filmed fighting in Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss"
+        },
+        {
           "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
           "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war"
         },
@@ -39,48 +39,43 @@
           "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
         },
         {
-          "title": "Russian drone debris falls on cars in Kyiv: fire breaks out",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056605/"
+          "title": "Ukraine's General Staff: Russians conducted 23 attacks on Pokrovsk front, 18 on Kostiantynivka front",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056645/"
         },
         {
-          "title": "Trump yet again blames Ukraine for rising fuel prices",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056603/"
-        },
-        {
-          "title": "Zelenskyy and Dutch PM discuss strengthening Ukraine's air defence",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056602/"
+          "title": "Ukraine's air defence downs 114 out of 137 Russian drones, attack ongoing",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056643/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
           "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
           "link": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss"
+        },
+        {
+          "title": "Protest v Prištině kvůli pravomocím soudu v Haagu přerostl ve střety s policií",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/v-pristine-se-demonstranti-stretli-s-policii-kvuli-zakonu-o-soudu-pro-valecne-zlociny-378277"
         }
       ]
     },
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukraine-Moldova border crossing point reopens after Russian drone incident",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056572/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "austria",
@@ -165,43 +160,27 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 16,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
-        },
-        {
-          "title": "Zelenskyy: Ukrainian pilots will begin training on Rafale jets soon",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056571/"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 23,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
-        {
-          "title": "Ukraine's Roboneers and Germany's ARX Robotics agree on strategic partnership – photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056577/"
-        },
-        {
-          "title": "Omezit materiální pomoc i politickou podporu. Lídři německých tajných služeb popsali plány Ruska",
-          "link": "https://www.irozhlas.cz/zpravy-svet/omezit-materialni-pomoc-i-politickou-podporu-lidri-nemeckych-tajnych-sluzeb_2610052000_dci"
-        },
-        {
-          "title": "Propagandista Carlson bránil Hitlera v rozhovoru s britským exministrem",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-propagandista-carlson-branil-hitlera-v-rozhovoru-s-britskym-exministrem-40600955"
-        },
         {
           "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf rozvědky BND",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecku-hrozi-nasilny-konflikt-s-ruskem-varoval-sef-rozvedky-bnd-378257"
@@ -241,17 +220,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Drony zaútočily na tureckou loď převážející kukuřici, dva lidé zemřeli",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-dva-mrtvi-po-utoku-dronu-na-tureckou-lod-v-cernem-mori-informuji-rumunska-media-316820"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -311,17 +285,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 33,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Discussion on whether to shoot down Russian drones over Ukraine is ongoing, Polish foreign minister says",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056570/"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -390,14 +359,18 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 3,
     "headlines": [
       {
-        "title": "Russians strike apartment building in Zaporizhzhia: people injured – photos",
+        "title": "Russia strikes bridge in Zaporizhzhia: five injured – photo",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056631/"
+      },
+      {
+        "title": "Russians strike apartment building in Zaporizhzhia: five injured – photos",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056607/"
       }
     ]
