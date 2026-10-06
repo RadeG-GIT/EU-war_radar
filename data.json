@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-10-06T12:18:25.597079+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-06T16:16:21.251379+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "Tureček: Aliance z Mekky plánuje Húsie vojensky zcela zlikvidovat. Nechtějí na ně ale útočit v Jemenu",
+          "link": "https://www.irozhlas.cz/zpravy-svet/turecek-aliance-z-mekky-planuje-husie-vojensky-zcela-zlikvidovat-nechteji-na-ne_2610061517_aru"
+        },
+        {
+          "title": "Česko zdvojnásobilo vývoz zbraní do Ázerbájdžánu",
+          "link": "https://www.novinky.cz/clanek/domaci-cesko-zdvojnasobilo-vyvoz-zbrani-do-azerbajdzanu-40600633"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -21,6 +30,10 @@
       "trend": "same",
       "score_change": 0,
       "headlines": [
+        {
+          "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+          "link": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss"
+        },
         {
           "title": "Ship sinks and crew missing after Black Sea drone attack",
           "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
@@ -34,12 +47,8 @@
           "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war"
         },
         {
-          "title": "Russian losses from Ukraine's drones rose by nearly 40% in early October",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056696/"
-        },
-        {
-          "title": "Ukraine hits record number of Russian air defence systems in September – Defence Ministry",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056683/"
+          "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+          "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
         }
       ]
     },
@@ -49,8 +58,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Protest v Prištině kvůli pravomocím soudu v Haagu přerostl ve střety s policií",
@@ -91,12 +100,25 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 15,
+      "headlines": [
+        {
+          "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+          "link": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss"
+        },
+        {
+          "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+          "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
+        },
+        {
+          "title": "State parliament elects Germany’s first far-right speaker since second world war",
+          "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -141,45 +163,56 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Putinovy špinavé triky. Agenti pronikají na finské toalety a nesplachují",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-putinovy-spinave-triky-agenti-pronikaji-na-finske-toalety-a-nesplachuji-316874"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
         {
-          "title": "On the barricades with wheelie bins and shopping trolleys: Paris students rage at politicians and police",
+          "title": "France suspends high school as protestors clash with police",
+          "link": "https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss"
+        },
+        {
+          "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
           "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
+        },
+        {
+          "title": "State parliament elects Germany’s first far-right speaker since second world war",
+          "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
+        },
+        {
+          "title": "Francie úspěšně otestovala balistickou raketu nejnovější generace",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-francie-uspesne-otestovala-balistickou-raketu-nejnovejsi-generace-40601151"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "Germany arrests former intelligence chief over alleged spying",
-          "link": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief"
+          "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+          "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
+        },
+        {
+          "title": "State parliament elects Germany’s first far-right speaker since second world war",
+          "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
         },
         {
           "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf rozvědky BND",
@@ -200,12 +233,17 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
+          "link": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban"
+        }
+      ]
     },
     {
       "id": "ireland",
@@ -273,19 +311,28 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Poland to allocate US$26bn for funding shelters and uninterrupted power supply",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056709/"
+        },
+        {
+          "title": "Polsko rozmístí baterii patriotů poblíž ukrajinských hranic, Švédové u Řešova",
+          "link": "https://www.novinky.cz/clanek/zahranicni-polsko-rozmisti-baterii-patriotu-pobliz-ukrajinskych-hranic-40601133"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -333,27 +380,32 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Polsko rozmístí baterii patriotů poblíž ukrajinských hranic, Švédové u Řešova",
+          "link": "https://www.novinky.cz/clanek/zahranicni-polsko-rozmisti-baterii-patriotu-pobliz-ukrajinskych-hranic-40601133"
+        }
+      ]
     }
   ],
   "radiation": {
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
