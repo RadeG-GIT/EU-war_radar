@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-05T16:16:05.000537+00:00",
+  "generated_at": "2026-10-06T00:22:50.178013+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Jsme na ruském seznamu cílů. Premiér Babiš přípravu na krizi podceňuje, kritizuje senátor Fischer",
+          "link": "https://www.irozhlas.cz/zpravy-domov/jsme-na-ruskem-seznamu-cilu-premier-babis-pripravu-na-krizi-podcenuje-kritizuje_2610060010_jor"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+          "link": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss"
+        },
+        {
+          "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
+          "link": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss"
+        },
+        {
           "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
           "link": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – Europe live",
+          "title": "Oil from South Korea being shipped to Russia as Ukraine war grinds on",
+          "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war"
+        },
+        {
+          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
-        },
-        {
-          "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
-          "link": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same"
-        },
-        {
-          "title": "Discussion on whether to shoot down Russian drones over Ukraine is ongoing, Polish foreign minister says",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056570/"
-        },
-        {
-          "title": "Zelenskyy: Ukrainian pilots will begin training on Rafale jets soon",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056571/"
         }
       ]
     },
@@ -59,8 +64,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukraine-Moldova border crossing point reopens after Russian drone incident",
@@ -84,8 +89,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -134,8 +139,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -151,19 +156,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 19,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – Europe live",
+          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
-        },
-        {
-          "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
-          "link": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same"
         },
         {
           "title": "Zelenskyy: Ukrainian pilots will begin training on Rafale jets soon",
@@ -174,12 +175,24 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "up",
+      "score_change": 15,
       "headlines": [
+        {
+          "title": "Ukraine's Roboneers and Germany's ARX Robotics agree on strategic partnership – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056577/"
+        },
+        {
+          "title": "Omezit materiální pomoc i politickou podporu. Lídři německých tajných služeb popsali plány Ruska",
+          "link": "https://www.irozhlas.cz/zpravy-svet/omezit-materialni-pomoc-i-politickou-podporu-lidri-nemeckych-tajnych-sluzeb_2610052000_dci"
+        },
+        {
+          "title": "Propagandista Carlson bránil Hitlera v rozhovoru s britským exministrem",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-propagandista-carlson-branil-hitlera-v-rozhovoru-s-britskym-exministrem-40600955"
+        },
         {
           "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf rozvědky BND",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecku-hrozi-nasilny-konflikt-s-ruskem-varoval-sef-rozvedky-bnd-378257"
@@ -219,16 +232,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 20,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 13,
+      "trend": "down",
+      "score_change": -13,
       "headlines": [
-        {
-          "title": "Two killed in incident involving vessel carrying Ukrainian grain near Romania – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056543/"
-        },
         {
           "title": "Drony zaútočily na tureckou loď převážející kukuřici, dva lidé zemřeli",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-dva-mrtvi-po-utoku-dronu-na-tureckou-lod-v-cernem-mori-informuji-rumunska-media-316820"
@@ -278,12 +287,17 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Zelenskyy and Dutch PM discuss strengthening Ukraine's air defence",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056602/"
+        }
+      ]
     },
     {
       "id": "poland",
@@ -291,8 +305,8 @@
       "score": 33,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 10,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Discussion on whether to shoot down Russian drones over Ukraine is ongoing, Polish foreign minister says",
@@ -313,17 +327,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 28,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 13,
-      "headlines": [
-        {
-          "title": "Two killed in incident involving vessel carrying Ukrainian grain near Romania – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056543/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -348,19 +357,15 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 14,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – Europe live",
+          "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates"
-        },
-        {
-          "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
-          "link": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same"
         }
       ]
     },
@@ -370,8 +375,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
@@ -379,12 +384,12 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
-        "title": "Ukrainian forces strike Russian drone launch site, control point and drone warehouse – General Staff",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056526/"
+        "title": "Russians strike apartment building in Zaporizhzhia: people injured – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/05/8056607/"
       }
     ]
   }
