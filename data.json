@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:23:03.828992+00:00",
+  "generated_at": "2026-10-07T04:15:24.274829+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -38,8 +38,8 @@
           "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
         },
         {
-          "title": "Bulgarian minister refers to Russia-Ukraine war as hybrid and says he is unsure whose drones struck vessels",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056783/"
+          "title": "Russian ballistic missile attack on Kyiv: hits recorded in three districts, two people killed",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056800/"
         }
       ]
     },
@@ -94,8 +94,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -21,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
@@ -179,7 +179,7 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
@@ -188,10 +188,6 @@
         {
           "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
           "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
-        },
-        {
-          "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf rozvědky BND",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecku-hrozi-nasilny-konflikt-s-ruskem-varoval-sef-rozvedky-bnd-378257"
         }
       ]
     },
@@ -211,8 +207,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -288,21 +284,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Poland to allocate US$26bn for funding shelters and uninterrupted power supply",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056709/"
-        },
-        {
-          "title": "Polsko rozmístí baterii patriotů poblíž ukrajinských hranic, Švédové u Řešova",
-          "link": "https://www.novinky.cz/clanek/zahranicni-polsko-rozmisti-baterii-patriotu-pobliz-ukrajinskych-hranic-40601133"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -357,17 +344,12 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Polsko rozmístí baterii patriotů poblíž ukrajinských hranic, Švédové u Řešova",
-          "link": "https://www.novinky.cz/clanek/zahranicni-polsko-rozmisti-baterii-patriotu-pobliz-ukrajinskych-hranic-40601133"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ],
   "radiation": {
