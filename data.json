@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T04:15:24.274829+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-07T08:16:51.050689+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,8 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ship sinks and crew missing after Black Sea drone attack",
-          "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
+          "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss"
         },
         {
           "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
@@ -34,12 +34,12 @@
           "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war"
         },
         {
-          "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
-          "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
+          "title": "At least 11 dead, 34 injured after ‘vile’ attack on Ukraine on Putin’s birthday, Zelenskyy says – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
         },
         {
-          "title": "Russian ballistic missile attack on Kyiv: hits recorded in three districts, two people killed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056800/"
+          "title": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
+          "link": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi"
         }
       ]
     },
@@ -91,17 +91,12 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
-          "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "croatia",
@@ -156,40 +151,31 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 14,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 56,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 42,
       "headlines": [
         {
           "title": "Watch: Riot police clash with school protesters and use tear gas in France",
           "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
-          "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
-        },
-        {
-          "title": "Francie úspěšně otestovala balistickou raketu nejnovější generace",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-francie-uspesne-otestovala-balistickou-raketu-nejnovejsi-generace-40601151"
+          "title": "At least 11 dead, 34 injured after ‘vile’ attack on Ukraine on Putin’s birthday, Zelenskyy says – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
-          "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "greece",
@@ -234,12 +220,17 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Armed, masked intruders enter Latvia from Belarus and carry out sabotage",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056797/"
+        }
+      ]
     },
     {
       "id": "lithuania",
@@ -287,8 +278,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -347,18 +338,26 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 6,
     "headlines": [
+      {
+        "title": "At least 11 dead, 34 injured after ‘vile’ attack on Ukraine on Putin’s birthday, Zelenskyy says – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
+      },
+      {
+        "title": "Russians attack transport infrastructure facility in Zaporizhzhia",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056805/"
+      },
       {
         "title": "Man killed in strike on warehouse in Zaporizhzhia",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056784/"
