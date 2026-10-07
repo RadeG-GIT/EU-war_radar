@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T20:14:39.992101+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-07T00:23:03.828992+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -38,8 +38,8 @@
           "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
         },
         {
-          "title": "State parliament elects Germany’s first far-right speaker since second world war",
-          "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
+          "title": "Bulgarian minister refers to Russia-Ukraine war as hybrid and says he is unsure whose drones struck vessels",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056783/"
         }
       ]
     },
@@ -91,27 +91,15 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "score": 8,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -21,
       "headlines": [
-        {
-          "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss"
-        },
-        {
-          "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-          "link": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss"
-        },
         {
           "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
           "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
-        },
-        {
-          "title": "State parliament elects Germany’s first far-right speaker since second world war",
-          "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
         }
       ]
     },
@@ -171,16 +159,16 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
+        {
+          "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+          "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
           "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
-        },
-        {
-          "title": "State parliament elects Germany’s first far-right speaker since second world war",
-          "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
         },
         {
           "title": "Francie úspěšně otestovala balistickou raketu nejnovější generace",
@@ -191,19 +179,15 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
           "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police"
-        },
-        {
-          "title": "State parliament elects Germany’s first far-right speaker since second world war",
-          "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
         },
         {
           "title": "Německu hrozí násilný konflikt s Ruskem, varoval šéf rozvědky BND",
@@ -224,17 +208,12 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
-          "link": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ireland",
@@ -395,8 +374,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Man killed in strike on warehouse in Zaporizhzhia",
