@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-07T16:17:44.295999+00:00",
+  "generated_at": "2026-10-07T20:15:05.448340+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ruská diplomatka označila Česko za účastníka války na Ukrajině",
+          "link": "https://www.novinky.cz/clanek/zahranicni-ruska-diplomatka-oznacila-cesko-za-ucastnika-valky-na-ukrajine-40601377"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+          "title": "At least 24 killed as Russia launches massive attack on Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss"
+        },
+        {
+          "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
           "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Minister denies police brutality as student protests continue across France – Europe live",
+          "title": "Minister denies police brutality as student protests continue across France – Europe live, as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
         },
         {
-          "title": "French police suspend use of stun grenades after high school protester loses hand",
-          "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
+          "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
+          "link": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin"
         },
         {
-          "title": "Denmark accuses Russia of sabotage against defence companies",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056919/"
-        },
-        {
-          "title": "Residential buildings on fire in Kyiv after Russian attack, two injured taken to hospital",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056913/"
+          "title": "Two German parties draft resolution on ending aid to Ukraine and lifting Russia sanctions",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056945/"
         }
       ]
     },
@@ -76,12 +81,21 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Hungary informs EU it intends to provide protection to military-age Ukrainians",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056902/"
+        },
+        {
+          "title": "Studentské nepokoje se rozšířily i do Belgie",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-studentske-nepokoje-se-z-francie-rozsirily-i-do-belgie-40601370"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -89,8 +103,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -119,8 +133,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Denmark accuses Russia of sabotage against defence companies",
@@ -154,32 +168,41 @@
       "score": 42,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Watch: Riot police clash with school protesters and use tear gas in France",
           "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Minister denies police brutality as student protests continue across France – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
+          "title": "French police suspend use of stun grenades at school protests as minister rejects accusations of brutality",
+          "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
         },
         {
-          "title": "French police suspend use of stun grenades after high school protester loses hand",
-          "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
+          "title": "Minister denies police brutality as student protests continue across France – Europe live, as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 8,
+      "headlines": [
+        {
+          "title": "German court orders detention of former intelligence chief after spying arrest",
+          "link": "https://www.theguardian.com/world/2026/oct/07/germany-court-august-hanning-spying-arrest-detention-bnd"
+        },
+        {
+          "title": "Two German parties draft resolution on ending aid to Ukraine and lifting Russia sanctions",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056945/"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -194,22 +217,32 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Hungary informs EU it intends to provide protection to military-age Ukrainians",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056902/"
+        }
+      ]
     },
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
+          "link": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -277,11 +310,11 @@
       "score": 46,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Minister denies police brutality as student protests continue across France – Europe live",
+          "title": "Minister denies police brutality as student protests continue across France – Europe live, as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
         }
       ]
@@ -351,8 +384,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
