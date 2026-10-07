@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:16:51.050689+00:00",
+  "generated_at": "2026-10-07T12:20:21.148475+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,41 +22,36 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss"
-        },
-        {
-          "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
           "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war"
         },
         {
-          "title": "At least 11 dead, 34 injured after ‘vile’ attack on Ukraine on Putin’s birthday, Zelenskyy says – Europe live",
+          "title": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on Ukraine – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
         },
         {
-          "title": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
-          "link": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi"
+          "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
+          "link": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin"
+        },
+        {
+          "title": "French police suspend use of stun grenades after high-school protester loses hand",
+          "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Protest v Prištině kvůli pravomocím soudu v Haagu přerostl ve střety s policií",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/v-pristine-se-demonstranti-stretli-s-policii-kvuli-zakonu-o-soudu-pro-valecne-zlociny-378277"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -91,12 +86,17 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 13,
+      "headlines": [
+        {
+          "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
+          "link": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -151,19 +151,23 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 56,
-      "level": "zvysene",
+      "score": 36,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 42,
+      "trend": "down",
+      "score_change": -20,
       "headlines": [
         {
           "title": "Watch: Riot police clash with school protesters and use tear gas in France",
           "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "At least 11 dead, 34 injured after ‘vile’ attack on Ukraine on Putin’s birthday, Zelenskyy says – Europe live",
+          "title": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on Ukraine – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
+        },
+        {
+          "title": "French police suspend use of stun grenades after high-school protester loses hand",
+          "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
         }
       ]
     },
@@ -173,8 +177,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -220,17 +224,12 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Armed, masked intruders enter Latvia from Belarus and carry out sabotage",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056797/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "lithuania",
@@ -275,12 +274,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 40,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 20,
+      "headlines": [
+        {
+          "title": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -344,23 +348,15 @@
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 6,
+    "trend": "down",
+    "score_change": -6,
     "headlines": [
       {
-        "title": "At least 11 dead, 34 injured after ‘vile’ attack on Ukraine on Putin’s birthday, Zelenskyy says – Europe live",
+        "title": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on Ukraine – Europe live",
         "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
-      },
-      {
-        "title": "Russians attack transport infrastructure facility in Zaporizhzhia",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056805/"
-      },
-      {
-        "title": "Man killed in strike on warehouse in Zaporizhzhia",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/06/8056784/"
       }
     ]
   }
