@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T20:15:05.448340+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-08T00:21:47.072705+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ruská diplomatka označila Česko za účastníka války na Ukrajině",
@@ -35,16 +35,16 @@
           "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Minister denies police brutality as student protests continue across France – Europe live, as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
-        },
-        {
-          "title": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
-          "link": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin"
-        },
-        {
           "title": "Two German parties draft resolution on ending aid to Ukraine and lifting Russia sanctions",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056945/"
+        },
+        {
+          "title": "Man injured, warehouse and logistics centre damaged in Russian attack on Kyiv Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056940/"
+        },
+        {
+          "title": "Emergency power outages introduced in Kyiv, electric public transport halted",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056935/"
         }
       ]
     },
@@ -84,8 +84,8 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Hungary informs EU it intends to provide protection to military-age Ukrainians",
@@ -165,11 +165,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 42,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 16,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -26,
       "headlines": [
         {
           "title": "Watch: Riot police clash with school protesters and use tear gas in France",
@@ -178,26 +178,18 @@
         {
           "title": "French police suspend use of stun grenades at school protests as minister rejects accusations of brutality",
           "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
-        },
-        {
-          "title": "Minister denies police brutality as student protests continue across France – Europe live, as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "German court orders detention of former intelligence chief after spying arrest",
-          "link": "https://www.theguardian.com/world/2026/oct/07/germany-court-august-hanning-spying-arrest-detention-bnd"
-        },
         {
           "title": "Two German parties draft resolution on ending aid to Ukraine and lifting Russia sanctions",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056945/"
@@ -220,8 +212,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Hungary informs EU it intends to provide protection to military-age Ukrainians",
@@ -235,8 +227,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
@@ -307,17 +299,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 46,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Minister denies police brutality as student protests continue across France – Europe live, as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -26,
+      "headlines": []
     },
     {
       "id": "portugal",
