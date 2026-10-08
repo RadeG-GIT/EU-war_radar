@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-10-08T04:15:37.960960+00:00",
+  "generated_at": "2026-10-08T08:16:52.114184+00:00",
   "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Varování CIA? Nepodceňujme ho ani nepanikařme, radí Pojar. Očekává, že Putin NATO otestuje",
-          "link": "https://www.irozhlas.cz/zpravy-svet/varovani-cia-nepodcenujme-ho-ani-nepanikarme-radi-pojar-ocekava-ze-putin-nato_2610080600_lar"
-        },
-        {
-          "title": "Ruská diplomatka označila Česko za účastníka války na Ukrajině",
-          "link": "https://www.novinky.cz/clanek/zahranicni-ruska-diplomatka-oznacila-cesko-za-ucastnika-valky-na-ukrajine-40601377"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -31,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+          "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+          "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
         },
         {
-          "title": "Two German parties draft resolution on ending aid to Ukraine and lifting Russia sanctions",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056945/"
+          "title": "Russia attacked Ukraine with 142 drones overnight, 126 aerial assets brought down",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8056999/"
         },
         {
-          "title": "Man injured, warehouse and logistics centre damaged in Russian attack on Kyiv Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056940/"
+          "title": "German company to send Ukraine tens of thousands of interceptors to fight jet-powered drones",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8056988/"
         },
         {
-          "title": "Emergency power outages introduced in Kyiv, electric public transport halted",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056935/"
+          "title": "Russia loses 1,830 soldiers over past day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8056973/"
         },
         {
-          "title": "Water supply disruptions hit Kyiv's right bank after Russian attacks",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056930/"
+          "title": "Gazprom oil refinery catches fire in Russia's Bashkortostan after attack – photo, videos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8056972/"
         }
       ]
     },
@@ -85,21 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 9,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Hungary informs EU it intends to provide protection to military-age Ukrainians",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056902/"
-        },
-        {
-          "title": "Studentské nepokoje se rozšířily i do Belgie",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-studentske-nepokoje-se-z-francie-rozsirily-i-do-belgie-40601370"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -134,27 +116,27 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Denmark accuses Russia of sabotage against defence companies",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056919/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "EU excludes Russian company from sanctions list at Estonia's request",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8057000/"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -172,8 +154,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Watch: Riot police clash with school protesters and use tear gas in France",
@@ -184,17 +166,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 10,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Two German parties draft resolution on ending aid to Ukraine and lifting Russia sanctions",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056945/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -209,17 +186,12 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Hungary informs EU it intends to provide protection to military-age Ukrainians",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056902/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ireland",
@@ -299,12 +271,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Poland concludes investigation into Russian drone incursion: some had Polish SIM cards",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8056991/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -368,16 +345,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
-    "headlines": [
-      {
-        "title": "Němci nejspíš milují pohled na Rusy pochodující Berlínem. Propagandista Solovjov se pustil do Merze",
-        "link": "https://www.novinky.cz/clanek/zahranicni-nemci-nejspis-miluji-pohled-na-rusy-pochodujici-berlinem-propagandista-solovjov-se-pustil-do-merze-40601263"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
