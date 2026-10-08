@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T16:18:02.817658+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-10-08T20:15:59.394356+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -21,6 +21,10 @@
       "trend": "same",
       "score_change": 0,
       "headlines": [
+        {
+          "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss"
+        },
         {
           "title": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
           "link": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss"
@@ -36,10 +40,6 @@
         {
           "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
           "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
-        },
-        {
-          "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-          "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk"
         }
       ]
     },
@@ -129,8 +129,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -146,19 +146,19 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 67,
-      "level": "zvysene",
-      "color": "#C98A3B",
+      "score": 11,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -56,
       "headlines": [
         {
           "title": "Watch: Riot police clash with school protesters and use tear gas in France",
           "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-          "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk"
+          "title": "Ukrainian pilots to begin training on Rafale fighter jets in France in November",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8057117/"
         }
       ]
     },
@@ -230,17 +230,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "ONLINE: Další vyslání vojsk NATO do Pobaltí by byla eskalace, řekla Moskva. Chválí ale slovenský pomník",
-          "link": "https://www.irozhlas.cz/zpravy-svet/online-dalsi-vyslani-vojsk-nato-do-pobalti-byla-eskalace-rekla-moskva-chvali-ale_2610081605_brz"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -278,8 +273,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -308,8 +303,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -325,17 +320,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 62,
-      "level": "zvysene",
-      "color": "#C98A3B",
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
-      "headlines": [
-        {
-          "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-          "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk"
-        }
-      ]
+      "score_change": -59,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -349,19 +339,15 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
-        "title": "Russian attack on Zaporizhzhia kills car driver and injures three adults and two children",
+        "title": "Russian attack on Zaporizhzhia kills driver and injures three adults and two children",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8057094/"
-      },
-      {
-        "title": "S radlicí buldozeru a bez výrazného narušení krajiny. Energetici posilují elektrickou síť v okolí Dukovan",
-        "link": "https://www.irozhlas.cz/zpravy-domov/s-radlici-buldozeru-a-bez-vyrazneho-naruseni-krajiny-energetici-posiluji_2610081650_ntu"
       }
     ]
   }
