@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-08T12:19:56.686682+00:00",
-  "overall_score": 16,
+  "generated_at": "2026-10-08T16:18:02.817658+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Sokol si připomíná nejtragičtější chvíli své historie. Nacisté před 85 lety pozatýkali stovky jeho členů",
-          "link": "https://www.irozhlas.cz/veda-technologie/historie/sokol-si-pripomina-nejtragictejsi-chvili-sve-historie-nacisti-pred-85-lety_2610081128_ako"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,11 +22,11 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 33 people",
-          "link": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss"
+          "title": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
+          "link": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss"
         },
         {
-          "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
           "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -131,17 +126,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 20,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "EU excludes Russian company from sanctions list at Estonia's request",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8057000/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -156,16 +146,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 70,
+      "score": 67,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 62,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "How much does France spend on education compared with the rest of Europe?",
-          "link": "https://www.aljazeera.com/news/2026/10/8/how-much-does-france-spend-on-education-compared-with-the-rest-of-europe?traffic_source=rss"
-        },
         {
           "title": "Watch: Riot police clash with school protesters and use tear gas in France",
           "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
@@ -244,12 +230,17 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "ONLINE: Další vyslání vojsk NATO do Pobaltí by byla eskalace, řekla Moskva. Chválí ale slovenský pomník",
+          "link": "https://www.irozhlas.cz/zpravy-svet/online-dalsi-vyslani-vojsk-nato-do-pobalti-byla-eskalace-rekla-moskva-chvali-ale_2610081605_brz"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -284,17 +275,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Poland concludes investigation into Russian drone incursion: some had Polish SIM cards",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8056991/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -319,17 +305,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 23,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 18,
-      "headlines": [
-        {
-          "title": "Slovakia sends military attaché back to Russia for first time in 4 years",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8057007/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -18,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -344,19 +325,15 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 65,
+      "score": 62,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 62,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
           "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk"
-        },
-        {
-          "title": "‚Musí být poslední obětí tohoto systému.‘ Zemřela Maricarmen, kvůli které Španělsko protestuje",
-          "link": "https://www.irozhlas.cz/zpravy-svet/musi-byt-posledni-obeti-tohoto-systemu-zemrela-maricarmen-kvuli-ktere-spanelsko_2610081104_raf"
         }
       ]
     },
@@ -372,15 +349,19 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "up",
     "score_change": 3,
     "headlines": [
       {
-        "title": "Uranové sklo a radioaktivita mléka. Danu Drábovou připomíná výstava v jejím domovském úřadě",
-        "link": "https://www.irozhlas.cz/zpravy-domov/uranove-sklo-a-radioaktivita-mleka-danu-drabovou-pripomina-vystava-na-jejim_2610081010_dci"
+        "title": "Russian attack on Zaporizhzhia kills car driver and injures three adults and two children",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/08/8057094/"
+      },
+      {
+        "title": "S radlicí buldozeru a bez výrazného narušení krajiny. Energetici posilují elektrickou síť v okolí Dukovan",
+        "link": "https://www.irozhlas.cz/zpravy-domov/s-radlici-buldozeru-a-bez-vyrazneho-naruseni-krajiny-energetici-posiluji_2610081650_ntu"
       }
     ]
   }
