@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-10-08T00:21:47.072705+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-08T04:15:37.960960+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Varování CIA? Nepodceňujme ho ani nepanikařme, radí Pojar. Očekává, že Putin NATO otestuje",
+          "link": "https://www.irozhlas.cz/zpravy-svet/varovani-cia-nepodcenujme-ho-ani-nepanikarme-radi-pojar-ocekava-ze-putin-nato_2610080600_lar"
+        },
         {
           "title": "Ruská diplomatka označila Česko za účastníka války na Ukrajině",
           "link": "https://www.novinky.cz/clanek/zahranicni-ruska-diplomatka-oznacila-cesko-za-ucastnika-valky-na-ukrajine-40601377"
@@ -27,10 +31,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "At least 24 killed as Russia launches massive attack on Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss"
-        },
-        {
           "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
           "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
         },
@@ -45,6 +45,10 @@
         {
           "title": "Emergency power outages introduced in Kyiv, electric public transport halted",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056935/"
+        },
+        {
+          "title": "Water supply disruptions hit Kyiv's right bank after Russian attacks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/07/8056930/"
         }
       ]
     },
@@ -165,19 +169,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 16,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -26,
+      "score_change": -8,
       "headlines": [
         {
           "title": "Watch: Riot police clash with school protesters and use tear gas in France",
           "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "French police suspend use of stun grenades at school protests as minister rejects accusations of brutality",
-          "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand"
         }
       ]
     },
@@ -187,8 +187,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Two German parties draft resolution on ending aid to Ukraine and lifting Russia sanctions",
@@ -302,8 +302,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -26,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -368,11 +368,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Němci nejspíš milují pohled na Rusy pochodující Berlínem. Propagandista Solovjov se pustil do Merze",
+        "link": "https://www.novinky.cz/clanek/zahranicni-nemci-nejspis-miluji-pohled-na-rusy-pochodujici-berlinem-propagandista-solovjov-se-pustil-do-merze-40601263"
+      }
+    ]
   }
 }
