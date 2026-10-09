@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T16:15:29.117259+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-09T20:13:46.203598+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,12 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
-          "link": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine takes aim at Russia’s AI data infrastructure",
-          "link": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss"
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Fleeing Kyiv for the countryside ahead of winter",
@@ -40,6 +36,10 @@
         {
           "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
+        },
+        {
+          "title": "Ukrainian foreign ministry denies Belarusian claims of drone attack on lorry in Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057288/"
         }
       ]
     },
@@ -69,19 +69,19 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Two Ukrainians alleged to be military intelligence personnel remanded in custody in Vienna",
+          "title": "Two Ukrainians suspected of working for military intelligence remanded in custody in Vienna",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057245/"
         },
         {
-          "title": "Espionage, criminal organisation and harming Austria: UP journalist Tkach reveals allegations against him in Vienna",
+          "title": "Spying, involvement in criminal organisation and harming Austria: UP journalist Tkach reveals allegations against him in Vienna",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057242/"
         },
         {
-          "title": "\"We were detained like terrorists\": UP journalist Mykhailo Tkach details circumstances of detention in Vienna",
+          "title": "\"We were detained like terrorists\": UP journalist Mykhailo Tkach describes his detention in Vienna",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057238/"
         },
         {
@@ -93,12 +93,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
+          "link": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -143,12 +148,16 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 18,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
+        {
+          "title": "Zelenskyy and new Estonian defence minister discuss air defence and arms exports",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057260/"
+        },
         {
           "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
@@ -171,8 +180,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -1,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
@@ -233,12 +242,16 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 18,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
+        {
+          "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
+          "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss"
+        },
         {
           "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
@@ -248,12 +261,16 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
+        {
+          "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
+          "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss"
+        },
         {
           "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
@@ -296,8 +313,8 @@
       "score": 25,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -1,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
@@ -367,19 +384,15 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
-        "title": "Russians attack minibus in central Zaporizhzhia: three people hospitalised – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057191/"
-      },
-      {
-        "title": "Energetici u Dukovan poprvé v Česku využili při pluhování kabelů trojpotah",
-        "link": "https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-energetici-u-dukovan-poprve-v-cesku-vyuzili-pri-pluhovani-kabelu-trojpotah-40601443"
+        "title": "Number injured in Russian strikes on Zaporizhzhia rises to 23",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057275/"
       }
     ]
   }
