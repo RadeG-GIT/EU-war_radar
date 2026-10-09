@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:18:05.285460+00:00",
+  "generated_at": "2026-10-09T16:15:29.117259+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -22,23 +22,23 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-          "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
+          "link": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss"
         },
         {
-          "title": "Watch: Fleeing Kyiv for the countryside ahead of winter",
+          "title": "Ukraine takes aim at Russia’s AI data infrastructure",
+          "link": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss"
+        },
+        {
+          "title": "Fleeing Kyiv for the countryside ahead of winter",
           "link": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-          "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
         },
         {
           "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
           "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
         },
         {
-          "title": "Israel condemns Nobel peace prize award for ICJ judge Navi Pillay - live",
+          "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
         }
       ]
@@ -66,12 +66,29 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 3,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "Two Ukrainians alleged to be military intelligence personnel remanded in custody in Vienna",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057245/"
+        },
+        {
+          "title": "Espionage, criminal organisation and harming Austria: UP journalist Tkach reveals allegations against him in Vienna",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057242/"
+        },
+        {
+          "title": "\"We were detained like terrorists\": UP journalist Mykhailo Tkach details circumstances of detention in Vienna",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057238/"
+        },
+        {
+          "title": "UP journalist Mykhailo Tkach was detained in Vienna on \"espionage\" charges",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057219/"
+        }
+      ]
     },
     {
       "id": "belgium",
@@ -126,12 +143,17 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -146,18 +168,14 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -1,
       "headlines": [
         {
-          "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-          "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
-        },
-        {
-          "title": "Israel condemns Nobel peace prize award for ICJ judge Navi Pillay - live",
+          "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
         }
       ]
@@ -215,22 +233,32 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
+        }
+      ]
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -265,18 +293,14 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
+      "score": 25,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -1,
       "headlines": [
         {
-          "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-          "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
-        },
-        {
-          "title": "Israel condemns Nobel peace prize award for ICJ judge Navi Pillay - live",
+          "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
         }
       ]
@@ -343,15 +367,19 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 3,
     "headlines": [
       {
         "title": "Russians attack minibus in central Zaporizhzhia: three people hospitalised – photos",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057191/"
+      },
+      {
+        "title": "Energetici u Dukovan poprvé v Česku využili při pluhování kabelů trojpotah",
+        "link": "https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-energetici-u-dukovan-poprve-v-cesku-vyuzili-pri-pluhovani-kabelu-trojpotah-40601443"
       }
     ]
   }
