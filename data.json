@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T08:14:08.943276+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-10T17:08:17.792439+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
-          "link": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss"
+          "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss"
         },
         {
-          "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss"
-        },
-        {
-          "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
-          "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
-        },
-        {
-          "title": "Iran war live: Trump vows to quickly ‘settle or win’ Iran and Ukraine wars",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss"
+          "title": "Why is US turning to Russia for diesel despite sanctions?",
+          "link": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss"
         },
         {
           "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+          "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
         }
       ]
     },
@@ -69,8 +69,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -126,12 +126,17 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "Estonia wants to support Ukraine to \"turn Russian oil refineries into ruins\"",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057353/"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -146,27 +151,31 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 10,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 8,
+      "headlines": [
+        {
+          "title": "Germany vows to maintain Russia sanctions despite Trump-Putin diesel deal",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057361/"
+        },
+        {
+          "title": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsky-ministr-zpochybnil-ze-by-rusko-melo-nafty-nazbyt-317289"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -214,8 +223,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -224,8 +233,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -261,15 +270,23 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 25,
-      "level": "mirne",
+      "score": 67,
+      "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 42,
       "headlines": [
         {
-          "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
+          "title": "Three injured in third school attack in Poland in less than a week",
+          "link": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss"
+        },
+        {
+          "title": "Woman injures three people in third Poland school knife attack in a week",
+          "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsky-ministr-zpochybnil-ze-by-rusko-melo-nafty-nazbyt-317289"
         }
       ]
     },
@@ -335,15 +352,31 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 20,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 12,
     "headlines": [
       {
-        "title": "Russians strike residential area in Zaporizhzhia, killing seven, including three children – photos, video",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057304/"
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian strike on Zaporizhzhia: twenty killed, including three children – photo",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057385/"
+      },
+      {
+        "title": "Sixteen more Ukrainians brought back from Russian occupation: 1986 Chornobyl disaster first responder among them – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057376/"
+      },
+      {
+        "title": "Death toll in Zaporizhzhia rises to 17, woman pulled alive from under rubble after over eight hours",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057331/"
+      },
+      {
+        "title": "Zelenskyy: Russia thanked US for easing sanctions by bombing Zaporizhzhia",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057346/"
       }
     ]
   }
