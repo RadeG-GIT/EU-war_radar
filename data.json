@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T04:14:31.124965+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-10T08:14:08.943276+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
+          "link": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss"
+        },
+        {
+          "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss"
+        },
+        {
           "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
           "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
         },
         {
+          "title": "Iran war live: Trump vows to quickly ‘settle or win’ Iran and Ukraine wars",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss"
+        },
+        {
           "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-          "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
-        },
-        {
-          "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-          "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine"
-        },
-        {
-          "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
         }
       ]
     },
@@ -66,29 +66,12 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 15,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Two Ukrainians suspected of working for military intelligence remanded in custody in Vienna",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057245/"
-        },
-        {
-          "title": "Spying, involvement in criminal organisation and harming Austria: UP journalist Tkach reveals allegations against him in Vienna",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057242/"
-        },
-        {
-          "title": "\"We were detained like terrorists\": UP journalist Mykhailo Tkach describes his detention in Vienna",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057238/"
-        },
-        {
-          "title": "UP journalist Mykhailo Tkach was detained in Vienna on \"espionage\" charges",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057219/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "belgium",
@@ -143,21 +126,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 21,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Zelenskyy and new Estonian defence minister discuss air defence and arms exports",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057260/"
-        },
-        {
-          "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -237,32 +211,22 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -378,8 +342,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Number injured in Russian strikes on Zaporizhzhia rises to 23",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057275/"
+        "title": "Russians strike residential area in Zaporizhzhia, killing seven, including three children – photos, video",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057304/"
       }
     ]
   }
