@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:22:48.003648+00:00",
+  "generated_at": "2026-10-10T04:14:31.124965+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,6 +22,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+          "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
+        },
+        {
           "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
         },
@@ -36,10 +40,6 @@
         {
           "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates"
-        },
-        {
-          "title": "Ukrainian foreign ministry denies Belarusian claims of drone attack on lorry in Russia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/09/8057288/"
         }
       ]
     },
@@ -96,8 +96,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -240,8 +240,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
@@ -255,8 +255,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
