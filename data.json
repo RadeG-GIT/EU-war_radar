@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:13:46.203598+00:00",
+  "generated_at": "2026-10-10T00:22:48.003648+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,16 +22,16 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Fleeing Kyiv for the countryside ahead of winter",
-          "link": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
           "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
+        },
+        {
+          "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+          "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine"
         },
         {
           "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
@@ -93,17 +93,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-          "link": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -151,8 +146,8 @@
       "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zelenskyy and new Estonian defence minister discuss air defence and arms exports",
@@ -242,16 +237,12 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 21,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-          "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss"
-        },
         {
           "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
@@ -261,16 +252,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 21,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-          "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss"
-        },
         {
           "title": "Pobaltské státy tlačí na ostatní země, ať se zakáže převoz ruského obilí po EU",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-pobaltske-staty-tlaci-na-ostatni-zeme-at-se-zakaze-prevoz-ruskeho-obili-po-eu-317231"
@@ -387,8 +374,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Number injured in Russian strikes on Zaporizhzhia rises to 23",
