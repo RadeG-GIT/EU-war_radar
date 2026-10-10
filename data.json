@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:08:17.792439+00:00",
+  "generated_at": "2026-10-10T23:20:31.864258+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss"
+          "title": "Trump says Ukraine needs a new president who will agree to end the war",
+          "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss"
         },
         {
-          "title": "Why is US turning to Russia for diesel despite sanctions?",
-          "link": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss"
+          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
           "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
           "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
+        },
+        {
+          "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
+          "link": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy"
         }
       ]
     },
@@ -66,12 +66,17 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Three shards of glass under his eye and espionage charges: how a UP employee was kept handcuffed in an Austria",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057393/"
+        }
+      ]
     },
     {
       "id": "belgium",
@@ -129,8 +134,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonia wants to support Ukraine to \"turn Russian oil refineries into ruins\"",
@@ -154,26 +159,26 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 13,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "down",
+      "score_change": -2,
       "headlines": [
+        {
+          "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+          "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss"
+        },
         {
           "title": "Germany vows to maintain Russia sanctions despite Trump-Putin diesel deal",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057361/"
-        },
-        {
-          "title": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsky-ministr-zpochybnil-ze-by-rusko-melo-nafty-nazbyt-317289"
         }
       ]
     },
@@ -210,12 +215,17 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 1,
+      "headlines": [
+        {
+          "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+          "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -270,23 +280,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 67,
+      "score": 50,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 42,
+      "trend": "down",
+      "score_change": -17,
       "headlines": [
-        {
-          "title": "Three injured in third school attack in Poland in less than a week",
-          "link": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss"
-        },
         {
           "title": "Woman injures three people in third Poland school knife attack in a week",
           "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-polsky-ministr-zpochybnil-ze-by-rusko-melo-nafty-nazbyt-317289"
         }
       ]
     },
@@ -352,14 +354,14 @@
     }
   ],
   "radiation": {
-    "score": 20,
+    "score": 17,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 12,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
-        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
         "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -373,10 +375,6 @@
       {
         "title": "Death toll in Zaporizhzhia rises to 17, woman pulled alive from under rubble after over eight hours",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057331/"
-      },
-      {
-        "title": "Zelenskyy: Russia thanked US for easing sanctions by bombing Zaporizhzhia",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057346/"
       }
     ]
   }
