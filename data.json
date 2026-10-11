@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T04:53:40.181313+00:00",
+  "generated_at": "2026-10-11T14:45:59.666446+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,8 +22,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+          "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+          "link": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
@@ -34,12 +38,8 @@
           "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
         },
         {
-          "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
-          "link": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy"
-        },
-        {
-          "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-          "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine"
+          "title": "Police in Poland ‘learn of possible plot to attack prime minister Donald Tusk’",
+          "link": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
         }
       ]
     },
@@ -66,17 +66,12 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Three shards of glass under his eye and espionage charges: how a UP employee was kept handcuffed in an Austria",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057393/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "belgium",
@@ -131,17 +126,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 20,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Estonia wants to support Ukraine to \"turn Russian oil refineries into ruins\"",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057353/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -166,17 +156,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 10,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -1,
-      "headlines": [
-        {
-          "title": "Germany vows to maintain Russia sanctions despite Trump-Putin diesel deal",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057361/"
-        }
-      ]
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -214,8 +199,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -1,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -271,15 +256,23 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 50,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 77,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 27,
       "headlines": [
         {
           "title": "Woman injures three people in third Poland school knife attack in a week",
           "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Police in Poland ‘learn of possible plot to attack prime minister Donald Tusk’",
+          "link": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
+        },
+        {
+          "title": "Polsko uspělo a má co ztratit. Válka za hranicí mění politiku, říká analytik",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-polsko-uspelo-a-ma-co-ztratit-valka-za-hranici-meni-politiku-rika-analytik-316139"
         }
       ]
     },
@@ -345,27 +338,23 @@
     }
   ],
   "radiation": {
-    "score": 17,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
         "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
         "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Russian strike on Zaporizhzhia: twenty killed, including three children – photo",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057385/"
+        "title": "Death toll after Russian strike on Zaporizhzhia rises to 23",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/11/8057459/"
       },
       {
-        "title": "Sixteen more Ukrainians brought back from Russian occupation: 1986 Chornobyl disaster first responder among them – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057376/"
-      },
-      {
-        "title": "Death toll in Zaporizhzhia rises to 17, woman pulled alive from under rubble after over eight hours",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/10/8057331/"
+        "title": "Court orders Russia to pay agricultural company US$2m for property seized in Zaporizhzhia Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/11/8057431/"
       }
     ]
   }
