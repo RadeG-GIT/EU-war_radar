@@ -1,46 +1,50 @@
 {
-  "generated_at": "2026-10-12T05:08:14.883838+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-12T17:33:18.292200+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 9,
       "headlines": [
         {
-          "title": "Česká republika je součástí obranných plánů NATO. Není ale připravená je splnit.",
-          "link": "https://www.novinky.cz/clanek/podcasty-hlas-na-pousti-ceska-republika-je-soucasti-obrannych-planu-nato-neni-ale-pripravena-je-splnit-40601719"
+          "title": "Česko nedostalo pozvánku na jednání o NATO v Polsku. Zůna ale míří do USA",
+          "link": "https://www.novinky.cz/clanek/domaci-cesko-nedostalo-pozvanku-na-jednani-o-nato-v-polsku-zuna-ale-miri-do-usa-40602365"
+        },
+        {
+          "title": "Šéf BIS: Rusko je největší bezpečnostní hrozbou pro Česko a ještě dlouho bude",
+          "link": "https://www.novinky.cz/clanek/domaci-sef-bis-rusko-je-nejvetsi-bezpecnostni-hrozbou-pro-cesko-a-jeste-dlouho-bude-40602367"
         }
       ]
     },
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 89,
+      "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "down",
-      "score_change": -4,
+      "trend": "up",
+      "score_change": 11,
       "headlines": [
         {
-          "title": "Zelenskyy welcomes US-announced energy ceasefire",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss"
-        },
-        {
-          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
+          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
           "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: What's behind Trump's energy ceasefire claim?",
-          "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+          "link": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Balkan temperatures swing as heavy rain heads for Greece",
+          "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece"
         },
         {
           "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
@@ -141,42 +145,74 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Finland prepared to build large-scale fortifications on border with Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/12/8057670/"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 25,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 20,
+      "headlines": [
+        {
+          "title": "France school shooting: Police detain pupil after two injured",
+          "link": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss"
+        },
+        {
+          "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
+          "link": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u"
+        },
+        {
+          "title": "Česko nedostalo pozvánku na jednání o NATO v Polsku. Zůna ale míří do USA",
+          "link": "https://www.novinky.cz/clanek/domaci-cesko-nedostalo-pozvanku-na-jednani-o-nato-v-polsku-zuna-ale-miri-do-usa-40602365"
+        }
+      ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Cílem není porazit nás vojensky, ale přemoci nás politicky a společensky, uvedl německý ministr",
+          "link": "https://www.irozhlas.cz/zpravy-svet/cilem-neni-porazit-nas-vojensky-ale-premoci-nas-politicky-a-spolecensky-uvedl_2610121626_eml"
+        },
+        {
+          "title": "Čelíme dalekosáhlejší stínové válce než za studené války, prohlásil německý ministr",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-celime-dalekosahlejsi-stinove-valce-nez-za-studene-valky-prohlasil-nemecky-ministr-40602400"
+        }
+      ]
     },
     {
       "id": "greece",
       "name": "Recko",
-      "score": 6,
+      "score": 1,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "down",
+      "score_change": -5,
+      "headlines": [
+        {
+          "title": "Balkan temperatures swing as heavy rain heads for Greece",
+          "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece"
+        }
+      ]
     },
     {
       "id": "hungary",
@@ -231,17 +267,12 @@
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 7,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Sanctions and frozen assets among issues Ukraine will raise at EU Foreign Affairs Council",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/11/8057499/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "malta",
@@ -266,11 +297,11 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 63,
+      "score": 52,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -33,
+      "score_change": -11,
       "headlines": [
         {
           "title": "Poland detains man suspected of planning assassination of PM Tusk",
@@ -281,12 +312,8 @@
           "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Donald Tusk says man accused of plotting to kill him detained",
-          "link": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
-        },
-        {
-          "title": "Hrozby vůči polským politikům řeší i české bezpečnostní služby",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-hrozby-vuci-polskym-politikum-resi-i-ceske-bezpecnostni-sluzby-317580"
+          "title": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
+          "link": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid"
         }
       ]
     },
@@ -352,16 +379,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Death toll after Russian strike on Zaporizhzhia rises to 23",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/11/8057459/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
