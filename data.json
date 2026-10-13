@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T11:32:27.188732+00:00",
-  "overall_score": 16,
+  "generated_at": "2026-10-13T19:03:40.887735+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Není vhodná doba uzavírat obchodní dohody s agresorem, říká Cichanouská",
@@ -27,23 +27,23 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Trump says Putin and Zelenskyy both want to end Russia’s war on Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss"
+        },
+        {
+          "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss"
+        },
+        {
           "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+          "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+          "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+          "title": "What could Trump's energy ceasefire mean for Ukraine?",
           "link": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss"
         }
       ]
@@ -51,17 +51,12 @@
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Serbia accredits Russian diplomat expelled from Bulgaria over spying scandal",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/13/8057739/"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -76,17 +71,12 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Same-sex couple sue over Slovakia’s refusal to register marriage",
-          "link": "https://www.theguardian.com/world/2026/oct/13/same-sex-couple-sue-slovakia-refusal-register-austrian-marriage-eu"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "belgium",
@@ -101,31 +91,23 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 85,
-      "level": "kriticke",
-      "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 80,
+      "score": 34,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "down",
+      "score_change": -51,
       "headlines": [
-        {
-          "title": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
-          "link": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss"
-        },
         {
           "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
           "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for energy ceasefire and had ‘no early warning’ before strikes on Kyiv – Europe live",
+          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
         },
         {
-          "title": "Ukrainians injured in Russian attack on vessels near Bulgaria – Ukrainian foreign minister",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/13/8057760/"
-        },
-        {
-          "title": "Bulgaria to summon Russian ambassador over drone attacks on merchant vessels",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/13/8057742/"
+          "title": "Bulharsko hlásí další útok na lodě v Černém moři, jedna se potopila",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/drony-zasahly-u-pobrezi-bulharska-dve-lode-jedna-se-potopila-oznamil-premier-radev-378524"
         }
       ]
     },
@@ -175,26 +157,30 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 23,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -1,
       "headlines": [
         {
-          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for energy ceasefire and had ‘no early warning’ before strikes on Kyiv – Europe live",
+          "title": "At least 160,000 people take to streets in third week of French school protests",
+          "link": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france"
+        },
+        {
+          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
         },
         {
-          "title": "Farage denies Reform would let troops shoot small boats after Jenrick’s ‘lethal force’ claim",
-          "link": "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force"
+          "title": "USA může v poskytování informací Ukrajině nahradit Británie a Francie",
+          "link": "https://www.novinky.cz/clanek/zahranicni-usa-muze-v-poskytovani-informaci-ukrajine-nahradit-britanie-a-francie-40602556"
         }
       ]
     },
@@ -204,8 +190,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Reportéři ČT přibližují, jak v Německu sílí proruské strany",
@@ -219,8 +205,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -306,27 +292,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 71,
-      "level": "zvysene",
+      "score": 31,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 17,
+      "trend": "down",
+      "score_change": -40,
       "headlines": [
         {
-          "title": "Poland detains man suspected of planning assassination of PM Tusk",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-          "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for energy ceasefire and had ‘no early warning’ before strikes on Kyiv – Europe live",
+          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
-        },
-        {
-          "title": "Útok na Starlink pro Ukrajinu. Polsko viní Rusko, zadrželi třetího člověka",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-utok-na-starlink-pro-ukrajinu-polsko-vini-rusko-zadrzeli-tretiho-cloveka-317738"
         }
       ]
     },
@@ -353,17 +327,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Same-sex couple sue over Slovakia’s refusal to register marriage",
-          "link": "https://www.theguardian.com/world/2026/oct/13/same-sex-couple-sue-slovakia-refusal-register-austrian-marriage-eu"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -381,12 +350,12 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "UK holiday demand may have peaked amid cost of living squeeze, says travel industry",
-          "link": "https://www.theguardian.com/business/2026/oct/13/uk-holiday-demand-travel-industry-spain-deals-abta"
+          "title": "Atletico Madrid vs Manchester United LIVE: Champions League",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss"
         }
       ]
     },
@@ -396,11 +365,11 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for energy ceasefire and had ‘no early warning’ before strikes on Kyiv – Europe live",
+          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
         }
       ]
