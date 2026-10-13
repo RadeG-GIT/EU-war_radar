@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:03:40.887735+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-13T23:39:31.722647+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -27,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Trump says Putin and Zelenskyy both want to end Russia’s war on Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss"
-        },
-        {
-          "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss"
-        },
-        {
-          "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
+          "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
           "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What could Trump's energy ceasefire mean for Ukraine?",
-          "link": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss"
+          "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
+          "link": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy"
+        },
+        {
+          "title": "Russia has struck Kyiv energy infrastructure with ballistic missiles, Ukraine received no warning from partners – Zelenskyy",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/13/8057882/"
+        },
+        {
+          "title": "Ukraine elected to UN Human Rights Council for 2027-2029",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/13/8057868/"
         }
       ]
     },
@@ -54,8 +54,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -74,8 +74,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -91,19 +91,15 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 34,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -51,
+      "score_change": -11,
       "headlines": [
         {
           "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
           "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
         },
         {
           "title": "Bulharsko hlásí další útok na lodě v Černém moři, jedna se potopila",
@@ -164,19 +160,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 22,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -1,
+      "score_change": -11,
       "headlines": [
         {
           "title": "At least 160,000 people take to streets in third week of French school protests",
           "link": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france"
-        },
-        {
-          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
         },
         {
           "title": "USA může v poskytování informací Ukrajině nahradit Británie a Francie",
@@ -292,17 +284,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 31,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -40,
-      "headlines": [
-        {
-          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
-        }
-      ]
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -330,8 +317,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -347,32 +334,22 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Atletico Madrid vs Manchester United LIVE: Champions League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 19,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     }
   ],
   "radiation": {
