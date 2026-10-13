@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-12T17:33:18.292200+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-13T01:54:11.157562+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 15,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
           "title": "Česko nedostalo pozvánku na jednání o NATO v Polsku. Zůna ale míří do USA",
           "link": "https://www.novinky.cz/clanek/domaci-cesko-nedostalo-pozvanku-na-jednani-o-nato-v-polsku-zuna-ale-miri-do-usa-40602365"
         },
         {
-          "title": "Šéf BIS: Rusko je největší bezpečnostní hrozbou pro Česko a ještě dlouho bude",
-          "link": "https://www.novinky.cz/clanek/domaci-sef-bis-rusko-je-nejvetsi-bezpecnostni-hrozbou-pro-cesko-a-jeste-dlouho-bude-40602367"
+          "title": "Není vhodná doba uzavírat obchodní dohody s agresorem, říká Cichanouská",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/neni-vhodna-doba-uzavirat-obchodni-dohody-s-agresorem-rika-cichanouska-378512"
         }
       ]
     },
@@ -27,12 +27,16 @@
       "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
@@ -45,10 +49,6 @@
         {
           "title": "Balkan temperatures swing as heavy rain heads for Greece",
           "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece"
-        },
-        {
-          "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-          "link": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
         }
       ]
     },
@@ -148,8 +148,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Finland prepared to build large-scale fortifications on border with Russia",
@@ -160,16 +160,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 25,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 20,
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -5,
       "headlines": [
-        {
-          "title": "France school shooting: Police detain pupil after two injured",
-          "link": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss"
-        },
         {
           "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
           "link": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u"
@@ -177,6 +173,10 @@
         {
           "title": "Česko nedostalo pozvánku na jednání o NATO v Polsku. Zůna ale míří do USA",
           "link": "https://www.novinky.cz/clanek/domaci-cesko-nedostalo-pozvanku-na-jednani-o-nato-v-polsku-zuna-ale-miri-do-usa-40602365"
+        },
+        {
+          "title": "Francie zadržela tanker. Má podezření, že je součástí stínové flotily",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-francie-zadrzela-tanker-ma-podezreni-ze-je-soucasti-stinove-flotily-317706"
         }
       ]
     },
@@ -186,12 +186,12 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Cílem není porazit nás vojensky, ale přemoci nás politicky a společensky, uvedl německý ministr",
-          "link": "https://www.irozhlas.cz/zpravy-svet/cilem-neni-porazit-nas-vojensky-ale-premoci-nas-politicky-a-spolecensky-uvedl_2610121626_eml"
+          "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+          "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss"
         },
         {
           "title": "Čelíme dalekosáhlejší stínové válce než za studené války, prohlásil německý ministr",
@@ -205,8 +205,8 @@
       "score": 1,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Balkan temperatures swing as heavy rain heads for Greece",
@@ -270,8 +270,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -297,12 +297,16 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 52,
+      "score": 54,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "up",
+      "score_change": 2,
       "headlines": [
+        {
+          "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+          "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss"
+        },
         {
           "title": "Poland detains man suspected of planning assassination of PM Tusk",
           "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
@@ -310,10 +314,6 @@
         {
           "title": "Poland stabbings driven by online glorification of violence, Tusk says",
           "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
-          "link": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid"
         }
       ]
     },
@@ -382,8 +382,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
