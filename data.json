@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T13:27:15.578925+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-14T20:03:11.961920+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+          "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss"
         },
         {
-          "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-          "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
+          "link": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss"
+        },
+        {
+          "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
           "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe"
-        },
-        {
-          "title": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
-          "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted"
+          "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
+          "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll"
         }
       ]
     },
@@ -89,8 +89,8 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Pozemní antény Starlinku u Sofie byly terčem žhářů, uvedl bulharský premiér",
@@ -155,38 +155,29 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "French minister accuses Elon Musk of ‘online harassment campaigns’ against European leaders",
-          "link": "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election"
-        },
-        {
-          "title": "Wednesday briefing: ​Why small boat crossings are here to stay ​",
-          "link": "https://www.theguardian.com/world/2026/oct/14/wednesday-briefing-why-small-boat-crossings-are-here-to-stay"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 35,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 18,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
+        {
+          "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
+          "link": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss"
+        },
         {
           "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ukrainian soldier goes on trial over sabotage of Nord Stream gas pipelines",
-          "link": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines"
         },
         {
           "title": "Německá válka proti cukru. Litr sladké limonády zdraží o osm korun",
@@ -201,17 +192,12 @@
     {
       "id": "greece",
       "name": "Recko",
-      "score": 15,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Wednesday briefing: ​Why small boat crossings are here to stay ​",
-          "link": "https://www.theguardian.com/world/2026/oct/14/wednesday-briefing-why-small-boat-crossings-are-here-to-stay"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "hungary",
@@ -296,27 +282,27 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 39,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 19,
-      "headlines": [
-        {
-          "title": "Remains of Ukrainians killed in 1944 attack by Polish Home Army found in Poland – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/14/8057994/"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -19,
+      "headlines": []
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ukrainian DELTA combat system tested during maritime operations at NATO exercise",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/14/8058038/"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -370,15 +356,19 @@
     }
   ],
   "radiation": {
-    "score": 8,
-    "level": "nizke",
-    "color": "#4C8C6B",
+    "score": 31,
+    "level": "mirne",
+    "color": "#C98A3B",
     "trend": "up",
-    "score_change": 3,
+    "score_change": 23,
     "headlines": [
       {
-        "title": "Dnový práh zachraňuje jadernou elektrárnu Paks od další odstávky při rekordně nízké hladině Dunaje",
-        "link": "https://www.novinky.cz/clanek/zahranicni-evropa-dnovy-prah-zachranuje-jadernou-elektrarnu-paks-od-dalsi-odstavky-pri-rekordne-nizke-hladine-dunaje-40602727"
+        "title": "Why Martinez highlighted Manchester United’s woes in Madrid meltdown",
+        "link": "https://www.aljazeera.com/sports/2026/10/14/manchester-united-premier-league-carrick-ratcliffe?traffic_source=rss"
+      },
+      {
+        "title": "Three injured and building destroyed in Russian drone attack on Zaporizhzhia – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/14/8058014/"
       }
     ]
   }
