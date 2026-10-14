@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T23:39:31.722647+00:00",
+  "generated_at": "2026-10-14T04:10:42.349989+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -27,6 +27,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss"
+        },
+        {
           "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
         },
@@ -35,16 +39,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed?",
+          "link": "https://www.theguardian.com/world/2026/oct/14/landmines-ukraine-demining-drones-ai"
+        },
+        {
           "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
           "link": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy"
-        },
-        {
-          "title": "Russia has struck Kyiv energy infrastructure with ballistic missiles, Ukraine received no warning from partners – Zelenskyy",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/13/8057882/"
-        },
-        {
-          "title": "Ukraine elected to UN Human Rights Council for 2027-2029",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/13/8057868/"
         }
       ]
     },
@@ -91,16 +91,12 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 23,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -11,
+      "score_change": -9,
       "headlines": [
-        {
-          "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-          "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Bulharsko hlásí další útok na lodě v Černém moři, jedna se potopila",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/drony-zasahly-u-pobrezi-bulharska-dve-lode-jedna-se-potopila-oznamil-premier-radev-378524"
@@ -160,16 +156,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -11,
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "At least 160,000 people take to streets in third week of French school protests",
-          "link": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france"
-        },
         {
           "title": "USA může v poskytování informací Ukrajině nahradit Británie a Francie",
           "link": "https://www.novinky.cz/clanek/zahranicni-usa-muze-v-poskytovani-informaci-ukrajine-nahradit-britanie-a-francie-40602556"
@@ -179,12 +171,16 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
+        {
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Reportéři ČT přibližují, jak v Německu sílí proruské strany",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/reporteri-ct-priblizuji-jak-v-nemecku-sili-proruske-strany-378538"
@@ -287,8 +283,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -337,8 +333,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -347,8 +343,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
