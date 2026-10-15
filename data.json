@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T20:03:11.961920+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-15T03:53:21.255055+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,16 +22,16 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss"
+          "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
-          "link": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss"
+          "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+          "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+          "title": "Why Zelensky's meeting with Burnham matters",
+          "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
@@ -158,23 +158,19 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -12,
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
-          "link": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss"
-        },
         {
           "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
@@ -195,8 +191,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -285,8 +281,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -19,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -295,8 +291,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukrainian DELTA combat system tested during maritime operations at NATO exercise",
@@ -307,12 +303,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea",
+          "link": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -356,16 +357,12 @@
     }
   ],
   "radiation": {
-    "score": 31,
-    "level": "mirne",
-    "color": "#C98A3B",
-    "trend": "up",
-    "score_change": 23,
+    "score": 8,
+    "level": "nizke",
+    "color": "#4C8C6B",
+    "trend": "down",
+    "score_change": -23,
     "headlines": [
-      {
-        "title": "Why Martinez highlighted Manchester United’s woes in Madrid meltdown",
-        "link": "https://www.aljazeera.com/sports/2026/10/14/manchester-united-premier-league-carrick-ratcliffe?traffic_source=rss"
-      },
       {
         "title": "Three injured and building destroyed in Russian drone attack on Zaporizhzhia – photos",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/14/8058014/"
