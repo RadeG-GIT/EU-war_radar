@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:00:31.666800+00:00",
+  "generated_at": "2026-10-15T16:35:35.079729+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -8,12 +8,12 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Návrhy na nové zdroje unijního rozpočtu jsou nepřijatelné, řekl Babiš",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/navrhy-na-nove-zdroje-unijniho-rozpoctu-jsou-neprijatelne-rekl-babis-378622"
+          "title": "Ruská hybridní válka v Evropě sílí. Její součástí jsou i operace v Česku",
+          "link": "https://www.novinky.cz/clanek/ekonomika-ruska-hybridni-valka-v-evrope-sili-jeji-soucasti-jsou-i-operace-v-cesku-40602567"
         }
       ]
     },
@@ -27,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-          "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
+          "title": "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss"
+        },
+        {
+          "title": "What is Starshield, and who limited Ukraine’s access to it?",
+          "link": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss"
+        },
+        {
+          "title": "Russia accuses Ukraine of contradicting US brokered deal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss"
+        },
+        {
+          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
           "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
-        },
-        {
-          "title": "Thursday briefing: Thanks to an erratic Trump, peace in Ukraine is still far away",
-          "link": "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away"
-        },
-        {
-          "title": "Porcelain fish survives Russian strike on Kyiv apartment building and becomes symbol of resilience – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058106/"
         }
       ]
     },
@@ -61,12 +61,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Moldova says drone that flew over country was \"definitely Russian\"",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058206/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -81,22 +86,39 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 1,
+      "headlines": [
+        {
+          "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
+        },
+        {
+          "title": "NATO secretary general reports on meeting with Zelenskyy in Brussels",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058203/"
+        },
+        {
+          "title": "Zelenskyy arrives in Brussels – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058178/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
+        },
         {
           "title": "Pozemní antény Starlinku u Sofie byly terčem žhářů, uvedl bulharský premiér",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/pozemni-anteny-starlinku-u-sofie-byly-tercem-zharu-uvedl-bulharsky-premier-378592"
@@ -156,36 +178,22 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Zelenskyy says French industry only benefits from cooperation with Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058103/"
-        }
-      ]
-    },
-    {
-      "id": "germany",
-      "name": "Nemecko",
-      "score": 17,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-          "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Reportéři ČT přibližují, jak v Německu sílí proruské strany",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/reporteri-ct-priblizuji-jak-v-nemecku-sili-proruske-strany-378538"
-        }
-      ]
+      "headlines": []
+    },
+    {
+      "id": "germany",
+      "name": "Nemecko",
+      "score": 5,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -280,22 +288,7 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
-          "link": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub"
-        }
-      ]
-    },
-    {
-      "id": "portugal",
-      "name": "Portugalsko",
-      "score": 2,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
@@ -303,14 +296,33 @@
       "headlines": []
     },
     {
-      "id": "romania",
-      "name": "Rumunsko",
-      "score": 15,
+      "id": "portugal",
+      "name": "Portugalsko",
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
+    },
+    {
+      "id": "romania",
+      "name": "Rumunsko",
+      "score": 27,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+          "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -345,34 +357,20 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
-    "headlines": [
-      {
-        "title": "Man rescued from under rubble of house in Zaporizhzhia dies in hospital",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058091/"
-      },
-      {
-        "title": "Britská vláda finančně pomůže s opravou sarkofágu v Černobylu. Minulý únor ho zasáhl dron",
-        "link": "https://www.irozhlas.cz/zpravy-svet/britska-vlada-financne-pomuze-s-opravou-sarkofagu-v-cernobylu-minuly-unor-ho_2610150735_raf"
-      }
-    ]
+    "trend": "down",
+    "score_change": -6,
+    "headlines": []
   }
 }
