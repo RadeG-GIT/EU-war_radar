@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-15T16:35:35.079729+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-15T22:56:54.615301+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ruská hybridní válka v Evropě sílí. Její součástí jsou i operace v Česku",
-          "link": "https://www.novinky.cz/clanek/ekonomika-ruska-hybridni-valka-v-evrope-sili-jeji-soucasti-jsou-i-operace-v-cesku-40602567"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss"
-        },
-        {
-          "title": "What is Starshield, and who limited Ukraine’s access to it?",
-          "link": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss"
-        },
-        {
-          "title": "Russia accuses Ukraine of contradicting US brokered deal",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss"
-        },
-        {
           "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
           "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
           "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+          "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+          "link": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit"
+        },
+        {
+          "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
+          "link": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast"
         }
       ]
     },
@@ -64,8 +59,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Moldova says drone that flew over country was \"definitely Russian\"",
@@ -86,11 +81,11 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 4,
+      "score": 1,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 1,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
@@ -99,10 +94,6 @@
         {
           "title": "NATO secretary general reports on meeting with Zelenskyy in Brussels",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058203/"
-        },
-        {
-          "title": "Zelenskyy arrives in Brussels – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058178/"
         }
       ]
     },
@@ -112,8 +103,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
@@ -178,12 +169,17 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "score": 38,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 33,
+      "headlines": [
+        {
+          "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
+          "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -191,8 +187,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -248,12 +244,17 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ukrainian Damba anti-drone EW systems to be produced in Lithuania for defence forces – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058212/"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -288,12 +289,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "score": 29,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Zelenskyy says Poland has provided Ukraine with aid to defend Kyiv",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058237/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -308,7 +314,7 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 27,
+      "score": 39,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
@@ -319,8 +325,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
+          "link": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast"
+        },
+        {
           "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
+        },
+        {
+          "title": "Romania holds Russia responsible for attacks on civilian ships in Black Sea",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058215/"
         }
       ]
     },
@@ -360,8 +374,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
@@ -369,8 +383,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
