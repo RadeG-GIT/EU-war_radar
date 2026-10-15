@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-15T03:53:21.255055+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-15T09:00:31.666800+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Návrhy na nové zdroje unijního rozpočtu jsou nepřijatelné, řekl Babiš",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/navrhy-na-nove-zdroje-unijniho-rozpoctu-jsou-neprijatelne-rekl-babis-378622"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -30,16 +35,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Why Zelensky's meeting with Burnham matters",
-          "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss"
+          "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
         },
         {
-          "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
-          "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss"
+          "title": "Thursday briefing: Thanks to an erratic Trump, peace in Ukraine is still far away",
+          "link": "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away"
         },
         {
-          "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
-          "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll"
+          "title": "Porcelain fish survives Russian strike on Kyiv apartment building and becomes symbol of resilience – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058106/"
         }
       ]
     },
@@ -86,19 +91,15 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 17,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Pozemní antény Starlinku u Sofie byly terčem žhářů, uvedl bulharský premiér",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/pozemni-anteny-starlinku-u-sofie-byly-tercem-zharu-uvedl-bulharsky-premier-378592"
-        },
-        {
-          "title": "Bulharsko hlásí další útok na lodě v Černém moři, jedna se potopila",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/drony-zasahly-u-pobrezi-bulharska-dve-lode-jedna-se-potopila-oznamil-premier-radev-378524"
         }
       ]
     },
@@ -155,17 +156,22 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Zelenskyy says French industry only benefits from cooperation with Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058103/"
+        }
+      ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 20,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
@@ -174,10 +180,6 @@
         {
           "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Německá válka proti cukru. Litr sladké limonády zdraží o osm korun",
-          "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-nemecko-zdani-litr-slazene-limonady-o-temer-osm-korun-317840"
         },
         {
           "title": "Reportéři ČT přibližují, jak v Německu sílí proruské strany",
@@ -278,42 +280,37 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
+          "link": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub"
+        }
+      ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukrainian DELTA combat system tested during maritime operations at NATO exercise",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/14/8058038/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea",
-          "link": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -348,24 +345,33 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -23,
+    "trend": "up",
+    "score_change": 3,
     "headlines": [
       {
-        "title": "Three injured and building destroyed in Russian drone attack on Zaporizhzhia – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/14/8058014/"
+        "title": "Man rescued from under rubble of house in Zaporizhzhia dies in hospital",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058091/"
+      },
+      {
+        "title": "Britská vláda finančně pomůže s opravou sarkofágu v Černobylu. Minulý únor ho zasáhl dron",
+        "link": "https://www.irozhlas.cz/zpravy-svet/britska-vlada-financne-pomuze-s-opravou-sarkofagu-v-cernobylu-minuly-unor-ho_2610150735_raf"
       }
     ]
   }
