@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T22:56:54.615301+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-16T03:49:04.444095+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -34,12 +34,12 @@
           "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-          "link": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit"
+          "title": "Watch: Moment drone hits supermarket in Odesa",
+          "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
-          "link": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast"
+          "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+          "link": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses"
         }
       ]
     },
@@ -81,16 +81,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 1,
+      "score": 0,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -1,
       "headlines": [
-        {
-          "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
-        },
         {
           "title": "NATO secretary general reports on meeting with Zelenskyy in Brussels",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058203/"
@@ -100,16 +96,12 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
-        },
         {
           "title": "Pozemní antény Starlinku u Sofie byly terčem žhářů, uvedl bulharský premiér",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/pozemni-anteny-starlinku-u-sofie-byly-tercem-zharu-uvedl-bulharsky-premier-378592"
@@ -169,17 +161,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 38,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 33,
-      "headlines": [
-        {
-          "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
-          "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen"
-        }
-      ]
+      "score": 5,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -33,
+      "headlines": []
     },
     {
       "id": "germany",
@@ -247,8 +234,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Ukrainian Damba anti-drone EW systems to be produced in Lithuania for defence forces – photo",
@@ -292,8 +279,8 @@
       "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zelenskyy says Poland has provided Ukraine with aid to defend Kyiv",
@@ -314,11 +301,11 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 39,
+      "score": 36,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -327,10 +314,6 @@
         {
           "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
           "link": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast"
-        },
-        {
-          "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
         },
         {
           "title": "Romania holds Russia responsible for attacks on civilian ships in Black Sea",
