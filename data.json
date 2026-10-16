@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:51:57.222241+00:00",
+  "generated_at": "2026-10-16T16:20:10.659692+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,6 +22,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss"
+        },
+        {
           "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
           "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
         },
@@ -34,12 +38,8 @@
           "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Moment drone hits supermarket in Odesa",
-          "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+          "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+          "link": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy"
         }
       ]
     },
@@ -59,12 +59,12 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Russian drones violated Moldovan airspace five times overnight",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/16/8058296/"
+          "title": "Drone crashes and explodes in Moldova, authorities investigate circumstances",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/16/8058394/"
         }
       ]
     },
@@ -84,28 +84,24 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+          "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+          "link": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy"
         }
       ]
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 13,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
+      "trend": "down",
+      "score_change": -5,
       "headlines": [
-        {
-          "title": "US lifts some sanctions restrictions on overseas assets of Russia's Lukoil",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/16/8058261/"
-        },
         {
           "title": "Pozemní antény Starlinku u Sofie byly terčem žhářů, uvedl bulharský premiér",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/pozemni-anteny-starlinku-u-sofie-byly-tercem-zharu-uvedl-bulharsky-premier-378592"
@@ -115,37 +111,42 @@
     {
       "id": "croatia",
       "name": "Chorvatsko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Pro-Nazi chants before Hajduk Split-Ajax UEFA Europa League match slammed",
+          "link": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "cyprus",
       "name": "Kypr",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
+          "link": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 9,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
-      "headlines": [
-        {
-          "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "estonia",
@@ -170,21 +171,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
-      "headlines": [
-        {
-          "title": "French police accused over war-like injuries to teenagers in school protests",
-          "link": "https://www.theguardian.com/world/2026/oct/16/french-police-injuries-teenagers-school-protests-arrests-custody"
-        },
-        {
-          "title": "Je mu 75 a mladí Francouzi z něj šílí: V čem je kouzlo lídra radikální levice",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-politicky-veteran-hvezdou-mladych-proc-francouzi-veri-melenchonovi-317922"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "germany",
@@ -252,8 +244,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -289,12 +281,21 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
-      "headlines": []
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine exports gas for first time since start of full-scale war",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/16/8058351/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -312,8 +313,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -363,11 +364,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Jaderná elektrárna Temelín v pátek večer plánovaně odpojí první blok od přenosové soustavy",
+        "link": "https://www.irozhlas.cz/zpravy-domov/jaderna-elektrarna-temelin-v-patek-vecer-planovane-odpoji-prvni-blok-od_2610161431_aha"
+      }
+    ]
   }
 }
