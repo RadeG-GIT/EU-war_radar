@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T03:49:04.444095+00:00",
+  "generated_at": "2026-10-16T08:51:57.222241+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -38,8 +38,8 @@
           "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
-          "link": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses"
+          "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
         }
       ]
     },
@@ -56,15 +56,15 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 18,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Moldova says drone that flew over country was \"definitely Russian\"",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058206/"
+          "title": "Russian drones violated Moldovan airspace five times overnight",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/16/8058296/"
         }
       ]
     },
@@ -81,27 +81,31 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 0,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -1,
+      "trend": "up",
+      "score_change": 8,
       "headlines": [
         {
-          "title": "NATO secretary general reports on meeting with Zelenskyy in Brussels",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058203/"
+          "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
         }
       ]
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 8,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 5,
       "headlines": [
+        {
+          "title": "US lifts some sanctions restrictions on overseas assets of Russia's Lukoil",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/16/8058261/"
+        },
         {
           "title": "Pozemní antény Starlinku u Sofie byly terčem žhářů, uvedl bulharský premiér",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/pozemni-anteny-starlinku-u-sofie-byly-tercem-zharu-uvedl-bulharsky-premier-378592"
@@ -131,12 +135,17 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "estonia",
@@ -161,12 +170,21 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -33,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "French police accused over war-like injuries to teenagers in school protests",
+          "link": "https://www.theguardian.com/world/2026/oct/16/french-police-injuries-teenagers-school-protests-arrests-custody"
+        },
+        {
+          "title": "Je mu 75 a mladí Francouzi z něj šílí: V čem je kouzlo lídra radikální levice",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-politicky-veteran-hvezdou-mladych-proc-francouzi-veri-melenchonovi-317922"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -231,17 +249,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukrainian Damba anti-drone EW systems to be produced in Lithuania for defence forces – photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058212/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -276,17 +289,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Zelenskyy says Poland has provided Ukraine with aid to defend Kyiv",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058237/"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -301,23 +309,15 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 36,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 24,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -12,
       "headlines": [
         {
           "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
           "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
-          "link": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast"
-        },
-        {
-          "title": "Romania holds Russia responsible for attacks on civilian ships in Black Sea",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/15/8058215/"
         }
       ]
     },
