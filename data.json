@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T18:17:19.202506+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-17T22:02:46.202430+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,6 +22,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss"
+        },
+        {
           "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
           "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss"
         },
@@ -36,10 +40,6 @@
         {
           "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
           "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
-          "link": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine"
         }
       ]
     },
@@ -76,17 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 41,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 38,
-      "headlines": [
-        {
-          "title": "Masked settlers attack European diplomats in occupied West Bank",
-          "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank"
-        }
-      ]
+      "score": 3,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -38,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -151,27 +146,23 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "Police clash with protesters as tens of thousands take to streets across France",
-          "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
+          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Šanci vyhrát prezidentské volby ve Francii má zatím Le Penová",
-          "link": "https://www.irozhlas.cz/komentare/sanci-vyhrat-prezidentske-volby-ve-francii-ma-zatim-le-penova_2610171630_bva"
+          "title": "More than 400 arrested as police clash with protesters across France",
+          "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
         },
         {
           "title": "Protesty zachvátily francouzská města, hlášeny jsou násilné střety",
           "link": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-francii-zacaly-studentske-protesty-kvuli-zdrazovani-prvni-strety-ve-velkych-mestech-40603351"
-        },
-        {
-          "title": "FOTO: Masové nepokoje a protesty v ulicích v Paříže",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-foto-masove-nepokoje-a-protesty-v-ulicich-v-parize-40603414"
         }
       ]
     },
@@ -281,8 +272,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 1,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -346,8 +337,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
@@ -355,8 +346,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Russians executed Ukrainian soldiers in Zaporizhzhia Oblast, Ukrainian forces say",
