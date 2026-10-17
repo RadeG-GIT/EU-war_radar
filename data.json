@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T08:22:33.120121+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-17T15:14:53.504411+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,12 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-          "link": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss"
-        },
-        {
-          "title": "Trump puts on hold new Russia sanctions he signed into law",
-          "link": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss"
+          "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss"
         },
         {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -38,8 +34,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump denies limiting Ukraine access to Starlink network",
-          "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
+          "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+          "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
+          "link": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine"
         }
       ]
     },
@@ -59,8 +59,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -76,17 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
-          "link": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -151,15 +146,27 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 14,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 9,
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Not cool: who hacked France’s supermarket fridges?",
-          "link": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
+          "title": "Protesters clash with police during nationwide demonstrations in France",
+          "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss"
+        },
+        {
+          "title": "Šanci vyhrát prezidentské volby ve Francii má zatím Le Penová",
+          "link": "https://www.irozhlas.cz/komentare/sanci-vyhrat-prezidentske-volby-ve-francii-ma-zatim-le-penova_2610171630_bva"
+        },
+        {
+          "title": "Protesty zachvátily francouzská města, hlášeny jsou násilné střety",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-francii-zacaly-studentske-protesty-kvuli-zdrazovani-prvni-strety-ve-velkych-mestech-40603351"
+        },
+        {
+          "title": "FOTO: Masové nepokoje a protesty v ulicích v Paříže",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-foto-masove-nepokoje-a-protesty-v-ulicich-v-parize-40603414"
         }
       ]
     },
@@ -206,21 +213,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 16,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
-          "link": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss"
-        },
-        {
-          "title": "Italy calls US weakening of Ukraine a \"major mistake\", says Putin cannot be stopped this way",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/17/8058469/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -275,22 +273,32 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "down",
+      "score_change": -1,
+      "headlines": [
+        {
+          "title": "Polish military to practise deploying forces in Ukraine in event of ceasefire with Russia – media",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/17/8058484/"
+        }
+      ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 19,
+      "headlines": [
+        {
+          "title": "Flash floods destroy villages in central Nepal",
+          "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -335,28 +343,33 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Briton threatened with deportation from Sweden over Brexit rules goes into hiding",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 31,
-    "level": "mirne",
-    "color": "#C98A3B",
-    "trend": "same",
-    "score_change": 0,
+    "score": 11,
+    "level": "nizke",
+    "color": "#4C8C6B",
+    "trend": "down",
+    "score_change": -20,
     "headlines": [
       {
-        "title": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss"
+        "title": "Russians have executed Ukrainian soldiers in Zaporizhzhia Oblast, Ukrainian forces say",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/17/8058504/"
       },
       {
-        "title": "Russians strike houses in Zaporizhzhia, injuring five people – photos, video",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/17/8058451/"
+        "title": "Ukraine's Armed Forces refute Russian claims of advance towards Zaporizhzhia and capture of Kostiantynivka and Dobropillia",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/17/8058493/"
       }
     ]
   }
