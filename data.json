@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T22:40:37.971499+00:00",
+  "generated_at": "2026-10-17T03:39:05.678958+00:00",
   "overall_score": 11,
   "hotspots": [
     {
@@ -26,16 +26,16 @@
           "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss"
         },
         {
+          "title": "Trump waives several Russia sanctions as new US law takes effect",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Trump denies limiting Ukraine access to Starlink network",
           "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-          "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
@@ -81,11 +81,11 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 8,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -2,
       "headlines": [
         {
           "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
@@ -99,8 +99,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -109,8 +109,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -119,8 +119,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -206,12 +206,17 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+          "link": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -269,8 +274,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -286,17 +291,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-          "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -321,17 +321,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 8,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
-      "headlines": [
-        {
-          "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
-          "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -345,12 +340,16 @@
     }
   ],
   "radiation": {
-    "score": 8,
-    "level": "nizke",
-    "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "score": 31,
+    "level": "mirne",
+    "color": "#C98A3B",
+    "trend": "up",
+    "score_change": 23,
     "headlines": [
+      {
+        "title": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
+        "link": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss"
+      },
       {
         "title": "Jaderná elektrárna Temelín v pátek večer plánovaně odpojí první blok od přenosové soustavy",
         "link": "https://www.irozhlas.cz/zpravy-domov/jaderna-elektrarna-temelin-v-patek-vecer-planovane-odpoji-prvni-blok-od_2610161431_aha"
