@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T15:14:53.504411+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-17T18:17:19.202506+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,8 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian strikes kill civilians, injure dozens across Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss"
+          "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+          "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss"
         },
         {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -76,12 +76,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "score": 41,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 38,
+      "headlines": [
+        {
+          "title": "Masked settlers attack European diplomats in occupied West Bank",
+          "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -149,12 +154,12 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Protesters clash with police during nationwide demonstrations in France",
-          "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss"
+          "title": "Police clash with protesters as tens of thousands take to streets across France",
+          "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
         },
         {
           "title": "Šanci vyhrát prezidentské volby ve Francii má zatím Le Penová",
@@ -216,8 +221,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -273,17 +278,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 19,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -1,
-      "headlines": [
-        {
-          "title": "Polish military to practise deploying forces in Ukraine in event of ceasefire with Russia – media",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/17/8058484/"
-        }
-      ]
+      "trend": "up",
+      "score_change": 1,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -291,8 +291,8 @@
       "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 19,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Flash floods destroy villages in central Nepal",
@@ -343,33 +343,24 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 17,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Briton threatened with deportation from Sweden over Brexit rules goes into hiding",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "down",
-    "score_change": -20,
+    "score_change": -3,
     "headlines": [
       {
-        "title": "Russians have executed Ukrainian soldiers in Zaporizhzhia Oblast, Ukrainian forces say",
+        "title": "Russians executed Ukrainian soldiers in Zaporizhzhia Oblast, Ukrainian forces say",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/17/8058504/"
-      },
-      {
-        "title": "Ukraine's Armed Forces refute Russian claims of advance towards Zaporizhzhia and capture of Kostiantynivka and Dobropillia",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/17/8058493/"
       }
     ]
   }
