@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T08:42:24.123680+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-18T15:36:21.766873+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+          "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+        },
+        {
+          "title": "Russia’s war in Ukraine puts Europe on edge",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss"
+        },
+        {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia attacks Ukraine with missile and 180 drones: 152 UAVs downed by air defence",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058570/"
+          "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+          "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure"
         },
         {
-          "title": "Russia loses 2,090 soldiers over past day",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058566/"
-        },
-        {
-          "title": "Obrazem: Válka komplikuje boj s „jantarovou mafií“",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-obrazem-valka-komplikuje-boj-s-jantarovou-mafii-316734"
-        },
-        {
-          "title": "Systém Starshield na Ukrajině opět plně funguje, píší média",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/system-starshield-na-ukrajine-opet-plne-funguje-pisi-media-378653"
+          "title": "Ukraine uses seven drone interceptors to bring down jet-powered Shaheds, but scaling up required – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058628/"
         }
       ]
     },
@@ -76,12 +76,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
+          "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -146,23 +151,27 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
-          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+          "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
+          "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss"
         },
         {
-          "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
-          "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
+          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Policie v Paříži při demonstracích zadržela rekordní počet lidí",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-policie-v-parizi-pri-demonstracich-zadrzela-rekordni-pocet-lidi-318160"
+          "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
+          "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
+        },
+        {
+          "title": "Francie po násilnostech sčítá škody, zatčeno bylo už přes 1800 lidí",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-po-sobotnich-nepokojich-ve-francii-zatkli-pres-1800-lidi-40603469"
         }
       ]
     },
@@ -209,12 +218,17 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
+          "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -229,15 +243,19 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "Litva krátce vyhlásila kvůli dronu letecký poplach, letiště Kaunas se uzavřelo. Po hodině ho odvolala",
-          "link": "https://www.irozhlas.cz/zpravy-svet/litva-kratce-vyhlasila-kvuli-dronu-letecky-poplach-letiste-kaunas-se-uzavrelo-po_2610180808_elv"
+          "title": "Ukraine says drone incident in Lithuania was likely caused by Russian electronic warfare",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058627/"
+        },
+        {
+          "title": "Lithuania reports damage caused by unidentified drone that entered its airspace",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058602/"
         }
       ]
     },
@@ -274,22 +292,35 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Russia’s war in Ukraine puts Europe on edge",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss"
+        },
+        {
+          "title": "Lithuania reports damage caused by unidentified drone that entered its airspace",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058602/"
+        }
+      ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 21,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
+          "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
+        },
         {
           "title": "Flash floods destroy villages in central Nepal",
           "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal"
@@ -329,12 +360,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
+          "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -348,16 +384,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Russians attack Zaporizhzhia apartment block: 27-year-old woman killed – photo",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058556/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
