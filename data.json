@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:45:33.923485+00:00",
+  "generated_at": "2026-10-18T08:42:24.123680+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss"
-        },
-        {
-          "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-          "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss"
-        },
-        {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
+          "title": "Russia attacks Ukraine with missile and 180 drones: 152 UAVs downed by air defence",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058570/"
         },
         {
-          "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
-          "link": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine"
+          "title": "Russia loses 2,090 soldiers over past day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058566/"
+        },
+        {
+          "title": "Obrazem: Válka komplikuje boj s „jantarovou mafií“",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-obrazem-valka-komplikuje-boj-s-jantarovou-mafii-316734"
+        },
+        {
+          "title": "Systém Starshield na Ukrajině opět plně funguje, píší média",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/system-starshield-na-ukrajine-opet-plne-funguje-pisi-media-378653"
         }
       ]
     },
@@ -149,11 +149,11 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+          "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
           "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -161,8 +161,8 @@
           "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
         },
         {
-          "title": "Protesty zachvátily francouzská města, hlášeny jsou násilné střety",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-francii-zacaly-studentske-protesty-kvuli-zdrazovani-prvni-strety-ve-velkych-mestech-40603351"
+          "title": "Policie v Paříži při demonstracích zadržela rekordní počet lidí",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-policie-v-parizi-pri-demonstracich-zadrzela-rekordni-pocet-lidi-318160"
         }
       ]
     },
@@ -229,12 +229,17 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Litva krátce vyhlásila kvůli dronu letecký poplach, letiště Kaunas se uzavřelo. Po hodině ho odvolala",
+          "link": "https://www.irozhlas.cz/zpravy-svet/litva-kratce-vyhlasila-kvuli-dronu-letecky-poplach-letiste-kaunas-se-uzavrelo-po_2610180808_elv"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -350,8 +355,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Russians executed Ukrainian soldiers in Zaporizhzhia Oblast, Ukrainian forces say",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/17/8058504/"
+        "title": "Russians attack Zaporizhzhia apartment block: 27-year-old woman killed – photo",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058556/"
       }
     ]
   }
