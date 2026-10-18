@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T18:30:48.705119+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-18T22:17:52.127364+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,6 +22,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+          "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss"
+        },
+        {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
@@ -30,16 +34,12 @@
           "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure"
         },
         {
+          "title": "Zelenskyy says he would stand in elections if held before end of war",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058650/"
+        },
+        {
           "title": "Lithuania says attempted arson of Starlink station sabotage is aimed at influencing Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058641/"
-        },
-        {
-          "title": "Ukraine uses seven drone interceptors to bring down jet-powered Shaheds, but scaling up required – photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058628/"
-        },
-        {
-          "title": "Ukraine says drone incident in Lithuania was likely caused by Russian electronic warfare",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058627/"
         }
       ]
     },
@@ -76,17 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
-          "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -151,27 +146,19 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 23,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
         {
-          "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
-          "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss"
-        },
-        {
-          "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-          "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
+          "title": "Macron calls for 'calm and order' after riots across France",
+          "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
           "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
-        },
-        {
-          "title": "Francie po násilnostech sčítá škody, zatčeno bylo už přes 1800 lidí",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-po-sobotnich-nepokojich-ve-francii-zatkli-pres-1800-lidi-40603469"
         }
       ]
     },
@@ -246,8 +233,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Lithuania says attempted arson of Starlink station sabotage is aimed at influencing Ukraine",
@@ -299,8 +286,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Lithuania reports damage caused by unidentified drone that entered its airspace",
@@ -387,8 +374,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Zelenskyy refutes claims that Russia has captured Dobropillia and advanced towards Zaporizhzhia",
