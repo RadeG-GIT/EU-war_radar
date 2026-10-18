@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:36:21.766873+00:00",
+  "generated_at": "2026-10-18T18:30:48.705119+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-          "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
-        },
-        {
-          "title": "Russia’s war in Ukraine puts Europe on edge",
-          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss"
-        },
-        {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+          "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
           "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure"
+        },
+        {
+          "title": "Lithuania says attempted arson of Starlink station sabotage is aimed at influencing Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058641/"
         },
         {
           "title": "Ukraine uses seven drone interceptors to bring down jet-powered Shaheds, but scaling up required – photo",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058628/"
+        },
+        {
+          "title": "Ukraine says drone incident in Lithuania was likely caused by Russian electronic warfare",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058627/"
         }
       ]
     },
@@ -79,8 +79,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
@@ -154,8 +154,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
@@ -221,8 +221,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
@@ -243,12 +243,16 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 21,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
+        {
+          "title": "Lithuania says attempted arson of Starlink station sabotage is aimed at influencing Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058641/"
+        },
         {
           "title": "Ukraine says drone incident in Lithuania was likely caused by Russian electronic warfare",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058627/"
@@ -292,16 +296,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Russia’s war in Ukraine puts Europe on edge",
-          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss"
-        },
         {
           "title": "Lithuania reports damage caused by unidentified drone that entered its airspace",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058602/"
@@ -314,8 +314,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
@@ -363,8 +363,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
@@ -384,11 +384,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Zelenskyy refutes claims that Russia has captured Dobropillia and advanced towards Zaporizhzhia",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058638/"
+      }
+    ]
   }
 }
