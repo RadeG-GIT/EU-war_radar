@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-18T22:17:52.127364+00:00",
+  "generated_at": "2026-10-19T03:54:57.506262+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Co dělat, když Česko zhasne. Samotná příručka podle expertů nestačí",
+          "link": "https://www.novinky.cz/clanek/domaci-co-delat-kdyz-cesko-zhasne-samotna-prirucka-podle-expertu-nestaci-40601348"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,12 +27,16 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+          "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+        },
+        {
           "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
           "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss"
         },
         {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
@@ -36,10 +45,6 @@
         {
           "title": "Zelenskyy says he would stand in elections if held before end of war",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058650/"
-        },
-        {
-          "title": "Lithuania says attempted arson of Starlink station sabotage is aimed at influencing Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058641/"
         }
       ]
     },
@@ -79,19 +84,24 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+          "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -149,16 +159,16 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Macron calls for 'calm and order' after riots across France",
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
-          "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
+          "title": "Násilí překročilo hranice. Milán zažívá noci plné rabování a devastace",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-nasili-prekrocilo-hranice-milan-zaziva-noci-plne-rabovani-a-devastace-40603516"
         }
       ]
     },
@@ -212,8 +222,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
-          "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
+          "title": "Násilí překročilo hranice. Milán zažívá noci plné rabování a devastace",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-nasili-prekrocilo-hranice-milan-zaziva-noci-plne-rabovani-a-devastace-40603516"
         }
       ]
     },
@@ -298,16 +308,12 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 24,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
-          "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
-        },
         {
           "title": "Flash floods destroy villages in central Nepal",
           "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal"
@@ -347,17 +353,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
-          "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
