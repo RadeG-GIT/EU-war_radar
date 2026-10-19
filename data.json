@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-19T03:54:57.506262+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-19T09:43:14.268873+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Co dělat, když Česko zhasne. Samotná příručka podle expertů nestačí",
-          "link": "https://www.novinky.cz/clanek/domaci-co-delat-kdyz-cesko-zhasne-samotna-prirucka-podle-expertu-nestaci-40601348"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-          "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+          "title": "Rubio says there was no US pause in intelligence sharing with Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with?traffic_source=rss"
         },
         {
-          "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-          "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss"
+          "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+          "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
         },
         {
           "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
           "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
-          "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure"
+          "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+          "link": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump"
         },
         {
-          "title": "Zelenskyy says he would stand in elections if held before end of war",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058650/"
+          "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
         }
       ]
     },
@@ -71,12 +66,17 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+          "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "belgium",
@@ -94,12 +94,12 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-          "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss"
+          "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+          "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -156,19 +156,31 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 36,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 25,
       "headlines": [
         {
-          "title": "Macron calls for 'calm and order' after riots across France",
-          "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+          "title": "France protests live: Macron admits ‘failures’ after days of violent unrest",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss"
         },
         {
-          "title": "Násilí překročilo hranice. Milán zažívá noci plné rabování a devastace",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-nasili-prekrocilo-hranice-milan-zaziva-noci-plne-rabovani-a-devastace-40603516"
+          "title": "Watch: Shops looted and restaurants gutted in Paris riots",
+          "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Safety concerns mount over Japan’s traditional festivals after string of fatal accidents",
+          "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
+        },
+        {
+          "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
+        },
+        {
+          "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
+          "link": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
         }
       ]
     },
@@ -215,15 +227,19 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Násilí překročilo hranice. Milán zažívá noci plné rabování a devastace",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-nasili-prekrocilo-hranice-milan-zaziva-noci-plne-rabovani-a-devastace-40603516"
+          "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
+          "link": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
+        },
+        {
+          "title": "FOTO: Nepokoje v Miláně, hořelo přímo v centru",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-foto-nepokoje-v-milane-horelo-primo-v-centru-40603550"
         }
       ]
     },
@@ -240,25 +256,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Lithuania says attempted arson of Starlink station sabotage is aimed at influencing Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058641/"
-        },
-        {
-          "title": "Ukraine says drone incident in Lithuania was likely caused by Russian electronic warfare",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058627/"
-        },
-        {
-          "title": "Lithuania reports damage caused by unidentified drone that entered its airspace",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058602/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -293,27 +296,26 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Lithuania reports damage caused by unidentified drone that entered its airspace",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058602/"
-        }
-      ]
-    },
-    {
-      "id": "portugal",
-      "name": "Portugalsko",
-      "score": 21,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
+      "headlines": []
+    },
+    {
+      "id": "portugal",
+      "name": "Portugalsko",
+      "score": 24,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
+          "link": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
+        },
         {
           "title": "Flash floods destroy villages in central Nepal",
           "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal"
@@ -333,12 +335,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bota plná krve, tankisté bez tanků. Příběh hrdiny ze západní i východní fronty",
+          "link": "https://www.seznamzpravy.cz/clanek/magazin-historie-branil-anglii-pak-ho-ranili-na-dukle-ale-bojoval-dal-pribeh-malo-znameho-hrdiny-317893"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -353,35 +360,40 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
+          "link": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
+        }
+      ]
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Zelenskyy refutes claims that Russia has captured Dobropillia and advanced towards Zaporizhzhia",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/18/8058638/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
