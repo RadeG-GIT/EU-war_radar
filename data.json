@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T09:43:14.268873+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-19T18:31:45.824543+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Rubio says there was no US pause in intelligence sharing with Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-          "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
           "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
-          "link": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump"
+          "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
         },
         {
-          "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
+          "title": "Ferocious criticism from all sides underlines Macron’s isolation",
+          "link": "https://www.theguardian.com/world/2026/oct/19/emmanuel-macron-criticism-isolation-france"
+        },
+        {
+          "title": "Living with non-stop air raids: how Kharkiv, Dnipro, Zaporizhzhia, Odesa and Kyiv have adapted to the jet-powered war of 2026",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/19/8058815/"
         }
       ]
     },
@@ -66,17 +66,12 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-          "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "belgium",
@@ -91,17 +86,12 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-          "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "croatia",
@@ -156,31 +146,31 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 36,
-      "level": "mirne",
+      "score": 52,
+      "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 25,
+      "score_change": 16,
       "headlines": [
-        {
-          "title": "France protests live: Macron admits ‘failures’ after days of violent unrest",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss"
-        },
         {
           "title": "Watch: Shops looted and restaurants gutted in Paris riots",
           "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Safety concerns mount over Japan’s traditional festivals after string of fatal accidents",
+          "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         },
         {
-          "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+          "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
         },
         {
-          "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
-          "link": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
+          "title": "Ferocious criticism from all sides underlines Macron’s isolation",
+          "link": "https://www.theguardian.com/world/2026/oct/19/emmanuel-macron-criticism-isolation-france"
+        },
+        {
+          "title": "France protests escalate with riots, looting and 2,400 arrests – The Latest",
+          "link": "https://www.theguardian.com/news/audio/2026/oct/19/france-protests-escalate-riots-looting-arrests-the-latest"
         }
       ]
     },
@@ -197,12 +187,21 @@
     {
       "id": "greece",
       "name": "Recko",
-      "score": 6,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 30,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 24,
+      "headlines": [
+        {
+          "title": "12 migrants, including an infant, drown in two incidents off Greece",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss"
+        },
+        {
+          "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+          "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods"
+        }
+      ]
     },
     {
       "id": "hungary",
@@ -227,19 +226,15 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 10,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
-          "link": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
-        },
-        {
-          "title": "FOTO: Nepokoje v Miláně, hořelo přímo v centru",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-foto-nepokoje-v-milane-horelo-primo-v-centru-40603550"
+          "title": "Italy plans tougher security measures after violent protests",
+          "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -259,8 +254,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -299,23 +294,19 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 24,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
-          "link": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
-        },
         {
           "title": "Flash floods destroy villages in central Nepal",
           "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal"
@@ -335,17 +326,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Bota plná krve, tankisté bez tanků. Příběh hrdiny ze západní i východní fronty",
-          "link": "https://www.seznamzpravy.cz/clanek/magazin-historie-branil-anglii-pak-ho-ranili-na-dukle-ale-bojoval-dal-pribeh-malo-znameho-hrdiny-317893"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -360,40 +346,44 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
-          "link": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 8,
       "headlines": [
         {
-          "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+          "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
+        },
+        {
+          "title": "Ferocious criticism from all sides underlines Macron’s isolation",
+          "link": "https://www.theguardian.com/world/2026/oct/19/emmanuel-macron-criticism-isolation-france"
         }
       ]
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Living with non-stop air raids: how Kharkiv, Dnipro, Zaporizhzhia, Odesa and Kyiv have adapted to the jet-powered war of 2026",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/19/8058815/"
+      }
+    ]
   }
 }
