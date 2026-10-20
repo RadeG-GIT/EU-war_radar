@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T19:54:54.295487+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-10-20T23:02:10.884250+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Stát převezme karlovarské letiště. Využívat ho bude i armáda",
@@ -94,8 +94,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Americký letoun začal na žádost Bulharska hlídkovat nad Černým mořem",
@@ -149,19 +149,27 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 51,
+      "score": 69,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 18,
       "headlines": [
+        {
+          "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss"
+        },
+        {
+          "title": "France riots leave thousands of businesses damaged",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss"
+        },
         {
           "title": "Clean up begins after French riots but police remain",
           "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
@@ -173,14 +181,6 @@
         {
           "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
-        },
-        {
-          "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
-        },
-        {
-          "title": "Why are French police so violent? Their job is to protect the state, not the people",
-          "link": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots"
         }
       ]
     },
@@ -232,12 +232,16 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 25,
+      "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 11,
+      "score_change": 7,
       "headlines": [
+        {
+          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+        },
         {
           "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
@@ -307,12 +311,16 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 21,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -7,
+      "score": 28,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 7,
       "headlines": [
+        {
+          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+        },
         {
           "title": "Flash floods destroy villages in central Nepal",
           "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal"
@@ -352,12 +360,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -7,
-      "headlines": []
+      "trend": "up",
+      "score_change": 7,
+      "headlines": [
+        {
+          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -374,8 +387,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
