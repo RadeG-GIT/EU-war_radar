@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T23:27:39.212832+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-10-20T04:07:35.004411+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,6 +22,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Children among six killed in Russian drone strike on Ukraine park",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss"
+        },
+        {
           "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
         },
@@ -36,10 +40,6 @@
         {
           "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
           "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
         }
       ]
     },
@@ -146,12 +146,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 58,
+      "score": 66,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 8,
       "headlines": [
+        {
+          "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+          "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Clean up begins after French riots but police remain",
           "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
@@ -165,12 +169,8 @@
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         },
         {
-          "title": "Trump borrows from far right to blame unrest in France on immigration",
+          "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
           "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests"
-        },
-        {
-          "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
         }
       ]
     },
@@ -187,16 +187,12 @@
     {
       "id": "greece",
       "name": "Recko",
-      "score": 30,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 19,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -11,
       "headlines": [
-        {
-          "title": "12 migrants, including an infant, drown in two incidents off Greece",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss"
-        },
         {
           "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
           "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods"
@@ -226,15 +222,19 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 7,
       "headlines": [
         {
           "title": "Italy plans tougher security measures after violent protests",
           "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
         }
       ]
     },
@@ -301,15 +301,19 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 24,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 37,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 13,
       "headlines": [
         {
-          "title": "Trump borrows from far right to blame unrest in France on immigration",
+          "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
           "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests"
+        },
+        {
+          "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
         },
         {
           "title": "Flash floods destroy villages in central Nepal",
@@ -350,38 +354,38 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 9,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 30,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 21,
       "headlines": [
         {
-          "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss"
+          "title": "Four dead as torrential rain batters eastern Spain",
+          "link": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss"
         },
         {
-          "title": "Trump borrows from far right to blame unrest in France on immigration",
+          "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
           "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests"
+        },
+        {
+          "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
         }
       ]
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 19,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -8,
       "headlines": [
         {
-          "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
+          "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
-        },
-        {
-          "title": "Ferocious criticism from all sides underlines Macron’s isolation",
-          "link": "https://www.theguardian.com/world/2026/oct/19/emmanuel-macron-criticism-isolation-france"
         }
       ]
     }
