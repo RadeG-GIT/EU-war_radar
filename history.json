@@ -1,41 +1,5 @@
 [
   {
-    "timestamp": "2026-09-13T10:39:12.915311+00:00",
-    "overall_score": 13,
-    "scores": {
-      "czechia": 6,
-      "ukraine": 100,
-      "balkans": 20,
-      "moldova": 15,
-      "austria": 3,
-      "belgium": 12,
-      "bulgaria": 5,
-      "croatia": 5,
-      "cyprus": 8,
-      "denmark": 4,
-      "estonia": 15,
-      "finland": 10,
-      "france": 11,
-      "germany": 8,
-      "greece": 6,
-      "hungary": 4,
-      "ireland": 5,
-      "italy": 45,
-      "latvia": 15,
-      "lithuania": 15,
-      "luxembourg": 2,
-      "malta": 3,
-      "netherlands": 3,
-      "poland": 44,
-      "portugal": 2,
-      "romania": 15,
-      "slovakia": 5,
-      "slovenia": 3,
-      "spain": 3,
-      "sweden": 8
-    }
-  },
-  {
     "timestamp": "2026-09-13T12:17:11.762878+00:00",
     "overall_score": 15,
     "scores": {
@@ -7350,6 +7314,43 @@
       "slovenia": 3,
       "spain": 30,
       "sweden": 11
+    }
+  },
+  {
+    "timestamp": "2026-10-20T13:25:44.016309+00:00",
+    "overall_score": 14,
+    "radiation_score": 8,
+    "scores": {
+      "czechia": 3,
+      "ukraine": 100,
+      "balkans": 20,
+      "moldova": 15,
+      "austria": 3,
+      "belgium": 3,
+      "bulgaria": 5,
+      "croatia": 5,
+      "cyprus": 8,
+      "denmark": 4,
+      "estonia": 15,
+      "finland": 13,
+      "france": 48,
+      "germany": 5,
+      "greece": 19,
+      "hungary": 4,
+      "ireland": 2,
+      "italy": 14,
+      "latvia": 15,
+      "lithuania": 15,
+      "luxembourg": 2,
+      "malta": 3,
+      "netherlands": 3,
+      "poland": 20,
+      "portugal": 28,
+      "romania": 15,
+      "slovakia": 5,
+      "slovenia": 3,
+      "spain": 10,
+      "sweden": 8
     }
   }
 ]

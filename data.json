@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T04:07:35.004411+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-10-20T13:25:44.016309+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Children among six killed in Russian drone strike on Ukraine park",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss"
-        },
-        {
-          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+          "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+          "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss"
         },
         {
           "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
           "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-          "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
           "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+          "link": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump"
+        },
+        {
+          "title": "Russians strike shopping centre in Rivne Oblast, injuring three",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/20/8058905/"
         }
       ]
     },
@@ -136,26 +136,27 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+          "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 66,
+      "score": 48,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "down",
+      "score_change": -18,
       "headlines": [
-        {
-          "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-          "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Clean up begins after French riots but police remain",
           "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
@@ -169,8 +170,12 @@
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         },
         {
-          "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
-          "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests"
+          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+        },
+        {
+          "title": "Rabování ve Francii bude mít mnohem hlubší dopad, než by se mohlo zdát",
+          "link": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-rabovani-ve-francii-lze-verit-statu-ktery-rezignuje-na-ochranu-majetku-318282"
         }
       ]
     },
@@ -190,8 +195,8 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
@@ -225,15 +230,15 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Italy plans tougher security measures after violent protests",
           "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
           "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
         }
       ]
@@ -301,18 +306,14 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 37,
+      "score": 28,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 13,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
-          "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
-          "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests"
-        },
-        {
-          "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
           "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
         },
         {
@@ -354,22 +355,14 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 30,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 21,
+      "score": 10,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -20,
       "headlines": [
         {
-          "title": "Four dead as torrential rain batters eastern Spain",
-          "link": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss"
-        },
-        {
-          "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
-          "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests"
-        },
-        {
-          "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
           "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
         }
       ]
@@ -377,17 +370,12 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -8,
-      "headlines": [
-        {
-          "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     }
   ],
   "radiation": {
@@ -398,8 +386,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Living with non-stop air raids: how Kharkiv, Dnipro, Zaporizhzhia, Odesa and Kyiv have adapted to the jet-powered war of 2026",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/19/8058815/"
+        "title": "Defence forces strike Russian command post, repair unit and warehouses – Ukraine's General Staff",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/20/8058886/"
       }
     ]
   }
