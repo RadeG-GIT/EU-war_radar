@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-20T13:25:44.016309+00:00",
+  "generated_at": "2026-10-20T19:54:54.295487+00:00",
   "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Stát převezme karlovarské letiště. Využívat ho bude i armáda",
+          "link": "https://ct24.ceskatelevize.cz/clanek/regiony/karlovarsky-kraj/stat-prevezme-karlovarske-letiste-vyuzivat-ho-bude-i-armada-378835"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,10 +27,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-          "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss"
-        },
-        {
           "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
           "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss"
         },
@@ -34,12 +35,16 @@
           "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
-          "link": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump"
+          "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+          "link": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy"
         },
         {
-          "title": "Russians strike shopping centre in Rivne Oblast, injuring three",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/20/8058905/"
+          "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+          "link": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships"
+        },
+        {
+          "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
         }
       ]
     },
@@ -86,12 +91,17 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Americký letoun začal na žádost Bulharska hlídkovat nad Černým mořem",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-americky-letoun-zacal-na-zadost-bulharska-hlidkovat-nad-cernym-morem-318342"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -136,26 +146,21 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-          "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 48,
+      "score": 51,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Clean up begins after French riots but police remain",
@@ -170,12 +175,12 @@
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         },
         {
-          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+          "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
         },
         {
-          "title": "Rabování ve Francii bude mít mnohem hlubší dopad, než by se mohlo zdát",
-          "link": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-rabovani-ve-francii-lze-verit-statu-ktery-rezignuje-na-ochranu-majetku-318282"
+          "title": "Why are French police so violent? Their job is to protect the state, not the people",
+          "link": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots"
         }
       ]
     },
@@ -227,19 +232,15 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 14,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 25,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 11,
       "headlines": [
         {
-          "title": "Italy plans tougher security measures after violent protests",
-          "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+          "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
         }
       ]
     },
@@ -306,16 +307,12 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 28,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 21,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -9,
+      "score_change": -7,
       "headlines": [
-        {
-          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
-        },
         {
           "title": "Flash floods destroy villages in central Nepal",
           "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal"
@@ -355,17 +352,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 10,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -20,
-      "headlines": [
-        {
-          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
-        }
-      ]
+      "score_change": -7,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -373,22 +365,17 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Defence forces strike Russian command post, repair unit and warehouses – Ukraine's General Staff",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/20/8058886/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
