@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-21T09:15:54.098396+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-10-21T16:52:40.474353+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Zachránit Česko? Ne, vláda slibuje další kulturní války",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-zachranit-cesko-ne-vlada-slibuje-dalsi-kulturni-valky-318323"
-        },
         {
           "title": "Stát převezme karlovarské letiště. Využívat ho bude i armáda",
           "link": "https://ct24.ceskatelevize.cz/clanek/regiony/karlovarsky-kraj/stat-prevezme-karlovarske-letiste-vyuzivat-ho-bude-i-armada-378835"
@@ -31,8 +27,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
-          "link": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss"
+          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
@@ -43,12 +39,12 @@
           "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
-          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
+          "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+          "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
         },
         {
-          "title": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+          "title": "Trump wants to secure deal to end Russia-Ukraine war by end of year – The Atlantic",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/21/8059105/"
         }
       ]
     },
@@ -85,17 +81,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
-          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -165,11 +156,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 50,
-      "level": "zvysene",
+      "score": 41,
+      "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -22,
+      "score_change": -9,
       "headlines": [
         {
           "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
@@ -184,24 +175,29 @@
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         },
         {
-          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
-          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
+          "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+          "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
         },
         {
-          "title": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+          "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+          "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Germany's Merz: Ukraine's capitulation would mean the capitulation of all its allies",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/21/8059062/"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -231,37 +227,30 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 13,
+      "headlines": [
+        {
+          "title": "Family of prison officer killed by IRA receives state apology",
+          "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 7,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -6,
+      "score_change": -19,
       "headlines": [
         {
-          "title": "Italy approves sweeping security measures in response to protests",
-          "link": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss"
-        },
-        {
-          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
-          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
-        },
-        {
-          "title": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
-        },
-        {
-          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+          "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+          "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
         }
       ]
     },
@@ -328,25 +317,12 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 31,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
-          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
-        },
-        {
-          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
-        },
-        {
-          "title": "Flash floods destroy villages in central Nepal",
-          "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal"
-        }
-      ]
+      "score": 2,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -29,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -381,21 +357,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 13,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
-          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
-        },
-        {
-          "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-          "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
-        }
-      ]
+      "trend": "down",
+      "score_change": -10,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -409,11 +376,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Maďarsko hledá firmu, která by nahradila Rusy v citlivém jaderném projektu",
+        "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-madarsko-hleda-firmu-ktera-by-nahradila-rusy-v-citlivem-jadernem-projektu-318446"
+      }
+    ]
   }
 }
