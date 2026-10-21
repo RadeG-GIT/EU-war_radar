@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T23:02:10.884250+00:00",
+  "generated_at": "2026-10-21T03:56:15.754106+00:00",
   "overall_score": 15,
   "hotspots": [
     {
@@ -156,11 +156,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 69,
+      "score": 72,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 18,
+      "score_change": 3,
       "headlines": [
         {
           "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
@@ -171,16 +171,16 @@
           "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss"
         },
         {
+          "title": "France is divided over who to blame for and what to learn from weekend riots",
+          "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Clean up begins after French riots but police remain",
           "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Watch: Shops looted and restaurants gutted in Paris riots",
           "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
-          "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         }
       ]
     },
@@ -235,8 +235,8 @@
       "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
@@ -314,8 +314,8 @@
       "score": 28,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
@@ -363,8 +363,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
