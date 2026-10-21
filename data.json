@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-10-21T16:52:40.474353+00:00",
+  "generated_at": "2026-10-21T23:05:18.335517+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Jiří Protiva: Resort obrany investuje do karlovarské dráhy. Letiště bude mít armádní i civilní využití",
+          "link": "https://www.irozhlas.cz/zpravy-domov/jiri-protiva-resort-obrany-investuje-do-karlovarske-drahy-letiste-bude-mit_2610220010_cen"
+        },
         {
           "title": "Stát převezme karlovarské letiště. Využívat ho bude i armáda",
           "link": "https://ct24.ceskatelevize.cz/clanek/regiony/karlovarsky-kraj/stat-prevezme-karlovarske-letiste-vyuzivat-ho-bude-i-armada-378835"
@@ -27,8 +31,16 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+          "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss"
+        },
+        {
+          "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
           "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
@@ -37,14 +49,6 @@
         {
           "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
           "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-          "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
-        },
-        {
-          "title": "Trump wants to secure deal to end Russia-Ukraine war by end of year – The Atlantic",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/21/8059105/"
         }
       ]
     },
@@ -84,8 +88,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -159,9 +163,13 @@
       "score": 41,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
+        {
+          "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss"
+        },
         {
           "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
           "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
@@ -175,10 +183,6 @@
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         },
         {
-          "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-          "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
-        },
-        {
           "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
           "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
         }
@@ -187,17 +191,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Germany's Merz: Ukraine's capitulation would mean the capitulation of all its allies",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/21/8059062/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -230,8 +229,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Family of prison officer killed by IRA receives state apology",
@@ -242,17 +241,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -19,
-      "headlines": [
-        {
-          "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-          "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -320,8 +314,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -29,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -360,8 +354,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -10,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -379,11 +373,11 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
-        "title": "Maďarsko hledá firmu, která by nahradila Rusy v citlivém jaderném projektu",
+        "title": "Maďaři hledají cestu, jak dostat Rusy z atomové elektrárny v Paks",
         "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-madarsko-hleda-firmu-ktera-by-nahradila-rusy-v-citlivem-jadernem-projektu-318446"
       }
     ]
