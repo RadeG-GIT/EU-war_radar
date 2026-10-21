@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-10-21T03:56:15.754106+00:00",
+  "generated_at": "2026-10-21T09:15:54.098396+00:00",
   "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Zachránit Česko? Ne, vláda slibuje další kulturní války",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-zachranit-cesko-ne-vlada-slibuje-dalsi-kulturni-valky-318323"
+        },
         {
           "title": "Stát převezme karlovarské letiště. Využívat ho bude i armáda",
           "link": "https://ct24.ceskatelevize.cz/clanek/regiony/karlovarsky-kraj/stat-prevezme-karlovarske-letiste-vyuzivat-ho-bude-i-armada-378835"
@@ -27,6 +31,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
+          "link": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss"
+        },
+        {
           "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
           "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss"
         },
@@ -35,16 +43,12 @@
           "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
-          "link": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy"
+          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
         },
         {
-          "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
-          "link": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships"
-        },
-        {
-          "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
+          "title": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
         }
       ]
     },
@@ -81,12 +85,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -98,8 +107,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Americký letoun začal na žádost Bulharska hlídkovat nad Černým mořem",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-americky-letoun-zacal-na-zadost-bulharska-hlidkovat-nad-cernym-morem-318342"
+          "title": "Ruské útoky na lodě v Černém moři testují slabý článek NATO",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-na-lode-v-cernem-mori-testuji-slaby-bulharsky-clanek-nato-378839"
         }
       ]
     },
@@ -156,22 +165,14 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 72,
+      "score": 50,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -22,
       "headlines": [
         {
-          "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss"
-        },
-        {
-          "title": "France riots leave thousands of businesses damaged",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss"
-        },
-        {
-          "title": "France is divided over who to blame for and what to learn from weekend riots",
+          "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
           "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -179,8 +180,16 @@
           "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-          "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
+          "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
+          "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
+        },
+        {
+          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
+        },
+        {
+          "title": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
         }
       ]
     },
@@ -232,19 +241,27 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 32,
+      "score": 26,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
+        {
+          "title": "Italy approves sweeping security measures in response to protests",
+          "link": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss"
+        },
+        {
+          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
+        },
+        {
+          "title": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+        },
         {
           "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
           "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
-        },
-        {
-          "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates"
         }
       ]
     },
@@ -311,12 +328,16 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 28,
+      "score": 31,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
+        },
         {
           "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
           "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
@@ -360,12 +381,16 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "‘A powerful warning’: will Europe’s angry protests lead to real political change?",
+          "link": "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change"
+        },
         {
           "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
           "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
