@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:05:18.335517+00:00",
+  "generated_at": "2026-10-22T03:56:20.484214+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Jiří Protiva: Resort obrany investuje do karlovarské dráhy. Letiště bude mít armádní i civilní využití",
@@ -31,10 +31,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss"
-        },
-        {
           "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
           "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
         },
@@ -49,6 +45,10 @@
         {
           "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
           "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+          "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
         }
       ]
     },
@@ -120,12 +120,17 @@
     {
       "id": "cyprus",
       "name": "Kypr",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Royal Navy lacks resources to counter Russian threat in high north, MPs warn",
+          "link": "https://www.theguardian.com/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn"
+        }
+      ]
     },
     {
       "id": "denmark",
@@ -160,15 +165,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 41,
+      "score": 33,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -8,
       "headlines": [
         {
-          "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss"
+          "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+          "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss"
         },
         {
           "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
@@ -194,8 +199,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -244,8 +249,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
