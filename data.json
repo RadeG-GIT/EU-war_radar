@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-22T09:18:46.264587+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-10-22T16:52:24.652553+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Česko v přímé pomoci Ukrajině zaostává za Slovenskem",
+          "link": "https://www.novinky.cz/clanek/domaci-cesko-v-prime-pomoci-ukrajine-zaostava-za-slovenskem-40604388"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,10 +27,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
-          "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
-        },
-        {
           "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
           "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
         },
@@ -34,24 +35,33 @@
           "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-          "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
+          "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+          "link": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
         },
         {
-          "title": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+          "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
+        },
+        {
+          "title": "Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases",
+          "link": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 29,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -114,8 +124,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -131,12 +141,17 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Estonia allocates another €10m to purchase weapons for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/22/8059273/"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -151,39 +166,56 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 78,
+      "score": 97,
       "level": "kriticke",
       "color": "#9C3B37",
       "trend": "up",
-      "score_change": 45,
+      "score_change": 19,
       "headlines": [
         {
-          "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-          "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Clean up begins after French riots but police remain",
-          "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
+          "title": "At least four dead after storm brings flooding to southern France",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         },
         {
-          "title": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+          "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+          "link": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
+        },
+        {
+          "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
+        },
+        {
+          "title": "Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases",
+          "link": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 13,
+      "headlines": [
+        {
+          "title": "Germany arrests Ukrainian man accused of spying for Russia",
+          "link": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss"
+        },
+        {
+          "title": "Ukrainian national detained in Germany on suspicion of spying for Russia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/22/8059238/"
+        },
+        {
+          "title": "Německo zadrželo muže podezřelého ze špionáže pro Rusko",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecko-zadrzelo-muze-podezreleho-ze-spionaze-pro-rusko-378914"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -213,17 +245,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 15,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Family of prison officer killed by IRA receives state apology",
-          "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -288,17 +315,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Polish defence ministry denies halting military aid to Ukraine over Year of the UPA",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/22/8059157/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -323,12 +345,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Česko v přímé pomoci Ukrajině zaostává za Slovenskem",
+          "link": "https://www.novinky.cz/clanek/domaci-cesko-v-prime-pomoci-ukrajine-zaostava-za-slovenskem-40604388"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -369,8 +396,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Russians kill three and injure three in Zaporizhzhia and its surrounding district",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/22/8059184/"
+        "title": "Russians kill couple in Zaporizhzhia",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/22/8059278/"
       }
     ]
   }
