@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-10-22T03:56:20.484214+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-22T09:18:46.264587+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Jiří Protiva: Resort obrany investuje do karlovarské dráhy. Letiště bude mít armádní i civilní využití",
-          "link": "https://www.irozhlas.cz/zpravy-domov/jiri-protiva-resort-obrany-investuje-do-karlovarske-drahy-letiste-bude-mit_2610220010_cen"
-        },
-        {
-          "title": "Stát převezme karlovarské letiště. Využívat ho bude i armáda",
-          "link": "https://ct24.ceskatelevize.cz/clanek/regiony/karlovarsky-kraj/stat-prevezme-karlovarske-letiste-vyuzivat-ho-bude-i-armada-378835"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -31,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+          "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
+        },
+        {
           "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
           "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+          "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
           "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-          "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
           "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-          "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
+          "title": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
         }
       ]
     },
@@ -120,17 +111,12 @@
     {
       "id": "cyprus",
       "name": "Kypr",
-      "score": 17,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Royal Navy lacks resources to counter Russian threat in high north, MPs warn",
-          "link": "https://www.theguardian.com/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "denmark",
@@ -165,16 +151,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 33,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -8,
+      "score": 78,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 45,
       "headlines": [
-        {
-          "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-          "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss"
-        },
         {
           "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
           "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
@@ -188,8 +170,8 @@
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         },
         {
-          "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-          "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
+          "title": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
         }
       ]
     },
@@ -306,12 +288,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Polish defence ministry denies halting military aid to Ukraine over Year of the UPA",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/22/8059157/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -382,8 +369,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Maďaři hledají cestu, jak dostat Rusy z atomové elektrárny v Paks",
-        "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-madarsko-hleda-firmu-ktera-by-nahradila-rusy-v-citlivem-jadernem-projektu-318446"
+        "title": "Russians kill three and injure three in Zaporizhzhia and its surrounding district",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/22/8059184/"
       }
     ]
   }
