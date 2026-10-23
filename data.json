@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T16:44:20.641037+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-10-23T22:57:38.718834+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -15,19 +15,15 @@
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 100,
+      "score": 98,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -2,
       "headlines": [
         {
-          "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-          "link": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
-        },
-        {
-          "title": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
-          "link": "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss"
+          "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss"
         },
         {
           "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
@@ -38,35 +34,38 @@
           "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+          "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+        },
+        {
+          "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+          "link": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "‘How can France stop Marine Le Pen’? Our Europe columnists answered your questions on protests and politics in France",
-          "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 27,
+      "score": 30,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 12,
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Moldovan president: Russian drone crashed near homes and energy facility",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059480/"
+        },
         {
           "title": "Fallen drone found near residential building in Moldova",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059443/"
@@ -79,8 +78,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -126,16 +125,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 22,
+      "score": 7,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -19,
       "headlines": [
-        {
-          "title": "Denmark delivers 50,000 rounds of ammunition for fighter jets to Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059402/"
-        },
         {
           "title": "Dánové poslali Ukrajincům náboje do kanónů na F-16. Platí na ruské proudové drony",
           "link": "https://www.novinky.cz/clanek/zahranicni-danove-poslali-ukrajincum-naboje-do-kanonu-na-f-16-plati-na-ruske-proudove-drony-40604648"
@@ -158,57 +153,49 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 77,
-      "level": "kriticke",
-      "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 15,
+      "score": 65,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
         {
-          "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
-          "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss"
-        },
-        {
-          "title": "NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says",
-          "link": "https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss"
-        },
-        {
-          "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+          "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
           "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+          "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
+          "link": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris"
         },
         {
-          "title": "‘How can France stop Marine Le Pen’? Our Europe columnists answered your questions on protests and politics in France",
-          "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
+          "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 22,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "down",
+      "score_change": -8,
       "headlines": [
+        {
+          "title": "German ambassador: Ukraine is vital to Europe's defence, and its role in security revolves around NATO",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059473/"
+        },
         {
           "title": "Polish PM says Zelenskyy will not support Lviv Oblast's move to declare 2027 Year of UPA",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059428/"
-        },
-        {
-          "title": "Germany wants to buy thousands of missiles from European and Ukrainian manufacturers, Bloomberg reports",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059405/"
         },
         {
           "title": "Německo zadrželo muže podezřelého ze špionáže pro Rusko",
@@ -222,8 +209,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -249,17 +236,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "‘How can France stop Marine Le Pen’? Our Europe columnists answered your questions on protests and politics in France",
-          "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -334,12 +316,16 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 34,
-      "level": "mirne",
+      "score": 47,
+      "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 19,
+      "score_change": 13,
       "headlines": [
+        {
+          "title": "Romania blames Russia after drone sinks ship in the Black Sea",
+          "link": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
+        },
         {
           "title": "Ukrainian sailor killed and three missing as vessel sinks off Romanian coast after drone attack",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059450/"
@@ -369,17 +355,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "‘How can France stop Marine Le Pen’? Our Europe columnists answered your questions on protests and politics in France",
-          "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -393,20 +374,11 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 6,
-    "headlines": [
-      {
-        "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
-        "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss"
-      },
-      {
-        "title": "Two injured and houses damaged in Russian attack on Vilniansk",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059393/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -6,
+    "headlines": []
   }
 }
