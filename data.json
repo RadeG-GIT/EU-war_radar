@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-10-23T03:59:30.552099+00:00",
+  "generated_at": "2026-10-23T09:16:27.346298+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 15,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Selháváme. Babiš by nejraději žádnou zahraniční ani obrannou politiku nedělal, tvrdí analytik Votápek",
-          "link": "https://www.irozhlas.cz/zpravy-svet/selhavame-babis-nejradeji-zadnou-zahranicni-ani-obrannou-politiku-nedelal-tvrdi_2610222310_vsn"
-        },
-        {
-          "title": "Zaměřili se i na Česko. Pokus o zneužití PHP zranitelností hlásí každá osmá firma",
-          "link": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-zamerili-se-i-na-cesko-pokus-o-zneuziti-php-zranitelnosti-hlasi-kazda-osma-firma-40604432"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -35,12 +26,8 @@
           "link": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss"
         },
         {
-          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
@@ -49,6 +36,10 @@
         {
           "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
           "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
         }
       ]
     },
@@ -58,8 +49,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -75,12 +66,17 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "belgium",
@@ -95,17 +91,12 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ruské útoky na lodě v Černém moři testují slabý článek NATO",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-na-lode-v-cernem-mori-testuji-slaby-bulharsky-clanek-nato-378839"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "croatia",
@@ -140,36 +131,36 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Estonia allocates another €10m to purchase weapons for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/22/8059273/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 25,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 15,
+      "headlines": [
+        {
+          "title": "Ukraine and Finland agree to secure additional funding for shelter construction",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059343/"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 59,
+      "score": 62,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "At least four dead after storm brings flooding to southern France",
@@ -184,20 +175,28 @@
           "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
         },
         {
-          "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
+          "title": "Reader Q&A: what’s next for France? Ask our Europe columnists",
           "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
+        },
+        {
+          "title": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
+          "link": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss"
+        },
         {
           "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
           "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss"
@@ -218,7 +217,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
+          "title": "Reader Q&A: what’s next for France? Ask our Europe columnists",
           "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
         }
       ]
@@ -375,16 +374,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Russians kill couple in Zaporizhzhia",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/22/8059278/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
