@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T23:04:14.321971+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-10-23T03:59:30.552099+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Selháváme. Babiš by nejraději žádnou zahraniční ani obrannou politiku nedělal, tvrdí analytik Votápek",
@@ -31,6 +31,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+          "link": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss"
+        },
+        {
           "title": "Trump says Musk has restored access to Ukraine's Starlink network",
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
         },
@@ -43,29 +47,20 @@
           "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-          "link": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
+          "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+          "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -170,11 +165,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 68,
+      "score": 59,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -29,
+      "score_change": -9,
       "headlines": [
         {
           "title": "At least four dead after storm brings flooding to southern France",
@@ -191,10 +186,6 @@
         {
           "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
           "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst"
-        },
-        {
-          "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
         }
       ]
     },
@@ -204,8 +195,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
@@ -223,8 +214,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
@@ -348,8 +339,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
