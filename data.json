@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T03:54:17.563182+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-10-24T08:45:36.351915+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -15,31 +15,31 @@
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 92,
+      "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "up",
+      "score_change": 8,
       "headlines": [
-        {
-          "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss"
-        },
         {
           "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss"
+          "title": "Starlink is working again at speeds above 400 km/h – UP sources",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059511/"
         },
         {
-          "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+          "title": "Russian forces attack Ukraine with 126 drones, strikes recorded at 14 locations",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059504/"
         },
         {
-          "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
-          "link": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
+          "title": "Russia loses 1,980 soldiers over past day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059501/"
+        },
+        {
+          "title": "US lawmakers urge Pentagon to expand Starshield contract for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059500/"
         }
       ]
     },
@@ -56,19 +56,15 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 30,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 18,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
         {
           "title": "Moldovan president: Russian drone crashed near homes and energy facility",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059480/"
-        },
-        {
-          "title": "Fallen drone found near residential building in Moldova",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059443/"
         }
       ]
     },
@@ -128,8 +124,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -155,42 +151,38 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 65,
-      "level": "zvysene",
+      "score": 42,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -23,
       "headlines": [
+        {
+          "title": "France prepares for day of protest a week after nationwide riots",
+          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
           "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
-          "link": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris"
-        },
-        {
-          "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+          "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
+          "link": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "German ambassador: Ukraine is vital to Europe's defence, and its role in security revolves around NATO",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059473/"
-        },
-        {
-          "title": "Polish PM says Zelenskyy will not support Lviv Oblast's move to declare 2027 Year of UPA",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059428/"
         },
         {
           "title": "Německo zadrželo muže podezřelého ze špionáže pro Rusko",
@@ -311,17 +303,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 34,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -13,
-      "headlines": [
-        {
-          "title": "Ukrainian sailor killed and three missing as vessel sinks off Romanian coast after drone attack",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059450/"
-        }
-      ]
+      "score_change": -19,
+      "headlines": []
     },
     {
       "id": "slovakia",
