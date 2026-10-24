@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:37:47.195384+00:00",
+  "generated_at": "2026-10-24T18:39:37.682802+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -30,16 +30,16 @@
           "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+          "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+        },
+        {
           "title": "Drones attack chemical plant in Russia's Omsk, 2,500 km from Ukraine – OSINT",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059557/"
         },
         {
           "title": "Kyiv's power ring under attack: why the capital faces a winter of blackouts",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059541/"
-        },
-        {
-          "title": "Russian attack on Kyiv injures two people and damages house – photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059499/"
         }
       ]
     },
@@ -59,8 +59,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -146,36 +146,35 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 45,
+      "score": 48,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "France protests live: 135 arrested as marches held under tight security",
+          "title": "France protests updates: 135 arrested as marches held under tight security",
           "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss"
         },
         {
           "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
           "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Hundreds of thousands march across France in protests over schools and policing",
+          "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 16,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
-      "headlines": [
-        {
-          "title": "Germany in talks with Ukraine to purchase Bars jet-powered drones – Bloomberg, photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059517/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -203,8 +202,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Three released without charge after fatal arson attack in Ireland",
@@ -225,12 +224,17 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Wreckage of foreign drone found in Latvia, investigation underway",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059561/"
+        }
+      ]
     },
     {
       "id": "lithuania",
