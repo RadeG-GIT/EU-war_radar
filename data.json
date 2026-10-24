@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:57:38.718834+00:00",
+  "generated_at": "2026-10-24T03:54:17.563182+00:00",
   "overall_score": 14,
   "hotspots": [
     {
@@ -15,11 +15,11 @@
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 98,
+      "score": 92,
       "level": "kriticke",
       "color": "#9C3B37",
       "trend": "down",
-      "score_change": -2,
+      "score_change": -6,
       "headlines": [
         {
           "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
@@ -49,8 +49,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -59,8 +59,8 @@
       "score": 30,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Moldovan president: Russian drone crashed near homes and energy facility",
@@ -125,17 +125,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -19,
-      "headlines": [
-        {
-          "title": "Dánové poslali Ukrajincům náboje do kanónů na F-16. Platí na ruské proudové drony",
-          "link": "https://www.novinky.cz/clanek/zahranicni-danove-poslali-ukrajincum-naboje-do-kanonu-na-f-16-plati-na-ruske-proudove-drony-40604648"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "estonia",
@@ -163,8 +158,8 @@
       "score": 65,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
@@ -186,8 +181,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "German ambassador: Ukraine is vital to Europe's defence, and its role in security revolves around NATO",
@@ -239,8 +234,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -316,16 +311,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 47,
-      "level": "zvysene",
+      "score": 34,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 13,
+      "trend": "down",
+      "score_change": -13,
       "headlines": [
-        {
-          "title": "Romania blames Russia after drone sinks ship in the Black Sea",
-          "link": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
-        },
         {
           "title": "Ukrainian sailor killed and three missing as vessel sinks off Romanian coast after drone attack",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059450/"
@@ -358,8 +349,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -377,8 +368,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
