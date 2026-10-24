@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:45:36.351915+00:00",
+  "generated_at": "2026-10-24T15:37:47.195384+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -18,28 +18,28 @@
       "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss"
         },
         {
-          "title": "Starlink is working again at speeds above 400 km/h – UP sources",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059511/"
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian forces attack Ukraine with 126 drones, strikes recorded at 14 locations",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059504/"
+          "title": "Drones attack chemical plant in Russia's Omsk, 2,500 km from Ukraine – OSINT",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059557/"
         },
         {
-          "title": "Russia loses 1,980 soldiers over past day",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059501/"
+          "title": "Kyiv's power ring under attack: why the capital faces a winter of blackouts",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059541/"
         },
         {
-          "title": "US lawmakers urge Pentagon to expand Starshield contract for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059500/"
+          "title": "Russian attack on Kyiv injures two people and damages house – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059499/"
         }
       ]
     },
@@ -56,17 +56,12 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -12,
-      "headlines": [
-        {
-          "title": "Moldovan president: Russian drone crashed near homes and energy facility",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059480/"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "austria",
@@ -151,42 +146,34 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 42,
-      "level": "mirne",
+      "score": 45,
+      "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -23,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "France prepares for day of protest a week after nationwide riots",
-          "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+          "title": "France protests live: 135 arrested as marches held under tight security",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss"
         },
         {
           "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
           "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
-          "link": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 5,
       "headlines": [
         {
-          "title": "German ambassador: Ukraine is vital to Europe's defence, and its role in security revolves around NATO",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/23/8059473/"
-        },
-        {
-          "title": "Německo zadrželo muže podezřelého ze špionáže pro Rusko",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/nemecko-zadrzelo-muze-podezreleho-ze-spionaze-pro-rusko-378914"
+          "title": "Germany in talks with Ukraine to purchase Bars jet-powered drones – Bloomberg, photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059517/"
         }
       ]
     },
@@ -213,12 +200,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Three released without charge after fatal arson attack in Ireland",
+          "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -306,8 +298,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -19,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
