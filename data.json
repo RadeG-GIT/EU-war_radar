@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T09:01:23.877879+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-25T15:47:41.642029+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Přibývá cvičení na ochranu kritické infrastruktury, Praha buduje síť dobrovolníků",
@@ -27,14 +27,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
-        },
-        {
-          "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
-        },
-        {
           "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
           "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         },
@@ -43,8 +35,16 @@
           "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
         },
         {
-          "title": "Russia attacks Ukraine with 153 drones: hits recorded at 15 locations",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059597/"
+          "title": "From lawyer's office to kitchen: father of American soldier killed in Ukraine volunteers in Kharkiv",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059641/"
+        },
+        {
+          "title": "Over 50 air defence towers reportedly built around Putin's Valdai residence",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059635/"
+        },
+        {
+          "title": "Russian plant producing Iskander missile components hit in Yelets, 250 km from Ukraine – OSINT",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059629/"
         }
       ]
     },
@@ -151,31 +151,23 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 48,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "score": 14,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -34,
       "headlines": [
         {
-          "title": "Photos: Clashes erupt in France during protests over rising living costs",
-          "link": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss"
+          "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
           "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
           "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Hundreds of thousands march across France in protests over schools and policing",
-          "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
         }
       ]
     },
@@ -237,17 +229,12 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Wreckage of foreign drone found in Latvia, investigation underway",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059561/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "lithuania",
@@ -302,12 +289,17 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Police in Portugal ‘use dogs and batons’ to dismantle housing protest camps",
+          "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -342,12 +334,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Police in Portugal ‘use dogs and batons’ to dismantle housing protest camps",
+          "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -364,12 +361,12 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
-        "title": "Russian attack on commercial premises in Zaporizhzhia sparks fire",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059593/"
+        "title": "Ukraine's General Staff reports strikes on Russian radars in Belgorod Oblast and command posts",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059616/"
       }
     ]
   }
