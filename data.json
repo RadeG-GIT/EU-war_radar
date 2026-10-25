@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-25T03:53:14.646587+00:00",
+  "generated_at": "2026-10-25T09:01:23.877879+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Přibývá cvičení na ochranu kritické infrastruktury, Praha buduje síť dobrovolníků",
+          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/pribyva-cviceni-na-ochranu-kriticke-infrastruktury-praha-buduje-sit-dobrovolniku-378982"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,7 +27,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+          "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
           "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
         },
         {
@@ -30,16 +35,16 @@
           "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
         },
         {
-          "title": "Ukraine says Starlink connection 'now stable' after network limits",
-          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
           "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
         },
         {
-          "title": "Drones attack chemical plant in Russia's Omsk, 2,500 km from Ukraine – OSINT",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059557/"
+          "title": "Russia attacks Ukraine with 153 drones: hits recorded at 15 locations",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059597/"
         }
       ]
     },
@@ -146,12 +151,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 45,
+      "score": 48,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Photos: Clashes erupt in France during protests over rising living costs",
+          "link": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss"
+        },
         {
           "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
           "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
@@ -352,11 +361,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Russian attack on commercial premises in Zaporizhzhia sparks fire",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059593/"
+      }
+    ]
   }
 }
