@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T15:47:41.642029+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-25T18:48:12.029013+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -31,10 +31,6 @@
           "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-          "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
-        },
-        {
           "title": "From lawyer's office to kitchen: father of American soldier killed in Ukraine volunteers in Kharkiv",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059641/"
         },
@@ -45,6 +41,10 @@
         {
           "title": "Russian plant producing Iskander missile components hit in Yelets, 250 km from Ukraine – OSINT",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059629/"
+        },
+        {
+          "title": "Ukraine's National Guard delivers over 600 kg of baby food and toys to Russian-occupied Oleshky by drones – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059625/"
         }
       ]
     },
@@ -154,8 +154,8 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -34,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
@@ -204,15 +204,19 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 11,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 32,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 21,
       "headlines": [
         {
           "title": "Three released without charge after fatal arson attack in Ireland",
           "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk"
         }
       ]
     },
@@ -232,8 +236,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -292,11 +296,11 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Police in Portugal ‘use dogs and batons’ to dismantle housing protest camps",
+          "title": "Portuguese police with dogs and batons dismantle housing protest camps",
           "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps"
         }
       ]
@@ -337,11 +341,11 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Police in Portugal ‘use dogs and batons’ to dismantle housing protest camps",
+          "title": "Portuguese police with dogs and batons dismantle housing protest camps",
           "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps"
         }
       ]
