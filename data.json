@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:18:32.070205+00:00",
+  "generated_at": "2026-10-25T03:53:14.646587+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,8 +22,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss"
+          "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
+        },
+        {
+          "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
         },
         {
           "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -36,10 +40,6 @@
         {
           "title": "Drones attack chemical plant in Russia's Omsk, 2,500 km from Ukraine – OSINT",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059557/"
-        },
-        {
-          "title": "Kyiv's power ring under attack: why the capital faces a winter of blackouts",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/24/8059541/"
         }
       ]
     },
@@ -149,8 +149,8 @@
       "score": 45,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
