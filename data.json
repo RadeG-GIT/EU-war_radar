@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:48:12.029013+00:00",
+  "generated_at": "2026-10-25T22:22:40.683188+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -31,7 +31,7 @@
           "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "From lawyer's office to kitchen: father of American soldier killed in Ukraine volunteers in Kharkiv",
+          "title": "From lawyer's office to kitchen: dad of American soldier killed in Ukraine volunteers in Kharkiv",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/25/8059641/"
         },
         {
@@ -207,15 +207,15 @@
       "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 21,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Three released without charge after fatal arson attack in Ireland",
           "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
+          "title": "Two dead and more than 160,000 properties without power as Storm Boelo batters UK",
           "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk"
         }
       ]
