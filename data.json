@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T18:28:24.111930+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-26T23:38:55.159376+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -31,6 +31,10 @@
           "link": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss"
         },
         {
+          "title": "Russian attacks on Ukraine's energy sector deemed crimes against humanity by UN commission",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059830/"
+        },
+        {
           "title": "Two-day operation and FPV drone attack: 63rd Brigade evacuates eight civilians from Lyman – video",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059812/"
         },
@@ -39,29 +43,20 @@
           "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059801/"
         },
         {
-          "title": "Boy, 12, dies after week-long fight for life following Russian strike on Nova Vodolaha",
+          "title": "Boy, 12, dies after week-long fight for life following Russian strike on park in Kharkiv Oblast",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059792/"
-        },
-        {
-          "title": "Ukraine's steel production fell by 80% in September",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059788/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 39,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-          "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -19,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -149,34 +144,30 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 39,
+      "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -7,
       "headlines": [
         {
           "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
           "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-          "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro"
-        },
-        {
           "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
           "link": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs"
         },
         {
-          "title": "Egypt schválil vojenskou pomoc Saúdské Arábii",
-          "link": "https://www.novinky.cz/clanek/zahranicni-egypt-schvalil-vojenskou-pomoc-saudske-arabii-40605081"
+          "title": "Protest leaders urge French pupils to keep barricading their schools",
+          "link": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools"
         }
       ]
     },
@@ -186,12 +177,12 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Německo nakoupí od Ukrajiny proudové drony Bars",
-          "link": "https://www.novinky.cz/clanek/zahranicni-nemecko-nakoupi-od-ukrajiny-proudove-drony-bars-40605098"
+          "title": "Polish city of Przemyśl suspends cooperation with Lviv over Year of UPA decision",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059820/"
         }
       ]
     },
@@ -218,15 +209,15 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 21,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-          "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro"
+          "title": "Major clean-up under way after two storms cause havoc in Britain",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk"
         }
       ]
     },
@@ -236,8 +227,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Italy says new military aid package for Ukraine is ready",
@@ -301,8 +292,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -367,19 +358,15 @@
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "down",
-    "score_change": -6,
+    "score_change": -3,
     "headlines": [
       {
         "title": "Russia hits petrol station in Zaporizhzhia: two injured",
         "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059806/"
-      },
-      {
-        "title": "Zaporizhzhia schoolboy develops smart bracelet for people with autism and will present it in Brazil",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059749/"
       },
       {
         "title": "KHNP vyhlásila tendr na chladicí věže v Dukovanech. Zapojí se dvě firmy",
