@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-10-27T14:10:52.736226+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-10-27T20:30:43.293832+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "První CV90 dorazí se zpožděním, obrana chystá nákup dalších systémů Spyder",
+          "link": "https://www.novinky.cz/clanek/domaci-prvni-cv90-dorazi-se-zpozdenim-obrana-chysta-nakup-dalsich-systemu-spyder-40605308"
+        },
+        {
+          "title": "Dodávka vozidel CV90 se zpozdí, první Česko dostane až v příštím roce",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-dodavka-vozidel-cv90-se-zpozdi-prvni-cesko-dostane-az-v-pristim-roce-318951"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,43 +31,39 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-          "link": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss"
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss"
+          "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
+          "link": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin"
         },
         {
-          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+          "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
         },
         {
-          "title": "Consequences of attack on Kyiv: Suzuki dealer's showrooms damaged",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059942/"
+          "title": "Zelenskyy: Russia has launched over 100 ballistic missiles against Kyiv and Kyiv Oblast in past two weeks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059999/"
+        },
+        {
+          "title": "Zelenskyy on Operation Veles: Ukrainian forces have successfully adapted underground advance tactics",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059988/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 47,
-      "level": "zvysene",
+      "score": 32,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 27,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
         {
-          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+          "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
-        },
-        {
-          "title": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
-          "link": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia"
         }
       ]
     },
@@ -125,15 +130,15 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 22,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
         {
-          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+          "title": "Ukrainian comms and Danish space firms launch test military-purpose communications satellite into orbit",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059951/"
         }
       ]
     },
@@ -150,29 +155,30 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Finnish foreign minister: We do not seek to mediate in the war because we stand with Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059983/"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 38,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "score": 17,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -21,
       "headlines": [
         {
-          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+          "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
-        },
-        {
-          "title": "Protest leaders urge French pupils to keep barricading their schools",
-          "link": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools"
         }
       ]
     },
@@ -182,8 +188,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -212,8 +218,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -284,14 +290,14 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 38,
+      "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+          "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
         }
       ]
@@ -309,17 +315,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Romanian president condemns Russian sabotage attempt at weapons plant",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059898/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -366,8 +367,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
