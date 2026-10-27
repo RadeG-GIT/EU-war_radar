@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:38:55.159376+00:00",
+  "generated_at": "2026-10-27T04:18:56.888184+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -27,8 +27,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
-          "link": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss"
+          "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+          "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
+        },
+        {
+          "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+          "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss"
         },
         {
           "title": "Russian attacks on Ukraine's energy sector deemed crimes against humanity by UN commission",
@@ -41,10 +45,6 @@
         {
           "title": "Italy says new military aid package for Ukraine is ready",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059801/"
-        },
-        {
-          "title": "Boy, 12, dies after week-long fight for life following Russian strike on park in Kharkiv Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059792/"
         }
       ]
     },
@@ -54,8 +54,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -19,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,8 +154,8 @@
       "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
@@ -212,8 +212,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Major clean-up under way after two storms cause havoc in Britain",
@@ -309,12 +309,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+          "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -361,8 +366,8 @@
     "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Russia hits petrol station in Zaporizhzhia: two injured",
