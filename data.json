@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-27T04:18:56.888184+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-27T14:10:52.736226+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Přibývá cvičení na ochranu kritické infrastruktury, Praha buduje síť dobrovolníků",
-          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/pribyva-cviceni-na-ochranu-kriticke-infrastruktury-praha-buduje-sit-dobrovolniku-378982"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,36 +22,45 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-          "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
+          "title": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+          "link": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss"
         },
         {
-          "title": "Romania says Russia-run sabotage network set fire near weapons factory",
-          "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss"
+          "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss"
         },
         {
-          "title": "Russian attacks on Ukraine's energy sector deemed crimes against humanity by UN commission",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059830/"
+          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Two-day operation and FPV drone attack: 63rd Brigade evacuates eight civilians from Lyman – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059812/"
+          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
         },
         {
-          "title": "Italy says new military aid package for Ukraine is ready",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059801/"
+          "title": "Consequences of attack on Kyiv: Suzuki dealer's showrooms damaged",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059942/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 47,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 27,
+      "headlines": [
+        {
+          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+        },
+        {
+          "title": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
+          "link": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -121,12 +125,17 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 18,
+      "headlines": [
+        {
+          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "estonia",
@@ -151,19 +160,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 32,
+      "score": 38,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
-          "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
-          "link": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs"
+          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
         },
         {
           "title": "Protest leaders urge French pupils to keep barricading their schools",
@@ -174,17 +179,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Polish city of Przemyśl suspends cooperation with Lviv over Year of UPA decision",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059820/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -209,17 +209,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 15,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Major clean-up under way after two storms cause havoc in Britain",
-          "link": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk"
-        }
-      ]
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -231,8 +226,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Italy says new military aid package for Ukraine is ready",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059801/"
+          "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
+          "link": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy"
         }
       ]
     },
@@ -289,12 +284,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 38,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 18,
+      "headlines": [
+        {
+          "title": "Rare call with Putin on Ukraine was ‘substantive’ but ‘significant differences’ remain, say Finnish and Norwegian leaders – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -312,12 +312,12 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Romania says Russia-run sabotage network set fire near weapons factory",
-          "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss"
+          "title": "Romanian president condemns Russian sabotage attempt at weapons plant",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059898/"
         }
       ]
     },
@@ -363,20 +363,11 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Russia hits petrol station in Zaporizhzhia: two injured",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/26/8059806/"
-      },
-      {
-        "title": "KHNP vyhlásila tendr na chladicí věže v Dukovanech. Zapojí se dvě firmy",
-        "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-khnp-vyhlasila-tendr-na-chladici-veze-v-dukovanech-zapoji-se-dve-firmy-318816"
-      }
-    ]
+    "trend": "down",
+    "score_change": -6,
+    "headlines": []
   }
 }
