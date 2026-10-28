@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T14:56:35.670580+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-10-28T20:51:56.097833+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Kremlin says European countries not included in next Ukraine talks",
+          "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
+        },
+        {
           "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
           "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-          "link": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin"
+          "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+          "link": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink"
         },
         {
-          "title": "Ukraine's human rights commissioner: Oleshky ceasefire has brought Kherson back to life – photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060104/"
+          "title": "Ukraine's west under attack: how Belarus is helping Russia to wage its war",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060160/"
         },
         {
-          "title": "Signal boosters for Russian drones still active in Belarus, but no troop build-up observed, say Ukrainian border guards",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060101/"
-        },
-        {
-          "title": "Canadian volunteer who rescued hundreds of animals is killed in Russian drone strike in Donetsk Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060075/"
+          "title": "Five people injured in Russian attacks on Dnipropetrovsk Oblast – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060152/"
         }
       ]
     },
@@ -49,8 +49,8 @@
       "score": 31,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -1,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
@@ -124,8 +124,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -144,8 +144,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,8 +154,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -204,8 +204,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -251,19 +251,23 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 9,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 13,
       "headlines": [
         {
-          "title": "Zelenskyy arrives in Netherlands – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060087/"
+          "title": "Kremlin says European countries not included in next Ukraine talks",
+          "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
         },
         {
-          "title": "Netherlands to provide Ukraine with over €1bn in non-military aid",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060058/"
+          "title": "Ukraine and Netherlands launch joint air defence project",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060145/"
+        },
+        {
+          "title": "Netherlands to provide Ukraine with €500m military aid package",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060125/"
         }
       ]
     },
@@ -273,8 +277,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -300,24 +304,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 27,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
-        {
-          "title": "Slovensko je opět schopné plně chránit své nebe, oznámil prezident Pellegrini",
-          "link": "https://www.irozhlas.cz/zpravy-svet/slovensko-je-opet-schopne-plne-chranit-sve-nebe-oznamil-prezident-pellegrini_2610281214_cen"
-        },
-        {
-          "title": "Slovensko od středy znovu chrání své nebe. Nastoupily stíhačky F-16",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensko-od-stredy-znovu-chrani-sve-nebe-nastoupily-stihacky-f-16-40605354"
-        },
-        {
-          "title": "Slovensko má nové stíhačky. Jsme schopni plně chránit své nebe, řekl Pellegrini",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-slovensko-ma-nove-stihacky-jsme-schopni-plne-chranit-sve-nebe-rekl-pellegrini-318983"
-        },
         {
           "title": "Slovensko je opět schopné plně chránit svůj vzdušný prostor, oznámil Pellegrini",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/slovensko-je-opet-schopne-plne-chranit-svuj-vzdusny-prostor-oznamil-pellegrini-379084"
@@ -337,27 +329,31 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 78,
+      "score": 93,
       "level": "kriticke",
       "color": "#9C3B37",
       "trend": "up",
-      "score_change": 75,
+      "score_change": 15,
       "headlines": [
         {
-          "title": "Deadly high-speed train collision in Spain",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss"
+          "title": "Spain demands answers after deadliest train disaster in over a decade",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss"
         },
         {
-          "title": "Death toll rises to 64 with dozens injured after high-speed train collision in Spain – latest updates",
+          "title": "Watch: At the scene of Spain's deadly train crash",
+          "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
           "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
+        },
+        {
+          "title": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain",
+          "link": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months"
         },
         {
           "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
           "link": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail"
-        },
-        {
-          "title": "Spain train crash: at least 64 dead after collision in Toledo province",
-          "link": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
         }
       ]
     },
@@ -373,16 +369,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
-    "headlines": [
-      {
-        "title": "Lithuania to provide €84,500 worth of medical supplies to Ukraine",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060090/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
