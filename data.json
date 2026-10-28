@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-10-28T04:49:02.531410+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-28T14:56:35.670580+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "První CV90 dorazí se zpožděním, obrana chystá nákup dalších systémů Spyder",
-          "link": "https://www.novinky.cz/clanek/domaci-prvni-cv90-dorazi-se-zpozdenim-obrana-chysta-nakup-dalsich-systemu-spyder-40605308"
-        },
-        {
-          "title": "Dodávka vozidel CV90 se zpozdí, první Česko dostane až v příštím roce",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-politika-dodavka-vozidel-cv90-se-zpozdi-prvni-cesko-dostane-az-v-pristim-roce-318951"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -39,31 +30,31 @@
           "link": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin"
         },
         {
-          "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+          "title": "Ukraine's human rights commissioner: Oleshky ceasefire has brought Kherson back to life – photo",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060104/"
         },
         {
-          "title": "Zelenskyy: Russia has launched over 100 ballistic missiles against Kyiv and Kyiv Oblast in past two weeks",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059999/"
+          "title": "Signal boosters for Russian drones still active in Belarus, but no troop build-up observed, say Ukrainian border guards",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060101/"
         },
         {
-          "title": "Zelenskyy on Operation Veles: Ukrainian forces have successfully adapted underground advance tactics",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059988/"
+          "title": "Canadian volunteer who rescued hundreds of animals is killed in Russian drone strike in Donetsk Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060075/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 32,
+      "score": 31,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -1,
       "headlines": [
         {
-          "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+          "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -130,17 +121,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukrainian comms and Danish space firms launch test military-purpose communications satellite into orbit",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059951/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "estonia",
@@ -155,32 +141,22 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Finnish foreign minister: We do not seek to mediate in the war because we stand with Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/27/8059983/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "germany",
@@ -225,17 +201,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-          "link": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -280,27 +251,31 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 3,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Zelenskyy arrives in Netherlands – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060087/"
+        },
+        {
+          "title": "Netherlands to provide Ukraine with over €1bn in non-military aid",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060058/"
+        }
+      ]
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -325,12 +300,29 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 32,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 27,
+      "headlines": [
+        {
+          "title": "Slovensko je opět schopné plně chránit své nebe, oznámil prezident Pellegrini",
+          "link": "https://www.irozhlas.cz/zpravy-svet/slovensko-je-opet-schopne-plne-chranit-sve-nebe-oznamil-prezident-pellegrini_2610281214_cen"
+        },
+        {
+          "title": "Slovensko od středy znovu chrání své nebe. Nastoupily stíhačky F-16",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensko-od-stredy-znovu-chrani-sve-nebe-nastoupily-stihacky-f-16-40605354"
+        },
+        {
+          "title": "Slovensko má nové stíhačky. Jsme schopni plně chránit své nebe, řekl Pellegrini",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-slovensko-ma-nove-stihacky-jsme-schopni-plne-chranit-sve-nebe-rekl-pellegrini-318983"
+        },
+        {
+          "title": "Slovensko je opět schopné plně chránit svůj vzdušný prostor, oznámil Pellegrini",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/slovensko-je-opet-schopne-plne-chranit-svuj-vzdusny-prostor-oznamil-pellegrini-379084"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -345,12 +337,29 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 78,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 75,
+      "headlines": [
+        {
+          "title": "Deadly high-speed train collision in Spain",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss"
+        },
+        {
+          "title": "Death toll rises to 64 with dozens injured after high-speed train collision in Spain – latest updates",
+          "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
+        },
+        {
+          "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
+          "link": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail"
+        },
+        {
+          "title": "Spain train crash: at least 64 dead after collision in Toledo province",
+          "link": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -364,11 +373,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "Lithuania to provide €84,500 worth of medical supplies to Ukraine",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060090/"
+      }
+    ]
   }
 }
