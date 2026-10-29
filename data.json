@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-10-29T15:02:15.470623+00:00",
+  "generated_at": "2026-10-29T20:56:35.141072+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Česká armáda není v dobré kondici a výhledově se to nezmění, uvádí koncepce",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ceska-armada-neni-v-dobre-kondici-a-vyhledove-se-to-nezmeni-uvadi-koncepce-319069"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine's economy enters recession: National Bank forecasts 0.4% fall in GDP",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060298/"
+          "title": "At least 14 people killed in attack on Ukraine train station",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss"
         },
         {
-          "title": "Game of Thrones star Nikolaj Coster-Waldau takes shelter in Kyiv metro during Russian attacks – photo, video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060293/"
+          "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+          "link": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump"
         },
         {
-          "title": "Ukrainian intelligence reveals the size of Russia's Su-34 fighter-bomber fleet",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060288/"
+          "title": "NATO fears Trump will not supply interceptors to Ukraine before US elections – Euronews",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060355/"
         },
         {
-          "title": "Putin proposes to relocate Russian factories to Africa",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060276/"
+          "title": "Zelenskyy: Russians planning further ballistic missile strikes",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060351/"
         },
         {
-          "title": "Four jet-powered drones attacked Dnipropetrovsk Oblast: three downed, one hit Dnipro station – Air Force",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060258/"
+          "title": "Head of President's Office: Russian defence industry facilities must burn for every victim in Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060313/"
         }
       ]
     },
@@ -54,8 +49,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -81,17 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "NATO announces new Ramstein meeting on Ukraine's defence",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060252/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -166,17 +156,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "NATO announces new Ramstein meeting on Ukraine's defence",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060252/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -264,8 +249,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -16,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -326,18 +311,22 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 28,
+      "score": 41,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -55,
+      "trend": "up",
+      "score_change": 13,
       "headlines": [
+        {
+          "title": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
+          "link": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss"
+        },
         {
           "title": "Watch: At the scene of Spain's deadly train crash",
           "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spain begins mourning period after train crash as search continues for victims in wreckage",
+          "title": "Spain begins mourning period as search continues for train crash victims",
           "link": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
         }
       ]
@@ -357,15 +346,15 @@
     "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
-        "title": "Russians kill man in Zaporizhzhia Oblast and attack public transport in Zaporizhzhia for third time in one day – video",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060248/"
+        "title": "Russian drone attacks community bus in Zaporizhzhia Oblast, killing 71-year-old woman – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060318/"
       },
       {
-        "title": "Jednání KHNP s dodavateli o Dukovanech zkrachovala",
+        "title": "Jednání KHNP s dodavateli o Dukovanech zkrachovala. Akcie Doosan mírně klesly",
         "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-jednani-khnp-s-dodavateli-o-dukovanech-zkrachovala-319102"
       }
     ]
