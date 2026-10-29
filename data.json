@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T20:51:56.097833+00:00",
+  "generated_at": "2026-10-29T04:59:21.444566+00:00",
   "overall_score": 15,
   "hotspots": [
     {
@@ -22,10 +22,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Kremlin says European countries not included in next Ukraine talks",
-          "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
-        },
-        {
           "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
           "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
         },
@@ -40,6 +36,10 @@
         {
           "title": "Five people injured in Russian attacks on Dnipropetrovsk Oblast – photo",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060152/"
+        },
+        {
+          "title": "Ukraine and Netherlands launch joint air defence project",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060145/"
         }
       ]
     },
@@ -251,16 +251,12 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 22,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 13,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Kremlin says European countries not included in next Ukraine talks",
-          "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
-        },
         {
           "title": "Ukraine and Netherlands launch joint air defence project",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060145/"
@@ -307,8 +303,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Slovensko je opět schopné plně chránit svůj vzdušný prostor, oznámil Pellegrini",
@@ -329,12 +325,16 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 93,
+      "score": 83,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "down",
+      "score_change": -10,
       "headlines": [
+        {
+          "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss"
+        },
         {
           "title": "Spain demands answers after deadliest train disaster in over a decade",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss"
@@ -344,16 +344,12 @@
           "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
+          "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
         },
         {
           "title": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain",
           "link": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months"
-        },
-        {
-          "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
-          "link": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail"
         }
       ]
     },
@@ -372,8 +368,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
