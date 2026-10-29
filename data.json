@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-10-29T04:59:21.444566+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-10-29T15:02:15.470623+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Česká armáda není v dobré kondici a výhledově se to nezmění, uvádí koncepce",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ceska-armada-neni-v-dobre-kondici-a-vyhledove-se-to-nezmeni-uvadi-koncepce-319069"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,41 +27,36 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine's economy enters recession: National Bank forecasts 0.4% fall in GDP",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060298/"
         },
         {
-          "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
-          "link": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink"
+          "title": "Game of Thrones star Nikolaj Coster-Waldau takes shelter in Kyiv metro during Russian attacks – photo, video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060293/"
         },
         {
-          "title": "Ukraine's west under attack: how Belarus is helping Russia to wage its war",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060160/"
+          "title": "Ukrainian intelligence reveals the size of Russia's Su-34 fighter-bomber fleet",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060288/"
         },
         {
-          "title": "Five people injured in Russian attacks on Dnipropetrovsk Oblast – photo",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060152/"
+          "title": "Putin proposes to relocate Russian factories to Africa",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060276/"
         },
         {
-          "title": "Ukraine and Netherlands launch joint air defence project",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060145/"
+          "title": "Four jet-powered drones attacked Dnipropetrovsk Oblast: three downed, one hit Dnipro station – Air Force",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060258/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 31,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -81,12 +81,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "NATO announces new Ramstein meeting on Ukraine's defence",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060252/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -161,12 +166,17 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "NATO announces new Ramstein meeting on Ukraine's defence",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060252/"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -251,21 +261,12 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 19,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
-      "headlines": [
-        {
-          "title": "Ukraine and Netherlands launch joint air defence project",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060145/"
-        },
-        {
-          "title": "Netherlands to provide Ukraine with €500m military aid package",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/28/8060125/"
-        }
-      ]
+      "score_change": -16,
+      "headlines": []
     },
     {
       "id": "poland",
@@ -325,31 +326,19 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 83,
-      "level": "kriticke",
-      "color": "#9C3B37",
+      "score": 28,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "down",
-      "score_change": -10,
+      "score_change": -55,
       "headlines": [
-        {
-          "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss"
-        },
-        {
-          "title": "Spain demands answers after deadliest train disaster in over a decade",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss"
-        },
         {
           "title": "Watch: At the scene of Spain's deadly train crash",
           "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
-        },
-        {
-          "title": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain",
-          "link": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months"
+          "title": "Spain begins mourning period after train crash as search continues for victims in wreckage",
+          "link": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
         }
       ]
     },
@@ -365,11 +354,20 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 6,
+    "headlines": [
+      {
+        "title": "Russians kill man in Zaporizhzhia Oblast and attack public transport in Zaporizhzhia for third time in one day – video",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060248/"
+      },
+      {
+        "title": "Jednání KHNP s dodavateli o Dukovanech zkrachovala",
+        "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-jednani-khnp-s-dodavateli-o-dukovanech-zkrachovala-319102"
+      }
+    ]
   }
 }
