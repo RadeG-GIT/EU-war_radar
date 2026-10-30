@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T20:56:35.141072+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-10-30T04:59:01.397280+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -21,10 +21,6 @@
       "trend": "same",
       "score_change": 0,
       "headlines": [
-        {
-          "title": "At least 14 people killed in attack on Ukraine train station",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss"
-        },
         {
           "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
           "link": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump"
@@ -40,6 +36,10 @@
         {
           "title": "Head of President's Office: Russian defence industry facilities must burn for every victim in Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060313/"
+        },
+        {
+          "title": "Ukraine's economy enters recession: National Bank forecasts 0.4% fall in GDP",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060298/"
         }
       ]
     },
@@ -79,8 +79,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -159,8 +159,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -311,20 +311,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 41,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 13,
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -26,
       "headlines": [
-        {
-          "title": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
-          "link": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss"
-        },
-        {
-          "title": "Watch: At the scene of Spain's deadly train crash",
-          "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Spain begins mourning period as search continues for train crash victims",
           "link": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
