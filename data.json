@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T14:55:13.481572+00:00",
-  "overall_score": 16,
+  "generated_at": "2026-10-30T20:33:40.373424+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -15,40 +15,43 @@
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 93,
+      "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "down",
-      "score_change": -7,
+      "trend": "up",
+      "score_change": 7,
       "headlines": [
         {
-          "title": "NATO says it has much to learn from Ukraine in field of innovation",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060453/"
+          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Rozetka marketplace store damaged in Russian attack on Kyiv",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060446/"
+          "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+          "link": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky"
         },
         {
-          "title": "WSJ: Ukrajina pod tlakem USA pozastavila útoky na ruské rafinerie nejméně do amerických voleb",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/wsj-ukrajina-pod-tlakem-usa-pozastavila-utoky-na-ruske-rafinerie-nejmene-do-americkych-voleb-379128"
+          "title": "US approves possible sale of 500 Patriot missiles to Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060570/"
+        },
+        {
+          "title": "Oleshky evacuees are on their way, convoys have separated and ceasefire is holding – Ukraine's human rights chief",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060551/"
+        },
+        {
+          "title": "Zelenskyy says Ukraine will expand its long-range strike units",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060539/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "‘Swift justice’: Student List supporters focus on cleaning up Serbia’s rotten institutions",
-          "link": "https://www.theguardian.com/world/2026/oct/30/student-list-focus-on-cleaning-up-serbia-corruption"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -143,19 +146,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 53,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 48,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -30,
       "headlines": [
         {
-          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
-        },
-        {
-          "title": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
-          "link": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
         }
       ]
     },
@@ -202,23 +201,15 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 55,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 51,
+      "score": 22,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -33,
       "headlines": [
         {
-          "title": "Italy tightens security as students, unions launch nationwide protests",
-          "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss"
-        },
-        {
-          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
-        },
-        {
-          "title": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
-          "link": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
         }
       ]
     },
@@ -278,8 +269,8 @@
       "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Poland detains man suspected of stabbing two Ukrainians in ethnically-motivated attack",
@@ -313,8 +304,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -330,19 +321,15 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 71,
-      "level": "zvysene",
+      "score": 41,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 56,
+      "trend": "down",
+      "score_change": -30,
       "headlines": [
         {
-          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
-        },
-        {
-          "title": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
-          "link": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
         },
         {
           "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
@@ -365,12 +352,12 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
-        "title": "Dukovany odstaví třetí blok, důvodem je netěsnost armatury",
-        "link": "https://www.novinky.cz/clanek/ekonomika-dukovany-odstavi-treti-blok-duvodem-je-netesnost-armatury-40605797"
+        "title": "V Dukovanech začala neplánovaná odstávka třetího bloku",
+        "link": "https://www.novinky.cz/clanek/domaci-v-noci-neplanovane-odstavi-blok-v-dukovanech-40605880"
       }
     ]
   }
