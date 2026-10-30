@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T04:59:01.397280+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-30T14:55:13.481572+00:00",
+  "overall_score": 16,
   "hotspots": [
     {
       "id": "czechia",
@@ -15,43 +15,40 @@
     {
       "id": "ukraine",
       "name": "Ukrajina",
-      "score": 100,
+      "score": 93,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -7,
       "headlines": [
         {
-          "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
-          "link": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump"
+          "title": "NATO says it has much to learn from Ukraine in field of innovation",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060453/"
         },
         {
-          "title": "NATO fears Trump will not supply interceptors to Ukraine before US elections – Euronews",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060355/"
+          "title": "Rozetka marketplace store damaged in Russian attack on Kyiv",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060446/"
         },
         {
-          "title": "Zelenskyy: Russians planning further ballistic missile strikes",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060351/"
-        },
-        {
-          "title": "Head of President's Office: Russian defence industry facilities must burn for every victim in Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060313/"
-        },
-        {
-          "title": "Ukraine's economy enters recession: National Bank forecasts 0.4% fall in GDP",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060298/"
+          "title": "WSJ: Ukrajina pod tlakem USA pozastavila útoky na ruské rafinerie nejméně do amerických voleb",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/wsj-ukrajina-pod-tlakem-usa-pozastavila-utoky-na-ruske-rafinerie-nejmene-do-americkych-voleb-379128"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "‘Swift justice’: Student List supporters focus on cleaning up Serbia’s rotten institutions",
+          "link": "https://www.theguardian.com/world/2026/oct/30/student-list-focus-on-cleaning-up-serbia-corruption"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -146,12 +143,21 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 53,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 48,
+      "headlines": [
+        {
+          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
+        },
+        {
+          "title": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
+          "link": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -196,12 +202,25 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 55,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 51,
+      "headlines": [
+        {
+          "title": "Italy tightens security as students, unions launch nationwide protests",
+          "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss"
+        },
+        {
+          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
+        },
+        {
+          "title": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
+          "link": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -256,12 +275,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 29,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Poland detains man suspected of stabbing two Ukrainians in ethnically-motivated attack",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060470/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -286,17 +310,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 23,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Slovensko je opět schopné plně chránit svůj vzdušný prostor, oznámil Pellegrini",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/slovensko-je-opet-schopne-plne-chranit-svuj-vzdusny-prostor-oznamil-pellegrini-379084"
-        }
-      ]
+      "trend": "down",
+      "score_change": -18,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -311,15 +330,23 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -26,
+      "score": 71,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 56,
       "headlines": [
         {
-          "title": "Spain begins mourning period as search continues for train crash victims",
-          "link": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
+          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
+        },
+        {
+          "title": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
+          "link": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
+        },
+        {
+          "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
+          "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties"
         }
       ]
     },
@@ -335,19 +362,15 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
-        "title": "Russian drone attacks community bus in Zaporizhzhia Oblast, killing 71-year-old woman – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/29/8060318/"
-      },
-      {
-        "title": "Jednání KHNP s dodavateli o Dukovanech zkrachovala. Akcie Doosan mírně klesly",
-        "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-jednani-khnp-s-dodavateli-o-dukovanech-zkrachovala-319102"
+        "title": "Dukovany odstaví třetí blok, důvodem je netěsnost armatury",
+        "link": "https://www.novinky.cz/clanek/ekonomika-dukovany-odstavi-treti-blok-duvodem-je-netesnost-armatury-40605797"
       }
     ]
   }
