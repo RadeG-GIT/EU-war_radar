@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T14:24:19.909861+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-10-31T19:46:48.538161+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -26,20 +26,20 @@
           "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss"
         },
         {
-          "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss"
-        },
-        {
-          "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
           "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Oleshky evacuees reunite with families after truce allows crossing into Ukraine",
+          "link": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
+        },
+        {
+          "title": "Ukrainian air defence has downed 122 out of 168 Russian attack drones during day, 30 still airborne",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/31/8060671/"
+        },
+        {
+          "title": "Debris from Russian drone falls at shopping centre in Kyiv, injuring child",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/31/8060664/"
         }
       ]
     },
@@ -146,22 +146,48 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
-      "headlines": []
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "Tension and clashes as hundreds of thousands protest again in France",
+          "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss"
+        },
+        {
+          "title": "Clashes erupt between police and protesters in Paris",
+          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Police clash with masked rioters after largely peaceful protests across France",
+          "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+        },
+        {
+          "title": "Ve Francii protestovalo na 320 000 lidí, méně než před týdnem. Demonstrace byly převážně poklidné",
+          "link": "https://www.irozhlas.cz/zpravy-svet/ve-francii-protestovalo-na-320-000-lidi-mene-nez-pred-tydnem-demonstrace-byly_2610311833_jho"
+        }
+      ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+          "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss"
+        },
+        {
+          "title": "Police clash with masked rioters after largely peaceful protests across France",
+          "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -196,17 +222,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -15,
-      "headlines": [
-        {
-          "title": "Thousands protest across Italy over living costs and military spending",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -261,17 +282,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -9,
-      "headlines": [
-        {
-          "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
-          "link": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -316,19 +332,15 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -15,
+      "score_change": -3,
       "headlines": [
         {
           "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
           "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties"
-        },
-        {
-          "title": "Španělsko končí státní smutek po srážce rychlovlaků. Záchranáři dál prohledávají trosky",
-          "link": "https://www.irozhlas.cz/zpravy-svet/spanelsko-konci-statni-smutek-po-srazce-rychlovlaku-zachranari-dal-prohledavaji_2610311210_med"
         }
       ]
     },
@@ -344,16 +356,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Russians launch 935 attacks on Zaporizhzhia Oblast over past day: one killed and two injured",
-        "link": "https://www.pravda.com.ua/eng/news/2026/10/31/8060589/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
