@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T19:46:48.538161+00:00",
+  "generated_at": "2026-10-31T23:11:24.277278+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,15 +22,11 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "On the Norway-Russia border, the Sámi people face a growing divide",
-          "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss"
+          "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+          "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss"
         },
         {
-          "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-          "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Oleshky evacuees reunite with families after truce allows crossing into Ukraine",
+          "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
           "link": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
         },
         {
@@ -40,6 +36,10 @@
         {
           "title": "Debris from Russian drone falls at shopping centre in Kyiv, injuring child",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/31/8060664/"
+        },
+        {
+          "title": "Türkiye's Erdoğan calls on Russia and Ukraine to act responsibly in Black Sea",
+          "link": "https://www.pravda.com.ua/eng/news/2026/10/31/8060665/"
         }
       ]
     },
@@ -146,27 +146,31 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 12,
+      "score_change": 3,
       "headlines": [
         {
           "title": "Tension and clashes as hundreds of thousands protest again in France",
           "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss"
         },
         {
-          "title": "Clashes erupt between police and protesters in Paris",
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
           "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
+          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
         },
         {
           "title": "Police clash with masked rioters after largely peaceful protests across France",
           "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
-        },
-        {
-          "title": "Ve Francii protestovalo na 320 000 lidí, méně než před týdnem. Demonstrace byly převážně poklidné",
-          "link": "https://www.irozhlas.cz/zpravy-svet/ve-francii-protestovalo-na-320-000-lidi-mene-nez-pred-tydnem-demonstrace-byly_2610311833_jho"
         }
       ]
     },
@@ -176,12 +180,12 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-          "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss"
+          "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
         },
         {
           "title": "Police clash with masked rioters after largely peaceful protests across France",
@@ -225,8 +229,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -282,12 +286,17 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+          "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -335,8 +344,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
@@ -359,8 +368,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
