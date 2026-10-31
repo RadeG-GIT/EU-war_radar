@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T04:46:07.899900+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-10-31T14:24:19.909861+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
-          "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss"
+          "title": "On the Norway-Russia border, the Sámi people face a growing divide",
+          "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss"
+        },
+        {
+          "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss"
+        },
+        {
+          "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "US approves sale of 500 Patriot missiles to Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
           "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
-          "link": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
         }
       ]
     },
@@ -146,17 +146,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 23,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -18,
+      "headlines": []
     },
     {
       "id": "germany",
@@ -201,15 +196,15 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 22,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
         {
-          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
+          "title": "Thousands protest across Italy over living costs and military spending",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss"
         }
       ]
     },
@@ -266,19 +261,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
           "link": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
-        },
-        {
-          "title": "Poland detains man suspected of stabbing two Ukrainians in ethnically-motivated attack",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060470/"
         }
       ]
     },
@@ -325,19 +316,19 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 41,
+      "score": 26,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
-        {
-          "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
-        },
         {
           "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
           "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties"
+        },
+        {
+          "title": "Španělsko končí státní smutek po srážce rychlovlaků. Záchranáři dál prohledávají trosky",
+          "link": "https://www.irozhlas.cz/zpravy-svet/spanelsko-konci-statni-smutek-po-srazce-rychlovlaku-zachranari-dal-prohledavaji_2610311210_med"
         }
       ]
     },
@@ -360,8 +351,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "V Dukovanech začala neplánovaná odstávka třetího bloku",
-        "link": "https://www.novinky.cz/clanek/domaci-v-noci-neplanovane-odstavi-blok-v-dukovanech-40605880"
+        "title": "Russians launch 935 attacks on Zaporizhzhia Oblast over past day: one killed and two injured",
+        "link": "https://www.pravda.com.ua/eng/news/2026/10/31/8060589/"
       }
     ]
   }
