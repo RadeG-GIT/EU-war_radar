@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T20:33:40.373424+00:00",
+  "generated_at": "2026-10-31T04:46:07.899900+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -18,28 +18,28 @@
       "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
+        {
+          "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+          "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss"
+        },
+        {
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
           "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-          "link": "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky"
+          "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+          "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US approves possible sale of 500 Patriot missiles to Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060570/"
-        },
-        {
-          "title": "Oleshky evacuees are on their way, convoys have separated and ceasefire is holding – Ukraine's human rights chief",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060551/"
-        },
-        {
-          "title": "Zelenskyy says Ukraine will expand its long-range strike units",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060539/"
+          "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+          "link": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
         }
       ]
     },
@@ -49,8 +49,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -149,8 +149,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -30,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
@@ -204,8 +204,8 @@
       "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -33,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
@@ -266,12 +266,16 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 29,
+      "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
+          "link": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+        },
         {
           "title": "Poland detains man suspected of stabbing two Ukrainians in ethnically-motivated attack",
           "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060470/"
@@ -324,8 +328,8 @@
       "score": 41,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -30,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
