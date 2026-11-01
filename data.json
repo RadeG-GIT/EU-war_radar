@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T14:50:56.052605+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-11-01T20:20:58.907098+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "\"Enough to fill 200 Moscow Metro carriages\": Zelenskyy reports record Russian losses in October",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060731/"
+          "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russians attack energy infrastructure in Kyiv and Zhytomyr oblasts",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060702/"
+          "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+          "link": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
         },
         {
-          "title": "Russia attacks Ukraine with 433 drones: hits recorded at 16 locations",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060690/"
+          "title": "Ukraine's air defence downed 274 attack drones and all six Bandеrol cruise missiles on Sunday, Air Force says",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060761/"
         },
         {
-          "title": "Russia loses 2,100 soldiers and 16 artillery systems over past day",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060686/"
+          "title": "Finland to ban Russian athletes from entering country over return to 2027 World Championships",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060752/"
         },
         {
-          "title": "Statisíce Ukrajinců jsou bez proudu, Kyjev zasáhl ruský závod na raketové palivo",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/statisice-ukrajincu-jsou-bez-proudu-kyjev-zasahl-rusky-zavod-na-raketove-palivo-379174"
+          "title": "Rubio doubts Ukraine peace deal can be reached any time soon – Radio Liberty",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060749/"
         }
       ]
     },
@@ -86,17 +86,12 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 14,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Bulgarians vote in presidential run-off amid Black Sea tensions",
-          "link": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "croatia",
@@ -141,33 +136,42 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Finland to ban Russian athletes from entering country over return to 2027 World Championships",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060752/"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 49,
+      "level": "zvysene",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 26,
       "headlines": [
+        {
+          "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+          "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss"
+        },
         {
           "title": "Thousands demonstrate in Paris as protests spread across Europe",
           "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Police clash with masked rioters after largely peaceful protests across France",
-          "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+          "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+          "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
         },
         {
-          "title": "Z Francie do Německa. Protestní vlna mladých zasáhla přes 30 měst, ve Frankfurtu přerostla v rabování",
-          "link": "https://www.irozhlas.cz/zpravy-svet/z-francie-do-nemecka-protestni-vlna-mladych-zasahla-pres-30-mest-ve-frankfurtu_2611011111_med"
+          "title": "V Paříži vyšetřují útok na policisty při sobotní demonstraci jako pokus o vraždu",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-v-parizi-vysetruji-utok-na-policisty-pri-sobotni-demonstraci-jako-pokus-o-vrazdu-319252"
         },
         {
           "title": "Útok na četníky při demonstracích vyšetřují ve Francii jako pokus o vraždu",
@@ -178,15 +182,15 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Police clash with masked rioters after largely peaceful protests across France",
-          "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+          "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+          "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
         }
       ]
     },
@@ -233,12 +237,17 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Lotyšsko zaznamenalo narušení vzdušného prostoru u hranic s Ruskem a Běloruskem",
+          "link": "https://www.novinky.cz/clanek/zahranicni-lotyssko-zaznamenalo-naruseni-vzdusneho-prostoru-u-hranic-s-ruskem-a-beloruskem-40605989"
+        }
+      ]
     },
     {
       "id": "lithuania",
@@ -283,46 +292,42 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
           "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
-        },
-        {
-          "title": "Romania scrambles four fighter jets due to drone incursion",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060710/"
         }
       ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+          "link": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police"
+        }
+      ]
     },
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Romania scrambles four fighter jets due to drone incursion",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060710/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -347,12 +352,16 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 40,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 17,
       "headlines": [
+        {
+          "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+          "link": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash"
+        },
         {
           "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
           "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties"
@@ -371,15 +380,19 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "up",
-    "score_change": 6,
+    "score_change": 3,
     "headlines": [
       {
         "title": "Russia to build 2GW nuclear power plant in Ghana, Reuters reports",
         "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060721/"
+      },
+      {
+        "title": "Korea s projektem rozšíření Dukovan nadále počítá, ujistil ministr",
+        "link": "https://www.novinky.cz/clanek/ekonomika-korea-s-projektem-rozsireni-dukovan-nadale-pocita-ujistil-ministr-40605978"
       },
       {
         "title": "Nové zakázky kolem Dukovan jsou šancí pro české firmy",
