@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:09:14.506642+00:00",
+  "generated_at": "2026-11-01T14:50:56.052605+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
-          "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss"
+          "title": "\"Enough to fill 200 Moscow Metro carriages\": Zelenskyy reports record Russian losses in October",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060731/"
         },
         {
-          "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
-          "link": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
+          "title": "Russians attack energy infrastructure in Kyiv and Zhytomyr oblasts",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060702/"
         },
         {
-          "title": "Ukrainian air defence has downed 122 out of 168 Russian attack drones during day, 30 still airborne",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/31/8060671/"
+          "title": "Russia attacks Ukraine with 433 drones: hits recorded at 16 locations",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060690/"
         },
         {
-          "title": "Debris from Russian drone falls at shopping centre in Kyiv, injuring child",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/31/8060664/"
+          "title": "Russia loses 2,100 soldiers and 16 artillery systems over past day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060686/"
         },
         {
-          "title": "Türkiye's Erdoğan calls on Russia and Ukraine to act responsibly in Black Sea",
-          "link": "https://www.pravda.com.ua/eng/news/2026/10/31/8060665/"
+          "title": "Statisíce Ukrajinců jsou bez proudu, Kyjev zasáhl ruský závod na raketové palivo",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/statisice-ukrajincu-jsou-bez-proudu-kyjev-zasahl-rusky-zavod-na-raketove-palivo-379174"
         }
       ]
     },
@@ -86,12 +86,17 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Bulgarians vote in presidential run-off amid Black Sea tensions",
+          "link": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -146,16 +151,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
-        {
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Thousands demonstrate in Paris as protests spread across Europe",
           "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
@@ -165,31 +166,27 @@
           "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
         },
         {
-          "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
+          "title": "Z Francie do Německa. Protestní vlna mladých zasáhla přes 30 měst, ve Frankfurtu přerostla v rabování",
+          "link": "https://www.irozhlas.cz/zpravy-svet/z-francie-do-nemecka-protestni-vlna-mladych-zasahla-pres-30-mest-ve-frankfurtu_2611011111_med"
+        },
+        {
+          "title": "Útok na četníky při demonstracích vyšetřují ve Francii jako pokus o vraždu",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/utok-na-cetniky-pri-demonstracich-vysetruji-ve-francii-jako-pokus-o-vrazdu-379198"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
-        {
-          "title": "Shops looted as German cost of living protests turn violent",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Police clash with masked rioters after largely peaceful protests across France",
           "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
-        },
-        {
-          "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates"
         }
       ]
     },
@@ -286,15 +283,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
           "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+        },
+        {
+          "title": "Romania scrambles four fighter jets due to drone incursion",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060710/"
         }
       ]
     },
@@ -311,12 +312,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Romania scrambles four fighter jets due to drone incursion",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060710/"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -365,11 +371,20 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 6,
+    "headlines": [
+      {
+        "title": "Russia to build 2GW nuclear power plant in Ghana, Reuters reports",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/01/8060721/"
+      },
+      {
+        "title": "Nové zakázky kolem Dukovan jsou šancí pro české firmy",
+        "link": "https://ct24.ceskatelevize.cz/clanek/ekonomika/nove-zakazky-kolem-dukovan-jsou-sanci-pro-ceske-firmy-379179"
+      }
+    ]
   }
 }
