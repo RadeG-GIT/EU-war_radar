@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-11-02T18:00:00.715680+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-11-03T02:04:29.812422+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Kolová vozidla na pásech? Budoucnost české armády budí rozpaky",
+          "link": "https://www.novinky.cz/clanek/internet-a-pc-ai-armada-miri-s-ai-do-budoucnosti-obrazky-i-terminy-ale-budi-rozpaky-40606220"
+        },
         {
           "title": "Další peníze až po roce 2030. Jak má podle Zůnovy koncepce vypadat armáda",
           "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-dalsi-penize-az-po-roce-2030-jak-ma-podle-zunovy-koncepce-vypadat-armada-319321"
@@ -27,24 +31,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
+        },
+        {
+          "title": "Russian strike on Ukraine aid hub kills 26 as US announces new peace talks",
+          "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
+        },
+        {
+          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
           "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What we know about the alert app hack in Ukraine and Russia",
-          "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates"
-        },
-        {
-          "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
-          "link": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app"
-        },
-        {
-          "title": "\"He devoted many years to saving animals\": Veterinarian Serhii Huzenkov killed in Russian attack on Kyiv on 30 October",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/02/8060904/"
         }
       ]
     },
@@ -84,8 +88,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
@@ -139,8 +143,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
@@ -154,8 +158,8 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
@@ -166,16 +170,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 35,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 17,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -18,
       "headlines": [
-        {
-          "title": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
-          "link": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss"
-        },
         {
           "title": "France launches attempted murder investigation after petrol bomb thrown at police",
           "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
@@ -183,26 +183,18 @@
         {
           "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
           "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
-        },
-        {
-          "title": "Útok na četníky při demonstracích vyšetřují ve Francii jako pokus o vraždu",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/utok-na-cetniky-pri-demonstracich-vysetruji-ve-francii-jako-pokus-o-vrazdu-379198"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
       "headlines": [
-        {
-          "title": "Police arrive at German university pro-Palestine protest",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/police-arrive-at-german-university-pro-palestine-protest?traffic_source=rss"
-        },
         {
           "title": "Cooperation with Trump and end to military aid for Ukraine: Germany's AfD unveils policy papers",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/02/8060899/"
@@ -225,8 +217,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
@@ -240,8 +232,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
@@ -265,8 +257,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -285,8 +277,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
@@ -310,8 +302,8 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
@@ -335,8 +327,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -375,8 +367,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -58,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -385,8 +377,8 @@
       "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
@@ -396,18 +388,22 @@
     }
   ],
   "radiation": {
-    "score": 17,
+    "score": 20,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "up",
     "score_change": 3,
     "headlines": [
       {
-        "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
-        "link": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app"
+        "title": "Russian strike on Ukraine aid hub kills 26 as US announces new peace talks",
+        "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
       },
       {
-        "title": "Eighteen killed in Russian aerial bomb attack on school used to distribute humanitarian aid in Zaporizhzhia Oblast – photos, video",
+        "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+        "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+      },
+      {
+        "title": "Twenty-six killed in Russian aerial bomb attack on school used to distribute humanitarian aid in Zaporizhzhia Oblast – photos, video",
         "link": "https://www.pravda.com.ua/eng/news/2026/11/02/8060924/"
       }
     ]
