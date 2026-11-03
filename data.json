@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T11:44:13.531319+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-11-03T19:16:05.614176+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
-          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+          "title": "Global food security is under threat",
+          "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss"
+        },
+        {
+          "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
           "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
         },
         {
+          "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
           "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "What we know about the alert app hack in Ukraine and Russia",
-          "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
         }
       ]
     },
@@ -79,28 +79,33 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
         },
         {
-          "title": "NATO confirms upcoming meeting in Brussels on security guarantees for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060993/"
+          "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+          "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
         }
       ]
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -135,12 +140,17 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -148,8 +158,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -158,16 +168,16 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
         },
         {
-          "title": "NATO confirms upcoming meeting in Brussels on security guarantees for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060993/"
+          "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+          "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
         }
       ]
     },
@@ -177,16 +187,16 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
         },
         {
-          "title": "NATO confirms upcoming meeting in Brussels on security guarantees for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060993/"
+          "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+          "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
         }
       ]
     },
@@ -206,8 +216,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -216,36 +226,45 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
-      "headlines": []
-    },
-    {
-      "id": "italy",
-      "name": "Italie",
-      "score": 4,
-      "level": "nizke",
-      "color": "#4C8C6B",
       "trend": "same",
       "score_change": 0,
       "headlines": []
     },
     {
-      "id": "latvia",
-      "name": "Lotyssko",
-      "score": 21,
+      "id": "italy",
+      "name": "Italie",
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 15,
       "headlines": [
         {
-          "title": "Drone crashes in Latvia: NATO aircraft and interceptor drones deployed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060965/"
+          "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+          "link": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss"
         },
         {
-          "title": "Lotyšům se nepodařilo sestřelit dron, který narušil vzdušný prostor. Nařídili sebedestrukci stíhače u ruských hranic",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-lotysum-se-nepodarilo-sestrelit-dron-ktery-narusil-vzdusny-prostor-naridili-sebedestrukci-stihace-u-ruskych-hranic-40606102"
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "latvia",
+      "name": "Lotyssko",
+      "score": 34,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 13,
+      "headlines": [
+        {
+          "title": "Latvia convenes emergency UN Security Council meeting over Russian attack on Komyshuvakha",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8061103/"
         }
       ]
     },
@@ -265,8 +284,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -285,34 +304,47 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 29,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        },
+        {
+          "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+          "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
         }
       ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -347,52 +379,60 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 6,
       "headlines": [
         {
-          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "title": "Seven flights across Europe targeted by suspected bomb threats",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        },
+        {
+          "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+          "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
         }
       ]
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "up",
+      "score_change": 12,
       "headlines": [
         {
-          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        },
+        {
+          "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+          "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
         }
       ]
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "down",
     "score_change": -6,
     "headlines": [
       {
-        "title": "Four police officers and two rescue workers killed by Russia in Komyshuvakha – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8061011/"
-      },
-      {
-        "title": "Russia strikes Ukrenergo substation in Rivne Oblast",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060981/"
-      },
-      {
-        "title": "\"The scale of this tragedy is horrifying\": 29 killed in Komyshuvakha, 48 people missing",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060964/"
+        "title": "\"Threat to nuclear safety across Europe\": Russia attacks substation critical to Khmelnytskyi Nuclear Power Plant",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8061116/"
       }
     ]
   }
