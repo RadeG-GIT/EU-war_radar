@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-11-03T02:04:29.812422+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-03T11:44:13.531319+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Kolová vozidla na pásech? Budoucnost české armády budí rozpaky",
-          "link": "https://www.novinky.cz/clanek/internet-a-pc-ai-armada-miri-s-ai-do-budoucnosti-obrazky-i-terminy-ale-budi-rozpaky-40606220"
-        },
-        {
-          "title": "Další peníze až po roce 2030. Jak má podle Zůnovy koncepce vypadat armáda",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-dalsi-penize-az-po-roce-2030-jak-ma-podle-zunovy-koncepce-vypadat-armada-319321"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -31,15 +22,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
-        },
-        {
-          "title": "Russian strike on Ukraine aid hub kills 26 as US announces new peace talks",
-          "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
-        },
-        {
-          "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+          "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
           "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
         },
         {
@@ -49,6 +32,14 @@
         {
           "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
           "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What we know about the alert app hack in Ukraine and Russia",
+          "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
         }
       ]
     },
@@ -85,15 +76,19 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 12,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-          "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        },
+        {
+          "title": "NATO confirms upcoming meeting in Brussels on security guarantees for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060993/"
         }
       ]
     },
@@ -140,64 +135,58 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-          "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 19,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-          "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 17,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -18,
+      "score_change": -6,
       "headlines": [
         {
-          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
         },
         {
-          "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-          "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+          "title": "NATO confirms upcoming meeting in Brussels on security guarantees for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060993/"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Cooperation with Trump and end to military aid for Ukraine: Germany's AfD unveils policy papers",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/02/8060899/"
+          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        },
+        {
+          "title": "NATO confirms upcoming meeting in Brussels on security guarantees for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060993/"
         }
       ]
     },
@@ -214,32 +203,22 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-          "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 11,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-          "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -254,12 +233,21 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Drone crashes in Latvia: NATO aircraft and interceptor drones deployed",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060965/"
+        },
+        {
+          "title": "Lotyšům se nepodařilo sestřelit dron, který narušil vzdušný prostor. Nařídili sebedestrukci stíhače u ruských hranic",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-lotysum-se-nepodarilo-sestrelit-dron-ktery-narusil-vzdusny-prostor-naridili-sebedestrukci-stihace-u-ruskych-hranic-40606102"
+        }
+      ]
     },
     {
       "id": "lithuania",
@@ -274,17 +262,12 @@
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 11,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-          "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "malta",
@@ -299,27 +282,27 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-          "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -364,47 +347,52 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        }
+      ]
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 17,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-          "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+          "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
         }
       ]
     }
   ],
   "radiation": {
-    "score": 20,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "down",
+    "score_change": -6,
     "headlines": [
       {
-        "title": "Russian strike on Ukraine aid hub kills 26 as US announces new peace talks",
-        "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
+        "title": "Four police officers and two rescue workers killed by Russia in Komyshuvakha – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8061011/"
       },
       {
-        "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
-        "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+        "title": "Russia strikes Ukrenergo substation in Rivne Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060981/"
       },
       {
-        "title": "Twenty-six killed in Russian aerial bomb attack on school used to distribute humanitarian aid in Zaporizhzhia Oblast – photos, video",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/02/8060924/"
+        "title": "\"The scale of this tragedy is horrifying\": 29 killed in Komyshuvakha, 48 people missing",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8060964/"
       }
     ]
   }
