@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T00:29:04.988033+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-11-04T11:56:09.063854+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "President Zelenskyy says US elections will impact war in Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss"
+          "title": "What we know about the alert app hack in Ukraine and Russia",
+          "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Kyiv protest raises suspicions of possible Russian orchestration",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss"
+          "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
         },
         {
-          "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+          "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+          "link": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees"
         },
         {
-          "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-          "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
+          "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+          "link": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war"
         },
         {
-          "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-          "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+          "title": "Drone debris falls in two Kyiv districts",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061181/"
         }
       ]
     },
@@ -76,17 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -136,17 +131,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -164,12 +154,12 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+          "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
         }
       ]
     },
@@ -179,12 +169,12 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+          "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
         }
       ]
     },
@@ -221,36 +211,27 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 16,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -9,
       "headlines": [
         {
           "title": "Seven flights across Europe targeted by suspected bomb threats",
           "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 34,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Latvia convenes emergency UN Security Council meeting over Russian attack on Komyshuvakha",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8061103/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -19,
+      "headlines": []
     },
     {
       "id": "lithuania",
@@ -295,36 +276,27 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
       "headlines": [
         {
           "title": "Seven flights across Europe targeted by suspected bomb threats",
           "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
         }
       ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 11,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -359,11 +331,11 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 59,
+      "score": 45,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 47,
+      "trend": "down",
+      "score_change": -14,
       "headlines": [
         {
           "title": "Spanish transport minister resigns days after deadly train crash",
@@ -374,49 +346,36 @@
           "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
-          "link": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb"
-        },
-        {
           "title": "Spanish transport minister resigns after deadly train crash",
           "link": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
-        },
-        {
-          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
         }
       ]
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 20,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
-      "headlines": [
-        {
-          "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
-        }
-      ]
+      "score_change": -12,
+      "headlines": []
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 3,
     "headlines": [
       {
-        "title": "\"Threat to nuclear safety across Europe\": Russia attacks substation critical to Khmelnytskyi Nuclear Power Plant",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/03/8061116/"
+        "title": "Death toll from Russian strike on Komyshuvakha rises to 37, search and rescue operations continue",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061205/"
+      },
+      {
+        "title": "Two killed in Russian attack on Vilniansk in Zaporizhzhia Oblast, fire breaks out in apartment building",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061190/"
       }
     ]
   }
