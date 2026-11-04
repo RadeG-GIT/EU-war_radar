@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:56:09.063854+00:00",
+  "generated_at": "2026-11-04T19:37:32.756573+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+          "link": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "What we know about the alert app hack in Ukraine and Russia",
           "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+          "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
         },
         {
-          "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
-          "link": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees"
-        },
-        {
-          "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-          "link": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war"
-        },
-        {
-          "title": "Drone debris falls in two Kyiv districts",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061181/"
+          "title": "Russians launch propaganda Shahed drone to drop leaflets on Kyiv",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061278/"
         }
       ]
     },
@@ -79,24 +79,19 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "croatia",
@@ -134,8 +129,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -151,29 +146,33 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 37,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 29,
       "headlines": [
         {
-          "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+          "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+        },
+        {
+          "title": "French blood banks hacked in latest cyber-attack on Europe",
+          "link": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 14,
       "headlines": [
         {
-          "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+          "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
         }
       ]
@@ -211,17 +210,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -9,
-      "headlines": [
-        {
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -229,8 +223,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -19,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -276,17 +270,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -294,8 +283,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -331,23 +320,15 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 45,
-      "level": "zvysene",
-      "color": "#C98A3B",
+      "score": 6,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -14,
+      "score_change": -39,
       "headlines": [
         {
-          "title": "Spanish transport minister resigns days after deadly train crash",
-          "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Seven flights across Europe targeted by suspected bomb threats",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Spanish transport minister resigns after deadly train crash",
-          "link": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
+          "title": "Zelenskyy arrives in Madrid to discuss air defence and defence cooperation",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061280/"
         }
       ]
     },
@@ -357,25 +338,21 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
-        "title": "Death toll from Russian strike on Komyshuvakha rises to 37, search and rescue operations continue",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061205/"
-      },
-      {
-        "title": "Two killed in Russian attack on Vilniansk in Zaporizhzhia Oblast, fire breaks out in apartment building",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061190/"
+        "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
       }
     ]
   }
