@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-11-05T11:59:07.602340+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-11-05T19:51:02.250177+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,36 +27,41 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
-          "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss"
+          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-          "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss"
+          "title": "Worsening power situation attributed to shifting Russian tactics",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061474/"
         },
         {
-          "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+          "title": "Every Ukrainian power plant damaged: Zelenskyy asks for urgent equipment supply",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061470/"
         },
         {
-          "title": "What we know about the alert app hack in Ukraine and Russia",
-          "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss"
+          "title": "Russian forces attack manufacturing facility in Kyiv Oblast, injuring two people",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061467/"
         },
         {
-          "title": "Ukraine receives €4.36bn from EU after adopting reforms",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061387/"
+          "title": "Security guarantees for Ukraine discussed with US and European officials in Brussels",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061451/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -66,14 +76,18 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        },
+        {
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
         }
       ]
@@ -81,12 +95,21 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        },
+        {
+          "title": "Security guarantees for Ukraine discussed with US and European officials in Brussels",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061451/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -94,12 +117,12 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "New bomb threats bring more disruption to flights across Europe",
-          "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss"
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
     },
@@ -126,12 +149,17 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        }
+      ]
     },
     {
       "id": "estonia",
@@ -146,14 +174,18 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        },
+        {
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
         }
       ]
@@ -161,50 +193,51 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 11,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -11,
+      "score_change": -15,
       "headlines": [
         {
-          "title": "New bomb threats bring more disruption to flights across Europe",
-          "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss"
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         },
         {
-          "title": "France gears up for strikes and protests as unions promise national mobilisation",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Francii zasáhla generální stávka. Ulice mají hlídat obrněné transportéry, drony a na 70 tisíc policistů",
-          "link": "https://www.irozhlas.cz/zpravy-svet/francii-zasahla-generalni-stavka-ulice-maji-hlidat-obrnene-transportery-drony-a_2611051056_ako"
+          "title": "Security guarantees for Ukraine discussed with US and European officials in Brussels",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061451/"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 16,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -6,
+      "score_change": -8,
       "headlines": [
         {
-          "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
-          "link": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel"
+          "title": "Security guarantees for Ukraine discussed with US and European officials in Brussels",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061451/"
         }
       ]
     },
     {
       "id": "greece",
       "name": "Recko",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        }
+      ]
     },
     {
       "id": "hungary",
@@ -219,12 +252,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -232,15 +270,15 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "New bomb threats bring more disruption to flights across Europe",
-          "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss"
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         },
         {
-          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
         }
       ]
@@ -301,48 +339,63 @@
       "score": 26,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         },
         {
-          "title": "Poland detains six suspects accused of working for Russian intelligence and supplying military materials",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061363/"
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
         }
       ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        }
+      ]
     },
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        }
+      ]
     },
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Fico na Ukrajině: Zasloužíte si respekt a pomoc",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-fico-na-ukrajine-zaslouzite-si-respekt-a-pomoc-40607032"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -357,12 +410,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -376,16 +434,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Two police officers injured in drone attack near Komyshuvakha die in hospital",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061366/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
