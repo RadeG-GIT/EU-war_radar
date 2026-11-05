@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:37:32.756573+00:00",
+  "generated_at": "2026-11-05T00:47:27.145744+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,8 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
-          "link": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss"
+          "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+          "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss"
         },
         {
           "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
@@ -38,8 +38,8 @@
           "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
         },
         {
-          "title": "Russians launch propaganda Shahed drone to drop leaflets on Kyiv",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061278/"
+          "title": "Energy workers explain frequent cancellations and reinstatements of emergency power outages",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061295/"
         }
       ]
     },
@@ -89,8 +89,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -149,8 +149,8 @@
       "score": 37,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 29,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
@@ -168,8 +168,8 @@
       "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 14,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
@@ -213,8 +213,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -273,8 +273,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -323,8 +323,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -39,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zelenskyy arrives in Madrid to discuss air defence and defence cooperation",
@@ -347,8 +347,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
