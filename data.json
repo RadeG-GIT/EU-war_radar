@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T00:47:27.145744+00:00",
+  "generated_at": "2026-11-05T11:59:07.602340+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -22,8 +22,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-          "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss"
+          "title": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
+          "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss"
+        },
+        {
+          "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+          "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss"
         },
         {
           "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
@@ -34,12 +38,8 @@
           "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
-        },
-        {
-          "title": "Energy workers explain frequent cancellations and reinstatements of emergency power outages",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061295/"
+          "title": "Ukraine receives €4.36bn from EU after adopting reforms",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061387/"
         }
       ]
     },
@@ -66,12 +66,17 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "belgium",
@@ -86,12 +91,17 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "New bomb threats bring more disruption to flights across Europe",
+          "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -136,44 +146,53 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 37,
+      "score": 26,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -11,
       "headlines": [
         {
-          "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+          "title": "New bomb threats bring more disruption to flights across Europe",
+          "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss"
         },
         {
-          "title": "French blood banks hacked in latest cyber-attack on Europe",
-          "link": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
+          "title": "France gears up for strikes and protests as unions promise national mobilisation",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Francii zasáhla generální stávka. Ulice mají hlídat obrněné transportéry, drony a na 70 tisíc policistů",
+          "link": "https://www.irozhlas.cz/zpravy-svet/francii-zasahla-generalni-stavka-ulice-maji-hlidat-obrnene-transportery-drony-a_2611051056_ako"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 22,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+          "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
+          "link": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel"
         }
       ]
     },
@@ -210,12 +229,21 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "New bomb threats bring more disruption to flights across Europe",
+          "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss"
+        },
+        {
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -270,12 +298,21 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+        },
+        {
+          "title": "Poland detains six suspects accused of working for Russian intelligence and supplying military materials",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061363/"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -320,17 +357,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Zelenskyy arrives in Madrid to discuss air defence and defence cooperation",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/04/8061280/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -351,8 +383,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+        "title": "Two police officers injured in drone attack near Komyshuvakha die in hospital",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061366/"
       }
     ]
   }
