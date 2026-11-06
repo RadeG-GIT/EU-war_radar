@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:51:02.250177+00:00",
+  "generated_at": "2026-11-06T00:53:53.770975+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -27,8 +27,16 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss"
+        },
+        {
           "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
           "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Czech President denies having ambitions to become European negotiator for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061477/"
         },
         {
           "title": "Worsening power situation attributed to shifting Russian tactics",
@@ -37,14 +45,6 @@
         {
           "title": "Every Ukrainian power plant damaged: Zelenskyy asks for urgent equipment supply",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061470/"
-        },
-        {
-          "title": "Russian forces attack manufacturing facility in Kyiv Oblast, injuring two people",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061467/"
-        },
-        {
-          "title": "Security guarantees for Ukraine discussed with US and European officials in Brussels",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061451/"
         }
       ]
     },
@@ -54,8 +54,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -79,8 +79,8 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -98,8 +98,8 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -152,8 +152,8 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -177,8 +177,8 @@
       "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -196,8 +196,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -215,8 +215,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Security guarantees for Ukraine discussed with US and European officials in Brussels",
@@ -230,8 +230,8 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -255,8 +255,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -358,8 +358,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -373,8 +373,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -385,17 +385,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Fico na Ukrajině: Zasloužíte si respekt a pomoc",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-fico-na-ukrajine-zaslouzite-si-respekt-a-pomoc-40607032"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -413,8 +408,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
@@ -437,8 +432,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
