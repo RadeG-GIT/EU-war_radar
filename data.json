@@ -1,18 +1,22 @@
 {
-  "generated_at": "2026-11-06T00:53:53.770975+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-06T11:55:44.476093+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "European skies on high alert after hoax bomb threats this week – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+        },
+        {
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
@@ -27,24 +31,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss"
-        },
-        {
           "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
           "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Czech President denies having ambitions to become European negotiator for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061477/"
+          "title": "Russians again strike energy facilities that took three days to repair",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061550/"
         },
         {
-          "title": "Worsening power situation attributed to shifting Russian tactics",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061474/"
+          "title": "Mortar firing range instead of park: Ukraine's Defence Intelligence reveals how Russians are destroying Ukrainian nature reserves",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061544/"
         },
         {
-          "title": "Every Ukrainian power plant damaged: Zelenskyy asks for urgent equipment supply",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061470/"
+          "title": "Ukraine still unable to obtain details from US on allocation of US$400m in military aid",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061525/"
+        },
+        {
+          "title": "Monaco assassination attempt on Ukrainian businessman: intelligence officer's premises searched – lawyer",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061523/"
         }
       ]
     },
@@ -58,7 +62,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
@@ -83,7 +87,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         },
         {
@@ -95,19 +99,23 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 9,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
-          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+          "title": "European skies on high alert after hoax bomb threats this week – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
         },
         {
-          "title": "Security guarantees for Ukraine discussed with US and European officials in Brussels",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061451/"
+          "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+          "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal"
+        },
+        {
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
     },
@@ -121,7 +129,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
@@ -156,7 +164,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
@@ -181,7 +189,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         },
         {
@@ -193,36 +201,43 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 49,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 38,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
-          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+          "title": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
+          "link": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss"
         },
         {
-          "title": "Security guarantees for Ukraine discussed with US and European officials in Brussels",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061451/"
+          "title": "Two dead after bus crashes in France, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "European skies on high alert after hoax bomb threats this week – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+        },
+        {
+          "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+          "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal"
+        },
+        {
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
+          "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Security guarantees for Ukraine discussed with US and European officials in Brussels",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/05/8061451/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -234,7 +249,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
@@ -259,7 +274,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
@@ -274,7 +289,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         },
         {
@@ -343,7 +358,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         },
         {
@@ -362,7 +377,7 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
@@ -370,14 +385,18 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 18,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "European skies on high alert after hoax bomb threats this week – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+        },
+        {
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
@@ -388,8 +407,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -405,14 +424,18 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 13,
       "headlines": [
         {
-          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+          "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
           "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
         }
       ]
@@ -420,20 +443,34 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+          "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": []
+    "trend": "up",
+    "score_change": 6,
+    "headlines": [
+      {
+        "title": "Ukrainian forces hit two Russian ammunition storage points in occupied parts of Zaporizhzhia Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061532/"
+      },
+      {
+        "title": "Death toll from Russian attack on Zaporizhzhia Oblast school reaches 53",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061530/"
+      }
+    ]
   }
 }
