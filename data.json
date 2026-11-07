@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-11-07T14:46:39.793673+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-07T19:59:40.417629+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-          "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,6 +22,10 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss"
+        },
+        {
           "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
           "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
         },
@@ -35,16 +34,12 @@
           "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
         },
         {
-          "title": "Ukraine's Defence Intelligence identifies Russians involved in airstrike on Komyshuvakha school",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061730/"
+          "title": "Life in Kyiv becoming increasingly difficult – EU ambassador on Russian missile strike",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061745/"
         },
         {
-          "title": "Russian forces attack Naftogaz facilities three times overnight",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061707/"
-        },
-        {
-          "title": "Zelenskyy explains how ceasefire in Oleshky undermines Russia's arguments in negotiations",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061706/"
+          "title": "Germany exhausts capacity to supply Patriot systems to Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061743/"
         }
       ]
     },
@@ -84,24 +79,19 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-          "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "croatia",
@@ -116,17 +106,12 @@
     {
       "id": "cyprus",
       "name": "Kypr",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-          "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "denmark",
@@ -154,8 +139,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Finland considers installing Ukrainian-style anti-tank barriers to strengthen Russian border",
@@ -166,31 +151,27 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 34,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -6,
-      "headlines": [
-        {
-          "title": "Two dead after bus crashes in France, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-          "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-        }
-      ]
-    },
-    {
-      "id": "germany",
-      "name": "Nemecko",
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -6,
+      "score_change": -29,
       "headlines": []
+    },
+    {
+      "id": "germany",
+      "name": "Nemecko",
+      "score": 8,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Germany exhausts capacity to supply Patriot systems to Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061743/"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -205,47 +186,32 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 7,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-          "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-        }
-      ]
-    },
-    {
-      "id": "ireland",
-      "name": "Irsko",
-      "score": 5,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-          "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-        }
-      ]
+      "headlines": []
+    },
+    {
+      "id": "ireland",
+      "name": "Irsko",
+      "score": 2,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-          "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -293,49 +259,60 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 100,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 80,
+      "headlines": [
+        {
+          "title": "Five killed and at least 10 injured in Krakow shooting",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
+        },
+        {
+          "title": "At least six people killed in shooting in Poland’s Krakow",
+          "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss"
+        },
+        {
+          "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+          "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+        },
+        {
+          "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+          "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        }
+      ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-          "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-        }
-      ]
-    },
-    {
-      "id": "romania",
-      "name": "Rumunsko",
-      "score": 18,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-          "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-        }
-      ]
+      "headlines": []
+    },
+    {
+      "id": "romania",
+      "name": "Rumunsko",
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -363,12 +340,12 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
-          "link": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss"
+          "title": "Valencia vs Real Madrid LIVE: La Liga",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss"
         },
         {
           "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
@@ -388,20 +365,12 @@
     }
   ],
   "radiation": {
-    "score": 17,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 12,
+    "trend": "down",
+    "score_change": -6,
     "headlines": [
-      {
-        "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-        "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss"
-      },
-      {
-        "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
-        "link": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy"
-      },
       {
         "title": "Ukraine's Defence Intelligence identifies Russians involved in airstrike on Komyshuvakha school",
         "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061730/"
