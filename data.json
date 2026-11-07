@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T23:59:55.975070+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-11-07T05:48:59.097268+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -31,24 +31,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia launches missile attack on Kyiv, injuring residents",
+          "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+        },
+        {
+          "title": "Three people injured in Russian attack on Kyiv, including child – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061667/"
+        },
+        {
+          "title": "Zelenskyy announces personnel changes in Ukraine's Armed Forces",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061654/"
+        },
+        {
           "title": "Russian strike on Zhytomyr energy facility causes blackouts and water pressure problems in Kyiv",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061638/"
         },
         {
           "title": "Finland calls on US to show \"political willingness\" and hand over already paid-for missiles to Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061630/"
-        },
-        {
-          "title": "NATO's secretary general does not think war in Ukraine will end with victory for either side",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061621/"
-        },
-        {
-          "title": "Ukrainian national from Netherlands delivers 10 vehicles to 3rd Army Corps",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061611/"
-        },
-        {
-          "title": "EU to grant Ukraine over €20bn more subject to implementation of reforms",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061582/"
         }
       ]
     },
@@ -104,16 +104,12 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "‘Message to the West’ bomb threats target European newsrooms, travel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss"
-        },
         {
           "title": "Further bomb threats disrupt at least another 18 flights across Europe",
           "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
@@ -183,11 +179,11 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 43,
+      "score": 40,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Two dead after bus crashes in France, officials say",
@@ -204,10 +200,6 @@
         {
           "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
           "link": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll"
-        },
-        {
-          "title": "G7 to hold separate meeting on Ukraine with Ukrainian foreign minister in attendance",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/06/8061566/"
         }
       ]
     },
@@ -258,16 +250,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "‘Message to the West’ bomb threats target European newsrooms, travel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss"
-        },
         {
           "title": "Further bomb threats disrupt at least another 18 flights across Europe",
           "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
@@ -354,8 +342,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 1,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -415,19 +403,15 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 13,
+      "score": 16,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -13,
       "headlines": [
         {
           "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
           "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-          "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
