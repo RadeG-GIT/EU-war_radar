@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T19:59:40.417629+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-11-07T23:36:20.093195+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -21,6 +21,10 @@
       "trend": "same",
       "score_change": 0,
       "headlines": [
+        {
+          "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss"
+        },
         {
           "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss"
@@ -36,10 +40,6 @@
         {
           "title": "Life in Kyiv becoming increasingly difficult – EU ambassador on Russian missile strike",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061745/"
-        },
-        {
-          "title": "Germany exhausts capacity to supply Patriot systems to Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061743/"
         }
       ]
     },
@@ -89,8 +89,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -109,8 +109,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -151,12 +151,17 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -29,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Police clash with protesters as anti-government rallies sweep France",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -164,8 +169,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Germany exhausts capacity to supply Patriot systems to Ukraine",
@@ -189,8 +194,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -199,8 +204,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -209,8 +214,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -266,31 +271,23 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 100,
+      "score": 82,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 80,
+      "trend": "down",
+      "score_change": -18,
       "headlines": [
         {
-          "title": "Five killed and at least 10 injured in Krakow shooting",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
-        },
-        {
-          "title": "At least six people killed in shooting in Poland’s Krakow",
-          "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss"
-        },
-        {
-          "title": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
-          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+          "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
         },
         {
-          "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+          "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
           "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        },
+        {
+          "title": "Zelenskyy condemns Kraków shooting as shocking crime",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061746/"
         }
       ]
     },
@@ -300,8 +297,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -310,8 +307,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -337,16 +334,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 19,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Valencia vs Real Madrid LIVE: La Liga",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss"
-        },
         {
           "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
           "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
@@ -365,12 +358,16 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "up",
+    "score_change": 3,
     "headlines": [
+      {
+        "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss"
+      },
       {
         "title": "Ukraine's Defence Intelligence identifies Russians involved in airstrike on Komyshuvakha school",
         "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061730/"
