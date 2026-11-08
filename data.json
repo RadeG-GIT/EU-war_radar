@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-11-08T14:52:54.076271+00:00",
+  "generated_at": "2026-11-08T20:17:14.653824+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Mohli byste předejít tolika úmrtím, kritizuje Česko šéfka místní WHO",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-mohli-byste-predejit-tolika-umrtim-kritizuje-cesko-sefka-mistni-who-319490"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,14 +27,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-          "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
-        },
-        {
-          "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-          "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss"
-        },
-        {
           "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
           "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
         },
@@ -40,6 +37,14 @@
         {
           "title": "Russia has attacked Ukraine with 115 missiles and over 3,000 drones this week, Zelenskyy reports – video",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061791/"
+        },
+        {
+          "title": "Turkish President Erdoğan discusses efforts to end war in Ukraine with Trump",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061785/"
+        },
+        {
+          "title": "Kostiantynivka front sees most Russian attacks over past day – Ukraine's General Staff",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061778/"
         }
       ]
     },
@@ -139,8 +144,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -149,8 +154,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -159,8 +164,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -186,12 +191,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -256,27 +266,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 100,
+      "score": 85,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
         {
-          "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-          "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss"
+          "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+          "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
         },
         {
           "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
           "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
-        },
-        {
-          "title": "Briton among six dead after gunman opens fire in Kraków market square",
-          "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
-        },
-        {
-          "title": "Celé Polsko vám drží palce. Kdo zpacifikoval vraha z Krakova",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-cele-polsko-vam-drzi-palce-kdo-zpacifikoval-vraha-z-krakova-40607398"
         }
       ]
     },
