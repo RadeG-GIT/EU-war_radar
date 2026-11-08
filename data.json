@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:15:14.693936+00:00",
+  "generated_at": "2026-11-08T14:52:54.076271+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss"
+          "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+          "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
         },
         {
-          "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss"
+          "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
+          "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss"
         },
         {
           "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
           "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-          "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+          "title": "Ukrainian forces strike four drone ground control stations in Russia and occupied territories",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061816/"
         },
         {
-          "title": "Life in Kyiv becoming increasingly difficult – EU ambassador on Russian missile strike",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061745/"
+          "title": "Russia has attacked Ukraine with 115 missiles and over 3,000 drones this week, Zelenskyy reports – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061791/"
         }
       ]
     },
@@ -136,47 +136,32 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Finland considers installing Ukrainian-style anti-tank barriers to strengthen Russian border",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061722/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Police clash with protesters as anti-government rallies sweep France",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Germany exhausts capacity to supply Patriot systems to Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061743/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -271,23 +256,27 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 82,
+      "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 18,
       "headlines": [
         {
-          "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
+          "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+          "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss"
         },
         {
-          "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+          "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
+          "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+        },
+        {
+          "title": "Briton among six dead after gunman opens fire in Kraków market square",
           "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
         },
         {
-          "title": "Zelenskyy condemns Kraków shooting as shocking crime",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061746/"
+          "title": "Celé Polsko vám drží palce. Kdo zpacifikoval vraha z Krakova",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-cele-polsko-vam-drzi-palce-kdo-zpacifikoval-vraha-z-krakova-40607398"
         }
       ]
     },
@@ -365,16 +354,16 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss"
+        "title": "Forty-five people still missing following Russian strike on Komyshuvakha – photo",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061823/"
       },
       {
-        "title": "Ukraine's Defence Intelligence identifies Russians involved in airstrike on Komyshuvakha school",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061730/"
+        "title": "Ukrainian forces strike four drone ground control stations in Russia and occupied territories",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061816/"
       },
       {
-        "title": "Russia attacks substations connecting Kyiv to nuclear power plants and infrastructure overnight – Zelenskyy",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/07/8061693/"
+        "title": "Zaporizhzhia Nuclear Power Plant experiences another blackout",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061781/"
       }
     ]
   }
