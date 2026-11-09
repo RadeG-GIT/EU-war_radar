@@ -1,19 +1,23 @@
 {
-  "generated_at": "2026-11-09T05:25:53.113772+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-09T18:30:32.199932+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Mohli byste předejít tolika úmrtím, kritizuje Česko šéfka místní WHO",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-mohli-byste-predejit-tolika-umrtim-kritizuje-cesko-sefka-mistni-who-319490"
+          "title": "V jakém stavu je česká armáda a jak se má změnit? Poslechněte si debatu Kulatý stůl",
+          "link": "https://www.irozhlas.cz/zpravy-domov/zive-v-jakem-stavu-je-ceska-armada-a-jak-se-ma-zmenit-poslouchejte-debatu-kulaty_2611091810_jos"
+        },
+        {
+          "title": "Česko už je oficiálně černým pasažérem v NATO. Říká si o vyhazov",
+          "link": "https://www.irozhlas.cz/komentare/cesko-uz-je-oficialne-cernym-pasazerem-v-nato-rika-si-o-vyhazov_2611091630_nob"
         }
       ]
     },
@@ -27,24 +31,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss"
+          "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
+          "link": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss"
         },
         {
-          "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+          "title": "Russia strikes Trypilska power plant crucial for three oblasts: consequences \"extremely serious\" – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8062006/"
         },
         {
-          "title": "Russia loses 2,980 soldiers over past day",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061871/"
+          "title": "Russians have tripled assaults on Huliaipole front and are increasingly advancing singly, Air Assault Forces say",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8062003/"
         },
         {
-          "title": "Ukrainian forces strike four drone ground control stations in Russia and occupied territories",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061816/"
+          "title": "Ukrainian forces strike Russian Starlink jamming station in Donetsk Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061975/"
         },
         {
-          "title": "Russia has attacked Ukraine with 115 missiles and over 3,000 drones this week, Zelenskyy reports – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061791/"
+          "title": "Russian forces suffered its highest daily losses on 8 November – Ukraine's General Staff",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061968/"
         }
       ]
     },
@@ -141,22 +145,44 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Russian war criminal attempts to appeal sentence in Finland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061945/"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 37,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 32,
+      "headlines": [
+        {
+          "title": "France accuses Iran of cyberattack on supermarket fridges",
+          "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss"
+        },
+        {
+          "title": "France accuses Iran of supermarket fridge hacking",
+          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+          "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+        },
+        {
+          "title": "Paříž viní íránské gardy z útoků na chladicí zařízení v obchodech",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/pariz-vini-iranske-gardy-z-utoku-na-chladici-zarizeni-v-obchodech-379447"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -194,8 +220,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -261,19 +287,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 100,
-      "level": "kriticke",
-      "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 15,
+      "score": 64,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "down",
+      "score_change": -36,
       "headlines": [
         {
-          "title": "Two police officers hailed as heroes for confronting Kraków gunman",
-          "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
+          "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
+          "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
         },
         {
-          "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
-          "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+          "title": "Co dělat, když se na veřejnosti střílí? ‚Nesnažit si věc natáčet nebo eliminovat hrozbu,’ doporučuje expert",
+          "link": "https://www.irozhlas.cz/zpravy-svet/co-delat-kdyz-se-na-verejnosti-strili-nesnazit-si-vec-natacet-nebo-eliminovat_2611091628_raf"
         },
         {
           "title": "Střelbu v Krakově vyšetřují jako terorismus, ministr varuje před dezinformacemi",
@@ -284,12 +310,17 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 13,
+      "headlines": [
+        {
+          "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+          "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -327,8 +358,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -343,23 +374,15 @@
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "down",
+    "score_change": -6,
     "headlines": [
       {
-        "title": "Forty-five people still missing following Russian strike on Komyshuvakha – photo",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061823/"
-      },
-      {
-        "title": "Ukrainian forces strike four drone ground control stations in Russia and occupied territories",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061816/"
-      },
-      {
-        "title": "Zaporizhzhia Nuclear Power Plant experiences another blackout",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061781/"
+        "title": "Russian attack damages Actor's House theatre building in Zaporizhzhia",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061962/"
       }
     ]
   }
