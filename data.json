@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:17:14.653824+00:00",
+  "generated_at": "2026-11-09T05:25:53.113772+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Mohli byste předejít tolika úmrtím, kritizuje Česko šéfka místní WHO",
@@ -27,8 +27,16 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss"
+        },
+        {
           "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
           "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia loses 2,980 soldiers over past day",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061871/"
         },
         {
           "title": "Ukrainian forces strike four drone ground control stations in Russia and occupied territories",
@@ -37,14 +45,6 @@
         {
           "title": "Russia has attacked Ukraine with 115 missiles and over 3,000 drones this week, Zelenskyy reports – video",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061791/"
-        },
-        {
-          "title": "Turkish President Erdoğan discusses efforts to end war in Ukraine with Trump",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061785/"
-        },
-        {
-          "title": "Kostiantynivka front sees most Russian attacks over past day – Ukraine's General Staff",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/08/8061778/"
         }
       ]
     },
@@ -191,17 +191,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -266,11 +261,11 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 85,
+      "score": 100,
       "level": "kriticke",
       "color": "#9C3B37",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "up",
+      "score_change": 15,
       "headlines": [
         {
           "title": "Two police officers hailed as heroes for confronting Kraków gunman",
@@ -279,6 +274,10 @@
         {
           "title": "Polish prosecutors open terrorism investigation into Kraków shooting",
           "link": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation"
+        },
+        {
+          "title": "Střelbu v Krakově vyšetřují jako terorismus, ministr varuje před dezinformacemi",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/mezi-obetmi-strelby-v-krakove-je-brit-ostatni-jsou-polaci-uvedly-urady-379395"
         }
       ]
     },
@@ -325,17 +324,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 16,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     },
     {
       "id": "sweden",
