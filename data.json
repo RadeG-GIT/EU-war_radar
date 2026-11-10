@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-11-10T02:36:23.026575+00:00",
+  "generated_at": "2026-11-10T12:18:33.829911+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "V jakém stavu je česká armáda a jak se má změnit? Poslechněte si debatu Kulatý stůl",
-          "link": "https://www.irozhlas.cz/zpravy-domov/zive-v-jakem-stavu-je-ceska-armada-a-jak-se-ma-zmenit-poslouchejte-debatu-kulaty_2611091810_jos"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "South Africa detains foreigners suspected of heading to join Russian forces",
-          "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss"
-        },
-        {
           "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
           "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "EU extends training mission for Ukrainian military and decides to establish representation in Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8062027/"
+          "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
         },
         {
-          "title": "Ukrainian drones strike Russian Rubicon base 107 km from front line – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8062021/"
+          "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+          "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
         },
         {
-          "title": "Russia strikes Trypilska power plant crucial for three oblasts: consequences \"extremely serious\" – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8062006/"
+          "title": "Security guarantees, including for Russia, discussed at Abu Dhabi talks – source",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062135/"
+        },
+        {
+          "title": "Zelenskyy names fastest way to end Russia's war against Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062133/"
         }
       ]
     },
@@ -111,27 +106,31 @@
     {
       "id": "cyprus",
       "name": "Kypr",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Cyprus rivals agree new crossings across island’s dividing line",
-          "link": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "Denmark announces over €640m military aid package for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062121/"
+        },
+        {
+          "title": "Zelenskyy to visit Denmark on 10 November",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062096/"
+        }
+      ]
     },
     {
       "id": "estonia",
@@ -149,26 +148,34 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 28,
-      "level": "mirne",
+      "score": 46,
+      "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "up",
+      "score_change": 18,
       "headlines": [
         {
-          "title": "France blames Iran for October supermarket cyberattack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss"
+          "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
+          "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss"
         },
         {
-          "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-          "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+          "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+        },
+        {
+          "title": "France allocates €40 million to repair Chornobyl nuclear plant shelter after Russian drone strike",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062083/"
+        },
+        {
+          "title": "V Abú Dhabí začalo jednání o cestě k ukončení ruské války na Ukrajině",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/v-abu-dhabi-zacalo-jednani-o-ceste-k-ukonceni-ruske-valky-na-ukrajine-379465"
         },
         {
           "title": "Paříž viní íránské gardy z útoků na chladicí zařízení v obchodech",
@@ -219,12 +226,17 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "V Abú Dhabí začalo jednání o cestě k ukončení ruské války na Ukrajině",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/v-abu-dhabi-zacalo-jednani-o-ceste-k-ukonceni-ruske-valky-na-ukrajine-379465"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -279,19 +291,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 61,
-      "level": "zvysene",
+      "score": 29,
+      "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -32,
       "headlines": [
         {
-          "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
-          "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
-        },
-        {
-          "title": "Střelbu v Krakově vyšetřují jako terorismus, ministr varuje před dezinformacemi",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/mezi-obetmi-strelby-v-krakove-je-brit-ostatni-jsou-polaci-uvedly-urady-379395"
+          "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+          "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -362,15 +370,19 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 3,
     "headlines": [
       {
-        "title": "Russian attack damages Actor's House theatre building in Zaporizhzhia",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061962/"
+        "title": "Ukrainian commander says Russians create logistical lockdown in Zaporizhzhia to reach Dnipro",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062106/"
+      },
+      {
+        "title": "France allocates €40 million to repair Chornobyl nuclear plant shelter after Russian drone strike",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062083/"
       }
     ]
   }
