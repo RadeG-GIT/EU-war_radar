@@ -1,23 +1,19 @@
 {
-  "generated_at": "2026-11-09T18:30:32.199932+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-11-10T02:36:23.026575+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "V jakém stavu je česká armáda a jak se má změnit? Poslechněte si debatu Kulatý stůl",
           "link": "https://www.irozhlas.cz/zpravy-domov/zive-v-jakem-stavu-je-ceska-armada-a-jak-se-ma-zmenit-poslouchejte-debatu-kulaty_2611091810_jos"
-        },
-        {
-          "title": "Česko už je oficiálně černým pasažérem v NATO. Říká si o vyhazov",
-          "link": "https://www.irozhlas.cz/komentare/cesko-uz-je-oficialne-cernym-pasazerem-v-nato-rika-si-o-vyhazov_2611091630_nob"
         }
       ]
     },
@@ -31,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
-          "link": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss"
+          "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+          "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "EU extends training mission for Ukrainian military and decides to establish representation in Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8062027/"
+        },
+        {
+          "title": "Ukrainian drones strike Russian Rubicon base 107 km from front line – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8062021/"
         },
         {
           "title": "Russia strikes Trypilska power plant crucial for three oblasts: consequences \"extremely serious\" – photos",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8062006/"
-        },
-        {
-          "title": "Russians have tripled assaults on Huliaipole front and are increasingly advancing singly, Air Assault Forces say",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8062003/"
-        },
-        {
-          "title": "Ukrainian forces strike Russian Starlink jamming station in Donetsk Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061975/"
-        },
-        {
-          "title": "Russian forces suffered its highest daily losses on 8 November – Ukraine's General Staff",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061968/"
         }
       ]
     },
@@ -115,12 +111,17 @@
     {
       "id": "cyprus",
       "name": "Kypr",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Cyprus rivals agree new crossings across island’s dividing line",
+          "link": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "denmark",
@@ -145,34 +146,25 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Russian war criminal attempts to appeal sentence in Finland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/09/8061945/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 37,
+      "score": 28,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 32,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
-          "title": "France accuses Iran of cyberattack on supermarket fridges",
-          "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss"
-        },
-        {
-          "title": "France accuses Iran of supermarket fridge hacking",
-          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+          "title": "France blames Iran for October supermarket cyberattack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss"
         },
         {
           "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
@@ -287,19 +279,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 64,
+      "score": 61,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -36,
+      "score_change": -3,
       "headlines": [
         {
           "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
           "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
-        },
-        {
-          "title": "Co dělat, když se na veřejnosti střílí? ‚Nesnažit si věc natáčet nebo eliminovat hrozbu,’ doporučuje expert",
-          "link": "https://www.irozhlas.cz/zpravy-svet/co-delat-kdyz-se-na-verejnosti-strili-nesnazit-si-vec-natacet-nebo-eliminovat_2611091628_raf"
         },
         {
           "title": "Střelbu v Krakově vyšetřují jako terorismus, ministr varuje před dezinformacemi",
@@ -313,8 +301,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
@@ -377,8 +365,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Russian attack damages Actor's House theatre building in Zaporizhzhia",
