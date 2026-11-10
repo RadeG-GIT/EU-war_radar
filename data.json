@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-11-10T12:18:33.829911+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-10T21:42:06.841872+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Po boku stíhaček F-35 bude létat „věrný doprovod“",
+          "link": "https://www.novinky.cz/clanek/domaci-po-boku-stihacek-f-35-bude-letat-verny-doprovod-40607261"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "title": "First day of Ukraine peace talks constructive, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+          "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+          "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+          "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
         },
         {
-          "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+          "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
           "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
-        },
-        {
-          "title": "Security guarantees, including for Russia, discussed at Abu Dhabi talks – source",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062135/"
-        },
-        {
-          "title": "Zelenskyy names fastest way to end Russia's war against Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062133/"
         }
       ]
     },
@@ -86,12 +91,17 @@
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 16,
+      "headlines": [
+        {
+          "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -109,26 +119,22 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 16,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "Denmark announces over €640m military aid package for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062121/"
-        },
-        {
-          "title": "Zelenskyy to visit Denmark on 10 November",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062096/"
+          "title": "Zelenskyy reveals contents of €643m aid package from Denmark",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062191/"
         }
       ]
     },
@@ -155,27 +161,19 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 46,
-      "level": "zvysene",
+      "score": 42,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "down",
+      "score_change": -4,
       "headlines": [
         {
-          "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
-          "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss"
-        },
-        {
-          "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+          "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
         },
         {
-          "title": "France allocates €40 million to repair Chornobyl nuclear plant shelter after Russian drone strike",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062083/"
-        },
-        {
-          "title": "V Abú Dhabí začalo jednání o cestě k ukončení ruské války na Ukrajině",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/v-abu-dhabi-zacalo-jednani-o-ceste-k-ukonceni-ruske-valky-na-ukrajine-379465"
+          "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+          "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
         },
         {
           "title": "Paříž viní íránské gardy z útoků na chladicí zařízení v obchodech",
@@ -216,27 +214,27 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
-    },
-    {
-      "id": "italy",
-      "name": "Italie",
-      "score": 7,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "V Abú Dhabí začalo jednání o cestě k ukončení ruské války na Ukrajině",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/v-abu-dhabi-zacalo-jednani-o-ceste-k-ukonceni-ruske-valky-na-ukrajine-379465"
+          "title": "Woman jailed for posing as man to dupe partner into sex found guilty of similar deception",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/10/woman-jailed-for-posing-as-man-dupe-partner-sex-guilty-of-similar-deception"
         }
       ]
+    },
+    {
+      "id": "italy",
+      "name": "Italie",
+      "score": 4,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -281,12 +279,17 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations"
+        }
+      ]
     },
     {
       "id": "poland",
@@ -294,8 +297,8 @@
       "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -32,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
@@ -351,12 +354,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 23,
+      "headlines": [
+        {
+          "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+          "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -370,20 +378,11 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
-    "headlines": [
-      {
-        "title": "Ukrainian commander says Russians create logistical lockdown in Zaporizhzhia to reach Dnipro",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062106/"
-      },
-      {
-        "title": "France allocates €40 million to repair Chornobyl nuclear plant shelter after Russian drone strike",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/10/8062083/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -6,
+    "headlines": []
   }
 }
