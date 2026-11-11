@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-11-11T15:57:02.957105+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-11-11T22:36:02.052500+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
+        {
+          "title": "Česko chybí na cvičení v Polsku. ‚Nemáme ambici vysílat vojáky mimo území NATO,‘ uvedl Okamura",
+          "link": "https://www.irozhlas.cz/zpravy-domov/cesko-chybelo-na-cviceni-v-polsku-nemame-ambici-vysilat-vojaky-mimo-uzemi-nato_2611111801_ntu"
+        },
+        {
+          "title": "SPD zařízlo českou účast na vojenském cvičení v Polsku. Ztrácíme vliv, tvrdí kritici",
+          "link": "https://www.novinky.cz/clanek/domaci-spd-zarizlo-ceskou-ucast-na-vojenskem-cviceni-v-polsku-ztracime-vliv-tvrdi-kritici-40608151"
+        },
         {
           "title": "Pavla rozladila neúčast českých vojáků na cvičení v Polsku",
           "link": "https://ct24.ceskatelevize.cz/clanek/domaci/pavla-rozladila-neucast-ceskych-vojaku-na-cviceni-v-polsku-379503"
@@ -39,11 +47,11 @@
           "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
         },
         {
-          "title": "Is the US blue wave a turning point for Europe, too?",
-          "link": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too"
+          "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+          "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
         },
         {
-          "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+          "title": "US envoys to meet Putin and Zelenskyy separately - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
         }
       ]
@@ -64,8 +72,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -94,8 +102,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -16,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -111,27 +119,27 @@
     {
       "id": "cyprus",
       "name": "Kypr",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "British soldier charged with rape of army servicewoman in Cyprus",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus"
+        }
+      ]
     },
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 15,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 2,
-      "headlines": [
-        {
-          "title": "Ukraine may test first European anti-ballistic missile system this winter",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/11/8062321/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "estonia",
@@ -156,17 +164,12 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -17,
-      "headlines": [
-        {
-          "title": "Mbappe misses France training before Nations League clash with Italy",
-          "link": "https://www.aljazeera.com/sports/2026/11/11/kylian-mbappe-france-training-italy-uefa-nations-league?traffic_source=rss"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "germany",
@@ -201,45 +204,45 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
         {
-          "title": "Schools across Italy evacuated after receiving email bomb alerts",
-          "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss"
+          "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss"
         },
         {
-          "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
+          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+          "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
         }
       ]
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Schools across Italy evacuated after receiving email bomb alerts",
-          "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss"
+          "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss"
         },
         {
-          "title": "Mbappe misses France training before Nations League clash with Italy",
-          "link": "https://www.aljazeera.com/sports/2026/11/11/kylian-mbappe-france-training-italy-uefa-nations-league?traffic_source=rss"
-        },
-        {
-          "title": "Six thousand Italian schools hit by threats in suspected bomb hoax",
+          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
           "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+          "title": "US envoys to meet Putin and Zelenskyy separately - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
         }
       ]
@@ -257,17 +260,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Lithuania warns Russia is exploiting drone incidents to spread disinformation",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/11/8062308/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -295,47 +293,38 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 59,
-      "level": "zvysene",
+      "score": 38,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 30,
+      "trend": "down",
+      "score_change": -21,
       "headlines": [
+        {
+          "title": "Tens of thousands join Poland’s nationalist Independence Day march",
+          "link": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss"
+        },
         {
           "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
           "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "British man who died in Kraków shooting named as James Campbell",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell"
-        },
-        {
-          "title": "Ukrainian foreign minister sure Ukrainian-Polish alliance will shape new security order in Europe",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/11/8062332/"
         }
       ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 15,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-          "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow"
-        }
-      ]
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -373,12 +362,12 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -10,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Mbappe misses France training before Nations League clash with Italy",
-          "link": "https://www.aljazeera.com/sports/2026/11/11/kylian-mbappe-france-training-italy-uefa-nations-league?traffic_source=rss"
+          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
@@ -398,15 +387,19 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "up",
-    "score_change": 6,
+    "score_change": 3,
     "headlines": [
       {
         "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
         "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
+      },
+      {
+        "title": "Woman, 68, sentenced for donation to Ukrainian military hospitalised in Russia: \"She's barely able to stand\"",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/11/8062408/"
       },
       {
         "title": "Three injured in Russian FPV drone strike on Zaporizhzhia",
