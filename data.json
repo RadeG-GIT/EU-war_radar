@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:42:06.841872+00:00",
+  "generated_at": "2026-11-11T05:24:34.031452+00:00",
   "overall_score": 14,
   "hotspots": [
     {
@@ -8,12 +8,12 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Po boku stíhaček F-35 bude létat „věrný doprovod“",
-          "link": "https://www.novinky.cz/clanek/domaci-po-boku-stihacek-f-35-bude-letat-verny-doprovod-40607261"
+          "title": "Platila je skrytě komunistická Čína. Teď pro stát za miliony školí klíčové lidi",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-platila-je-skryte-komunisticka-cina-ted-pro-stat-za-miliony-skoli-klicove-lidi-318546"
         }
       ]
     },
@@ -27,6 +27,14 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Russia claims interception of 146 drones in Leningrad region",
+          "link": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss"
+        },
+        {
+          "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+          "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss"
+        },
+        {
           "title": "First day of Ukraine peace talks constructive, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
         },
@@ -37,14 +45,6 @@
         {
           "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
           "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
-        },
-        {
-          "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
-          "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
         }
       ]
     },
@@ -61,12 +61,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 33,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 18,
+      "headlines": [
+        {
+          "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+          "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -94,8 +99,8 @@
       "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 16,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
@@ -129,8 +134,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zelenskyy reveals contents of €643m aid package from Denmark",
@@ -161,19 +166,15 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 42,
+      "score": 25,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -4,
+      "score_change": -17,
       "headlines": [
         {
           "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
-        },
-        {
-          "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-          "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
         },
         {
           "title": "Paříž viní íránské gardy z útoků na chladicí zařízení v obchodech",
@@ -214,17 +215,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Woman jailed for posing as man to dupe partner into sex found guilty of similar deception",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/10/woman-jailed-for-posing-as-man-dupe-partner-sex-guilty-of-similar-deception"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -232,8 +228,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -282,8 +278,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
@@ -354,15 +350,19 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 26,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 23,
+      "score_change": 3,
       "headlines": [
         {
           "title": "Police officer dies and another injured after backpack explosion in northern Spain",
           "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+          "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -381,8 +381,8 @@
     "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": []
   }
 }
