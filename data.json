@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T06:28:22.032856+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-11-12T16:40:22.531564+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Pavla rozladila neúčast českých vojáků na cvičení v Polsku",
@@ -27,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+          "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+          "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
           "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
         },
         {
-          "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-          "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
-        },
-        {
-          "title": "US envoys to meet Putin and Zelenskyy separately - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
-        },
-        {
-          "title": "Is the US blue wave a turning point for Europe, too?",
-          "link": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too"
+          "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
         }
       ]
     },
@@ -114,8 +114,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,8 +154,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Francie hledá Macronova nástupce, průzkumům dominují politické okraje",
@@ -196,19 +196,23 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 8,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
+      "score_change": -5,
       "headlines": [
+        {
+          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
           "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-          "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
+          "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
         }
       ]
     },
@@ -218,16 +222,16 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
+        {
+          "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+          "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
           "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "US envoys to meet Putin and Zelenskyy separately - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
         }
       ]
     },
@@ -254,12 +258,17 @@
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 2,
+      "score": 0,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "down",
+      "score_change": -2,
+      "headlines": [
+        {
+          "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "malta",
@@ -287,8 +296,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -334,11 +343,11 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 19,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -347,6 +356,10 @@
         {
           "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
           "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+          "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
         }
       ]
     },
@@ -365,16 +378,16 @@
     "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
         "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
       },
       {
-        "title": "Woman, 68, sentenced for donation to Ukrainian military hospitalised in Russia: \"She's barely able to stand\"",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/11/8062408/"
+        "title": "Three women injured in Russian drone attack on bus in Zaporizhzhia district",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/12/8062534/"
       }
     ]
   }
