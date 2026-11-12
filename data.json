@@ -1,24 +1,16 @@
 {
-  "generated_at": "2026-11-11T22:36:02.052500+00:00",
+  "generated_at": "2026-11-12T06:28:22.032856+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
-        {
-          "title": "Česko chybí na cvičení v Polsku. ‚Nemáme ambici vysílat vojáky mimo území NATO,‘ uvedl Okamura",
-          "link": "https://www.irozhlas.cz/zpravy-domov/cesko-chybelo-na-cviceni-v-polsku-nemame-ambici-vysilat-vojaky-mimo-uzemi-nato_2611111801_ntu"
-        },
-        {
-          "title": "SPD zařízlo českou účast na vojenském cvičení v Polsku. Ztrácíme vliv, tvrdí kritici",
-          "link": "https://www.novinky.cz/clanek/domaci-spd-zarizlo-ceskou-ucast-na-vojenskem-cviceni-v-polsku-ztracime-vliv-tvrdi-kritici-40608151"
-        },
         {
           "title": "Pavla rozladila neúčast českých vojáků na cvičení v Polsku",
           "link": "https://ct24.ceskatelevize.cz/clanek/domaci/pavla-rozladila-neucast-ceskych-vojaku-na-cviceni-v-polsku-379503"
@@ -39,10 +31,6 @@
           "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-          "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
           "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
         },
@@ -53,6 +41,10 @@
         {
           "title": "US envoys to meet Putin and Zelenskyy separately - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
+        },
+        {
+          "title": "Is the US blue wave a turning point for Europe, too?",
+          "link": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too"
         }
       ]
     },
@@ -119,17 +111,12 @@
     {
       "id": "cyprus",
       "name": "Kypr",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "British soldier charged with rape of army servicewoman in Cyprus",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "denmark",
@@ -137,8 +124,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -11,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -164,12 +151,17 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Francie hledá Macronova nástupce, průzkumům dominují politické okraje",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/francie-hleda-macronova-nastupce-pruzkumum-dominuji-politicke-okraje-379444"
+        }
+      ]
     },
     {
       "id": "germany",
@@ -204,16 +196,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss"
-        },
         {
           "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
           "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
@@ -227,16 +215,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss"
-        },
         {
           "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
           "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
@@ -263,8 +247,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -300,21 +284,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 38,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -21,
-      "headlines": [
-        {
-          "title": "Tens of thousands join Poland’s nationalist Independence Day march",
-          "link": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss"
-        },
-        {
-          "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
-          "link": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "score_change": -18,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -322,8 +297,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -387,11 +362,11 @@
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
       {
         "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
@@ -400,10 +375,6 @@
       {
         "title": "Woman, 68, sentenced for donation to Ukrainian military hospitalised in Russia: \"She's barely able to stand\"",
         "link": "https://www.pravda.com.ua/eng/news/2026/11/11/8062408/"
-      },
-      {
-        "title": "Three injured in Russian FPV drone strike on Zaporizhzhia",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/11/8062336/"
       }
     ]
   }
