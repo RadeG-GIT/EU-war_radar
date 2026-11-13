@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-11-13T11:58:06.719415+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-13T19:32:18.441930+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/usa-ustoupily-rusku-kyvly-na-debatu-o-nove-jalte-379598"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,12 +27,16 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-          "link": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss"
+          "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+          "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
         },
         {
-          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+          "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+          "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+          "link": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss"
         },
         {
           "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
@@ -36,10 +45,6 @@
         {
           "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
           "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
-        },
-        {
-          "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
         }
       ]
     },
@@ -136,27 +141,34 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 25,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 10,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -6,
-      "headlines": [
-        {
-          "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
+      "score_change": -15,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "European representatives for Ukraine peace talks revealed",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062795/"
+        },
+        {
+          "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
+          "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
+        },
+        {
+          "title": "Evropany bude na mírových jednáních zastupovat pět zemí",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropany-bude-na-mirovych-jednanich-zastupovat-pet-zemi-40608604"
+        },
         {
           "title": "Francie hledá Macronova nástupce, průzkumům dominují politické okraje",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/francie-hleda-macronova-nastupce-pruzkumum-dominuji-politicke-okraje-379444"
@@ -166,23 +178,31 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 9,
       "headlines": [
         {
-          "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
-          "link": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse"
+          "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany"
         },
         {
-          "title": "German drone manufacturer Quantum Systems supplying Ukraine suffers cyberattack",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062653/"
+          "title": "European representatives for Ukraine peace talks revealed",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062795/"
         },
         {
-          "title": "Ochota Čechů bránit vlast zeslábla. Slovensko a Německo jsou na tom ještě hůř",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ochota-cechu-branit-vlast-zeslabla-slovensko-a-nemecko-jsou-na-tom-jeste-hur-320405"
+          "title": "Merz: Germany will be a guaranteed participant in peace talks on war in Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062739/"
+        },
+        {
+          "title": "Germany to provide Ukraine with another €200m in winter aid",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062713/"
+        },
+        {
+          "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
+          "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
         }
       ]
     },
@@ -199,36 +219,22 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 1,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": [
-        {
-          "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
-        }
-      ]
+      "trend": "up",
+      "score_change": 3,
+      "headlines": []
     },
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 23,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 17,
-      "headlines": [
-        {
-          "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
-        },
-        {
-          "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
-          "link": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails"
-        }
-      ]
+      "trend": "down",
+      "score_change": -21,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -236,12 +242,20 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-          "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+          "title": "European representatives for Ukraine peace talks revealed",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062795/"
+        },
+        {
+          "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
+          "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
+        },
+        {
+          "title": "Evropany bude na mírových jednáních zastupovat pět zemí",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropany-bude-na-mirovych-jednanich-zastupovat-pet-zemi-40608604"
         }
       ]
     },
@@ -271,8 +285,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 2,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -298,12 +312,25 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "European representatives for Ukraine peace talks revealed",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062795/"
+        },
+        {
+          "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
+          "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
+        },
+        {
+          "title": "Evropany bude na mírových jednáních zastupovat pět zemí",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropany-bude-na-mirovych-jednanich-zastupovat-pet-zemi-40608604"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -328,17 +355,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Ochota Čechů bránit vlast zeslábla. Slovensko a Německo jsou na tom ještě hůř",
-          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ochota-cechu-branit-vlast-zeslabla-slovensko-a-nemecko-jsou-na-tom-jeste-hur-320405"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -356,8 +378,8 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
@@ -372,36 +394,37 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Po Finsku a Norsku odepře ruským sportovcům vstup do země i Švédsko",
+          "link": "https://www.novinky.cz/clanek/zahranicni-po-finsku-a-norsku-odepre-ruskym-sportovcum-vstup-do-zeme-i-svedsko-40608611"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 23,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 12,
+    "trend": "down",
+    "score_change": -9,
     "headlines": [
       {
         "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
         "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
       },
       {
-        "title": "Russian strike on Zaporizhzhia kills one and injures four, including children – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062677/"
+        "title": "Russian attack on Zaporizhzhia on 13 November: number injured rises to 50, including 8 children – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062775/"
       },
       {
-        "title": "Woman dies in hospital after Russian strike on bus in Zaporizhzhia Oblast",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062674/"
-      },
-      {
-        "title": "Russians attack Zaporizhzhia: 17-year-old boy killed, four people rescued from under rubble – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062645/"
+        "title": "Ukrainian soldiers evacuate last resident of Mala Tokmachka after five-month rescue operation",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062709/"
       }
     ]
   }
