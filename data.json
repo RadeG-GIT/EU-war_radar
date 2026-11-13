@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T00:57:04.292080+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-11-13T11:58:06.719415+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,8 +22,12 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-          "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
+          "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+          "link": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss"
+        },
+        {
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
@@ -34,12 +38,8 @@
           "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
         },
         {
-          "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-          "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
-        },
-        {
-          "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
-          "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine"
+          "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
         }
       ]
     },
@@ -136,23 +136,15 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 31,
+      "score": 25,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 21,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
           "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
-          "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine"
-        },
-        {
-          "title": "Ruští sportovci nesmí do Finska a Norska, dokud neskončí válka",
-          "link": "https://www.seznamzpravy.cz/clanek/sport-rusti-sportovci-nesmi-do-finska-dokud-neskonci-valka-rozhodla-vlada-320418"
         }
       ]
     },
@@ -174,12 +166,25 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
+          "link": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse"
+        },
+        {
+          "title": "German drone manufacturer Quantum Systems supplying Ukraine suffers cyberattack",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062653/"
+        },
+        {
+          "title": "Ochota Čechů bránit vlast zeslábla. Slovensko a Německo jsou na tom ještě hůř",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ochota-cechu-branit-vlast-zeslabla-slovensko-a-nemecko-jsou-na-tom-jeste-hur-320405"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -194,56 +199,49 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 4,
+      "score": 1,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "down",
+      "score_change": -3,
+      "headlines": [
+        {
+          "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 6,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 3,
+      "score_change": 17,
       "headlines": [
         {
-          "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-          "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
+          "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
         },
         {
-          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
-        },
-        {
-          "title": "Zelenskyy shares details of meeting with Polish PM Tusk in Dublin",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/12/8062586/"
+          "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+          "link": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails"
         }
       ]
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 10,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
           "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -270,17 +268,12 @@
     {
       "id": "luxembourg",
       "name": "Lucembursko",
-      "score": 0,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
-        }
-      ]
+      "trend": "up",
+      "score_change": 2,
+      "headlines": []
     },
     {
       "id": "malta",
@@ -335,12 +328,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ochota Čechů bránit vlast zeslábla. Slovensko a Německo jsou na tom ještě hůř",
+          "link": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ochota-cechu-branit-vlast-zeslabla-slovensko-a-nemecko-jsou-na-tom-jeste-hur-320405"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -355,16 +353,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 22,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
           "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss"
@@ -387,19 +381,27 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 23,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 12,
     "headlines": [
       {
         "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
         "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
       },
       {
-        "title": "Havlíček: Češi by mohli dodávat součástky pro ukrajinské jaderné elektrárny",
-        "link": "https://www.seznamzpravy.cz/clanek/zahranicni-havlicek-cesi-by-mohli-dodavat-soucastky-pro-ukrajinske-jaderne-elektrarny-320422"
+        "title": "Russian strike on Zaporizhzhia kills one and injures four, including children – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062677/"
+      },
+      {
+        "title": "Woman dies in hospital after Russian strike on bus in Zaporizhzhia Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062674/"
+      },
+      {
+        "title": "Russians attack Zaporizhzhia: 17-year-old boy killed, four people rescued from under rubble – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062645/"
       }
     ]
   }
