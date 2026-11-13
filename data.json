@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-11-12T16:40:22.531564+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-11-13T00:57:04.292080+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Pavla rozladila neúčast českých vojáků na cvičení v Polsku",
-          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/pavla-rozladila-neucast-ceskych-vojaku-na-cviceni-v-polsku-379503"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,12 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-          "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+          "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+          "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
         },
         {
           "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
@@ -43,8 +34,12 @@
           "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
         },
         {
-          "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+          "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+          "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+        },
+        {
+          "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+          "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine"
         }
       ]
     },
@@ -141,12 +136,25 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 31,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 21,
+      "headlines": [
+        {
+          "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+          "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine"
+        },
+        {
+          "title": "Ruští sportovci nesmí do Finska a Norska, dokud neskončí válka",
+          "link": "https://www.seznamzpravy.cz/clanek/sport-rusti-sportovci-nesmi-do-finska-dokud-neskonci-valka-rozhodla-vlada-320418"
+        }
+      ]
     },
     {
       "id": "france",
@@ -196,23 +204,27 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+          "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+          "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
         },
         {
           "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
           "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
+          "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+        },
+        {
+          "title": "Zelenskyy shares details of meeting with Polish PM Tusk in Dublin",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/12/8062586/"
         }
       ]
     },
@@ -261,11 +273,11 @@
       "score": 0,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -2,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
+          "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
         }
       ]
@@ -346,8 +358,8 @@
       "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -386,8 +398,8 @@
         "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
       },
       {
-        "title": "Three women injured in Russian drone attack on bus in Zaporizhzhia district",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/12/8062534/"
+        "title": "Havlíček: Češi by mohli dodávat součástky pro ukrajinské jaderné elektrárny",
+        "link": "https://www.seznamzpravy.cz/clanek/zahranicni-havlicek-cesi-by-mohli-dodavat-soucastky-pro-ukrajinske-jaderne-elektrarny-320422"
       }
     ]
   }
