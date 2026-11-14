@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:32:18.441930+00:00",
+  "generated_at": "2026-11-14T00:47:08.524360+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”",
@@ -31,20 +31,20 @@
           "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
         },
         {
-          "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
-          "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-          "link": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss"
-        },
-        {
           "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
           "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
           "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
+        },
+        {
+          "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+          "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+        },
+        {
+          "title": "\"This is our time\": Polish PM Tusk reacts to announcement of Europe's role in Ukraine peace talks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062802/"
         }
       ]
     },
@@ -141,12 +141,17 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -15,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Moskva chce ukázat, že má zájem jednat. Ze svých požadavků ale neustoupí, říká bezpečnostní expert",
+          "link": "https://www.irozhlas.cz/zpravy-svet/moskva-chce-ukazat-ze-ma-zajem-jednat-ze-svych-pozadavku-ale-neustoupi-rika_2611132212_vaa"
+        }
+      ]
     },
     {
       "id": "france",
@@ -154,8 +159,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "European representatives for Ukraine peace talks revealed",
@@ -178,11 +183,11 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 23,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
@@ -197,12 +202,12 @@
           "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062739/"
         },
         {
-          "title": "Germany to provide Ukraine with another €200m in winter aid",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062713/"
-        },
-        {
           "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
           "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
+        },
+        {
+          "title": "Evropany bude na mírových jednáních zastupovat pět zemí",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropany-bude-na-mirovych-jednanich-zastupovat-pet-zemi-40608604"
         }
       ]
     },
@@ -222,19 +227,24 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -21,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+          "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -312,9 +322,9 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 23,
-      "level": "nizke",
-      "color": "#4C8C6B",
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
@@ -325,6 +335,10 @@
         {
           "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
           "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
+        },
+        {
+          "title": "Polsko pozastavuje financování zbraní pro Ukrajinu",
+          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-polsko-pozastavuje-financovani-zbrani-pro-ukrajinu-40608612"
         },
         {
           "title": "Evropany bude na mírových jednáních zastupovat pět zemí",
@@ -358,8 +372,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -375,16 +389,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 19,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -13,
       "headlines": [
-        {
-          "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-          "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
           "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
@@ -397,8 +407,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Po Finsku a Norsku odepře ruským sportovcům vstup do země i Švédsko",
@@ -408,11 +418,11 @@
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "down",
-    "score_change": -9,
+    "score_change": -3,
     "headlines": [
       {
         "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
@@ -421,10 +431,6 @@
       {
         "title": "Russian attack on Zaporizhzhia on 13 November: number injured rises to 50, including 8 children – photos",
         "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062775/"
-      },
-      {
-        "title": "Ukrainian soldiers evacuate last resident of Mala Tokmachka after five-month rescue operation",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062709/"
       }
     ]
   }
