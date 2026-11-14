@@ -1,28 +1,16 @@
 {
-  "generated_at": "2026-11-14T11:16:58.054871+00:00",
+  "generated_at": "2026-11-14T17:47:33.248365+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 21,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
-        {
-          "title": "Plane aborts landing at Warsaw airport due to drone",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062806/"
-        },
-        {
-          "title": "Microsoft obnovil fungování svých služeb, o kybernetický útok nešlo. Výpadek zasáhl i Česko",
-          "link": "https://www.irozhlas.cz/veda-technologie/technologie/microsoft-obnovil-fungovani-svych-sluzeb-o-kyberneticky-utok-neslo-vypadek_2611140939_aln"
-        },
-        {
-          "title": "Týdeník iROZHLASu: reakce na Macinkovy ‚mužatky‘, stopka pro ruského podnikatele a kampaň STAN",
-          "link": "https://www.irozhlas.cz/zpravy-domov/tydenik-irozhlasu-reakce-na-macinkovy-muzatky-stopka-pro-ruskeho-podnikatele-a_2611140800_pik"
-        },
         {
           "title": "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/usa-ustoupily-rusku-kyvly-na-debatu-o-nove-jalte-379598"
@@ -39,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+          "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss"
+        },
+        {
+          "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+          "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss"
+        },
+        {
+          "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+          "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss"
+        },
+        {
+          "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+          "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss"
+        },
+        {
           "title": "Ukraine, Russia race to build military satellite networks as war rages on",
           "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss"
-        },
-        {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Estonia bans Russian athletes as backlash intensifies",
-          "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-          "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-          "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
         }
       ]
     },
@@ -93,12 +81,21 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Vyzýváme Izrael, aby umožnil neomezený vstup humanitární pomoci do Gazy, apeluje Evropská unie",
+          "link": "https://www.irozhlas.cz/zpravy-svet/vyzyvame-izrael-aby-umoznil-neomezeny-vstup-humanitarni-pomoci-do-gazy-apeluje_2611141600_elv"
+        },
+        {
+          "title": "Uvolněte cestu pomoci do Gazy, vyzvala EU Izrael",
+          "link": "https://www.novinky.cz/clanek/zahranicni-eu-vyzvala-izrael-k-odstraneni-prekazek-v-poskytovani-humanitarni-pomoci-v-pasmu-gazy-40608660"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -133,25 +130,34 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 35,
+      "score": 38,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 20,
+      "score_change": 3,
       "headlines": [
         {
           "title": "Estonia bans Russian athletes as backlash intensifies",
           "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Estonia bans Russian and Belarusian athletes from entering country",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062828/"
         },
         {
           "title": "Estonia outlines details of Ukrainian attack on Russian missile ship in Baltic Sea",
@@ -162,12 +168,17 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "„Naprosto nehorázné to vůbec navrhovat.“ Finy rozčílil údajný ruský požadavek",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-naprosto-nehorazne-to-vubec-navrhovat-finy-rozcilil-udajny-rusky-pozadavek-320541"
+        }
+      ]
     },
     {
       "id": "france",
@@ -175,24 +186,19 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -235,8 +241,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -295,24 +301,29 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Plane aborts landing at Warsaw airport due to drone",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062806/"
+          "title": "Poland will not fund purchase of US weapons for Ukraine: \"We spend a lot on defence\"",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062857/"
         }
       ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -347,15 +358,19 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
           "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+        },
+        {
+          "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+          "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court"
         }
       ]
     },
@@ -365,21 +380,29 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "up",
+    "score_change": 6,
     "headlines": [
       {
         "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
         "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
+      },
+      {
+        "title": "Russian drone strike kills man on scooter in Zaporizhzhia Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062868/"
+      },
+      {
+        "title": "Russian attack on Zaporizhzhia: 22 injured, including three children – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062861/"
       }
     ]
   }
