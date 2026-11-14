@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:47:33.248365+00:00",
+  "generated_at": "2026-11-14T23:44:46.532020+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -15,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”",
@@ -27,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss"
+        },
+        {
           "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
           "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss"
         },
         {
-          "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-          "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss"
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-          "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss"
+          "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+          "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-          "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss"
-        },
-        {
-          "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-          "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss"
+          "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+          "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
         }
       ]
     },
@@ -81,16 +81,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Vyzýváme Izrael, aby umožnil neomezený vstup humanitární pomoci do Gazy, apeluje Evropská unie",
-          "link": "https://www.irozhlas.cz/zpravy-svet/vyzyvame-izrael-aby-umoznil-neomezeny-vstup-humanitarni-pomoci-do-gazy-apeluje_2611141600_elv"
-        },
         {
           "title": "Uvolněte cestu pomoci do Gazy, vyzvala EU Izrael",
           "link": "https://www.novinky.cz/clanek/zahranicni-eu-vyzvala-izrael-k-odstraneni-prekazek-v-poskytovani-humanitarni-pomoci-v-pasmu-gazy-40608660"
@@ -133,11 +129,11 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+          "title": "Portugal 1-4 Denmark: UEFA Nations League – as it happened",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss"
         }
       ]
@@ -145,23 +141,15 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 38,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "score": 18,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -20,
       "headlines": [
-        {
-          "title": "Estonia bans Russian athletes as backlash intensifies",
-          "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "title": "Estonia bans Russian and Belarusian athletes from entering country",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062828/"
-        },
-        {
-          "title": "Estonia outlines details of Ukrainian attack on Russian missile ship in Baltic Sea",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062839/"
         }
       ]
     },
@@ -171,8 +159,8 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "„Naprosto nehorázné to vůbec navrhovat.“ Finy rozčílil údajný ruský požadavek",
@@ -196,8 +184,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -316,11 +304,11 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+          "title": "Portugal 1-4 Denmark: UEFA Nations League – as it happened",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss"
         }
       ]
@@ -361,8 +349,8 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
@@ -386,16 +374,12 @@
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 6,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
-      {
-        "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-        "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
-      },
       {
         "title": "Russian drone strike kills man on scooter in Zaporizhzhia Oblast",
         "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062868/"
