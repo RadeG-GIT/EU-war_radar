@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-11-14T00:47:08.524360+00:00",
+  "generated_at": "2026-11-14T11:16:58.054871+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 15,
       "headlines": [
+        {
+          "title": "Plane aborts landing at Warsaw airport due to drone",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062806/"
+        },
+        {
+          "title": "Microsoft obnovil fungování svých služeb, o kybernetický útok nešlo. Výpadek zasáhl i Česko",
+          "link": "https://www.irozhlas.cz/veda-technologie/technologie/microsoft-obnovil-fungovani-svych-sluzeb-o-kyberneticky-utok-neslo-vypadek_2611140939_aln"
+        },
+        {
+          "title": "Týdeník iROZHLASu: reakce na Macinkovy ‚mužatky‘, stopka pro ruského podnikatele a kampaň STAN",
+          "link": "https://www.irozhlas.cz/zpravy-domov/tydenik-irozhlasu-reakce-na-macinkovy-muzatky-stopka-pro-ruskeho-podnikatele-a_2611140800_pik"
+        },
         {
           "title": "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/usa-ustoupily-rusku-kyvly-na-debatu-o-nove-jalte-379598"
@@ -27,8 +39,16 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-          "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
+          "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+          "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss"
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Estonia bans Russian athletes as backlash intensifies",
+          "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
@@ -37,14 +57,6 @@
         {
           "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
           "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
-        },
-        {
-          "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-          "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
-        },
-        {
-          "title": "\"This is our time\": Polish PM Tusk reacts to announcement of Europe's role in Ukraine peace talks",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062802/"
         }
       ]
     },
@@ -131,54 +143,41 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 35,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 20,
+      "headlines": [
+        {
+          "title": "Estonia bans Russian athletes as backlash intensifies",
+          "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Estonia outlines details of Ukrainian attack on Russian missile ship in Baltic Sea",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062839/"
+        }
+      ]
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Moskva chce ukázat, že má zájem jednat. Ze svých požadavků ale neustoupí, říká bezpečnostní expert",
-          "link": "https://www.irozhlas.cz/zpravy-svet/moskva-chce-ukazat-ze-ma-zajem-jednat-ze-svych-pozadavku-ale-neustoupi-rika_2611132212_vaa"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "European representatives for Ukraine peace talks revealed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062795/"
-        },
-        {
-          "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
-          "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
-        },
-        {
-          "title": "Evropany bude na mírových jednáních zastupovat pět zemí",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropany-bude-na-mirovych-jednanich-zastupovat-pet-zemi-40608604"
-        },
-        {
-          "title": "Francie hledá Macronova nástupce, průzkumům dominují politické okraje",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/francie-hleda-macronova-nastupce-pruzkumum-dominuji-politicke-okraje-379444"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "germany",
@@ -186,28 +185,12 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
           "link": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany"
-        },
-        {
-          "title": "European representatives for Ukraine peace talks revealed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062795/"
-        },
-        {
-          "title": "Merz: Germany will be a guaranteed participant in peace talks on war in Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062739/"
-        },
-        {
-          "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
-          "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
-        },
-        {
-          "title": "Evropany bude na mírových jednáních zastupovat pět zemí",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropany-bude-na-mirovych-jednanich-zastupovat-pet-zemi-40608604"
         }
       ]
     },
@@ -237,8 +220,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
@@ -249,25 +232,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "European representatives for Ukraine peace talks revealed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062795/"
-        },
-        {
-          "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
-          "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
-        },
-        {
-          "title": "Evropany bude na mírových jednáních zastupovat pět zemí",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropany-bude-na-mirovych-jednanich-zastupovat-pet-zemi-40608604"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -322,27 +292,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "European representatives for Ukraine peace talks revealed",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062795/"
-        },
-        {
-          "title": "Evropu bude na jednáních o Ukrajině zastupovat pět zemí. V Dublinu se na tom shodli lídři EU",
-          "link": "https://www.irozhlas.cz/zpravy-svet/evropu-bude-na-jednanich-o-ukrajine-zastupovat-pet-zemi-v-dublinu-se-na-tom_2611141845_vdv"
-        },
-        {
-          "title": "Polsko pozastavuje financování zbraní pro Ukrajinu",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-polsko-pozastavuje-financovani-zbrani-pro-ukrajinu-40608612"
-        },
-        {
-          "title": "Evropany bude na mírových jednáních zastupovat pět zemí",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropany-bude-na-mirovych-jednanich-zastupovat-pet-zemi-40608604"
+          "title": "Plane aborts landing at Warsaw airport due to drone",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062806/"
         }
       ]
     },
@@ -392,8 +350,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
@@ -404,21 +362,16 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Po Finsku a Norsku odepře ruským sportovcům vstup do země i Švédsko",
-          "link": "https://www.novinky.cz/clanek/zahranicni-po-finsku-a-norsku-odepre-ruskym-sportovcum-vstup-do-zeme-i-svedsko-40608611"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "down",
@@ -427,10 +380,6 @@
       {
         "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
         "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
-      },
-      {
-        "title": "Russian attack on Zaporizhzhia on 13 November: number injured rises to 50, including 8 children – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/13/8062775/"
       }
     ]
   }
