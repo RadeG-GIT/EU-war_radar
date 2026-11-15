@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T15:28:45.407919+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-11-15T20:54:18.316956+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -27,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-          "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss"
+          "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+          "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss"
         },
         {
-          "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
-          "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss"
-        },
-        {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
           "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations"
         },
         {
-          "title": "Romanian PM condemns Russian attack on three commercial vessels in Black Sea",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062967/"
+          "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+          "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+        },
+        {
+          "title": "EU ambassador tells Guardian about delegation's work in Kyiv as Russian attacks intensify",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062985/"
         }
       ]
     },
@@ -131,17 +131,53 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
+      "score": 89,
+      "level": "kriticke",
+      "color": "#9C3B37",
+      "trend": "up",
+      "score_change": 74,
+      "headlines": [
+        {
+          "title": "Estonia to close border crossings with Russia after alleged arson attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
+        },
+        {
+          "title": "Estonia to close border crossings with Russia after attack on drone maker",
+          "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss"
+        },
+        {
+          "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+          "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+        },
+        {
+          "title": "Estonia to close all border crossings with Russia after attempted sabotage against defence company",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062981/"
+        },
+        {
+          "title": "Estonia accuses Russia of attempted sabotage at defence company",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062971/"
+        }
+      ]
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 19,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Estonsko zavře hranice s Ruskem",
+          "link": "https://www.novinky.cz/clanek/zahranicni-estonsko-zavre-hranice-s-ruskem-40608779"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "Francie",
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
@@ -149,34 +185,14 @@
       "headlines": []
     },
     {
-      "id": "france",
-      "name": "Francie",
-      "score": 8,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Police confront protesters in clashes across France and Germany",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss"
-        }
-      ]
-    },
-    {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Police confront protesters in clashes across France and Germany",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -204,8 +220,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -221,12 +237,17 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Estonsko zavře hranice s Ruskem",
+          "link": "https://www.novinky.cz/clanek/zahranicni-estonsko-zavre-hranice-s-ruskem-40608779"
+        }
+      ]
     },
     {
       "id": "lithuania",
@@ -274,8 +295,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -291,12 +312,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Drony zasáhly tři nákladní lodě u ústí Dunaje, hlásí Rumunsko",
+          "link": "https://www.novinky.cz/clanek/zahranicni-drony-zasahly-tri-nakladni-lode-u-usti-dunaje-hlasi-rumunsko-40608807"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -348,8 +374,8 @@
     "score": 17,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
