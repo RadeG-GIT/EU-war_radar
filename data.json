@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T23:44:46.532020+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-11-15T05:36:34.827577+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -31,10 +31,6 @@
           "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss"
         },
         {
-          "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-          "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss"
-        },
-        {
           "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
         },
@@ -45,6 +41,10 @@
         {
           "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
           "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+        },
+        {
+          "title": "Ukrainian and Canadian defence ministers discuss air defence and F-16 ammo supplies",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062893/"
         }
       ]
     },
@@ -81,17 +81,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": [
-        {
-          "title": "Uvolněte cestu pomoci do Gazy, vyzvala EU Izrael",
-          "link": "https://www.novinky.cz/clanek/zahranicni-eu-vyzvala-izrael-k-odstraneni-prekazek-v-poskytovani-humanitarni-pomoci-v-pasmu-gazy-40608660"
-        }
-      ]
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -126,17 +121,12 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Portugal 1-4 Denmark: UEFA Nations League – as it happened",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "estonia",
@@ -144,8 +134,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -20,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonia bans Russian and Belarusian athletes from entering country",
@@ -301,17 +291,12 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Portugal 1-4 Denmark: UEFA Nations League – as it happened",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -346,16 +331,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-          "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
-        },
         {
           "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
           "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court"
@@ -374,12 +355,16 @@
     }
   ],
   "radiation": {
-    "score": 11,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "up",
+    "score_change": 3,
     "headlines": [
+      {
+        "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk"
+      },
       {
         "title": "Russian drone strike kills man on scooter in Zaporizhzhia Oblast",
         "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062868/"
