@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T20:54:18.316956+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-11-16T05:35:04.932904+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -27,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-          "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss"
-        },
-        {
           "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
           "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations"
+          "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Canada bars Russia from Junior World Championships",
+          "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Estonia to close all border crossings with Russia after attack on drone maker",
           "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
         },
         {
-          "title": "EU ambassador tells Guardian about delegation's work in Kyiv as Russian attacks intensify",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062985/"
+          "title": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games"
         }
       ]
     },
@@ -131,19 +131,15 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 89,
-      "level": "kriticke",
-      "color": "#9C3B37",
-      "trend": "up",
-      "score_change": 74,
+      "score": 71,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "down",
+      "score_change": -18,
       "headlines": [
         {
           "title": "Estonia to close border crossings with Russia after alleged arson attack",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
-        },
-        {
-          "title": "Estonia to close border crossings with Russia after attack on drone maker",
-          "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss"
         },
         {
           "title": "Estonia to close all border crossings with Russia after attack on drone maker",
@@ -156,6 +152,10 @@
         {
           "title": "Estonia accuses Russia of attempted sabotage at defence company",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062971/"
+        },
+        {
+          "title": "Estonsko zavře hranice s Ruskem",
+          "link": "https://www.novinky.cz/clanek/zahranicni-estonsko-zavre-hranice-s-ruskem-40608779"
         }
       ]
     },
@@ -165,8 +165,8 @@
       "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonsko zavře hranice s Ruskem",
@@ -180,8 +180,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -190,8 +190,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -240,8 +240,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonsko zavře hranice s Ruskem",
@@ -315,8 +315,8 @@
       "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Drony zasáhly tři nákladní lodě u ústí Dunaje, hlásí Rumunsko",
@@ -371,16 +371,12 @@
     }
   ],
   "radiation": {
-    "score": 17,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "down",
+    "score_change": -3,
     "headlines": [
-      {
-        "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk"
-      },
       {
         "title": "Emergency power outages in two Ukrainian oblasts due to Russian attack",
         "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062959/"
