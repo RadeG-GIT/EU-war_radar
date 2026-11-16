@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T05:35:04.932904+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-16T18:07:55.903605+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -27,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+          "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
+          "link": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss"
         },
         {
-          "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss"
+          "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+          "link": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss"
         },
         {
-          "title": "Canada bars Russia from Junior World Championships",
-          "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss"
+          "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+          "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-          "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+          "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
         },
         {
-          "title": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games"
+          "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+          "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
         }
       ]
     },
@@ -131,48 +131,35 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 71,
+      "score": 51,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -18,
+      "score_change": -20,
       "headlines": [
         {
-          "title": "Estonia to close border crossings with Russia after alleged arson attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
+          "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+          "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-          "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+          "title": "„Nikoho to nemůže překvapit.“ Krajní řešení se v Estonsku stává realitou",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-nikoho-to-nemuze-prekvapit-krajni-reseni-se-v-estonsku-stava-realitou-320725"
         },
         {
-          "title": "Estonia to close all border crossings with Russia after attempted sabotage against defence company",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062981/"
-        },
-        {
-          "title": "Estonia accuses Russia of attempted sabotage at defence company",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062971/"
-        },
-        {
-          "title": "Estonsko zavře hranice s Ruskem",
-          "link": "https://www.novinky.cz/clanek/zahranicni-estonsko-zavre-hranice-s-ruskem-40608779"
+          "title": "Estonsko uzavře hraniční přechody s Ruskem kvůli hrozbě sabotáže",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-uzavre-od-1-prosince-hranicni-prechody-s-ruskem-kvuli-hrozbe-sabotaze-379640"
         }
       ]
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 19,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Estonsko zavře hranice s Ruskem",
-          "link": "https://www.novinky.cz/clanek/zahranicni-estonsko-zavre-hranice-s-ruskem-40608779"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "france",
@@ -187,12 +174,17 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+          "link": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -237,17 +229,12 @@
     {
       "id": "latvia",
       "name": "Lotyssko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Estonsko zavře hranice s Ruskem",
-          "link": "https://www.novinky.cz/clanek/zahranicni-estonsko-zavre-hranice-s-ruskem-40608779"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "lithuania",
@@ -312,17 +299,12 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Drony zasáhly tři nákladní lodě u ústí Dunaje, hlásí Rumunsko",
-          "link": "https://www.novinky.cz/clanek/zahranicni-drony-zasahly-tri-nakladni-lode-u-usti-dunaje-hlasi-rumunsko-40608807"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -347,17 +329,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-          "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -371,15 +348,15 @@
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "down",
-    "score_change": -3,
+    "score_change": -6,
     "headlines": [
       {
-        "title": "Emergency power outages in two Ukrainian oblasts due to Russian attack",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062959/"
+        "title": "Nuclear safety regulators warn of rising accident risk in Ukraine – Reuters",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/16/8063134/"
       }
     ]
   }
