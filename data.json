@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:07:55.903605+00:00",
+  "generated_at": "2026-11-17T02:49:29.797110+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -27,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
-          "link": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss"
+          "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+          "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss"
         },
         {
-          "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-          "link": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss"
+          "title": "What will Europe do next in Ukraine?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss"
         },
         {
           "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
           "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
-        },
-        {
           "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
           "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+        },
+        {
+          "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+          "link": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next"
         }
       ]
     },
@@ -134,8 +134,8 @@
       "score": 51,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -20,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
@@ -157,8 +157,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -177,8 +177,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
@@ -209,12 +209,17 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 14,
+      "headlines": [
+        {
+          "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+          "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -232,8 +237,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -302,8 +307,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -332,8 +337,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -351,8 +356,8 @@
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Nuclear safety regulators warn of rising accident risk in Ukraine – Reuters",
