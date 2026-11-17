@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-11-17T02:49:29.797110+00:00",
+  "generated_at": "2026-11-17T12:53:38.892634+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "USA ustoupily Rusku, kývly na debatu o „nové Jaltě”",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/usa-ustoupily-rusku-kyvly-na-debatu-o-nove-jalte-379598"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
-          "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss"
+          "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+          "link": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss"
         },
         {
-          "title": "What will Europe do next in Ukraine?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss"
+          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-          "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+          "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
-          "link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+          "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+          "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
         },
         {
-          "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-          "link": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next"
+          "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates"
         }
       ]
     },
@@ -131,20 +126,12 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 51,
-      "level": "zvysene",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 24,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -27,
       "headlines": [
-        {
-          "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-          "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "„Nikoho to nemůže překvapit.“ Krajní řešení se v Estonsku stává realitou",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-nikoho-to-nemuze-prekvapit-krajni-reseni-se-v-estonsku-stava-realitou-320725"
-        },
         {
           "title": "Estonsko uzavře hraniční přechody s Ruskem kvůli hrozbě sabotáže",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-uzavre-od-1-prosince-hranicni-prechody-s-ruskem-kvuli-hrozbe-sabotaze-379640"
@@ -174,15 +161,15 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 8,
       "headlines": [
         {
-          "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-          "link": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next"
+          "title": "Germany announces joint package with Norway to purchase Patriot missiles for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063227/"
         }
       ]
     },
@@ -199,27 +186,31 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 4,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 32,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 28,
+      "headlines": [
+        {
+          "title": "Hungary suspends rail services to Ukraine due to Russian attacks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063267/"
+        },
+        {
+          "title": "Hungary on Russian strike on Zakarpattia: Unlikely to be the last",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063255/"
+        }
+      ]
     },
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 16,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 14,
-      "headlines": [
-        {
-          "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
-          "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -14,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -274,12 +265,17 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Ukrainian Tencore showcases AI-powered evacuation ground robot in Netherlands",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063240/"
+        }
+      ]
     },
     {
       "id": "poland",
@@ -314,12 +310,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Slovensko bude nadále odebírat ruskou ropu bez hrozby sankcí",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensko-bude-nadale-odebirat-ruskou-ropu-bez-hrozby-sankci-40609054"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -353,15 +354,15 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 6,
     "headlines": [
       {
-        "title": "Nuclear safety regulators warn of rising accident risk in Ukraine – Reuters",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/16/8063134/"
+        "title": "Russian strikes cause power outages in 9 Ukrainian oblasts, emergency cuts imposed in 3 others",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063253/"
       }
     ]
   }
