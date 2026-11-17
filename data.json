@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:53:38.892634+00:00",
+  "generated_at": "2026-11-17T23:24:08.052875+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,12 +22,16 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-          "link": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss"
+          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          "title": "How the attack on Crimean Bridge unfolded",
+          "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "BBC reports from Kyiv bridge hit by Russian attack",
+          "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
@@ -36,10 +40,6 @@
         {
           "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
           "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
-        },
-        {
-          "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates"
         }
       ]
     },
@@ -56,12 +56,21 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 27,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "Moldova closes six border crossing points with Ukraine following Russian drone incursion",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063332/"
+        },
+        {
+          "title": "Moldova closes airspace after Russian Shahed drone spotted over capital – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063312/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -76,12 +85,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "UK anticipates \"number of announcements\" on weapons for Ukraine at Ukraine Defence Contact Group meeting",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063307/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -129,8 +143,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -27,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Estonsko uzavře hraniční přechody s Ruskem kvůli hrozbě sabotáže",
@@ -161,15 +175,15 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 16,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 8,
+      "trend": "down",
+      "score_change": -8,
       "headlines": [
         {
-          "title": "Germany announces joint package with Norway to purchase Patriot missiles for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063227/"
+          "title": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695"
         }
       ]
     },
@@ -186,19 +200,15 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 28,
+      "score": 7,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -25,
       "headlines": [
         {
-          "title": "Hungary suspends rail services to Ukraine due to Russian attacks",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063267/"
-        },
-        {
-          "title": "Hungary on Russian strike on Zakarpattia: Unlikely to be the last",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063255/"
+          "title": "Maďarsko zastavilo železniční dopravu s Ukrajinou",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-madarsko-kvuli-ruskemu-dronu-zastavilo-zeleznicni-dopravu-s-ukrajinou-40609059"
         }
       ]
     },
@@ -208,8 +218,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -14,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -265,27 +275,31 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Ukrainian Tencore showcases AI-powered evacuation ground robot in Netherlands",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063240/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Moldova closes six border crossing points with Ukraine following Russian drone incursion",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063332/"
+        },
+        {
+          "title": "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/municni-iniciativa-zajistuje-ukrajine-pres-60-procent-munice-uvedl-landovsky-379693"
+        }
+      ]
     },
     {
       "id": "portugal",
@@ -300,27 +314,27 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Moldova closes airspace after Russian Shahed drone spotted over capital – video",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063312/"
+        }
+      ]
     },
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Slovensko bude nadále odebírat ruskou ropu bez hrozby sankcí",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-slovensko-bude-nadale-odebirat-ruskou-ropu-bez-hrozby-sankci-40609054"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -345,24 +359,33 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Sweden allocates €65m to support Ukraine's defence",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063330/"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 14,
-    "level": "nizke",
-    "color": "#4C8C6B",
+    "score": 47,
+    "level": "zvysene",
+    "color": "#C98A3B",
     "trend": "up",
-    "score_change": 6,
+    "score_change": 33,
     "headlines": [
       {
-        "title": "Russian strikes cause power outages in 9 Ukrainian oblasts, emergency cuts imposed in 3 others",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063253/"
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+        "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
       }
     ]
   }
