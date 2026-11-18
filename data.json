@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T06:37:02.716640+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-11-18T17:01:59.068229+00:00",
+  "overall_score": 11,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Russian attacks on Ukraine kill at least five people",
+          "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss"
+        },
+        {
+          "title": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
+          "link": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss"
+        },
+        {
+          "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss"
+        },
+        {
           "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "How the attack on Crimean Bridge unfolded",
-          "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "BBC reports from Kyiv bridge hit by Russian attack",
-          "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-          "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-          "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
         }
       ]
     },
@@ -56,21 +56,12 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Moldova closes six border crossing points with Ukraine following Russian drone incursion",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063332/"
-        },
-        {
-          "title": "Moldova closes airspace after Russian Shahed drone spotted over capital – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063312/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "austria",
@@ -85,12 +76,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 0,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Who speaks for Europe abroad? Not its top diplomat",
+          "link": "https://www.theguardian.com/world/2026/nov/18/who-speaks-for-europe-abroad-not-its-top-diplomat"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -135,32 +131,22 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Estonsko uzavře hraniční přechody s Ruskem kvůli hrozbě sabotáže",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-uzavre-od-1-prosince-hranicni-prechody-s-ruskem-kvuli-hrozbe-sabotaze-379640"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 13,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Tlak Ruska na odchod Finska z NATO",
-          "link": "https://www.irozhlas.cz/komentare/tlak-ruska-na-odchod-finska-z-nato_2611180630_cen"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "france",
@@ -175,12 +161,20 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 6,
       "headlines": [
+        {
+          "title": "Coalition of the Willing in Berlin to discuss deployment of multinational forces in Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063472/"
+        },
+        {
+          "title": "Rusové plánovali v Polsku provokaci podobně jako nacistické Německo v roce 1939",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-rusove-planovali-v-polsku-provokaci-podobne-jako-nacisticke-nemecko-v-roce-1939-40609317"
+        },
         {
           "title": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695"
@@ -203,19 +197,24 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 0,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "down",
+      "score_change": -2,
+      "headlines": [
+        {
+          "title": "Who speaks for Europe abroad? Not its top diplomat",
+          "link": "https://www.theguardian.com/world/2026/nov/18/who-speaks-for-europe-abroad-not-its-top-diplomat"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -280,15 +279,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 26,
+      "score": 35,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 9,
       "headlines": [
         {
-          "title": "Moldova closes six border crossing points with Ukraine following Russian drone incursion",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063332/"
+          "title": "Coalition of the Willing in Berlin to discuss deployment of multinational forces in Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063472/"
+        },
+        {
+          "title": "Russia reportedly planned mass-casualty sabotage attack in Poland to be blamed on Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063407/"
         },
         {
           "title": "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský",
@@ -299,27 +302,27 @@
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Portugal refuses to transfer F-16 fighter jets to Ukraine, but will assist with pilot training",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063455/"
+        }
+      ]
     },
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Moldova closes airspace after Russian Shahed drone spotted over capital – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063312/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "slovakia",
@@ -354,37 +357,24 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Sweden allocates €65m to support Ukraine's defence",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063330/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ],
   "radiation": {
-    "score": 50,
-    "level": "zvysene",
-    "color": "#C98A3B",
-    "trend": "up",
-    "score_change": 3,
+    "score": 8,
+    "level": "nizke",
+    "color": "#4C8C6B",
+    "trend": "down",
+    "score_change": -42,
     "headlines": [
       {
-        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-        "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
-        "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
-      },
-      {
-        "title": "Poslední rok s Ficem? „Čeká nás surový a tvrdý souboj,“ říká komentátor",
-        "link": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-stovecka-sem-stovecka-tam-jak-slovensko-trikrat-marne-konsolidovalo-320809"
+        "title": "Russian FPV drone kills woman and injures man in Zaporizhzhia Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063400/"
       }
     ]
   }
