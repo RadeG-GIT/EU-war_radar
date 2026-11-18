@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:24:08.052875+00:00",
+  "generated_at": "2026-11-18T06:37:02.716640+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -59,8 +59,8 @@
       "score": 27,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Moldova closes six border crossing points with Ukraine following Russian drone incursion",
@@ -85,17 +85,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "UK anticipates \"number of announcements\" on weapons for Ukraine at Ukraine Defence Contact Group meeting",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063307/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -155,12 +150,17 @@
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Tlak Ruska na odchod Finska z NATO",
+          "link": "https://www.irozhlas.cz/komentare/tlak-ruska-na-odchod-finska-z-nato_2611180630_cen"
+        }
+      ]
     },
     {
       "id": "france",
@@ -178,8 +178,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -8,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
@@ -200,17 +200,12 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -25,
-      "headlines": [
-        {
-          "title": "Maďarsko zastavilo železniční dopravu s Ukrajinou",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-madarsko-kvuli-ruskemu-dronu-zastavilo-zeleznicni-dopravu-s-ukrajinou-40609059"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ireland",
@@ -278,8 +273,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -288,8 +283,8 @@
       "score": 26,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Moldova closes six border crossing points with Ukraine following Russian drone incursion",
@@ -317,8 +312,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Moldova closes airspace after Russian Shahed drone spotted over capital – video",
@@ -332,8 +327,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -362,8 +357,8 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Sweden allocates €65m to support Ukraine's defence",
@@ -373,11 +368,11 @@
     }
   ],
   "radiation": {
-    "score": 47,
+    "score": 50,
     "level": "zvysene",
     "color": "#C98A3B",
     "trend": "up",
-    "score_change": 33,
+    "score_change": 3,
     "headlines": [
       {
         "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
@@ -386,6 +381,10 @@
       {
         "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
         "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+      },
+      {
+        "title": "Poslední rok s Ficem? „Čeká nás surový a tvrdý souboj,“ říká komentátor",
+        "link": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-stovecka-sem-stovecka-tam-jak-slovensko-trikrat-marne-konsolidovalo-320809"
       }
     ]
   }
