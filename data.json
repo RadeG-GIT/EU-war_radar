@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T01:46:55.005461+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-11-19T12:38:09.406941+00:00",
+  "overall_score": 10,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Trump and Putin to meet one-on-one in China Thursday",
-          "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss"
-        },
-        {
           "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
           "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-          "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
           "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+          "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+        },
+        {
+          "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+          "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
         }
       ]
     },
@@ -76,21 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 15,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 15,
-      "headlines": [
-        {
-          "title": "The leave campaign has been resurrected, so how should Burnham respond?",
-          "link": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis"
-        },
-        {
-          "title": "European Commission calls for accountability over Russia's chemical weapons use in Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063517/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -155,42 +146,25 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "The leave campaign has been resurrected, so how should Burnham respond?",
-          "link": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 17,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
-          "title": "Berlin expects US envoys for talks with Ukraine and Europeans – Reuters",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063498/"
-        },
-        {
-          "title": "Coalition of the Willing in Berlin to discuss deployment of multinational forces in Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063472/"
-        },
-        {
-          "title": "Rusové plánovali v Polsku provokaci podobně jako nacistické Německo v roce 1939",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-rusove-planovali-v-polsku-provokaci-podobne-jako-nacisticke-nemecko-v-roce-1939-40609317"
-        },
-        {
-          "title": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695"
+          "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
         }
       ]
     },
@@ -220,8 +194,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 2,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -287,40 +261,22 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -6,
-      "headlines": [
-        {
-          "title": "Poland was aware of Russian border sabotage plot and took action – Polish Defence Ministry",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063521/"
-        },
-        {
-          "title": "Coalition of the Willing in Berlin to discuss deployment of multinational forces in Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063472/"
-        },
-        {
-          "title": "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/municni-iniciativa-zajistuje-ukrajine-pres-60-procent-munice-uvedl-landovsky-379693"
-        }
-      ]
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Portugal refuses to transfer F-16 fighter jets to Ukraine, but will assist with pilot training",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063455/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -355,17 +311,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 14,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 11,
-      "headlines": [
-        {
-          "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
-          "link": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss"
-        }
-      ]
+      "trend": "down",
+      "score_change": -11,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -379,11 +330,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
-    "headlines": []
+    "trend": "up",
+    "score_change": 3,
+    "headlines": [
+      {
+        "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+        "link": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss"
+      }
+    ]
   }
 }
