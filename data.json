@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T17:01:59.068229+00:00",
-  "overall_score": 11,
+  "generated_at": "2026-11-19T01:46:55.005461+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,20 +22,20 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss"
+          "title": "Trump and Putin to meet one-on-one in China Thursday",
+          "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss"
         },
         {
-          "title": "Russian attacks on Ukraine kill at least five people",
-          "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss"
+          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+          "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
-          "link": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss"
+          "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+          "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss"
+          "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+          "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -59,8 +59,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -76,15 +76,19 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 0,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 15,
       "headlines": [
         {
-          "title": "Who speaks for Europe abroad? Not its top diplomat",
-          "link": "https://www.theguardian.com/world/2026/nov/18/who-speaks-for-europe-abroad-not-its-top-diplomat"
+          "title": "The leave campaign has been resurrected, so how should Burnham respond?",
+          "link": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis"
+        },
+        {
+          "title": "European Commission calls for accountability over Russia's chemical weapons use in Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063517/"
         }
       ]
     },
@@ -134,8 +138,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -144,29 +148,38 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
-    },
-    {
-      "id": "france",
-      "name": "Francie",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
       "trend": "same",
       "score_change": 0,
       "headlines": []
     },
     {
-      "id": "germany",
-      "name": "Nemecko",
-      "score": 14,
+      "id": "france",
+      "name": "Francie",
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
-      "score_change": 6,
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "The leave campaign has been resurrected, so how should Burnham respond?",
+          "link": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "name": "Nemecko",
+      "score": 17,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Berlin expects US envoys for talks with Ukraine and Europeans – Reuters",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063498/"
+        },
         {
           "title": "Coalition of the Willing in Berlin to discuss deployment of multinational forces in Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063472/"
@@ -204,17 +217,12 @@
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 0,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -2,
-      "headlines": [
-        {
-          "title": "Who speaks for Europe abroad? Not its top diplomat",
-          "link": "https://www.theguardian.com/world/2026/nov/18/who-speaks-for-europe-abroad-not-its-top-diplomat"
-        }
-      ]
+      "trend": "up",
+      "score_change": 2,
+      "headlines": []
     },
     {
       "id": "italy",
@@ -279,19 +287,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 35,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
+        {
+          "title": "Poland was aware of Russian border sabotage plot and took action – Polish Defence Ministry",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063521/"
+        },
         {
           "title": "Coalition of the Willing in Berlin to discuss deployment of multinational forces in Ukraine",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063472/"
-        },
-        {
-          "title": "Russia reportedly planned mass-casualty sabotage attack in Poland to be blamed on Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063407/"
         },
         {
           "title": "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský",
@@ -305,8 +313,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Portugal refuses to transfer F-16 fighter jets to Ukraine, but will assist with pilot training",
@@ -320,8 +328,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -347,12 +355,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
+          "link": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -360,22 +373,17 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
     "trend": "down",
-    "score_change": -42,
-    "headlines": [
-      {
-        "title": "Russian FPV drone kills woman and injures man in Zaporizhzhia Oblast",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/18/8063400/"
-      }
-    ]
+    "score_change": -3,
+    "headlines": []
   }
 }
