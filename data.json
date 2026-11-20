@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-11-19T22:57:00.345630+00:00",
+  "generated_at": "2026-11-20T06:26:38.723537+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Maskovat se jako chameleon, v písku i ruinách. Vojáci obléknou kamufláž olomouckého výtvarníka",
+          "link": "https://www.irozhlas.cz/zpravy-domov/maskovat-se-jako-chameleon-v-pisku-i-ruinach-vojaci-obleknou-kamuflaz_2611200700_brz"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,8 +27,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss"
+          "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss"
         },
         {
           "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -69,8 +74,8 @@
       "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Austrian foreign minister shares details of Kyiv embassy damage after Russian attack",
@@ -158,8 +163,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Zelenskyy: Europeans to take part in negotiation formats with Russians",
@@ -170,16 +175,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
-          "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss"
-        },
         {
           "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
           "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
@@ -276,8 +277,8 @@
       "score": 25,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 22,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
