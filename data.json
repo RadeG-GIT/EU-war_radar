@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-11-20T06:26:38.723537+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-11-20T16:49:00.569210+00:00",
+  "overall_score": 15,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Maskovat se jako chameleon, v písku i ruinách. Vojáci obléknou kamufláž olomouckého výtvarníka",
-          "link": "https://www.irozhlas.cz/zpravy-domov/maskovat-se-jako-chameleon-v-pisku-i-ruinach-vojaci-obleknou-kamuflaz_2611200700_brz"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss"
+          "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+          "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss"
         },
         {
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+          "title": "Xi’s greatest power is what he chooses not to do",
+          "link": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss"
         },
         {
-          "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+          "link": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss"
         },
         {
-          "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-          "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-          "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss"
+          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+          "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -71,31 +66,32 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 21,
+      "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -5,
       "headlines": [
         {
-          "title": "Austrian foreign minister shares details of Kyiv embassy damage after Russian attack",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063678/"
-        },
-        {
-          "title": "Rakousko a Nizozemsko si kvůli poškozeným ambasádám po útoku na Kyjev předvolaly ruské velvyslance",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusky-utok-na-kyjev-poskodil-rakouske-velvyslanectvi-40609551"
+          "title": "France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063820/"
         }
       ]
     },
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -160,46 +156,59 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 13,
       "headlines": [
         {
-          "title": "Zelenskyy: Europeans to take part in negotiation formats with Russians",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063685/"
+          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
+        },
+        {
+          "title": "France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063820/"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+          "link": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss"
+        },
         {
           "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
           "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
         }
       ]
     },
     {
       "id": "greece",
       "name": "Recko",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
+        }
+      ]
     },
     {
       "id": "hungary",
@@ -224,12 +233,17 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -274,41 +288,63 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 25,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 4,
       "headlines": [
         {
           "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
           "link": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling"
         },
         {
-          "title": "Rakousko a Nizozemsko si kvůli poškozeným ambasádám po útoku na Kyjev předvolaly ruské velvyslance",
-          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusky-utok-na-kyjev-poskodil-rakouske-velvyslanectvi-40609551"
+          "title": "France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063820/"
         }
       ]
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 66,
+      "level": "zvysene",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 46,
+      "headlines": [
+        {
+          "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+          "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss"
+        },
+        {
+          "title": "Poland hit by at least one Russian missile, says Polish govt",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss"
+        },
+        {
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian missiles and drone hit Poland during attacks on Ukraine",
+          "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+        }
+      ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 2,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
+        }
+      ]
     },
     {
       "id": "romania",
@@ -343,12 +379,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -362,16 +403,11 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 5,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
-    "headlines": [
-      {
-        "title": "Russians kill man in drone attack on Kushuhum, Zaporizhzhia Oblast",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063697/"
-      }
-    ]
+    "trend": "down",
+    "score_change": -3,
+    "headlines": []
   }
 }
