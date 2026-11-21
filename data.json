@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T01:11:56.145658+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-11-21T12:17:53.607352+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-          "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
-        },
-        {
-          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-          "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "title": "What we know about the latest Russian missile strikes on Ukraine",
           "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
           "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+        },
+        {
+          "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+          "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
+        },
+        {
+          "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+          "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges"
+        },
+        {
+          "title": "Ukraine hits ammunition depot in Crimea and bridge in Luhansk Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063937/"
         }
       ]
     },
@@ -66,17 +66,12 @@
     {
       "id": "austria",
       "name": "Rakousko",
-      "score": 16,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063820/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     },
     {
       "id": "belgium",
@@ -84,8 +79,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -121,60 +116,57 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 10,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
           "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-          "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
         }
       ]
     },
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 24,
+      "score": 18,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
-          "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss"
+          "title": "Estonia scrambles NATO allied aircraft over drone threat",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063920/"
         }
       ]
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 25,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 15,
+      "headlines": [
+        {
+          "title": "Drones attack cargo ship heading to Russia's Kaliningrad in Gulf of Finland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063939/"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 21,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -13,
       "headlines": [
-        {
-          "title": "France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063820/"
-        },
         {
           "title": "Zemřel poslední Francouz, který přežil koncentrační tábor Natzweiler-Struthof",
           "link": "https://www.seznamzpravy.cz/clanek/zahranicni-zemrel-posledni-francouz-ktery-prezil-koncentracni-tabor-natzweiler-struthof-321189"
@@ -187,8 +179,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -197,8 +189,8 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -227,8 +219,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -274,42 +266,34 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 29,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "score": 16,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -13,
       "headlines": [
         {
           "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
           "link": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling"
-        },
-        {
-          "title": "France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063820/"
         }
       ]
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 53,
+      "score": 52,
       "level": "zvysene",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -13,
+      "score_change": -1,
       "headlines": [
         {
-          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+          "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+          "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
         },
         {
-          "title": "Ukrainian PM was in Poland when Russian missiles violated Polish airspace",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063854/"
-        },
-        {
-          "title": "Poland asks NATO allies to help strengthen its air defences",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063846/"
+          "title": "Swedish Gripen authorised to shoot down Russian missile over Poland but unable to identify it",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063930/"
         }
       ]
     },
@@ -319,8 +303,8 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -359,8 +343,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -375,15 +359,23 @@
     }
   ],
   "radiation": {
-    "score": 26,
+    "score": 32,
     "level": "mirne",
     "color": "#C98A3B",
     "trend": "up",
-    "score_change": 21,
+    "score_change": 6,
     "headlines": [
       {
         "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
         "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+      },
+      {
+        "title": "Ukraine hits ammunition depot in Crimea and bridge in Luhansk Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063937/"
+      },
+      {
+        "title": "Russians kill two and injure over 20, including child, in Zaporizhzhia Oblast over past day – photo",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063909/"
       }
     ]
   }
