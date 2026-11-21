@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T16:49:00.569210+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-11-21T01:11:56.145658+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,16 +22,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-          "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss"
-        },
-        {
-          "title": "Xi’s greatest power is what he chooses not to do",
-          "link": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss"
-        },
-        {
-          "title": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
-          "link": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss"
+          "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+          "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
         },
         {
           "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
@@ -40,6 +32,14 @@
         {
           "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
           "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What we know about the latest Russian missile strikes on Ukraine",
+          "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+          "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
         }
       ]
     },
@@ -69,8 +69,8 @@
       "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies",
@@ -81,17 +81,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -126,22 +121,36 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 4,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+          "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+        }
+      ]
     },
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+          "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss"
+        }
+      ]
     },
     {
       "id": "finland",
@@ -159,56 +168,38 @@
       "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
-        {
-          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
-        },
         {
           "title": "France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063820/"
+        },
+        {
+          "title": "Zemřel poslední Francouz, který přežil koncentrační tábor Natzweiler-Struthof",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-zemrel-posledni-francouz-ktery-prezil-koncentracni-tabor-natzweiler-struthof-321189"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
-          "link": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss"
-        },
-        {
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "greece",
       "name": "Recko",
-      "score": 9,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "hungary",
@@ -233,17 +224,12 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -291,8 +277,8 @@
       "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 4,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
@@ -307,44 +293,35 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 66,
+      "score": 53,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 46,
+      "trend": "down",
+      "score_change": -13,
       "headlines": [
-        {
-          "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-          "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss"
-        },
-        {
-          "title": "Poland hit by at least one Russian missile, says Polish govt",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss"
-        },
         {
           "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
           "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Russian missiles and drone hit Poland during attacks on Ukraine",
-          "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+          "title": "Ukrainian PM was in Poland when Russian missiles violated Polish airspace",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063854/"
+        },
+        {
+          "title": "Poland asks NATO allies to help strengthen its air defences",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063846/"
         }
       ]
     },
     {
       "id": "portugal",
       "name": "Portugalsko",
-      "score": 5,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "romania",
@@ -379,17 +356,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-          "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -403,11 +375,16 @@
     }
   ],
   "radiation": {
-    "score": 5,
-    "level": "nizke",
-    "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -3,
-    "headlines": []
+    "score": 26,
+    "level": "mirne",
+    "color": "#C98A3B",
+    "trend": "up",
+    "score_change": 21,
+    "headlines": [
+      {
+        "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+        "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+      }
+    ]
   }
 }
