@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:17:53.607352+00:00",
+  "generated_at": "2026-11-21T21:30:00.356548+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
+        },
+        {
+          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "title": "What we know about the latest Russian missile strikes on Ukraine",
           "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
           "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
-        },
-        {
-          "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-          "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
-        },
-        {
-          "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-          "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges"
-        },
-        {
-          "title": "Ukraine hits ammunition depot in Crimea and bridge in Luhansk Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063937/"
         }
       ]
     },
@@ -69,8 +69,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -116,45 +116,60 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 7,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
           "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
+          "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
         }
       ]
     },
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 18,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -6,
-      "headlines": [
-        {
-          "title": "Estonia scrambles NATO allied aircraft over drone threat",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063920/"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 25,
-      "level": "mirne",
+      "score": 59,
+      "level": "zvysene",
       "color": "#C98A3B",
       "trend": "up",
-      "score_change": 15,
+      "score_change": 34,
       "headlines": [
         {
-          "title": "Drones attack cargo ship heading to Russia's Kaliningrad in Gulf of Finland",
+          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Finland confirms Ukraine attacked ship linked to Russian military",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063980/"
+        },
+        {
+          "title": "Finland also reports drone strike on Russian vessel in Gulf of Finland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063961/"
+        },
+        {
+          "title": "Cargo ship bound for Russia’s Kaliningrad attacked by drones in Gulf of Finland",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063939/"
+        },
+        {
+          "title": "Po útoku na loď ve Finském zálivu hlásí Helsinky možné narušení vzdušného prostoru",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/po-utoku-na-lod-ve-finskem-zalivu-hlasi-helsinky-mozne-naruseni-vzdusneho-prostoru-379818"
         }
       ]
     },
@@ -164,12 +179,12 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Zemřel poslední Francouz, který přežil koncentrační tábor Natzweiler-Struthof",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-zemrel-posledni-francouz-ktery-prezil-koncentracni-tabor-natzweiler-struthof-321189"
+          "title": "Zelenskyy says NATO membership for Ukraine remains under discussion and would benefit both",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063955/"
         }
       ]
     },
@@ -269,8 +284,8 @@
       "score": 16,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
@@ -281,19 +296,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 52,
-      "level": "zvysene",
+      "score": 37,
+      "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -1,
+      "score_change": -15,
       "headlines": [
         {
-          "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-          "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
-        },
-        {
-          "title": "Swedish Gripen authorised to shoot down Russian missile over Poland but unable to identify it",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063930/"
+          "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+          "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss"
         }
       ]
     },
@@ -359,23 +370,23 @@
     }
   ],
   "radiation": {
-    "score": 32,
+    "score": 42,
     "level": "mirne",
     "color": "#C98A3B",
     "trend": "up",
-    "score_change": 6,
+    "score_change": 10,
     "headlines": [
       {
         "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
         "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
       },
       {
-        "title": "Ukraine hits ammunition depot in Crimea and bridge in Luhansk Oblast",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063937/"
+        "title": "Zelenskyy names 15 settlements for evacuations similar to Oleshky operation",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063949/"
       },
       {
-        "title": "Russians kill two and injure over 20, including child, in Zaporizhzhia Oblast over past day – photo",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063909/"
+        "title": "Ukraine hits ammunition depot in Crimea and bridge in Luhansk Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063937/"
       }
     ]
   }
