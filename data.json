@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:30:00.356548+00:00",
+  "generated_at": "2026-11-22T05:50:04.777957+00:00",
   "overall_score": 13,
   "hotspots": [
     {
@@ -119,8 +119,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
@@ -138,8 +138,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -148,8 +148,8 @@
       "score": 59,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 34,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -176,12 +176,16 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
+        {
+          "title": "Clashes erupt across France in another night of protest",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss"
+        },
         {
           "title": "Zelenskyy says NATO membership for Ukraine remains under discussion and would benefit both",
           "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063955/"
@@ -296,17 +300,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 37,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -15,
-      "headlines": [
-        {
-          "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-          "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss"
-        }
-      ]
+      "score_change": -17,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -373,8 +372,8 @@
     "score": 42,
     "level": "mirne",
     "color": "#C98A3B",
-    "trend": "up",
-    "score_change": 10,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
