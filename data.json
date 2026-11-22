@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-11-22T05:50:04.777957+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-22T16:03:19.072849+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Na dronové útoky nejsme připravení, vadí Hřibovi. Řešíme protivzdušnou obranu, říká Šťastný",
+          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-bezpecnostnich-hrozbach-v-cesku-a-v-evrope-379830"
+        },
+        {
+          "title": "Aktuální návrh rozpočtu EU je podle Babiše pro Česko absolutně nepřijatelný",
+          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/aktualni-navrh-rozpoctu-eu-je-podle-babise-pro-cesko-absolutne-neprijatelny-379831"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,16 +31,16 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
+          "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+          "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss"
+        },
+        {
+          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
           "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia-bound ship attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "What we know about the latest Russian missile strikes on Ukraine",
@@ -116,56 +125,57 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 10,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
           "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
-          "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
         }
       ]
     },
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Estonia comments on Ukrainian attack on Russian vessel in Baltic Sea",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064042/"
+        }
+      ]
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 59,
+      "score": 53,
       "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss"
+        },
+        {
+          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Finland confirms Ukraine attacked ship linked to Russian military",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063980/"
+          "title": "Estonia comments on Ukrainian attack on Russian vessel in Baltic Sea",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064042/"
         },
         {
-          "title": "Finland also reports drone strike on Russian vessel in Gulf of Finland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063961/"
-        },
-        {
-          "title": "Cargo ship bound for Russia’s Kaliningrad attacked by drones in Gulf of Finland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063939/"
+          "title": "Russian vessel struck by drone near Finland still on fire",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064017/"
         },
         {
           "title": "Po útoku na loď ve Finském zálivu hlásí Helsinky možné narušení vzdušného prostoru",
@@ -176,31 +186,27 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 5,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
+    },
+    {
+      "id": "germany",
+      "name": "Nemecko",
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "up",
       "score_change": 3,
       "headlines": [
         {
-          "title": "Clashes erupt across France in another night of protest",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss"
-        },
-        {
-          "title": "Zelenskyy says NATO membership for Ukraine remains under discussion and would benefit both",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063955/"
+          "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+          "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex"
         }
       ]
-    },
-    {
-      "id": "germany",
-      "name": "Nemecko",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
     },
     {
       "id": "greece",
@@ -255,12 +261,17 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 39,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 24,
+      "headlines": [
+        {
+          "title": "Útok na Kaliningradskou oblast monitoroval letoun NATO, píše ukrajinský web",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/kaliningradska-oblast-zrejme-celila-utoku-litva-vinu-odmita-379829"
+        }
+      ]
     },
     {
       "id": "luxembourg",
@@ -303,8 +314,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -17,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -330,12 +341,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 18,
+      "headlines": [
+        {
+          "title": "Slovak foreign minister hints Ukrainians were behind the invasion of Czechoslovakia",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064057/"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -369,23 +385,23 @@
     }
   ],
   "radiation": {
-    "score": 42,
+    "score": 32,
     "level": "mirne",
     "color": "#C98A3B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "down",
+    "score_change": -10,
     "headlines": [
+      {
+        "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+        "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss"
+      },
       {
         "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
         "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
       },
       {
-        "title": "Zelenskyy names 15 settlements for evacuations similar to Oleshky operation",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063949/"
-      },
-      {
-        "title": "Ukraine hits ammunition depot in Crimea and bridge in Luhansk Oblast",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063937/"
+        "title": "Russians strike gas service facility and two petrol stations, injuring people",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064066/"
       }
     ]
   }
