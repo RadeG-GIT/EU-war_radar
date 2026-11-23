@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-23T00:38:15.970213+00:00",
-  "overall_score": 15,
+  "generated_at": "2026-11-23T14:12:20.325755+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
-        {
-          "title": "Obrana a bezpečnost Polska je český národní zájem, reagoval Zůna na narušení vzdušného prostoru země",
-          "link": "https://www.irozhlas.cz/zpravy-domov/obrana-a-bezpecnost-polska-je-cesky-narodni-zajem-reagoval-zuna-na-naruseni_2611222214_dns"
-        },
         {
           "title": "Na dronové útoky nejsme připravení, vadí Hřibovi. Řešíme protivzdušnou obranu, říká Šťastný",
           "link": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-bezpecnostnich-hrozbach-v-cesku-a-v-evrope-379830"
@@ -35,24 +31,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+          "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss"
         },
         {
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+          "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+          "link": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss"
         },
         {
-          "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-          "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+          "title": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss"
         },
         {
-          "title": "Three killed and twelve injured in Russian attack on Kyiv Oblast – photo, videos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064074/"
+          "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
+          "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss"
         },
         {
-          "title": "Ukrainian forces down jet-powered drone with a Kalashnikov rifle – video",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064077/"
+          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -144,46 +140,29 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Estonia comments on Ukrainian attack on Russian vessel in Baltic Sea",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064042/"
-        },
-        {
-          "title": "Rusko začalo z Baltského moře odtahovat zasaženou nákladní loď. Hasit ji pomáhalo Finsko i Estonsko",
-          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-zacalo-z-baltskeho-more-odtahovat-zasazenou-nakladni-lod-hasit-ji-pomahalo_2611221902_dns"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 44,
+      "score": 32,
       "level": "mirne",
       "color": "#C98A3B",
       "trend": "down",
-      "score_change": -9,
+      "score_change": -12,
       "headlines": [
         {
           "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Estonia comments on Ukrainian attack on Russian vessel in Baltic Sea",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064042/"
-        },
-        {
-          "title": "Rusko začalo z Baltského moře odtahovat zasaženou nákladní loď. Hasit ji pomáhalo Finsko i Estonsko",
-          "link": "https://www.irozhlas.cz/zpravy-svet/rusko-zacalo-z-baltskeho-more-odtahovat-zasazenou-nakladni-lod-hasit-ji-pomahalo_2611221902_dns"
-        },
-        {
-          "title": "Po útoku na loď ve Finském zálivu hlásí Helsinky možné narušení vzdušného prostoru",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/po-utoku-na-lod-ve-finskem-zalivu-hlasi-helsinky-mozne-naruseni-vzdusneho-prostoru-379818"
+          "title": "Russia is modernising key military garrison near Finnish border, Finnish broadcaster says – photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064168/"
         }
       ]
     },
@@ -200,17 +179,12 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-          "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "greece",
@@ -265,18 +239,14 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 54,
-      "level": "zvysene",
+      "score": 39,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "down",
+      "score_change": -15,
       "headlines": [
         {
-          "title": "Poland flags Russian disinformation over alleged Ukrainian attack in Kaliningrad Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064083/"
-        },
-        {
-          "title": "Útok na Kaliningradskou oblast monitoroval letoun NATO, píše ukrajinský web",
+          "title": "Poplach v Kaliningradské oblasti monitoroval letoun NATO, píše ukrajinský web",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/kaliningradska-oblast-zrejme-celila-utoku-litva-vinu-odmita-379829"
         }
       ]
@@ -319,15 +289,15 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 35,
+      "score": 31,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 15,
+      "trend": "down",
+      "score_change": -4,
       "headlines": [
         {
-          "title": "Poland flags Russian disinformation over alleged Ukrainian attack in Kaliningrad Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064083/"
+          "title": "Poland to summon Russian ambassador after three Russian missiles breached its airspace",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064207/"
         }
       ]
     },
@@ -354,17 +324,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 23,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Slovak foreign minister hints Ukrainians were behind the invasion of Czechoslovakia",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064057/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -18,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -401,16 +366,16 @@
     "score": 29,
     "level": "mirne",
     "color": "#C98A3B",
-    "trend": "down",
-    "score_change": -3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
         "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
         "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
       },
       {
-        "title": "Russians strike gas service facility and two petrol stations, injuring people",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064066/"
+        "title": "Three killed in Russian strike on private clinic in Zaporizhzhia – video",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064178/"
       }
     ]
   }
