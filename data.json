@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:48:10.762913+00:00",
+  "generated_at": "2026-11-24T14:39:15.377019+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
+          "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
+          "link": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
+        },
+        {
+          "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss"
+        },
+        {
+          "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+          "link": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss"
+        },
+        {
+          "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+          "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss"
+        },
+        {
           "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
           "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
-        },
-        {
-          "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
-        },
-        {
-          "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
-          "link": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war"
-        },
-        {
-          "title": "Russia preparing new strikes on Ukraine, Zelenskyy says",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064294/"
         }
       ]
     },
@@ -56,12 +56,17 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 15,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 5,
+      "headlines": [
+        {
+          "title": "Moldova prepares to align with EU sectoral sanctions against Russia and Belarus",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064365/"
+        }
+      ]
     },
     {
       "id": "austria",
@@ -119,28 +124,19 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 27,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 12,
-      "headlines": [
-        {
-          "title": "Russia accuses Estonia of allowing Ukrainian drones to use its airspace",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064275/"
-        },
-        {
-          "title": "Russia's Foreign Ministry outraged by Estonia's decision to close border",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064254/"
-        }
-      ]
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -12,
+      "headlines": []
     },
     {
       "id": "finland",
@@ -148,37 +144,40 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -22,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
-          "link": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 16,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "down",
+      "score_change": -2,
       "headlines": [
         {
-          "title": "Germany's Merz urges Russia to stop \"dangerous provocations\" after missiles fall in Poland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064268/"
+          "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+          "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates"
+        },
+        {
+          "title": "Ukraine receives Lynx combat vehicles from Germany and plan to use them against Shahed drones – video, photos",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064414/"
+        },
+        {
+          "title": "Norway joins Germany in testing Ukrainian Delta battlefield management system",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064392/"
         }
       ]
     },
@@ -215,12 +214,17 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -238,8 +242,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -24,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -268,26 +272,22 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 42,
+      "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 11,
+      "trend": "down",
+      "score_change": -13,
       "headlines": [
         {
-          "title": "NATO strengthens protection after Russian missiles violate Polish airspace",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064278/"
-        },
-        {
-          "title": "Germany's Merz urges Russia to stop \"dangerous provocations\" after missiles fall in Poland",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064268/"
+          "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
         }
       ]
     },
@@ -334,12 +334,17 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -353,15 +358,23 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -21,
+    "trend": "up",
+    "score_change": 6,
     "headlines": [
       {
-        "title": "Russians launch airstrikes on Zaporizhzhia: six injured – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064257/"
+        "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+        "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss"
+      },
+      {
+        "title": "Russian FPV drone attack on Zaporizhzhia injures woman",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064366/"
+      },
+      {
+        "title": "Russian attacks cause power cuts in five Ukrainian oblasts",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064361/"
       }
     ]
   }
