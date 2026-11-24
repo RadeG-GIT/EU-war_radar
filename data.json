@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-11-23T14:12:20.325755+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-24T02:48:10.762913+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 9,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -3,
-      "headlines": [
-        {
-          "title": "Na dronové útoky nejsme připravení, vadí Hřibovi. Řešíme protivzdušnou obranu, říká Šťastný",
-          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-bezpecnostnich-hrozbach-v-cesku-a-v-evrope-379830"
-        },
-        {
-          "title": "Aktuální návrh rozpočtu EU je podle Babiše pro Česko absolutně nepřijatelný",
-          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/aktualni-navrh-rozpoctu-eu-je-podle-babise-pro-cesko-absolutne-neprijatelny-379831"
-        }
-      ]
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -31,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-          "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss"
+          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+          "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
-          "link": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss"
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
         },
         {
-          "title": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss"
+          "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
         },
         {
-          "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
-          "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss"
+          "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
+          "link": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war"
         },
         {
-          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          "title": "Russia preparing new strikes on Ukraine, Zelenskyy says",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064294/"
         }
       ]
     },
@@ -125,66 +116,71 @@
     {
       "id": "denmark",
       "name": "Dansko",
-      "score": 7,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "id": "estonia",
-      "name": "Estonsko",
-      "score": 15,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
-      "headlines": []
-    },
-    {
-      "id": "finland",
-      "name": "Finsko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -12,
-      "headlines": [
-        {
-          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia is modernising key military garrison near Finnish border, Finnish broadcaster says – photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064168/"
-        }
-      ]
-    },
-    {
-      "id": "france",
-      "name": "Francie",
-      "score": 5,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
-    },
-    {
-      "id": "germany",
-      "name": "Nemecko",
-      "score": 5,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
       "score_change": -3,
       "headlines": []
+    },
+    {
+      "id": "estonia",
+      "name": "Estonsko",
+      "score": 27,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "Russia accuses Estonia of allowing Ukrainian drones to use its airspace",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064275/"
+        },
+        {
+          "title": "Russia's Foreign Ministry outraged by Estonia's decision to close border",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064254/"
+        }
+      ]
+    },
+    {
+      "id": "finland",
+      "name": "Finsko",
+      "score": 10,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -22,
+      "headlines": []
+    },
+    {
+      "id": "france",
+      "name": "Francie",
+      "score": 8,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
+          "link": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "name": "Nemecko",
+      "score": 16,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "up",
+      "score_change": 11,
+      "headlines": [
+        {
+          "title": "Germany's Merz urges Russia to stop \"dangerous provocations\" after missiles fall in Poland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064268/"
+        }
+      ]
     },
     {
       "id": "greece",
@@ -239,17 +235,12 @@
     {
       "id": "lithuania",
       "name": "Litva",
-      "score": 39,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 15,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -15,
-      "headlines": [
-        {
-          "title": "Poplach v Kaliningradské oblasti monitoroval letoun NATO, píše ukrajinský web",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/kaliningradska-oblast-zrejme-celila-utoku-litva-vinu-odmita-379829"
-        }
-      ]
+      "score_change": -24,
+      "headlines": []
     },
     {
       "id": "luxembourg",
@@ -274,30 +265,29 @@
     {
       "id": "netherlands",
       "name": "Nizozemsko",
-      "score": 16,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
-          "link": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling"
-        }
-      ]
+      "trend": "down",
+      "score_change": -13,
+      "headlines": []
     },
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 31,
+      "score": 42,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -4,
+      "trend": "up",
+      "score_change": 11,
       "headlines": [
         {
-          "title": "Poland to summon Russian ambassador after three Russian missiles breached its airspace",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064207/"
+          "title": "NATO strengthens protection after Russian missiles violate Polish airspace",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064278/"
+        },
+        {
+          "title": "Germany's Merz urges Russia to stop \"dangerous provocations\" after missiles fall in Poland",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064268/"
         }
       ]
     },
@@ -327,8 +317,8 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -363,19 +353,15 @@
     }
   ],
   "radiation": {
-    "score": 29,
-    "level": "mirne",
-    "color": "#C98A3B",
-    "trend": "same",
-    "score_change": 0,
+    "score": 8,
+    "level": "nizke",
+    "color": "#4C8C6B",
+    "trend": "down",
+    "score_change": -21,
     "headlines": [
       {
-        "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-        "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
-      },
-      {
-        "title": "Three killed in Russian strike on private clinic in Zaporizhzhia – video",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064178/"
+        "title": "Russians launch airstrikes on Zaporizhzhia: six injured – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064257/"
       }
     ]
   }
