@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-11-25T00:27:39.476431+00:00",
-  "overall_score": 12,
+  "generated_at": "2026-11-25T13:59:50.772913+00:00",
+  "overall_score": 14,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "Blackout nebo kybernetický útok. Česko by mělo nacvičovat společné krizové scénáře, míní odborník",
-          "link": "https://www.irozhlas.cz/zpravy-svet/blackout-nebo-kyberneticky-utok-cesko-melo-spolecne-nacvicovat-krizove-scenare_2611250010_jar"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-          "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss"
+          "title": "Russian strikes on Ukraine cause power outages in five regions",
+          "link": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss"
         },
         {
-          "title": "Is Libya a new front in the Ukraine war?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss"
+          "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+          "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-          "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+          "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+          "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
         },
         {
           "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
           "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
         },
         {
-          "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
+          "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates"
         }
       ]
     },
@@ -64,8 +59,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -5,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -81,12 +76,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 19,
+      "headlines": [
+        {
+          "title": "Poland urges NATO to intercept Russian missiles over Ukraine – Bloomberg",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064605/"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -151,22 +151,31 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 5,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+          "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
+        }
+      ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 8,
+      "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "up",
+      "score_change": 13,
       "headlines": [
+        {
+          "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates"
+        },
         {
           "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
           "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates"
@@ -186,27 +195,27 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 22,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 18,
-      "headlines": [
-        {
-          "title": "Hungarian PM says he hosted refugees from Zakarpattia Oblast",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064480/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -18,
+      "headlines": []
     },
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 2,
+      "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 21,
+      "headlines": [
+        {
+          "title": "Number of women killed by men in Ireland almost doubles in a year",
+          "link": "https://www.theguardian.com/society/2026/nov/25/number-of-women-killed-by-men-in-ireland-almost-doubles-in-a-year"
+        }
+      ]
     },
     {
       "id": "italy",
@@ -276,15 +285,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 29,
-      "level": "mirne",
+      "score": 48,
+      "level": "zvysene",
       "color": "#C98A3B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 19,
       "headlines": [
         {
           "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
+        },
+        {
+          "title": "Poland urges NATO to intercept Russian missiles over Ukraine – Bloomberg",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064605/"
         }
       ]
     },
@@ -346,29 +359,24 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
-      "headlines": [
-        {
-          "title": "Sweden announces winter support package for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064465/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     }
   ],
   "radiation": {
     "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
-        "title": "\"Categorical objection\": Ukrainian government responds to appointment of Russian official to senior IAEA post",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064479/"
+        "title": "Ukraine's PM says overnight Russian attacks targeted energy and logistics",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064593/"
       }
     ]
   }
