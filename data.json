@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-11-24T14:39:15.377019+00:00",
+  "generated_at": "2026-11-25T00:27:39.476431+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Blackout nebo kybernetický útok. Česko by mělo nacvičovat společné krizové scénáře, míní odborník",
+          "link": "https://www.irozhlas.cz/zpravy-svet/blackout-nebo-kyberneticky-utok-cesko-melo-spolecne-nacvicovat-krizove-scenare_2611250010_jar"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,24 +27,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
-          "link": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
+          "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+          "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss"
         },
         {
-          "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss"
-        },
-        {
-          "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-          "link": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss"
-        },
-        {
-          "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
-          "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss"
+          "title": "Is Libya a new front in the Ukraine war?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss"
         },
         {
           "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
           "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+        },
+        {
+          "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
         }
       ]
     },
@@ -56,17 +61,12 @@
     {
       "id": "moldova",
       "name": "Moldova - Podnestri",
-      "score": 20,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 5,
-      "headlines": [
-        {
-          "title": "Moldova prepares to align with EU sectoral sanctions against Russia and Belarus",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064365/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -5,
+      "headlines": []
     },
     {
       "id": "austria",
@@ -134,8 +134,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -12,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -154,30 +154,22 @@
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -2,
+      "score_change": -6,
       "headlines": [
         {
-          "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+          "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
           "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates"
-        },
-        {
-          "title": "Ukraine receives Lynx combat vehicles from Germany and plan to use them against Shahed drones – video, photos",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064414/"
-        },
-        {
-          "title": "Norway joins Germany in testing Ukrainian Delta battlefield management system",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064392/"
         }
       ]
     },
@@ -194,12 +186,17 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 4,
+      "score": 22,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 18,
+      "headlines": [
+        {
+          "title": "Hungarian PM says he hosted refugees from Zakarpattia Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064480/"
+        }
+      ]
     },
     {
       "id": "ireland",
@@ -217,11 +214,11 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+          "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
         }
       ]
@@ -282,11 +279,11 @@
       "score": 29,
       "level": "mirne",
       "color": "#C98A3B",
-      "trend": "down",
-      "score_change": -13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+          "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
         }
       ]
@@ -337,11 +334,11 @@
       "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+          "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
         }
       ]
@@ -349,32 +346,29 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Sweden announces winter support package for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064465/"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 6,
+    "trend": "down",
+    "score_change": -6,
     "headlines": [
       {
-        "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
-        "link": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss"
-      },
-      {
-        "title": "Russian FPV drone attack on Zaporizhzhia injures woman",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064366/"
-      },
-      {
-        "title": "Russian attacks cause power cuts in five Ukrainian oblasts",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064361/"
+        "title": "\"Categorical objection\": Ukrainian government responds to appointment of Russian official to senior IAEA post",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064479/"
       }
     ]
   }
