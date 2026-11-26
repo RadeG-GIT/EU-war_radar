@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-11-26T00:03:41.382323+00:00",
+  "generated_at": "2026-11-26T13:39:34.657311+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        }
+      ]
     },
     {
       "id": "ukraine",
@@ -22,36 +27,45 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukrainian laser downs Russian jet-powered drone in world first",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss"
-        },
-        {
-          "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-          "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-          "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+          "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+          "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss"
         },
         {
           "title": "Five Russian military jets hit in airfield strike, says Ukraine",
           "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+          "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
+        },
+        {
+          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        },
+        {
+          "title": "Ukraine repatriates 250 bodies that Russia claims are Ukrainian military personnel",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064795/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 20,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "score": 32,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
+        },
+        {
+          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        }
+      ]
     },
     {
       "id": "moldova",
@@ -76,12 +90,17 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 3,
+      "score": 12,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -19,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        }
+      ]
     },
     {
       "id": "bulgaria",
@@ -161,19 +180,23 @@
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 21,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -7,
       "headlines": [
         {
-          "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates"
+          "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
         },
         {
           "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
           "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates"
+        },
+        {
+          "title": "Ekonom k rozpočtu EU: Už dříve se rozhodovalo na poslední chvíli. Obrana ale tématem nebyla",
+          "link": "https://www.irozhlas.cz/ekonomika/ekonom-k-rozpoctu-eu-uz-drive-se-rozhodovalo-na-posledni-chvili-obrana-ale_2611261157_elv"
         }
       ]
     },
@@ -190,42 +213,37 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 4,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        }
+      ]
     },
     {
       "id": "ireland",
       "name": "Irsko",
-      "score": 23,
+      "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Number of women killed by men in Ireland almost doubles in a year",
-          "link": "https://www.theguardian.com/society/2026/nov/25/number-of-women-killed-by-men-in-ireland-almost-doubles-in-a-year"
-        }
-      ]
+      "trend": "down",
+      "score_change": -21,
+      "headlines": []
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 13,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Ukrajina si útokem ve Středomoří zahrává s trpělivostí důležitého spojence",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-ukrajina-si-utokem-ve-stredomori-zahrava-s-trpelivosti-duleziteho-spojence-321468"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "latvia",
@@ -280,21 +298,12 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 36,
-      "level": "mirne",
-      "color": "#C98A3B",
+      "score": 20,
+      "level": "nizke",
+      "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -12,
-      "headlines": [
-        {
-          "title": "Poland says NATO refuses to shoot down drones over Ukraine due to \"numerous complications\"",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064636/"
-        },
-        {
-          "title": "Poland plans to establish a no-fly zone near its border with Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064627/"
-        }
-      ]
+      "score_change": -16,
+      "headlines": []
     },
     {
       "id": "portugal",
@@ -319,12 +328,17 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 5,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        }
+      ]
     },
     {
       "id": "slovenia",
@@ -339,12 +353,21 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 3,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
-      "headlines": []
+      "trend": "up",
+      "score_change": 12,
+      "headlines": [
+        {
+          "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
+        },
+        {
+          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        }
+      ]
     },
     {
       "id": "sweden",
@@ -358,15 +381,23 @@
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 14,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "same",
-    "score_change": 0,
+    "trend": "up",
+    "score_change": 6,
     "headlines": [
       {
-        "title": "Six injured, including child, in Russian attack on Zaporizhzhia – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064631/"
+        "title": "Three injured and cars on fire after Russian attack on Zaporizhzhia",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064775/"
+      },
+      {
+        "title": "Four police officers killed in Russian strike in Zaporizhzhia Oblast – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064773/"
+      },
+      {
+        "title": "Russian attacks leave consumers in seven oblasts without electricity",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064764/"
       }
     ]
   }
