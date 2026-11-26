@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T13:59:50.772913+00:00",
-  "overall_score": 14,
+  "generated_at": "2026-11-26T00:03:41.382323+00:00",
+  "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russian strikes on Ukraine cause power outages in five regions",
-          "link": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss"
-        },
-        {
-          "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-          "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+          "title": "Ukrainian laser downs Russian jet-powered drone in world first",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss"
         },
         {
           "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
           "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+          "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+          "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates"
+          "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
         }
       ]
     },
@@ -76,17 +76,12 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 22,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 19,
-      "headlines": [
-        {
-          "title": "Poland urges NATO to intercept Russian missiles over Ukraine – Bloomberg",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064605/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -19,
+      "headlines": []
     },
     {
       "id": "bulgaria",
@@ -154,8 +149,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
@@ -169,11 +164,11 @@
       "score": 21,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 13,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
+          "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates"
         },
         {
@@ -198,8 +193,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -18,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -208,8 +203,8 @@
       "score": 23,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 21,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Number of women killed by men in Ireland almost doubles in a year",
@@ -227,8 +222,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
+          "title": "Ukrajina si útokem ve Středomoří zahrává s trpělivostí důležitého spojence",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-ukrajina-si-utokem-ve-stredomori-zahrava-s-trpelivosti-duleziteho-spojence-321468"
         }
       ]
     },
@@ -285,19 +280,19 @@
     {
       "id": "poland",
       "name": "Polsko",
-      "score": 48,
-      "level": "zvysene",
+      "score": 36,
+      "level": "mirne",
       "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 19,
+      "trend": "down",
+      "score_change": -12,
       "headlines": [
         {
-          "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
+          "title": "Poland says NATO refuses to shoot down drones over Ukraine due to \"numerous complications\"",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064636/"
         },
         {
-          "title": "Poland urges NATO to intercept Russian missiles over Ukraine – Bloomberg",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064605/"
+          "title": "Poland plans to establish a no-fly zone near its border with Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064627/"
         }
       ]
     },
@@ -344,17 +339,12 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 12,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "sweden",
@@ -362,8 +352,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
@@ -375,8 +365,8 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Ukraine's PM says overnight Russian attacks targeted energy and logistics",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064593/"
+        "title": "Six injured, including child, in Russian attack on Zaporizhzhia – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064631/"
       }
     ]
   }
