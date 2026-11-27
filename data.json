@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T00:24:25.138541+00:00",
-  "overall_score": 13,
+  "generated_at": "2026-11-27T13:36:06.035197+00:00",
+  "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
@@ -8,12 +8,12 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
         }
       ]
     },
@@ -27,41 +27,36 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+          "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+          "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss"
         },
         {
-          "title": "Russia has lost nearly US$190bn in war against Ukraine – Russian media report",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064857/"
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Trump's version of joint statement with Rutte urges both Ukraine and Russia to avoid actions that could expand war",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064852/"
+          "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
         },
         {
-          "title": "Trump says he asked Putin to stop military aggression in Europe",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064838/"
+          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
         },
         {
-          "title": "Germany follows Italy in warning Ukraine against \"geographical\" expansion of war",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064832/"
+          "title": "AfD co-leader calls for parts of Ukraine to be ceded to Russia and accuses Kyiv of attacking its own citizens",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064946/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 23,
+      "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -9,
-      "headlines": [
-        {
-          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
-        }
-      ]
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "moldova",
@@ -89,24 +84,33 @@
       "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
         }
       ]
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 5,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 6,
+      "headlines": [
+        {
+          "title": "Clashes mar European games as Macron condemns violence",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
+        }
+      ]
     },
     {
       "id": "croatia",
@@ -141,32 +145,22 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 24,
+      "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064821/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 19,
+      "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064821/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     },
     {
       "id": "france",
@@ -174,39 +168,35 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
           "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
         },
         {
-          "title": "French presidential candidate: \"The war in Ukraine is our war because we are targets of Putin\"",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064825/"
+          "title": "French town divided over church bells ringing every 15 minutes at night",
+          "link": "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 14,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
-          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
         },
         {
           "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
           "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates"
-        },
-        {
-          "title": "Germany follows Italy in warning Ukraine against \"geographical\" expansion of war",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064832/"
         }
       ]
     },
@@ -226,12 +216,12 @@
       "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
         }
       ]
     },
@@ -248,27 +238,15 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 26,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 22,
+      "score": 17,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
           "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
           "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Germany follows Italy in warning Ukraine against \"geographical\" expansion of war",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064832/"
-        },
-        {
-          "title": "Úlomky íránských dronů zabily v Kuvajtu dva Italy",
-          "link": "https://www.novinky.cz/clanek/zahranicni-ulomky-iranskych-dronu-zabily-v-kuvajtu-dva-italy-40610719"
-        },
-        {
-          "title": "Sestřelený íránský dron v Kuvajtu zabil dva Italy a dva lidi zranil",
-          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-sestreleny-iransky-dron-v-kuvajtu-zabil-dva-italy-a-dva-lidi-zranil-321616"
         }
       ]
     },
@@ -358,12 +336,12 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
         }
       ]
     },
@@ -380,44 +358,47 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 6,
+      "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
-          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+          "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
         }
       ]
     },
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 17,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
-      "headlines": [
-        {
-          "title": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064821/"
-        }
-      ]
+      "trend": "down",
+      "score_change": -9,
+      "headlines": []
     }
   ],
   "radiation": {
-    "score": 8,
+    "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "down",
-    "score_change": -6,
+    "trend": "up",
+    "score_change": 3,
     "headlines": [
       {
-        "title": "Russians attack Zaporizhzhia in the evening, killing one and injuring four",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064848/"
+        "title": "Ukraine halts electricity exports",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064949/"
+      },
+      {
+        "title": "Do důchodu daleko. České jaderné elektrárny mají sloužit 80 let",
+        "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-jaderky-maji-do-penze-daleko-pece-a-upravy-jsou-levnejsi-nez-stavba-novych-321605"
       }
     ]
   }
