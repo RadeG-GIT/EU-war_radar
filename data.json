@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-26T13:39:34.657311+00:00",
+  "generated_at": "2026-11-27T00:24:25.138541+00:00",
   "overall_score": 13,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 12,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
           "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
         }
       ]
@@ -27,42 +27,38 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
-          "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss"
-        },
-        {
-          "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
-        },
-        {
-          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
           "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
         },
         {
-          "title": "Ukraine repatriates 250 bodies that Russia claims are Ukrainian military personnel",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064795/"
+          "title": "Russia has lost nearly US$190bn in war against Ukraine – Russian media report",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064857/"
+        },
+        {
+          "title": "Trump's version of joint statement with Rutte urges both Ukraine and Russia to avoid actions that could expand war",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064852/"
+        },
+        {
+          "title": "Trump says he asked Putin to stop military aggression in Europe",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064838/"
+        },
+        {
+          "title": "Germany follows Italy in warning Ukraine against \"geographical\" expansion of war",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064832/"
         }
       ]
     },
     {
       "id": "balkans",
       "name": "Kosovo - Srbsko",
-      "score": 32,
-      "level": "mirne",
-      "color": "#C98A3B",
-      "trend": "up",
-      "score_change": 12,
+      "score": 23,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
-          "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
-        },
-        {
-          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
           "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
         }
       ]
@@ -90,14 +86,14 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 12,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
           "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
         }
       ]
@@ -145,35 +141,49 @@
     {
       "id": "estonia",
       "name": "Estonsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064821/"
+        }
+      ]
     },
     {
       "id": "finland",
       "name": "Finsko",
-      "score": 10,
+      "score": 19,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064821/"
+        }
+      ]
     },
     {
       "id": "france",
       "name": "Francie",
-      "score": 8,
+      "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 3,
       "headlines": [
         {
           "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
           "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
+        },
+        {
+          "title": "French presidential candidate: \"The war in Ukraine is our war because we are targets of Putin\"",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064825/"
         }
       ]
     },
@@ -183,20 +193,20 @@
       "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -7,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
+          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
+          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
         },
         {
           "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
           "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates"
         },
         {
-          "title": "Ekonom k rozpočtu EU: Už dříve se rozhodovalo na poslední chvíli. Obrana ale tématem nebyla",
-          "link": "https://www.irozhlas.cz/ekonomika/ekonom-k-rozpoctu-eu-uz-drive-se-rozhodovalo-na-posledni-chvili-obrana-ale_2611261157_elv"
+          "title": "Germany follows Italy in warning Ukraine against \"geographical\" expansion of war",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064832/"
         }
       ]
     },
@@ -213,14 +223,14 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 13,
+      "score": 7,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
           "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
         }
       ]
@@ -231,19 +241,36 @@
       "score": 2,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -21,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
       "id": "italy",
       "name": "Italie",
-      "score": 4,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
-      "headlines": []
+      "score": 26,
+      "level": "mirne",
+      "color": "#C98A3B",
+      "trend": "up",
+      "score_change": 22,
+      "headlines": [
+        {
+          "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Germany follows Italy in warning Ukraine against \"geographical\" expansion of war",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064832/"
+        },
+        {
+          "title": "Úlomky íránských dronů zabily v Kuvajtu dva Italy",
+          "link": "https://www.novinky.cz/clanek/zahranicni-ulomky-iranskych-dronu-zabily-v-kuvajtu-dva-italy-40610719"
+        },
+        {
+          "title": "Sestřelený íránský dron v Kuvajtu zabil dva Italy a dva lidi zranil",
+          "link": "https://www.seznamzpravy.cz/clanek/zahranicni-sestreleny-iransky-dron-v-kuvajtu-zabil-dva-italy-a-dva-lidi-zranil-321616"
+        }
+      ]
     },
     {
       "id": "latvia",
@@ -301,8 +328,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -16,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -328,14 +355,14 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 14,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "down",
+      "score_change": -6,
       "headlines": [
         {
-          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
           "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
         }
       ]
@@ -353,18 +380,14 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 15,
+      "score": 6,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 12,
+      "trend": "down",
+      "score_change": -9,
       "headlines": [
         {
-          "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
-        },
-        {
-          "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
           "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
         }
       ]
@@ -372,32 +395,29 @@
     {
       "id": "sweden",
       "name": "Svedsko",
-      "score": 8,
+      "score": 17,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064821/"
+        }
+      ]
     }
   ],
   "radiation": {
-    "score": 14,
+    "score": 8,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 6,
+    "trend": "down",
+    "score_change": -6,
     "headlines": [
       {
-        "title": "Three injured and cars on fire after Russian attack on Zaporizhzhia",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064775/"
-      },
-      {
-        "title": "Four police officers killed in Russian strike in Zaporizhzhia Oblast – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064773/"
-      },
-      {
-        "title": "Russian attacks leave consumers in seven oblasts without electricity",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064764/"
+        "title": "Russians attack Zaporizhzhia in the evening, killing one and injuring four",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/26/8064848/"
       }
     ]
   }
