@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-11-27T13:36:06.035197+00:00",
+  "generated_at": "2026-11-27T23:56:55.196169+00:00",
   "overall_score": 12,
   "hotspots": [
     {
       "id": "czechia",
       "name": "Ceska republika",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
-          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ukraine",
@@ -27,24 +22,24 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-          "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss"
+          "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+          "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss"
+        },
+        {
+          "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+          "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss"
         },
         {
           "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
           "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
+          "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+          "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
-          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
-        },
-        {
-          "title": "AfD co-leader calls for parts of Ukraine to be ceded to Russia and accuses Kyiv of attacking its own citizens",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064946/"
+          "title": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
+          "link": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival"
         }
       ]
     },
@@ -54,8 +49,8 @@
       "score": 20,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -81,36 +76,22 @@
     {
       "id": "belgium",
       "name": "Belgie",
-      "score": 6,
+      "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
-          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "bulgaria",
       "name": "Bulharsko",
-      "score": 11,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 6,
-      "headlines": [
-        {
-          "title": "Clashes mar European games as Macron condemns violence",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
-          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
-        }
-      ]
+      "trend": "down",
+      "score_change": -6,
+      "headlines": []
     },
     {
       "id": "croatia",
@@ -148,8 +129,8 @@
       "score": 15,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -158,8 +139,8 @@
       "score": 10,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -176,8 +157,8 @@
           "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
         },
         {
-          "title": "French town divided over church bells ringing every 15 minutes at night",
-          "link": "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes"
+          "title": "‚Přiznal, že chtěl ukrást kus kolejnice.‘ Francie kvůli zářijovému vykolejení vlaku vyšetřuje mladého muže",
+          "link": "https://www.irozhlas.cz/zpravy-svet/priznal-ze-chtel-ukrast-kus-kolejnice-francie-kvuli-zarijovemu-vykolejeni-vlaku_2611271821_aru"
         }
       ]
     },
@@ -187,16 +168,16 @@
       "score": 11,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
-        {
-          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
-          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
-        },
         {
           "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
           "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates"
+        },
+        {
+          "title": "Germany adopts 2027 budget with record borrowing, including €12bn in aid for Ukraine",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8065010/"
         }
       ]
     },
@@ -213,17 +194,12 @@
     {
       "id": "hungary",
       "name": "Madarsko",
-      "score": 7,
+      "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
-          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "ireland",
@@ -238,15 +214,15 @@
     {
       "id": "italy",
       "name": "Italie",
-      "score": 17,
+      "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
       "trend": "down",
-      "score_change": -9,
+      "score_change": -4,
       "headlines": [
         {
-          "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+          "title": "Italy denies that Zelenskyy coordinated attack on Russian ship in Libya with partners",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064990/"
         }
       ]
     },
@@ -323,12 +299,17 @@
     {
       "id": "romania",
       "name": "Rumunsko",
-      "score": 15,
+      "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": []
+      "trend": "up",
+      "score_change": 9,
+      "headlines": [
+        {
+          "title": "Romania calls on NATO to help repel Russian hybrid attacks",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8065029/"
+        }
+      ]
     },
     {
       "id": "slovakia",
@@ -340,8 +321,8 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
-          "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
+          "title": "Trestní stíhání za dodávky dronů Ukrajině? Rakouská firma proto raději přesune výrobu na Slovensko",
+          "link": "https://www.irozhlas.cz/zpravy-svet/trestni-stihani-za-dodavky-dronu-ukrajine-rakouska-firma-proto-radeji-presune_2611271832_jor"
         }
       ]
     },
@@ -361,15 +342,15 @@
       "score": 9,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss"
+          "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss"
         },
         {
-          "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+          "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
         }
       ]
@@ -380,8 +361,8 @@
       "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     }
   ],
@@ -389,16 +370,16 @@
     "score": 11,
     "level": "nizke",
     "color": "#4C8C6B",
-    "trend": "up",
-    "score_change": 3,
+    "trend": "same",
+    "score_change": 0,
     "headlines": [
       {
-        "title": "Ukraine halts electricity exports",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064949/"
+        "title": "Woman and abandoned animals she cared for evacuated from Balabyne in Zaporizhzhia Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8065039/"
       },
       {
-        "title": "Do důchodu daleko. České jaderné elektrárny mají sloužit 80 let",
-        "link": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-jaderky-maji-do-penze-daleko-pece-a-upravy-jsou-levnejsi-nez-stavba-novych-321605"
+        "title": "Ukraine brings back 11 people from occupation and Russia, including children and deported Oleshky care home resident – photos",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064994/"
       }
     ]
   }
