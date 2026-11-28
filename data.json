@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:56:55.196169+00:00",
+  "generated_at": "2026-11-28T07:31:06.580358+00:00",
   "overall_score": 12,
   "hotspots": [
     {
@@ -8,8 +8,8 @@
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -22,14 +22,6 @@
       "score_change": 0,
       "headlines": [
         {
-          "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
-          "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss"
-        },
-        {
-          "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-          "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss"
-        },
-        {
           "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
           "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
         },
@@ -38,8 +30,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
-          "link": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival"
+          "title": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+          "link": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine"
+        },
+        {
+          "title": "Russia kills four people and injures eight in Donetsk Oblast",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/28/8065080/"
+        },
+        {
+          "title": "Austrian far-right leader proposes deporting Syrians and Afghans to Ukraine in exchange for aid",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/28/8065079/"
         }
       ]
     },
@@ -66,6 +66,21 @@
     {
       "id": "austria",
       "name": "Rakousko",
+      "score": 6,
+      "level": "nizke",
+      "color": "#4C8C6B",
+      "trend": "up",
+      "score_change": 3,
+      "headlines": [
+        {
+          "title": "Austrian far-right leader proposes deporting Syrians and Afghans to Ukraine in exchange for aid",
+          "link": "https://www.pravda.com.ua/eng/news/2026/11/28/8065079/"
+        }
+      ]
+    },
+    {
+      "id": "belgium",
+      "name": "Belgie",
       "score": 3,
       "level": "nizke",
       "color": "#4C8C6B",
@@ -74,23 +89,13 @@
       "headlines": []
     },
     {
-      "id": "belgium",
-      "name": "Belgie",
-      "score": 3,
-      "level": "nizke",
-      "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
-      "headlines": []
-    },
-    {
       "id": "bulgaria",
       "name": "Bulharsko",
       "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -6,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -146,38 +151,30 @@
     {
       "id": "france",
       "name": "Francie",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
           "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
-        },
-        {
-          "title": "‚Přiznal, že chtěl ukrást kus kolejnice.‘ Francie kvůli zářijovému vykolejení vlaku vyšetřuje mladého muže",
-          "link": "https://www.irozhlas.cz/zpravy-svet/priznal-ze-chtel-ukrast-kus-kolejnice-francie-kvuli-zarijovemu-vykolejeni-vlaku_2611271821_aru"
         }
       ]
     },
     {
       "id": "germany",
       "name": "Nemecko",
-      "score": 11,
+      "score": 8,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "down",
+      "score_change": -3,
       "headlines": [
         {
           "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
           "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates"
-        },
-        {
-          "title": "Germany adopts 2027 budget with record borrowing, including €12bn in aid for Ukraine",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8065010/"
         }
       ]
     },
@@ -197,8 +194,8 @@
       "score": 4,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -3,
+      "trend": "same",
+      "score_change": 0,
       "headlines": []
     },
     {
@@ -217,12 +214,12 @@
       "score": 13,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "down",
-      "score_change": -4,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
-          "title": "Italy denies that Zelenskyy coordinated attack on Russian ship in Libya with partners",
-          "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064990/"
+          "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss"
         }
       ]
     },
@@ -302,8 +299,8 @@
       "score": 24,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "up",
-      "score_change": 9,
+      "trend": "same",
+      "score_change": 0,
       "headlines": [
         {
           "title": "Romania calls on NATO to help repel Russian hybrid attacks",
@@ -314,17 +311,12 @@
     {
       "id": "slovakia",
       "name": "Slovensko",
-      "score": 8,
+      "score": 5,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
-      "headlines": [
-        {
-          "title": "Trestní stíhání za dodávky dronů Ukrajině? Rakouská firma proto raději přesune výrobu na Slovensko",
-          "link": "https://www.irozhlas.cz/zpravy-svet/trestni-stihani-za-dodavky-dronu-ukrajine-rakouska-firma-proto-radeji-presune_2611271832_jor"
-        }
-      ]
+      "trend": "down",
+      "score_change": -3,
+      "headlines": []
     },
     {
       "id": "slovenia",
@@ -339,19 +331,15 @@
     {
       "id": "spain",
       "name": "Spanelsko",
-      "score": 9,
+      "score": 14,
       "level": "nizke",
       "color": "#4C8C6B",
-      "trend": "same",
-      "score_change": 0,
+      "trend": "up",
+      "score_change": 5,
       "headlines": [
         {
-          "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss"
-        },
-        {
-          "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
+          "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+          "link": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss"
         }
       ]
     },
@@ -374,12 +362,12 @@
     "score_change": 0,
     "headlines": [
       {
-        "title": "Woman and abandoned animals she cared for evacuated from Balabyne in Zaporizhzhia Oblast",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8065039/"
+        "title": "One person killed and five injured in Russian attacks on Zaporizhzhia Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/28/8065074/"
       },
       {
-        "title": "Ukraine brings back 11 people from occupation and Russia, including children and deported Oleshky care home resident – photos",
-        "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064994/"
+        "title": "Woman and abandoned animals she cared for evacuated from Balabyne in Zaporizhzhia Oblast",
+        "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8065039/"
       }
     ]
   }
